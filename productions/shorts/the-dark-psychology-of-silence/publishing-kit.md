@@ -5,6 +5,10 @@
 **Subtitle Track:** [`subtitles.srt`](file:///F:/Arnav%20-%20YT/stickman-video-director/productions/shorts/the-dark-psychology-of-silence/subtitles.srt)  
 **Aspect Ratio:** 9:16 (1080×1920) | 51.3 Seconds | 30 FPS  
 
+### Thumbnails:
+- **Shorts Feed / Mobile (9:16):** [`thumbnail_9x16.jpg`](file:///F:/Arnav%20-%20YT/stickman-video-director/productions/shorts/the-dark-psychology-of-silence/thumbnail_9x16.jpg)
+- **Community Post / Landscape (16:9):** [`thumbnail_16x9.jpg`](file:///F:/Arnav%20-%20YT/stickman-video-director/productions/shorts/the-dark-psychology-of-silence/thumbnail_16x9.jpg)
+
 ---
 
 ## 1. Title Options (High-CTR Curiosity Angles)
