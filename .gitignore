@@ -17,3 +17,12 @@ temp/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Video, Audio and Render Outputs
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+productions/**/temp/
+

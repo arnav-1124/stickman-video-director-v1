@@ -53,7 +53,7 @@ async def generate_speech_with_timestamps(
     with open(output_json_path, "w", encoding="utf-8") as f:
         json.dump(words, f, indent=2)
 
-    # Optional: Generate kinetic .ass subtitles formatted for mobile safe zone
+    # Subtitles: Small, elegant, anchored strictly at bottom edge (MarginV: 120, well below floor line)
     if output_ass_path and words:
         ass_path = Path(output_ass_path).resolve()
         ass_header = """[Script Info]
@@ -64,34 +64,24 @@ PlayResY: 1920
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: InkSub, Arial Black, 68, &H00FFFFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 4, 2, 2, 80, 80, 420, 1
+Style: InkSub, Arial Black, 38, &H00FFFFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 3, 1, 2, 60, 60, 120, 1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
         events = []
-        # Group words into 3-4 word punchy kinetic chunks
         chunk_size = 3
         for i in range(0, len(words), chunk_size):
             chunk = words[i:i + chunk_size]
             start_t = format_ass_time(chunk[0]["start_sec"])
-            end_t = format_ass_time(chunk[-1]["end_sec"] + 0.1)
+            end_t = format_ass_time(chunk[-1]["end_sec"] + 0.05)
             chunk_text = " ".join([w["word"] for w in chunk]).upper()
             events.append(f"Dialogue: 0,{start_t},{end_t},InkSub,,0,0,0,,{chunk_text}")
 
         with open(ass_path, "w", encoding="utf-8") as f:
             f.write(ass_header + "\n".join(events) + "\n")
-        print(f"[Audio] Subtitles generated: {ass_path}")
+        print(f"[Audio] Subtitles generated at safe bottom margin: {ass_path}")
 
     print(f"[Audio] Voiceover generated: {output_audio_path}")
     print(f"[Audio] Timestamps mapped: {len(words)} words saved to {output_json_path}")
     return words
-
-if __name__ == "__main__":
-    test_text = "Most people think silence is a sign of weakness. In psychology, it is an execution."
-    asyncio.run(generate_speech_with_timestamps(
-        test_text, 
-        "temp/test_voice.mp3", 
-        "temp/test_words.json",
-        "temp/test_subs.ass"
-    ))

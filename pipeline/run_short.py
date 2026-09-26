@@ -81,8 +81,8 @@ def run_production(topic, output_dir=None):
     print("\n--- Step 2: Rendering Vector Stickman Animation (Hardware-Safe) ---")
     
     total_duration = words[-1]["end_sec"] + 1.0 if words else 48.0
-    from vector_animator import render_sample_clip
-    render_sample_clip(video_raw_path, duration_sec=total_duration)
+    from vector_animator import render_ink_noir_short
+    render_ink_noir_short(video_raw_path, total_duration_sec=total_duration)
     
     # 3. Master Audio, Burn Captions, and Finalize
     final_output = output_dir / f"{output_dir.name}_final.mp4"
@@ -140,3 +140,4 @@ if __name__ == "__main__":
         preview_topic(args.topic)
     else:
         run_production(args.topic)
+
