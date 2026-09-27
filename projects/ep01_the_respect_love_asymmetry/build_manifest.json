@@ -1,0 +1,21 @@
+{
+  "project_id": "ep01_the_respect_love_asymmetry",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "voiceover_track": "audio/master_narration.mp3",
+  "bgm_track": null,
+  "clips": [
+    { "shot_id": 1, "file_path": "raw/shot_1.mp4", "duration": 4.0 },
+    { "shot_id": 2, "file_path": "raw/shot_2.mp4", "duration": 4.0 },
+    { "shot_id": 3, "file_path": "raw/shot_3.mp4", "duration": 5.0 },
+    { "shot_id": 4, "file_path": "raw/shot_4.mp4", "duration": 5.0 },
+    { "shot_id": 5, "file_path": "raw/shot_5.mp4", "duration": 4.0 },
+    { "shot_id": 6, "file_path": "raw/shot_6.mp4", "duration": 4.0 },
+    { "shot_id": 7, "file_path": "raw/shot_7.mp4", "duration": 4.0 },
+    { "shot_id": 8, "file_path": "raw/shot_8.mp4", "duration": 5.0 },
+    { "shot_id": 9, "file_path": "raw/shot_9.mp4", "duration": 4.0 },
+    { "shot_id": 10, "file_path": "raw/shot_10.mp4", "duration": 4.0 },
+    { "shot_id": 11, "file_path": "raw/shot_11.mp4", "duration": 3.0 },
+    { "shot_id": 12, "file_path": "raw/shot_12.mp4", "duration": 2.0 }
+  ]
+}

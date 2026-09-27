@@ -1,0 +1,194 @@
+[
+  {
+    "word": "In",
+    "start_sec": 0.099,
+    "end_sec": 0.246,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "the",
+    "start_sec": 0.258,
+    "end_sec": 0.344,
+    "duration_sec": 0.086
+  },
+  {
+    "word": "canteen",
+    "start_sec": 0.356,
+    "end_sec": 0.945,
+    "duration_sec": 0.588
+  },
+  {
+    "word": "the",
+    "start_sec": 1.141,
+    "end_sec": 1.263,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "Alpha",
+    "start_sec": 1.276,
+    "end_sec": 1.668,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "cannot",
+    "start_sec": 1.68,
+    "end_sec": 2.048,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "exist",
+    "start_sec": 2.06,
+    "end_sec": 2.476,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "alone",
+    "start_sec": 2.489,
+    "end_sec": 2.979,
+    "duration_sec": 0.49
+  },
+  {
+    "word": "He",
+    "start_sec": 3.824,
+    "end_sec": 3.983,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "needs",
+    "start_sec": 3.995,
+    "end_sec": 4.265,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "an",
+    "start_sec": 4.277,
+    "end_sec": 4.375,
+    "duration_sec": 0.098
+  },
+  {
+    "word": "entourage",
+    "start_sec": 4.387,
+    "end_sec": 5.049,
+    "duration_sec": 0.662
+  },
+  {
+    "word": "to",
+    "start_sec": 5.061,
+    "end_sec": 5.172,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "feel",
+    "start_sec": 5.184,
+    "end_sec": 5.466,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "secure",
+    "start_sec": 5.478,
+    "end_sec": 6.078,
+    "duration_sec": 0.601
+  },
+  {
+    "word": "The",
+    "start_sec": 6.924,
+    "end_sec": 7.071,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "Sigma",
+    "start_sec": 7.083,
+    "end_sec": 7.475,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "comfortably",
+    "start_sec": 7.488,
+    "end_sec": 8.002,
+    "duration_sec": 0.515
+  },
+  {
+    "word": "eats",
+    "start_sec": 8.015,
+    "end_sec": 8.272,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "lunch",
+    "start_sec": 8.284,
+    "end_sec": 8.566,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "alone",
+    "start_sec": 8.578,
+    "end_sec": 8.946,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "with",
+    "start_sec": 8.958,
+    "end_sec": 9.069,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "a",
+    "start_sec": 9.081,
+    "end_sec": 9.13,
+    "duration_sec": 0.049
+  },
+  {
+    "word": "book",
+    "start_sec": 9.142,
+    "end_sec": 9.51,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "completely",
+    "start_sec": 9.755,
+    "end_sec": 10.331,
+    "duration_sec": 0.576
+  },
+  {
+    "word": "immune",
+    "start_sec": 10.343,
+    "end_sec": 10.735,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "to",
+    "start_sec": 10.748,
+    "end_sec": 10.833,
+    "duration_sec": 0.086
+  },
+  {
+    "word": "the",
+    "start_sec": 10.846,
+    "end_sec": 10.944,
+    "duration_sec": 0.098
+  },
+  {
+    "word": "fear",
+    "start_sec": 10.956,
+    "end_sec": 11.287,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "of",
+    "start_sec": 11.299,
+    "end_sec": 11.409,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "being",
+    "start_sec": 11.422,
+    "end_sec": 11.691,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "judged",
+    "start_sec": 11.703,
+    "end_sec": 12.243,
+    "duration_sec": 0.539
+  }
+]

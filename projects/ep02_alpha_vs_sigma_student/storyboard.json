@@ -1,0 +1,85 @@
+{
+  "project_id": "ep02_alpha_vs_sigma_student",
+  "genre": "Psychological Explainer / Campus Student Edition",
+  "total_duration_sec": 48,
+  "shots": [
+    {
+      "shot_id": 1,
+      "duration_sec": 8,
+      "camera_angle": "Wide split-screen establishing shot",
+      "visual_action": "On the left, an Alpha stickman stands atop a pyramid of followers, waving for applause. On the right, a Sigma stickman walks freely away from the pyramid, reading a book with total peace.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "In psychology, the Alpha needs the hierarchy. He rules the pack, but without their applause, he is nothing. The Sigma rejects the hierarchy completely—he has no pack, because his confidence comes from self-reliance.",
+        "sound_effects": ["cheering_crowd", "quiet_paper_rustle"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["alpha_leader", "sigma_lone_wolf"]
+    },
+    {
+      "shot_id": 2,
+      "duration_sec": 8,
+      "camera_angle": "Medium interior classroom two-shot",
+      "visual_action": "In a college classroom, the Alpha sits center stage boasting on a desk with an ink megaphone, demanding to be project leader. In the back corner, the Sigma sits with coffee, quietly writing formulas in a notebook.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "In school or college, you see this immediately. In class, the Alpha demands to be the group project leader, but does none of the work. The Sigma sits in the back corner, says nothing, and quietly carries the entire grade.",
+        "sound_effects": ["chalkboard_squeak", "classroom_chatter", "pencil_scratching"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["alpha_student", "sigma_student"]
+    },
+    {
+      "shot_id": 3,
+      "duration_sec": 8,
+      "camera_angle": "Wide campus canteen tracking shot",
+      "visual_action": "In the crowded school cafeteria, the Alpha parades with an entourage of friends laughing loudly. When they step away, he nervously checks his phone. Across the room, the Sigma eats lunch alone at a table with an open book, completely at ease.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "In the canteen, the Alpha cannot exist alone. He needs an entourage to feel secure. The Sigma comfortably eats lunch alone with a book, completely immune to the fear of being judged.",
+        "sound_effects": ["cafeteria_tray_clatter", "laughter_murmur", "smooth_page_turn"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["alpha_student", "sigma_student", "entourage"]
+    },
+    {
+      "shot_id": 4,
+      "duration_sec": 8,
+      "camera_angle": "Tense hallway confrontation medium shot",
+      "visual_action": "A bully stickman throws an insult at both. The Alpha turns red (#FF2A4D), shouting and squaring up in aggressive panic. The Sigma doesn't flinch, gives a calm unblinking three-second stare, and returns to his laptop.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "When someone tests them, the Alpha explodes into rage to protect his fragile ego. The Sigma gives a calm, unblinking three-second stare and goes back to his work. His silence makes the bully look pathetic.",
+        "sound_effects": ["aggressive_shout", "paper_ball_thud", "cold_ambient_whoosh"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["bully_stickman", "alpha_student", "sigma_student"]
+    },
+    {
+      "shot_id": 5,
+      "duration_sec": 8,
+      "camera_angle": "Campus courtyard social dynamic wide shot",
+      "visual_action": "Near the campus lockers, the Alpha desperately peacocks and flexes expensive sneakers to impress a female stickman, who looks unimpressed. Across the lawn, the Sigma is immersed in his sketching; glowing Electric Cyan field lines subtly draw curious eyes toward his mystery.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "With girls, the Alpha desperately peacocks and shows off for approval. The Sigma needs nothing from the room—and that emotional detachment creates effortless mystery.",
+        "sound_effects": ["sneaker_squeak", "bored_sigh", "subtle_magnetic_hum"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["alpha_student", "female_student", "sigma_student"]
+    },
+    {
+      "shot_id": 6,
+      "duration_sec": 8,
+      "camera_angle": "Cinematic low-angle graduation climax",
+      "visual_action": "At graduation, the Alpha collapses exhausted beside a pile of burnt-out megaphones and empty diploma ribbons. The Sigma strides forward into a bright horizon holding a rolled blueprint. Bold black ink stamps: 'CHOOSE AUTONOMY'.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "By graduation, the loudest guy is burnt out chasing validation. The quiet observer has already built his future. Stop performing for the crowd. Own your frame.",
+        "sound_effects": ["heavy_sigh", "confident_footsteps", "heavy_rubber_stamp_slam"],
+        "music": "inspirational_bass_drop"
+      },
+      "character_ids_in_shot": ["alpha_student", "sigma_student"]
+    }
+  ]
+}

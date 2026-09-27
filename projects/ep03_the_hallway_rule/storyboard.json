@@ -1,0 +1,85 @@
+{
+  "project_id": "ep03_the_hallway_rule",
+  "genre": "Attraction Psychology / Campus Stud Edition",
+  "total_duration_sec": 48,
+  "shots": [
+    {
+      "shot_id": 1,
+      "duration_sec": 8,
+      "camera_angle": "Wide college hallway perspective tracking shot",
+      "visual_action": "In a busy college hallway, an attractive female stickman walks in slow motion. On the left, three eager simp stickmen freeze with cartoon bulging eyes staring at her. On the right, the Stud stickman strides smoothly past looking straight ahead with headphones.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "In every hallway, ten guys stare at her. She only notices the one who didn't.",
+        "sound_effects": ["female_heel_clicks", "whispering_murmurs", "quiet_confident_footsteps"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["simp_group", "female_student", "stud_student"]
+    },
+    {
+      "shot_id": 2,
+      "duration_sec": 8,
+      "camera_angle": "Medium psychological concept shot",
+      "visual_action": "The female stickman walks with an inflated doodle balloon above her head that reads 'FREE ATTENTION'. Two simp stickmen desperately pump bicycle pumps to inflate it, while she ignores them completely.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "Most guys give away their attention for free. And free attention has zero value.",
+        "sound_effects": ["bicycle_pump_squeak", "balloon_creak", "bored_sigh"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["simp_group", "female_student"]
+    },
+    {
+      "shot_id": 3,
+      "duration_sec": 8,
+      "camera_angle": "Cinematic two-shot side profile tracking",
+      "visual_action": "The female stickman struts directly past the Stud stickman, expecting eye contact. The Stud smoothly adjusts his headphone strap, eyes locked on his notebook, walking forward without even a micro-flinch.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "The attractive man never chases. He exists in his own orbit, completely unbothered.",
+        "sound_effects": ["crisp_footsteps", "headphone_click", "smooth_paper_rustle"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["female_student", "stud_student"]
+    },
+    {
+      "shot_id": 4,
+      "duration_sec": 8,
+      "camera_angle": "Dramatic over-the-shoulder reaction shot",
+      "visual_action": "The female stickman abruptly skids to a halt on the hallway tiles. A bold black ink question mark pops over her head. She turns her torso around, staring at the Stud's back as he walks away.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "When a woman is used to being worshipped, your indifference feels like a challenge.",
+        "sound_effects": ["shoe_skid_squeak", "sharp_inhalation", "subtle_bass_drop"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["female_student", "stud_student"]
+    },
+    {
+      "shot_id": 5,
+      "duration_sec": 8,
+      "camera_angle": "Campus library social dynamic wide shot",
+      "visual_action": "In the campus library, the Stud sits calmly studying with coffee and a blueprint, radiating subtle Electric Cyan (#00F0FF) magnetic ripples. Across the table, the female stickman whispers to her friend while pointing with curious eyes.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "Her brain demands answers. Why isn't he looking? What makes him so confident?",
+        "sound_effects": ["library_whisper", "coffee_cup_set_down", "subtle_magnetic_hum"],
+        "music": "ambient_dark_lofi"
+      },
+      "character_ids_in_shot": ["stud_student", "female_student", "female_friend"]
+    },
+    {
+      "shot_id": 6,
+      "duration_sec": 8,
+      "camera_angle": "Low-angle heroic philosophical climax",
+      "visual_action": "On the left, an exhausted simp sits slumped beside dropped flowers. On the right, the Stud walks tall into the bright horizon. A heavy black ink rubber stamp slams onto the canvas: 'NEVER GIVE FREE VALIDATION'.",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "Stop performing for strangers. Hold your frame, and let curiosity do the work.",
+        "sound_effects": ["heavy_rubber_stamp_slam", "confident_footsteps", "resonant_bass_chord"],
+        "music": "triumphant_lofi_drop"
+      },
+      "character_ids_in_shot": ["simp_student", "stud_student"]
+    }
+  ]
+}

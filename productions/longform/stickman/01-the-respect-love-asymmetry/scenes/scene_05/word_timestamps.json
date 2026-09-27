@@ -1,0 +1,686 @@
+[
+  {
+    "word": "Now",
+    "start_sec": 0.1,
+    "end_sec": 0.512,
+    "duration_sec": 0.412
+  },
+  {
+    "word": "what",
+    "start_sec": 0.637,
+    "end_sec": 0.812,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "happens",
+    "start_sec": 0.825,
+    "end_sec": 1.262,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "when",
+    "start_sec": 1.275,
+    "end_sec": 1.387,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "this",
+    "start_sec": 1.4,
+    "end_sec": 1.562,
+    "duration_sec": 0.163
+  },
+  {
+    "word": "erupts",
+    "start_sec": 1.575,
+    "end_sec": 1.988,
+    "duration_sec": 0.413
+  },
+  {
+    "word": "into",
+    "start_sec": 2.0,
+    "end_sec": 2.25,
+    "duration_sec": 0.25
+  },
+  {
+    "word": "an",
+    "start_sec": 2.263,
+    "end_sec": 2.362,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "argument",
+    "start_sec": 2.375,
+    "end_sec": 2.925,
+    "duration_sec": 0.55
+  },
+  {
+    "word": "She",
+    "start_sec": 3.788,
+    "end_sec": 4.013,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "is",
+    "start_sec": 4.025,
+    "end_sec": 4.175,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "frustrated",
+    "start_sec": 4.188,
+    "end_sec": 4.825,
+    "duration_sec": 0.638
+  },
+  {
+    "word": "because",
+    "start_sec": 4.838,
+    "end_sec": 5.1,
+    "duration_sec": 0.262
+  },
+  {
+    "word": "she",
+    "start_sec": 5.112,
+    "end_sec": 5.275,
+    "duration_sec": 0.163
+  },
+  {
+    "word": "feels",
+    "start_sec": 5.287,
+    "end_sec": 5.662,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "unheard",
+    "start_sec": 5.675,
+    "end_sec": 6.188,
+    "duration_sec": 0.513
+  },
+  {
+    "word": "Why",
+    "start_sec": 6.5,
+    "end_sec": 6.7,
+    "duration_sec": 0.2
+  },
+  {
+    "word": "do",
+    "start_sec": 6.713,
+    "end_sec": 6.787,
+    "duration_sec": 0.075
+  },
+  {
+    "word": "you",
+    "start_sec": 6.8,
+    "end_sec": 6.888,
+    "duration_sec": 0.088
+  },
+  {
+    "word": "never",
+    "start_sec": 6.9,
+    "end_sec": 7.162,
+    "duration_sec": 0.262
+  },
+  {
+    "word": "listen",
+    "start_sec": 7.175,
+    "end_sec": 7.475,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "to",
+    "start_sec": 7.487,
+    "end_sec": 7.588,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "me",
+    "start_sec": 7.6,
+    "end_sec": 7.862,
+    "duration_sec": 0.263
+  },
+  {
+    "word": "He",
+    "start_sec": 8.725,
+    "end_sec": 8.9,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "feels",
+    "start_sec": 8.912,
+    "end_sec": 9.262,
+    "duration_sec": 0.35
+  },
+  {
+    "word": "attacked",
+    "start_sec": 9.275,
+    "end_sec": 9.825,
+    "duration_sec": 0.55
+  },
+  {
+    "word": "criticized",
+    "start_sec": 10.012,
+    "end_sec": 10.775,
+    "duration_sec": 0.763
+  },
+  {
+    "word": "and",
+    "start_sec": 10.975,
+    "end_sec": 11.15,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "disrespected",
+    "start_sec": 11.162,
+    "end_sec": 12.075,
+    "duration_sec": 0.912
+  },
+  {
+    "word": "This",
+    "start_sec": 12.938,
+    "end_sec": 13.188,
+    "duration_sec": 0.25
+  },
+  {
+    "word": "isn't",
+    "start_sec": 13.2,
+    "end_sec": 13.475,
+    "duration_sec": 0.275
+  },
+  {
+    "word": "just",
+    "start_sec": 13.488,
+    "end_sec": 13.713,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "a",
+    "start_sec": 13.725,
+    "end_sec": 13.762,
+    "duration_sec": 0.037
+  },
+  {
+    "word": "mental",
+    "start_sec": 13.775,
+    "end_sec": 14.113,
+    "duration_sec": 0.338
+  },
+  {
+    "word": "disagreement",
+    "start_sec": 14.125,
+    "end_sec": 14.825,
+    "duration_sec": 0.7
+  },
+  {
+    "word": "it",
+    "start_sec": 15.162,
+    "end_sec": 15.225,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "is",
+    "start_sec": 15.238,
+    "end_sec": 15.338,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "a",
+    "start_sec": 15.35,
+    "end_sec": 15.412,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "violent",
+    "start_sec": 15.425,
+    "end_sec": 15.875,
+    "duration_sec": 0.45
+  },
+  {
+    "word": "physiological",
+    "start_sec": 15.887,
+    "end_sec": 16.688,
+    "duration_sec": 0.8
+  },
+  {
+    "word": "reaction",
+    "start_sec": 16.7,
+    "end_sec": 17.337,
+    "duration_sec": 0.637
+  },
+  {
+    "word": "At",
+    "start_sec": 18.2,
+    "end_sec": 18.363,
+    "duration_sec": 0.163
+  },
+  {
+    "word": "the",
+    "start_sec": 18.375,
+    "end_sec": 18.462,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "famous",
+    "start_sec": 18.475,
+    "end_sec": 18.863,
+    "duration_sec": 0.387
+  },
+  {
+    "word": "Gottman",
+    "start_sec": 18.875,
+    "end_sec": 19.238,
+    "duration_sec": 0.363
+  },
+  {
+    "word": "Institute",
+    "start_sec": 19.25,
+    "end_sec": 19.8,
+    "duration_sec": 0.55
+  },
+  {
+    "word": "researchers",
+    "start_sec": 20.075,
+    "end_sec": 20.663,
+    "duration_sec": 0.588
+  },
+  {
+    "word": "hooked",
+    "start_sec": 20.675,
+    "end_sec": 20.9,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "hundreds",
+    "start_sec": 20.913,
+    "end_sec": 21.275,
+    "duration_sec": 0.362
+  },
+  {
+    "word": "of",
+    "start_sec": 21.288,
+    "end_sec": 21.375,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "couples",
+    "start_sec": 21.387,
+    "end_sec": 21.788,
+    "duration_sec": 0.4
+  },
+  {
+    "word": "to",
+    "start_sec": 21.8,
+    "end_sec": 21.9,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "heart",
+    "start_sec": 21.913,
+    "end_sec": 22.212,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "rate",
+    "start_sec": 22.225,
+    "end_sec": 22.45,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "monitors",
+    "start_sec": 22.462,
+    "end_sec": 22.988,
+    "duration_sec": 0.525
+  },
+  {
+    "word": "during",
+    "start_sec": 23.0,
+    "end_sec": 23.225,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "conflict",
+    "start_sec": 23.238,
+    "end_sec": 23.925,
+    "duration_sec": 0.688
+  },
+  {
+    "word": "What",
+    "start_sec": 24.788,
+    "end_sec": 25.0,
+    "duration_sec": 0.212
+  },
+  {
+    "word": "they",
+    "start_sec": 25.012,
+    "end_sec": 25.137,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "discovered",
+    "start_sec": 25.15,
+    "end_sec": 25.65,
+    "duration_sec": 0.5
+  },
+  {
+    "word": "shocked",
+    "start_sec": 25.663,
+    "end_sec": 26.087,
+    "duration_sec": 0.425
+  },
+  {
+    "word": "the",
+    "start_sec": 26.1,
+    "end_sec": 26.188,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "scientific",
+    "start_sec": 26.2,
+    "end_sec": 26.85,
+    "duration_sec": 0.65
+  },
+  {
+    "word": "community",
+    "start_sec": 26.863,
+    "end_sec": 27.462,
+    "duration_sec": 0.6
+  },
+  {
+    "word": "When",
+    "start_sec": 28.325,
+    "end_sec": 28.538,
+    "duration_sec": 0.213
+  },
+  {
+    "word": "a",
+    "start_sec": 28.55,
+    "end_sec": 28.6,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "man",
+    "start_sec": 28.613,
+    "end_sec": 28.913,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "hears",
+    "start_sec": 28.925,
+    "end_sec": 29.212,
+    "duration_sec": 0.287
+  },
+  {
+    "word": "criticism",
+    "start_sec": 29.225,
+    "end_sec": 29.938,
+    "duration_sec": 0.712
+  },
+  {
+    "word": "sarcasm",
+    "start_sec": 30.188,
+    "end_sec": 30.85,
+    "duration_sec": 0.663
+  },
+  {
+    "word": "or",
+    "start_sec": 31.038,
+    "end_sec": 31.137,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "contempt",
+    "start_sec": 31.15,
+    "end_sec": 31.613,
+    "duration_sec": 0.463
+  },
+  {
+    "word": "from",
+    "start_sec": 31.625,
+    "end_sec": 31.75,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "his",
+    "start_sec": 31.762,
+    "end_sec": 31.887,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "partner",
+    "start_sec": 31.9,
+    "end_sec": 32.337,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "his",
+    "start_sec": 32.612,
+    "end_sec": 32.788,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "autonomic",
+    "start_sec": 32.8,
+    "end_sec": 33.337,
+    "duration_sec": 0.538
+  },
+  {
+    "word": "nervous",
+    "start_sec": 33.35,
+    "end_sec": 33.688,
+    "duration_sec": 0.337
+  },
+  {
+    "word": "system",
+    "start_sec": 33.7,
+    "end_sec": 34.075,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "floods",
+    "start_sec": 34.087,
+    "end_sec": 34.413,
+    "duration_sec": 0.325
+  },
+  {
+    "word": "his",
+    "start_sec": 34.425,
+    "end_sec": 34.575,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "bloodstream",
+    "start_sec": 34.587,
+    "end_sec": 35.138,
+    "duration_sec": 0.55
+  },
+  {
+    "word": "with",
+    "start_sec": 35.15,
+    "end_sec": 35.275,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "adrenaline",
+    "start_sec": 35.288,
+    "end_sec": 35.9,
+    "duration_sec": 0.612
+  },
+  {
+    "word": "His",
+    "start_sec": 36.763,
+    "end_sec": 36.975,
+    "duration_sec": 0.212
+  },
+  {
+    "word": "heart",
+    "start_sec": 36.987,
+    "end_sec": 37.25,
+    "duration_sec": 0.263
+  },
+  {
+    "word": "rate",
+    "start_sec": 37.263,
+    "end_sec": 37.45,
+    "duration_sec": 0.188
+  },
+  {
+    "word": "explodes",
+    "start_sec": 37.462,
+    "end_sec": 38.025,
+    "duration_sec": 0.562
+  },
+  {
+    "word": "past",
+    "start_sec": 38.038,
+    "end_sec": 38.413,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "100",
+    "start_sec": 38.425,
+    "end_sec": 38.938,
+    "duration_sec": 0.513
+  },
+  {
+    "word": "beats",
+    "start_sec": 38.95,
+    "end_sec": 39.263,
+    "duration_sec": 0.312
+  },
+  {
+    "word": "per",
+    "start_sec": 39.275,
+    "end_sec": 39.425,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "minute",
+    "start_sec": 39.438,
+    "end_sec": 39.825,
+    "duration_sec": 0.388
+  },
+  {
+    "word": "In",
+    "start_sec": 40.688,
+    "end_sec": 40.888,
+    "duration_sec": 0.2
+  },
+  {
+    "word": "neuroscience",
+    "start_sec": 40.9,
+    "end_sec": 41.763,
+    "duration_sec": 0.863
+  },
+  {
+    "word": "this",
+    "start_sec": 41.962,
+    "end_sec": 42.138,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "is",
+    "start_sec": 42.15,
+    "end_sec": 42.275,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "called",
+    "start_sec": 42.288,
+    "end_sec": 42.587,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "Diffuse",
+    "start_sec": 42.6,
+    "end_sec": 43.038,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "Physiological",
+    "start_sec": 43.05,
+    "end_sec": 43.812,
+    "duration_sec": 0.763
+  },
+  {
+    "word": "Arousal",
+    "start_sec": 43.825,
+    "end_sec": 44.45,
+    "duration_sec": 0.625
+  },
+  {
+    "word": "His",
+    "start_sec": 45.312,
+    "end_sec": 45.55,
+    "duration_sec": 0.237
+  },
+  {
+    "word": "rational",
+    "start_sec": 45.562,
+    "end_sec": 46.025,
+    "duration_sec": 0.462
+  },
+  {
+    "word": "prefrontal",
+    "start_sec": 46.038,
+    "end_sec": 46.562,
+    "duration_sec": 0.525
+  },
+  {
+    "word": "cortex",
+    "start_sec": 46.575,
+    "end_sec": 47.087,
+    "duration_sec": 0.512
+  },
+  {
+    "word": "literally",
+    "start_sec": 47.1,
+    "end_sec": 47.525,
+    "duration_sec": 0.425
+  },
+  {
+    "word": "shuts",
+    "start_sec": 47.538,
+    "end_sec": 47.913,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "down",
+    "start_sec": 47.925,
+    "end_sec": 48.375,
+    "duration_sec": 0.45
+  },
+  {
+    "word": "His",
+    "start_sec": 49.237,
+    "end_sec": 49.462,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "body",
+    "start_sec": 49.475,
+    "end_sec": 49.788,
+    "duration_sec": 0.312
+  },
+  {
+    "word": "prepares",
+    "start_sec": 49.8,
+    "end_sec": 50.312,
+    "duration_sec": 0.513
+  },
+  {
+    "word": "for",
+    "start_sec": 50.325,
+    "end_sec": 50.462,
+    "duration_sec": 0.137
+  },
+  {
+    "word": "hand-to-hand",
+    "start_sec": 50.475,
+    "end_sec": 51.112,
+    "duration_sec": 0.637
+  },
+  {
+    "word": "combat",
+    "start_sec": 51.125,
+    "end_sec": 51.7,
+    "duration_sec": 0.575
+  }
+]

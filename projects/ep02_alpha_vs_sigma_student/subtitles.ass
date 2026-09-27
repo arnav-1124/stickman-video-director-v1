@@ -1,0 +1,120 @@
+[Script Info]
+Title: Stickman Ink Explainer Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ExplainerWordSub,Arial Black,56,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.2,0,1,5.0,2.0,2,60,60,350,1
+Style: Default,Arial Black,56,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.0,0,1,4.5,2.0,2,60,60,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:00.26,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ALPHA NEEDS
+Dialogue: 0,0:00:00.26,0:00:00.61,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALPHA{\c&H00FFFFFF&\3c&H000A0D14&} NEEDS
+Dialogue: 0,0:00:00.61,0:00:01.01,ExplainerWordSub,,0,0,0,,THE ALPHA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NEEDS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:00.92,0:00:01.36,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CONSTANT{\c&H00FFFFFF&\3c&H000A0D14&} APPLAUSE TO
+Dialogue: 0,0:00:01.36,0:00:01.79,ExplainerWordSub,,0,0,0,,CONSTANT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}APPLAUSE{\c&H00FFFFFF&\3c&H000A0D14&} TO
+Dialogue: 0,0:00:01.79,0:00:01.98,ExplainerWordSub,,0,0,0,,CONSTANT APPLAUSE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:01.89,0:00:03.32,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SURVIVE{\c&H00FFFFFF&\3c&H000A0D14&} THE QUIET
+Dialogue: 0,0:00:03.32,0:00:03.45,ExplainerWordSub,,0,0,0,,SURVIVE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} QUIET
+Dialogue: 0,0:00:03.45,0:00:03.94,ExplainerWordSub,,0,0,0,,SURVIVE THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}QUIET{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:03.85,0:00:04.25,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SIGMA{\c&H00FFFFFF&\3c&H000A0D14&} WALKS ALONE
+Dialogue: 0,0:00:04.25,0:00:04.56,ExplainerWordSub,,0,0,0,,SIGMA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WALKS{\c&H00FFFFFF&\3c&H000A0D14&} ALONE
+Dialogue: 0,0:00:04.56,0:00:05.09,ExplainerWordSub,,0,0,0,,SIGMA WALKS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALONE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:05.22,0:00:05.61,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FUELED{\c&H00FFFFFF&\3c&H000A0D14&} BY SELF-RELIANCE
+Dialogue: 0,0:00:05.61,0:00:05.74,ExplainerWordSub,,0,0,0,,FUELED {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}BY{\c&H00FFFFFF&\3c&H000A0D14&} SELF-RELIANCE
+Dialogue: 0,0:00:05.74,0:00:06.80,ExplainerWordSub,,0,0,0,,FUELED BY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SELF-RELIANCE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:08.10,0:00:08.28,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} CLASS THE
+Dialogue: 0,0:00:08.28,0:00:08.94,ExplainerWordSub,,0,0,0,,IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CLASS{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:08.94,0:00:09.16,ExplainerWordSub,,0,0,0,,IN CLASS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:09.07,0:00:09.44,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALPHA{\c&H00FFFFFF&\3c&H000A0D14&} DEMANDS TO
+Dialogue: 0,0:00:09.44,0:00:09.93,ExplainerWordSub,,0,0,0,,ALPHA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}DEMANDS{\c&H00FFFFFF&\3c&H000A0D14&} TO
+Dialogue: 0,0:00:09.93,0:00:10.13,ExplainerWordSub,,0,0,0,,ALPHA DEMANDS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:10.04,0:00:10.27,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}LEAD{\c&H00FFFFFF&\3c&H000A0D14&} THE PROJECT
+Dialogue: 0,0:00:10.27,0:00:10.34,ExplainerWordSub,,0,0,0,,LEAD {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PROJECT
+Dialogue: 0,0:00:10.34,0:00:11.07,ExplainerWordSub,,0,0,0,,LEAD THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PROJECT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:11.76,0:00:11.89,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} QUIET SIGMA
+Dialogue: 0,0:00:11.89,0:00:12.28,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}QUIET{\c&H00FFFFFF&\3c&H000A0D14&} SIGMA
+Dialogue: 0,0:00:12.28,0:00:12.79,ExplainerWordSub,,0,0,0,,THE QUIET {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SIGMA{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:12.70,0:00:12.95,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SAYS{\c&H00FFFFFF&\3c&H000A0D14&} NOTHING AND
+Dialogue: 0,0:00:12.95,0:00:13.57,ExplainerWordSub,,0,0,0,,SAYS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NOTHING{\c&H00FFFFFF&\3c&H000A0D14&} AND
+Dialogue: 0,0:00:13.57,0:00:13.81,ExplainerWordSub,,0,0,0,,SAYS NOTHING {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:13.72,0:00:14.10,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CARRIES{\c&H00FFFFFF&\3c&H000A0D14&} THE ENTIRE
+Dialogue: 0,0:00:14.10,0:00:14.17,ExplainerWordSub,,0,0,0,,CARRIES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ENTIRE
+Dialogue: 0,0:00:14.17,0:00:14.75,ExplainerWordSub,,0,0,0,,CARRIES THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ENTIRE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:14.67,0:00:16.10,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}GRADE{\c&H00FFFFFF&\3c&H000A0D14&} IN THE
+Dialogue: 0,0:00:16.10,0:00:16.25,ExplainerWordSub,,0,0,0,,GRADE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:16.25,0:00:16.43,ExplainerWordSub,,0,0,0,,GRADE IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:16.34,0:00:17.09,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CANTEEN{\c&H00FFFFFF&\3c&H000A0D14&} THE ALPHA
+Dialogue: 0,0:00:17.09,0:00:17.22,ExplainerWordSub,,0,0,0,,CANTEEN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ALPHA
+Dialogue: 0,0:00:17.22,0:00:17.66,ExplainerWordSub,,0,0,0,,CANTEEN THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALPHA{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:17.57,0:00:17.86,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NEEDS{\c&H00FFFFFF&\3c&H000A0D14&} AN ENTOURAGE
+Dialogue: 0,0:00:17.86,0:00:17.98,ExplainerWordSub,,0,0,0,,NEEDS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AN{\c&H00FFFFFF&\3c&H000A0D14&} ENTOURAGE
+Dialogue: 0,0:00:17.98,0:00:18.72,ExplainerWordSub,,0,0,0,,NEEDS AN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ENTOURAGE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:18.63,0:00:18.75,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&} FEEL SAFE
+Dialogue: 0,0:00:18.75,0:00:19.02,ExplainerWordSub,,0,0,0,,TO {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&} SAFE
+Dialogue: 0,0:00:19.02,0:00:19.60,ExplainerWordSub,,0,0,0,,TO FEEL {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SAFE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:20.29,0:00:20.44,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} SIGMA EATS
+Dialogue: 0,0:00:20.44,0:00:20.90,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SIGMA{\c&H00FFFFFF&\3c&H000A0D14&} EATS
+Dialogue: 0,0:00:20.90,0:00:21.19,ExplainerWordSub,,0,0,0,,THE SIGMA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EATS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:21.10,0:00:21.77,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALONE{\c&H00FFFFFF&\3c&H000A0D14&} IMMUNE TO
+Dialogue: 0,0:00:21.77,0:00:22.18,ExplainerWordSub,,0,0,0,,ALONE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IMMUNE{\c&H00FFFFFF&\3c&H000A0D14&} TO
+Dialogue: 0,0:00:22.18,0:00:22.37,ExplainerWordSub,,0,0,0,,ALONE IMMUNE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:22.29,0:00:24.10,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}JUDGMENT{\c&H00FFFFFF&\3c&H000A0D14&} WHEN TESTED
+Dialogue: 0,0:00:24.10,0:00:24.32,ExplainerWordSub,,0,0,0,,JUDGMENT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WHEN{\c&H00FFFFFF&\3c&H000A0D14&} TESTED
+Dialogue: 0,0:00:24.32,0:00:24.86,ExplainerWordSub,,0,0,0,,JUDGMENT WHEN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TESTED{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:24.92,0:00:25.05,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ALPHA EXPLODES
+Dialogue: 0,0:00:25.05,0:00:25.44,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALPHA{\c&H00FFFFFF&\3c&H000A0D14&} EXPLODES
+Dialogue: 0,0:00:25.44,0:00:26.04,ExplainerWordSub,,0,0,0,,THE ALPHA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EXPLODES{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:25.95,0:00:26.19,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}INTO{\c&H00FFFFFF&\3c&H000A0D14&} RAGE THE
+Dialogue: 0,0:00:26.19,0:00:27.50,ExplainerWordSub,,0,0,0,,INTO {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}RAGE{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:27.50,0:00:27.73,ExplainerWordSub,,0,0,0,,INTO RAGE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:27.65,0:00:28.06,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SIGMA{\c&H00FFFFFF&\3c&H000A0D14&} GIVES A
+Dialogue: 0,0:00:28.06,0:00:28.27,ExplainerWordSub,,0,0,0,,SIGMA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}GIVES{\c&H00FFFFFF&\3c&H000A0D14&} A
+Dialogue: 0,0:00:28.27,0:00:28.44,ExplainerWordSub,,0,0,0,,SIGMA GIVES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}A{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:28.35,0:00:28.68,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}COLD{\c&H00FFFFFF&\3c&H000A0D14&} THREE-SECOND STARE
+Dialogue: 0,0:00:28.68,0:00:29.20,ExplainerWordSub,,0,0,0,,COLD {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THREE-SECOND{\c&H00FFFFFF&\3c&H000A0D14&} STARE
+Dialogue: 0,0:00:29.20,0:00:29.70,ExplainerWordSub,,0,0,0,,COLD THREE-SECOND {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}STARE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:29.81,0:00:29.90,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} RETURNS TO
+Dialogue: 0,0:00:29.90,0:00:30.34,ExplainerWordSub,,0,0,0,,AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}RETURNS{\c&H00FFFFFF&\3c&H000A0D14&} TO
+Dialogue: 0,0:00:30.34,0:00:30.54,ExplainerWordSub,,0,0,0,,AND RETURNS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:30.45,0:00:32.10,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WORK{\c&H00FFFFFF&\3c&H000A0D14&} THE ALPHA
+Dialogue: 0,0:00:32.10,0:00:32.26,ExplainerWordSub,,0,0,0,,WORK {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ALPHA
+Dialogue: 0,0:00:32.26,0:00:32.71,ExplainerWordSub,,0,0,0,,WORK THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALPHA{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:32.62,0:00:33.09,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}DESPERATELY{\c&H00FFFFFF&\3c&H000A0D14&} FLEXES FOR
+Dialogue: 0,0:00:33.09,0:00:33.60,ExplainerWordSub,,0,0,0,,DESPERATELY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FLEXES{\c&H00FFFFFF&\3c&H000A0D14&} FOR
+Dialogue: 0,0:00:33.60,0:00:33.84,ExplainerWordSub,,0,0,0,,DESPERATELY FLEXES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FOR{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:33.75,0:00:34.17,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FEMALE{\c&H00FFFFFF&\3c&H000A0D14&} APPROVAL THE
+Dialogue: 0,0:00:34.17,0:00:35.51,ExplainerWordSub,,0,0,0,,FEMALE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}APPROVAL{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:35.51,0:00:35.75,ExplainerWordSub,,0,0,0,,FEMALE APPROVAL {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:35.66,0:00:36.04,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SIGMA{\c&H00FFFFFF&\3c&H000A0D14&} NEEDS NOTHING
+Dialogue: 0,0:00:36.04,0:00:36.34,ExplainerWordSub,,0,0,0,,SIGMA {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NEEDS{\c&H00FFFFFF&\3c&H000A0D14&} NOTHING
+Dialogue: 0,0:00:36.34,0:00:36.80,ExplainerWordSub,,0,0,0,,SIGMA NEEDS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NOTHING{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:36.71,0:00:36.85,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FROM{\c&H00FFFFFF&\3c&H000A0D14&} THE ROOM
+Dialogue: 0,0:00:36.85,0:00:36.93,ExplainerWordSub,,0,0,0,,FROM {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ROOM
+Dialogue: 0,0:00:36.93,0:00:37.38,ExplainerWordSub,,0,0,0,,FROM THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ROOM{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:37.48,0:00:37.95,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CREATING{\c&H00FFFFFF&\3c&H000A0D14&} EFFORTLESS MYSTERY
+Dialogue: 0,0:00:37.95,0:00:38.38,ExplainerWordSub,,0,0,0,,CREATING {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EFFORTLESS{\c&H00FFFFFF&\3c&H000A0D14&} MYSTERY
+Dialogue: 0,0:00:38.38,0:00:39.01,ExplainerWordSub,,0,0,0,,CREATING EFFORTLESS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}MYSTERY{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:40.10,0:00:40.28,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AT{\c&H00FFFFFF&\3c&H000A0D14&} GRADUATION THE
+Dialogue: 0,0:00:40.28,0:00:41.24,ExplainerWordSub,,0,0,0,,AT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}GRADUATION{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:41.24,0:00:41.44,ExplainerWordSub,,0,0,0,,AT GRADUATION {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:41.35,0:00:41.66,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}LOUD{\c&H00FFFFFF&\3c&H000A0D14&} GUY IS
+Dialogue: 0,0:00:41.66,0:00:41.92,ExplainerWordSub,,0,0,0,,LOUD {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}GUY{\c&H00FFFFFF&\3c&H000A0D14&} IS
+Dialogue: 0,0:00:41.92,0:00:42.18,ExplainerWordSub,,0,0,0,,LOUD GUY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:42.09,0:00:42.37,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}BURNT{\c&H00FFFFFF&\3c&H000A0D14&} OUT THE
+Dialogue: 0,0:00:42.37,0:00:43.53,ExplainerWordSub,,0,0,0,,BURNT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}OUT{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:43.53,0:00:43.76,ExplainerWordSub,,0,0,0,,BURNT OUT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:43.67,0:00:44.06,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}QUIET{\c&H00FFFFFF&\3c&H000A0D14&} OBSERVER BUILT
+Dialogue: 0,0:00:44.06,0:00:44.55,ExplainerWordSub,,0,0,0,,QUIET {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}OBSERVER{\c&H00FFFFFF&\3c&H000A0D14&} BUILT
+Dialogue: 0,0:00:44.55,0:00:44.88,ExplainerWordSub,,0,0,0,,QUIET OBSERVER {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}BUILT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:44.79,0:00:44.95,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}HIS{\c&H00FFFFFF&\3c&H000A0D14&} FUTURE OWN
+Dialogue: 0,0:00:44.95,0:00:46.24,ExplainerWordSub,,0,0,0,,HIS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FUTURE{\c&H00FFFFFF&\3c&H000A0D14&} OWN
+Dialogue: 0,0:00:46.24,0:00:46.59,ExplainerWordSub,,0,0,0,,HIS FUTURE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}OWN{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:46.51,0:00:46.66,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOUR{\c&H00FFFFFF&\3c&H000A0D14&} FRAME
+Dialogue: 0,0:00:46.66,0:00:47.22,ExplainerWordSub,,0,0,0,,YOUR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FRAME{\c&H00FFFFFF&\3c&H000A0D14&}

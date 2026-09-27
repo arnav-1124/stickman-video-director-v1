@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Stop",
+    "start_sec": 0.099,
+    "end_sec": 0.528,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "performing",
+    "start_sec": 0.54,
+    "end_sec": 1.177,
+    "duration_sec": 0.637
+  },
+  {
+    "word": "The",
+    "start_sec": 2.022,
+    "end_sec": 2.157,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "strongest",
+    "start_sec": 2.169,
+    "end_sec": 2.721,
+    "duration_sec": 0.551
+  },
+  {
+    "word": "move",
+    "start_sec": 2.733,
+    "end_sec": 2.99,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "in",
+    "start_sec": 3.002,
+    "end_sec": 3.162,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "any",
+    "start_sec": 3.174,
+    "end_sec": 3.382,
+    "duration_sec": 0.208
+  },
+  {
+    "word": "room",
+    "start_sec": 3.395,
+    "end_sec": 3.652,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "is",
+    "start_sec": 3.664,
+    "end_sec": 3.799,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "being",
+    "start_sec": 3.811,
+    "end_sec": 4.032,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "completely",
+    "start_sec": 4.044,
+    "end_sec": 4.608,
+    "duration_sec": 0.564
+  },
+  {
+    "word": "immune",
+    "start_sec": 4.62,
+    "end_sec": 5.012,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "to",
+    "start_sec": 5.024,
+    "end_sec": 5.135,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "other",
+    "start_sec": 5.147,
+    "end_sec": 5.38,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "people's",
+    "start_sec": 5.392,
+    "end_sec": 5.748,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "approval",
+    "start_sec": 5.76,
+    "end_sec": 6.336,
+    "duration_sec": 0.576
+  }
+]

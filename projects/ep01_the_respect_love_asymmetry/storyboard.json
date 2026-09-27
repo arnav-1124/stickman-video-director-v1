@@ -1,0 +1,122 @@
+{
+  "project_id": "ep01_the_respect_love_asymmetry",
+  "title": "The Impossible Question (The Respect-Love Asymmetry)",
+  "format": "9:16",
+  "target_duration_sec": 48.0,
+  "style": {
+    "canvas": "clean off-white textured paper (#FAF9F6)",
+    "character": "minimalist doodle stickman with circular white head and bold black ink pen lines",
+    "stroke_weight": "6px-8px ink line art",
+    "accents": ["#FF2A4D (Crimson Red)", "#00F0FF (Electric Cyan)"]
+  },
+  "shots": [
+    {
+      "shot_id": 1,
+      "duration_sec": 4.0,
+      "time_range": "00:00 - 00:04",
+      "scene_type": "Hook / Setting",
+      "visual_action": "Minimalist stickman enters an off-white paper canvas. A simple black ink desk and two chairs draw themselves in snappy pen strokes.",
+      "camera": "Eye-level static, gentle push-in",
+      "narration": "A team of social psychologists once walked into a room with thousands of men and women, sat them down in private..."
+    },
+    {
+      "shot_id": 2,
+      "duration_sec": 4.0,
+      "time_range": "00:04 - 00:08",
+      "scene_type": "The Paradox",
+      "visual_action": "Two large cards slam down on the desk in front of the stickman: Card A shows a broken heart; Card B shows a pointing finger of shame.",
+      "camera": "Top-down 45-degree angle punch-in",
+      "narration": "...and asked them a question that almost sounds cruel: If you were forced to choose between two painful realities for the rest of your life..."
+    },
+    {
+      "shot_id": 3,
+      "duration_sec": 5.0,
+      "time_range": "00:08 - 00:13",
+      "scene_type": "The Dilemma",
+      "visual_action": "Card A zooms into focus: a stickman floating alone in a dark bubble of isolation, hands in pockets.",
+      "camera": "Lateral pan to left card",
+      "narration": "...would you rather feel completely unloved and alone in the world..."
+    },
+    {
+      "shot_id": 4,
+      "duration_sec": 5.0,
+      "time_range": "00:13 - 00:18",
+      "scene_type": "The Dilemma",
+      "visual_action": "Card B zooms into focus: a stickman standing on a crumbling pedestal while giant black ink arrows point at him, signaling inadequacy.",
+      "camera": "Lateral pan to right card",
+      "narration": "...or would you rather feel disrespected, inadequate, and useless?"
+    },
+    {
+      "shot_id": 5,
+      "duration_sec": 4.0,
+      "time_range": "00:18 - 00:22",
+      "scene_type": "The Revelation",
+      "visual_action": "An ink crack tears through the center of the paper canvas, splitting the ground into an evolutionary fault line.",
+      "camera": "Wide dynamic pull-back",
+      "narration": "To the researchers' surprise, the responses didn't split evenly. They split almost like an evolutionary fault line."
+    },
+    {
+      "shot_id": 6,
+      "duration_sec": 4.0,
+      "time_range": "00:22 - 00:26",
+      "scene_type": "Female Choice",
+      "visual_action": "A female stick figure in clean line art pushes the 'Disrespected' card away and holds the glowing heart close to her chest. Large text '70%' draws above.",
+      "camera": "Eye-level close-up",
+      "narration": "Over 70% of the women said: 'I would rather feel disrespected than unloved.'"
+    },
+    {
+      "shot_id": 7,
+      "duration_sec": 4.0,
+      "time_range": "00:26 - 00:30",
+      "scene_type": "Emotional Core",
+      "visual_action": "The female stickman turns away from a freezing cold void doodle, shivering. A red heart beats softly with warmth.",
+      "camera": "Subtle punch-in zoom",
+      "narration": "Feeling unloved is unbearable."
+    },
+    {
+      "shot_id": 8,
+      "duration_sec": 5.0,
+      "time_range": "00:30 - 00:35",
+      "scene_type": "Male Choice",
+      "visual_action": "A male stick figure decisively slides the 'Unloved' card across the table without hesitating. Bold black text '74%' stamps on the paper.",
+      "camera": "Low-angle punchy focus",
+      "narration": "But when the men answered, over 74% pushed the other card forward without hesitating..."
+    },
+    {
+      "shot_id": 9,
+      "duration_sec": 4.0,
+      "time_range": "00:35 - 00:39",
+      "scene_type": "Armor of Respect",
+      "visual_action": "Male stickman crosses arms with chin up. A solid black ink shield forms in front of him, blocking incoming shame darts.",
+      "camera": "Static eye-level hero shot",
+      "narration": "...'I would rather feel unloved than feel disrespected and inadequate.'"
+    },
+    {
+      "shot_id": 10,
+      "duration_sec": 4.0,
+      "time_range": "00:39 - 00:43",
+      "scene_type": "The Warning",
+      "visual_action": "Two stickmen stand back-to-back on opposite sides of a vast paper chasm. A giant black ink question mark hovers between them.",
+      "camera": "Wide cinematic tracking shot",
+      "narration": "If you don't understand why that gap exists, you will spend your entire adult life wondering why your relationships mysteriously fall apart..."
+    },
+    {
+      "shot_id": 11,
+      "duration_sec": 3.0,
+      "time_range": "00:43 - 00:46",
+      "scene_type": "Fracture",
+      "visual_action": "A hand-drawn ink bridge connecting the two figures crumbles into falling doodle pieces.",
+      "camera": "Snappy downward tilt",
+      "narration": "...even when both people are desperately in love."
+    },
+    {
+      "shot_id": 12,
+      "duration_sec": 2.0,
+      "time_range": "00:46 - 00:48",
+      "scene_type": "Loop Hook",
+      "visual_action": "A glowing red doodle heart floats above the chasm, pulsing once before snapping to black. Text 'THE TRUTH' appears.",
+      "camera": "Snappy 1.3x punch-in zoom",
+      "narration": "[Silence / Heavy Bass Thud]"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+# Google Veo 3.1 Directorial Prompts: ep02_alpha_vs_sigma_student
+
+**Directorial Standard:** 7-Layer formula with narrow temporal intervals and anti-hallucination guardrails.
+
+---
+
+### Shot 1 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: Static camera hold. The existing Alpha stickman on top of the pyramid unfreezes, raising both ink arms overhead. On the right, the existing Sigma stickman holds his open book at chest height.
+- 1s-2.5s: The Alpha stickman waves both arms rapidly back and forth in a wide V-shape, his head tilting side to side seeking applause. The stick figures forming the pyramid beneath him stay locked in place.
+- 2.5s-4s: The Alpha stickman cups his right hand around his ear, leaning his torso forward demanding a louder cheer.
+- 4s-5.5s: On the right side, the Sigma stickman takes one calm, steady step forward into open space, his eyes focused down on his book.
+- 5.5s-7s: The Sigma stickman smoothly lifts his right hand and turns a single paper page in his book, a quiet subtle smile on his circular white head.
+- 7s-8s: Both characters settle into their poses: Alpha holds his cupped ear, Sigma stands reading peacefully as all motion gently decelerates. Only the characters in the starting frame animate. No new characters appear anywhere in the frame.
+[Audio Cues]:
+- Narration (at 0.5s): "In psychology, the Alpha needs the hierarchy. He rules the pack, but without their applause, he is nothing. The Sigma rejects the hierarchy completely—his confidence comes from self-reliance."
+- Sound Effects: Distant crowd cheering, gentle crisp paper page turn, quiet shoe step.
+- Ambience: Minimalist quiet paper canvas room tone.
+```
+
+### Shot 2 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: Subtle slow push-in starts. The existing Alpha stickman standing on the center desk lifts the black ink megaphone to his mouth. In the back corner, the existing Sigma stickman sits upright with his hand resting on a coffee mug.
+- 1s-2.5s: The Alpha stickman opens his mouth wide, shouting through the megaphone as three bold black ink soundwave arcs pulse outward from the horn.
+- 2.5s-4s: The Alpha stickman stomps his right sneaker firmly on the desk wood, pointing his left index finger forcefully into the air.
+- 4s-5.5s: In the back-right corner, the Sigma stickman smoothly lifts the coffee mug to his lips, takes a calm, unbothered sip, and sets it back onto the desk without a sound.
+- 5.5s-7s: The Sigma stickman picks up a black ink pen from the desk and writes two clean words in his spiral notebook, his head tilted in quiet concentration.
+- 7s-8s: The Alpha stickman holds his pointing pose while the Sigma stickman continues writing as the camera gently settles. No new characters enter. Only the characters in the starting frame animate.
+[Audio Cues]:
+- Narration (at 0.5s): "In school or college, you see this immediately. In class, the Alpha demands to be the group project leader, but does none of the work. The Sigma sits in the back corner, says nothing, and quietly carries the entire grade."
+- Sound Effects: Muffled megaphone squawk, firm desk shoe stomp, soft ceramic coffee clink, crisp pen nib scratch.
+- Ambience: Echoey lecture hall room tone.
+```
+
+### Shot 3 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: Static camera hold. On the left table, the existing Alpha stickman throws his head back in laughter, his hand resting on his entourage member's shoulder. On the right, the existing Sigma stickman sits reading at his small table.
+- 1s-2.5s: The three entourage stick figures turn and take two steps away to grab food trays. The Alpha stickman's laughing mouth instantly closes, his shoulders stiffen, and his head drops in sudden self-consciousness.
+- 2.5s-4s: The Alpha stickman rapidly pulls a rectangular black ink phone from his pocket, holding it in front of his face and tapping furiously to look occupied.
+- 4s-5.5s: Across the room, the Sigma stickman calmly picks up a sandwich with his right hand and takes a relaxed, peaceful bite, completely comfortable in his isolation.
+- 5.5s-7s: The Sigma stickman lowers his sandwich, turns a page of his textbook with his left index finger, and continues reading with tranquil focus.
+- 7s-8s: The Alpha nervously scrolls his phone while the Sigma reads calmly, all motion settling into a locked hold. No new characters appear anywhere in the frame.
+[Audio Cues]:
+- Narration (at 0.5s): "In the canteen, the Alpha cannot exist alone. He needs an entourage to feel secure. The Sigma comfortably eats lunch alone with a book, completely immune to the fear of being judged."
+- Sound Effects: Background cafeteria tray clatter, sudden silence of laughter, rapid nervous phone screen tapping, quiet paper page turn.
+- Ambience: Distant school dining hall murmur.
+```
+
+### Shot 4 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: The existing bully stickman flicks his wrist forward, tossing a paper doodle ball toward the center. The existing Alpha stickman reacts with an immediate flinch.
+- 1s-2.5s: The Alpha stickman's circular head turns bright Crimson Red (#FF2A4D) as two red doodle steam plumes shoot from his ears. He clenches both fists, violently stomping his foot in explosive anger.
+- 2.5s-4s: The Alpha stickman lunges forward two inches, teeth gritted, shouting and chest-thumping aggressively to defend his ego.
+- 4s-5.5s: The camera shifts visual focus to the right locker. The bully glances at the Sigma stickman. The Sigma stickman slowly raises his chin, looking directly into the bully's eyes.
+- 5.5s-7s: The Sigma stickman holds a completely frozen, unblinking, chilling three-second stare with neutral zero-emotion posture, not flinching or speaking a single word.
+- 7s-8s: The bully stickman takes an awkward step backward, looking down, while the Sigma stickman calmly taps one key on his laptop. Only the characters in the starting frame animate.
+[Audio Cues]:
+- Narration (at 0.5s): "When someone tests them, the Alpha explodes into rage to protect his fragile ego. The Sigma gives a calm, unblinking three-second stare and goes back to his work. His silence makes the bully look pathetic."
+- Sound Effects: Aggressive hallway shout, paper ball tap, abrupt dead silence, single crisp laptop keystroke.
+- Ambience: Tense echoing school locker hallway.
+```
+
+### Shot 5 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: Static camera hold. The existing Alpha stickman flexes both biceps aggressively, lifting his right sneaker to show off the brand outline to the female stickman.
+- 1s-2.5s: The female stickman folds her arms across her chest, rolls her eyes visibly upward, and turns her torso away from the Alpha in total boredom.
+- 2.5s-4s: The female stickman's gaze drifts naturally across the lawn toward the bench on the right, where the Sigma stickman sits immersed in his art.
+- 4s-5.5s: Two subtle, elegant concentric rings of glowing Electric Cyan (#00F0FF) ink pulse gently outward from the Sigma stickman's sketchbook like quiet ripples on water.
+- 5.5s-7s: The Sigma stickman gracefully shades his drawing with small, smooth pencil strokes, entirely detached and unaware of the crowd, radiating calm mystery.
+- 7s-8s: The Alpha continues talking frantically unnoticed while the female stickman watches the quiet Sigma as motion gently settles. No new characters appear anywhere in the frame.
+[Audio Cues]:
+- Narration (at 0.5s): "With girls, the Alpha desperately peacocks and shows off for approval. The Sigma needs nothing from the room—and that emotional detachment creates effortless mystery."
+- Sound Effects: Squeaky sneaker pivot, soft bored girl exhale, deep resonant electrical chime pulse, gentle pencil shading whisper.
+- Ambience: Warm, gentle outdoor campus breeze.
+```
+
+### Shot 6 Veo 3.1 Motion
+```text
+For 8 seconds:
+[Visual Motion]:
+- 0s-1s: Static low-angle hold. On the left, the existing Alpha stickman sits slumped heavily against the locker, panting and rubbing his forehead in total exhaustion, his broken megaphone lying in the dirt beside him.
+- 1s-2.5s: The Alpha stickman slowly lifts one hand to rub his tired forehead, releasing a heavy, deflated sigh as his shoulders slump further into the floor.
+- 2.5s-4s: On the right side, the existing Sigma stickman takes two confident, tall strides forward toward the bright horizon, holding a rolled blueprint under his arm.
+- 4s-5.5s: The Sigma stickman pauses for a split second, standing proud and unshakeable in the sunlight, his chin up with stoic inner peace.
+- 5.5s-7s: A bold black ink rubber stamp slams down into the lower-center canvas: 'CHOOSE AUTONOMY' in thick, crisp vector letters with a sharp paper vibration.
+- 7s-8s: The stamped text locks permanently on screen as all character motion freezes cleanly into a final hero hold. Only the characters in the frame animate. No new characters appear.
+[Audio Cues]:
+- Narration (at 0.5s): "By graduation, the loudest guy is burnt out chasing validation. The quiet observer has already built his future. Stop performing for the crowd. Own your frame."
+- Sound Effects: Deflated heavy sigh, solid confident shoe strides on pavement, heavy rubber stamp slam impact, deep cinematic sub-bass drop.
+- Ambience: Triumphant, quiet, authoritative stoic resonance.
+```
+

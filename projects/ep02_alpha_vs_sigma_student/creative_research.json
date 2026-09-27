@@ -1,0 +1,25 @@
+{
+  "project_id": "ep02_alpha_vs_sigma_student",
+  "theme": "Student Psychology / Archetype Breakdown",
+  "target_audience": "High School, College, and University Students",
+  "title_idea": "Alpha vs Sigma: The Student Psychology Breakdown",
+  "core_psychological_thesis": "The Alpha derives his power from the hierarchy and dies without external validation. The Sigma exists outside the hierarchy and derives his power from total self-reliance. On campus, the Alpha performs for the crowd, while the Sigma owns his life in silence.",
+  "archetype_definitions": {
+    "alpha_student": {
+      "psychological_definition": "External status seeker. Needs a pack to lead and an audience to validate him. Fragile ego masked by loud gestures, brand flexing, and constant dominance displays.",
+      "campus_behavior": "Walks with an entourage, shouts in the hallway, demands to be group project leader, panics when ignored."
+    },
+    "sigma_student": {
+      "psychological_definition": "Autonomous sovereign. Exists completely outside the social hierarchy. Highly competent, socially immune, emotionally detached, comfortable alone.",
+      "campus_behavior": "Sits in the back corner with coffee, doesn't participate in shallow drama, studies high-leverage skills, unbothered by rejection."
+    }
+  },
+  "narrative_arc": {
+    "shot_1": "The Definition: What Alpha and Sigma actually mean (External Hierarchy vs Internal Sovereignty).",
+    "shot_2": "The Classroom Test: Group project and lecture dynamics (Loud showoff vs Quiet master).",
+    "shot_3": "The Hallway & Canteen: Social flexing with entourage vs Eating alone comfortably.",
+    "shot_4": "Handling Disrespect: Alpha explosive ego rage vs Sigma unbothered cold stare.",
+    "shot_5": "The Girl / Dating Dynamic: Desperate peacocking vs Natural magnetic gravity.",
+    "shot_6": "The Graduation Paradox: Validation burnout vs Silent empire building."
+  }
+}

@@ -12,6 +12,7 @@ venv/
 # Build cache and temporary render intermediates
 .build_cache/
 temp/
+scratch/
 *.tmp
 
 # OS files
@@ -24,5 +25,11 @@ Thumbs.db
 *.avi
 *.mp3
 *.wav
+*.jpg
+*.png
 productions/**/temp/
 
+
+# Junction aliases
+/productions/stickman
+/productions/whiteboard

@@ -1,0 +1,17 @@
+{
+  "project_id": "canonical_episode",
+  "style_anchor": "Minimalist ink explainer animation style, clean off-white textured paper background, expressive 2D doodle stick figure with smooth white circular head and bold solid black ink strokes, clean minimalist line art props, high contrast, crisp line drawing aesthetic.",
+  "negative_prompt": "photorealistic, 3d render, claymation, blurry, low resolution, messy colors, gradient shading, human skin, realistic faces, text watermark, oversaturated colors",
+  "shots": [
+    {
+      "shot_id": 1,
+      "anchor_prompt": "Minimalist ink explainer style, clean off-white textured paper background, an expressive minimalist stick figure with a smooth white circular head and solid black ink strokes standing center frame, looking up as a giant bold black ink question mark forms above his head, clean line art illustration, high contrast.",
+      "video_prompt": "Minimalist ink explainer animation on off-white paper canvas. An expressive 2D stickman with a round white head stands in center. A bold black ink question mark draws itself dynamically above his head with a snappy pen stroke. Snappy subtle camera punch-in. Clean lines, fluid 2D motion."
+    },
+    {
+      "shot_id": 2,
+      "anchor_prompt": "Minimalist ink explainer style, off-white paper background, a clean black ink balance scale illustration. On one side, a small red ink heart weighs heavily; on the other side, an elevated black ink pedestal stands tall. High contrast vector ink art.",
+      "video_prompt": "Minimalist ink explainer animation on cream paper canvas. A 2D ink balance scale tilts slowly as a red doodle heart sinks down. Smooth line art animation, clean minimal black strokes, subtle paper texture, gentle slow camera zoom."
+    }
+  ]
+}

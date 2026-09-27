@@ -1,0 +1,38 @@
+{
+  "project_id": "canonical_episode",
+  "title": "Episode Title Placeholder",
+  "format": "9:16",
+  "target_duration_sec": 45,
+  "style": {
+    "canvas": "clean off-white textured paper (#FAF9F6)",
+    "character": "expressive stickman with smooth circular white head and bold black ink strokes",
+    "stroke_weight": "bold 6px-8px ink pen line art",
+    "accents": ["#FF2A4D (Crimson Red)", "#00F0FF (Cyan Blue)"]
+  },
+  "shots": [
+    {
+      "shot_id": 1,
+      "duration_sec": 3.5,
+      "scene_type": "Hook / Paradox",
+      "visual_action": "Stickman stands confidently on an off-white paper canvas, then a massive psychological question mark draws itself above his head in bold black ink.",
+      "camera": "Static eye-level, sudden 1.2x punch-in zoom on beat",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "Why do the people who treat you like an option get treated like a priority?",
+        "sfx": "subtle_pen_scratch.mp3, bass_drop_thud.mp3"
+      }
+    },
+    {
+      "shot_id": 2,
+      "duration_sec": 3.5,
+      "scene_type": "Psychological Mechanism",
+      "visual_action": "A balance scale made of clean black ink lines appears. On one side, a small heart tilts downward; on the other, a towering trophy shines.",
+      "camera": "Slow lateral pan from left to right",
+      "audio": {
+        "speaker": "Narrator",
+        "narration": "Human psychology is wired to devalue whatever comes without friction.",
+        "sfx": "scale_creak.mp3"
+      }
+    }
+  ]
+}

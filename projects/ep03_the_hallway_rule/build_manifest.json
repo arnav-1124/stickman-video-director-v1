@@ -1,0 +1,14 @@
+{
+  "project_id": "ep03_the_hallway_rule",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "bgm_track": "../../assets/bgm/dark_contemplation.mp3",
+  "clips": [
+    { "shot_id": 1, "file_path": "raw/clip_01.mp4", "duration": 8.0 },
+    { "shot_id": 2, "file_path": "raw/clip_02.mp4", "duration": 8.0 },
+    { "shot_id": 3, "file_path": "raw/clip_03.mp4", "duration": 8.0 },
+    { "shot_id": 4, "file_path": "raw/clip_04.mp4", "duration": 8.0 },
+    { "shot_id": 5, "file_path": "raw/clip_05.mp4", "duration": 8.0 },
+    { "shot_id": 6, "file_path": "raw/clip_06.mp4", "duration": 8.0 }
+  ]
+}

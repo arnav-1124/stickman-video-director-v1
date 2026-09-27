@@ -1,0 +1,53 @@
+{
+  "project_id": "ep02_alpha_vs_sigma_student",
+  "stage": "PRODUCTION_COMPLETE",
+  "style": "INK_EXPLAINER",
+  "format": "9:16 Vertical (1080x1920 @ 30fps)",
+  "duration_sec": 48.03,
+  "final_render_path": "renders/ep02_alpha_vs_sigma_student_final.mp4",
+  "shots": [
+    {
+      "shot_id": 1,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_1.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_01.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_1.mp3" }
+    },
+    {
+      "shot_id": 2,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_2.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_02.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_2.mp3" }
+    },
+    {
+      "shot_id": 3,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_3.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_03.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_3.mp3" }
+    },
+    {
+      "shot_id": 4,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_4.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_04.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_4.mp3" }
+    },
+    {
+      "shot_id": 5,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_5.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_05.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_5.mp3" }
+    },
+    {
+      "shot_id": 6,
+      "anchor_image": { "status": "completed", "file": "anchors/shot_6.jpg" },
+      "raw_video": { "status": "completed", "file": "raw/clip_06.mp4" },
+      "audio": { "status": "completed", "file": "audio/shot_6.mp3" }
+    }
+  ],
+  "assembly": {
+    "status": "completed",
+    "master_narration": "audio/master_narration.mp3",
+    "bgm": "assets/bgm/dark_contemplation.mp3",
+    "subtitles": "subtitles.ass",
+    "output_file": "ep02_alpha_vs_sigma_student_final.mp4"
+  }
+}

@@ -1,0 +1,818 @@
+[
+  {
+    "word": "Breaking",
+    "start_sec": 0.1,
+    "end_sec": 0.487,
+    "duration_sec": 0.387
+  },
+  {
+    "word": "the",
+    "start_sec": 0.5,
+    "end_sec": 0.588,
+    "duration_sec": 0.088
+  },
+  {
+    "word": "cycle",
+    "start_sec": 0.6,
+    "end_sec": 1.0,
+    "duration_sec": 0.4
+  },
+  {
+    "word": "doesn't",
+    "start_sec": 1.012,
+    "end_sec": 1.312,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "require",
+    "start_sec": 1.325,
+    "end_sec": 1.788,
+    "duration_sec": 0.463
+  },
+  {
+    "word": "women",
+    "start_sec": 1.8,
+    "end_sec": 2.1,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "to",
+    "start_sec": 2.112,
+    "end_sec": 2.225,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "walk",
+    "start_sec": 2.237,
+    "end_sec": 2.587,
+    "duration_sec": 0.35
+  },
+  {
+    "word": "on",
+    "start_sec": 2.6,
+    "end_sec": 2.75,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "eggshells",
+    "start_sec": 2.763,
+    "end_sec": 3.325,
+    "duration_sec": 0.562
+  },
+  {
+    "word": "or",
+    "start_sec": 3.337,
+    "end_sec": 3.462,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "tolerate",
+    "start_sec": 3.475,
+    "end_sec": 4.013,
+    "duration_sec": 0.538
+  },
+  {
+    "word": "bad",
+    "start_sec": 4.025,
+    "end_sec": 4.287,
+    "duration_sec": 0.262
+  },
+  {
+    "word": "behavior",
+    "start_sec": 4.3,
+    "end_sec": 4.9,
+    "duration_sec": 0.6
+  },
+  {
+    "word": "It",
+    "start_sec": 5.763,
+    "end_sec": 5.925,
+    "duration_sec": 0.162
+  },
+  {
+    "word": "simply",
+    "start_sec": 5.938,
+    "end_sec": 6.325,
+    "duration_sec": 0.388
+  },
+  {
+    "word": "requires",
+    "start_sec": 6.338,
+    "end_sec": 6.888,
+    "duration_sec": 0.55
+  },
+  {
+    "word": "understanding",
+    "start_sec": 6.9,
+    "end_sec": 7.55,
+    "duration_sec": 0.65
+  },
+  {
+    "word": "the",
+    "start_sec": 7.562,
+    "end_sec": 7.662,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "three",
+    "start_sec": 7.675,
+    "end_sec": 7.963,
+    "duration_sec": 0.288
+  },
+  {
+    "word": "psychological",
+    "start_sec": 7.975,
+    "end_sec": 8.775,
+    "duration_sec": 0.8
+  },
+  {
+    "word": "triggers",
+    "start_sec": 8.787,
+    "end_sec": 9.225,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "that",
+    "start_sec": 9.238,
+    "end_sec": 9.35,
+    "duration_sec": 0.112
+  },
+  {
+    "word": "make",
+    "start_sec": 9.363,
+    "end_sec": 9.537,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "a",
+    "start_sec": 9.55,
+    "end_sec": 9.6,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "man",
+    "start_sec": 9.613,
+    "end_sec": 9.9,
+    "duration_sec": 0.287
+  },
+  {
+    "word": "feel",
+    "start_sec": 9.912,
+    "end_sec": 10.162,
+    "duration_sec": 0.25
+  },
+  {
+    "word": "fiercely",
+    "start_sec": 10.175,
+    "end_sec": 10.637,
+    "duration_sec": 0.462
+  },
+  {
+    "word": "devoted",
+    "start_sec": 10.65,
+    "end_sec": 11.125,
+    "duration_sec": 0.475
+  },
+  {
+    "word": "Signal",
+    "start_sec": 11.425,
+    "end_sec": 11.838,
+    "duration_sec": 0.412
+  },
+  {
+    "word": "One",
+    "start_sec": 11.85,
+    "end_sec": 12.113,
+    "duration_sec": 0.263
+  },
+  {
+    "word": "Public",
+    "start_sec": 12.35,
+    "end_sec": 12.7,
+    "duration_sec": 0.35
+  },
+  {
+    "word": "Loyalty",
+    "start_sec": 12.713,
+    "end_sec": 13.312,
+    "duration_sec": 0.6
+  },
+  {
+    "word": "A",
+    "start_sec": 14.175,
+    "end_sec": 14.287,
+    "duration_sec": 0.112
+  },
+  {
+    "word": "man",
+    "start_sec": 14.3,
+    "end_sec": 14.613,
+    "duration_sec": 0.312
+  },
+  {
+    "word": "will",
+    "start_sec": 14.625,
+    "end_sec": 14.738,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "forgive",
+    "start_sec": 14.75,
+    "end_sec": 15.225,
+    "duration_sec": 0.475
+  },
+  {
+    "word": "almost",
+    "start_sec": 15.238,
+    "end_sec": 15.613,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "any",
+    "start_sec": 15.625,
+    "end_sec": 15.8,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "private",
+    "start_sec": 15.812,
+    "end_sec": 16.238,
+    "duration_sec": 0.425
+  },
+  {
+    "word": "disagreement",
+    "start_sec": 16.25,
+    "end_sec": 17.038,
+    "duration_sec": 0.788
+  },
+  {
+    "word": "But",
+    "start_sec": 17.9,
+    "end_sec": 18.1,
+    "duration_sec": 0.2
+  },
+  {
+    "word": "criticize",
+    "start_sec": 18.113,
+    "end_sec": 18.675,
+    "duration_sec": 0.562
+  },
+  {
+    "word": "him",
+    "start_sec": 18.688,
+    "end_sec": 18.913,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "mock",
+    "start_sec": 19.1,
+    "end_sec": 19.337,
+    "duration_sec": 0.237
+  },
+  {
+    "word": "him",
+    "start_sec": 19.35,
+    "end_sec": 19.55,
+    "duration_sec": 0.2
+  },
+  {
+    "word": "or",
+    "start_sec": 19.825,
+    "end_sec": 19.962,
+    "duration_sec": 0.137
+  },
+  {
+    "word": "roll",
+    "start_sec": 19.975,
+    "end_sec": 20.188,
+    "duration_sec": 0.212
+  },
+  {
+    "word": "your",
+    "start_sec": 20.2,
+    "end_sec": 20.413,
+    "duration_sec": 0.213
+  },
+  {
+    "word": "eyes",
+    "start_sec": 20.425,
+    "end_sec": 20.712,
+    "duration_sec": 0.287
+  },
+  {
+    "word": "in",
+    "start_sec": 20.725,
+    "end_sec": 20.825,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "front",
+    "start_sec": 20.837,
+    "end_sec": 21.05,
+    "duration_sec": 0.213
+  },
+  {
+    "word": "of",
+    "start_sec": 21.062,
+    "end_sec": 21.137,
+    "duration_sec": 0.075
+  },
+  {
+    "word": "friends",
+    "start_sec": 21.15,
+    "end_sec": 21.525,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "or",
+    "start_sec": 21.538,
+    "end_sec": 21.637,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "family",
+    "start_sec": 21.65,
+    "end_sec": 22.137,
+    "duration_sec": 0.488
+  },
+  {
+    "word": "and",
+    "start_sec": 22.413,
+    "end_sec": 22.55,
+    "duration_sec": 0.137
+  },
+  {
+    "word": "you",
+    "start_sec": 22.562,
+    "end_sec": 22.688,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "inflict",
+    "start_sec": 22.7,
+    "end_sec": 23.1,
+    "duration_sec": 0.4
+  },
+  {
+    "word": "a",
+    "start_sec": 23.113,
+    "end_sec": 23.175,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "wound",
+    "start_sec": 23.188,
+    "end_sec": 23.462,
+    "duration_sec": 0.275
+  },
+  {
+    "word": "that",
+    "start_sec": 23.475,
+    "end_sec": 23.575,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "takes",
+    "start_sec": 23.587,
+    "end_sec": 23.85,
+    "duration_sec": 0.263
+  },
+  {
+    "word": "months",
+    "start_sec": 23.863,
+    "end_sec": 24.163,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "to",
+    "start_sec": 24.175,
+    "end_sec": 24.275,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "heal",
+    "start_sec": 24.288,
+    "end_sec": 24.725,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "When",
+    "start_sec": 25.587,
+    "end_sec": 25.75,
+    "duration_sec": 0.163
+  },
+  {
+    "word": "you",
+    "start_sec": 25.762,
+    "end_sec": 25.875,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "back",
+    "start_sec": 25.887,
+    "end_sec": 26.15,
+    "duration_sec": 0.262
+  },
+  {
+    "word": "him",
+    "start_sec": 26.163,
+    "end_sec": 26.288,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "up",
+    "start_sec": 26.3,
+    "end_sec": 26.45,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "in",
+    "start_sec": 26.462,
+    "end_sec": 26.575,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "public",
+    "start_sec": 26.587,
+    "end_sec": 27.05,
+    "duration_sec": 0.463
+  },
+  {
+    "word": "he",
+    "start_sec": 27.262,
+    "end_sec": 27.387,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "feels",
+    "start_sec": 27.4,
+    "end_sec": 27.762,
+    "duration_sec": 0.363
+  },
+  {
+    "word": "invincible",
+    "start_sec": 27.775,
+    "end_sec": 28.462,
+    "duration_sec": 0.688
+  },
+  {
+    "word": "Signal",
+    "start_sec": 29.325,
+    "end_sec": 29.837,
+    "duration_sec": 0.512
+  },
+  {
+    "word": "Two",
+    "start_sec": 29.85,
+    "end_sec": 30.175,
+    "duration_sec": 0.325
+  },
+  {
+    "word": "Seeking",
+    "start_sec": 30.488,
+    "end_sec": 30.887,
+    "duration_sec": 0.4
+  },
+  {
+    "word": "His",
+    "start_sec": 30.9,
+    "end_sec": 31.038,
+    "duration_sec": 0.138
+  },
+  {
+    "word": "Counsel",
+    "start_sec": 31.05,
+    "end_sec": 31.637,
+    "duration_sec": 0.587
+  },
+  {
+    "word": "Nothing",
+    "start_sec": 32.5,
+    "end_sec": 32.938,
+    "duration_sec": 0.438
+  },
+  {
+    "word": "makes",
+    "start_sec": 32.95,
+    "end_sec": 33.175,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "a",
+    "start_sec": 33.188,
+    "end_sec": 33.237,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "man",
+    "start_sec": 33.25,
+    "end_sec": 33.55,
+    "duration_sec": 0.3
+  },
+  {
+    "word": "feel",
+    "start_sec": 33.562,
+    "end_sec": 33.812,
+    "duration_sec": 0.25
+  },
+  {
+    "word": "respected",
+    "start_sec": 33.825,
+    "end_sec": 34.337,
+    "duration_sec": 0.512
+  },
+  {
+    "word": "faster",
+    "start_sec": 34.35,
+    "end_sec": 34.775,
+    "duration_sec": 0.425
+  },
+  {
+    "word": "than",
+    "start_sec": 34.788,
+    "end_sec": 34.913,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "asking",
+    "start_sec": 34.925,
+    "end_sec": 35.388,
+    "duration_sec": 0.463
+  },
+  {
+    "word": "What",
+    "start_sec": 35.725,
+    "end_sec": 35.862,
+    "duration_sec": 0.137
+  },
+  {
+    "word": "do",
+    "start_sec": 35.875,
+    "end_sec": 35.938,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "you",
+    "start_sec": 35.95,
+    "end_sec": 36.038,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "think",
+    "start_sec": 36.05,
+    "end_sec": 36.263,
+    "duration_sec": 0.213
+  },
+  {
+    "word": "we",
+    "start_sec": 36.275,
+    "end_sec": 36.362,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "should",
+    "start_sec": 36.375,
+    "end_sec": 36.55,
+    "duration_sec": 0.175
+  },
+  {
+    "word": "do",
+    "start_sec": 36.562,
+    "end_sec": 36.712,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "about",
+    "start_sec": 36.725,
+    "end_sec": 37.0,
+    "duration_sec": 0.275
+  },
+  {
+    "word": "this",
+    "start_sec": 37.013,
+    "end_sec": 37.425,
+    "duration_sec": 0.412
+  },
+  {
+    "word": "It",
+    "start_sec": 38.288,
+    "end_sec": 38.45,
+    "duration_sec": 0.163
+  },
+  {
+    "word": "signals",
+    "start_sec": 38.462,
+    "end_sec": 38.962,
+    "duration_sec": 0.5
+  },
+  {
+    "word": "that",
+    "start_sec": 38.975,
+    "end_sec": 39.075,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "his",
+    "start_sec": 39.087,
+    "end_sec": 39.212,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "mind",
+    "start_sec": 39.225,
+    "end_sec": 39.612,
+    "duration_sec": 0.387
+  },
+  {
+    "word": "and",
+    "start_sec": 39.625,
+    "end_sec": 39.763,
+    "duration_sec": 0.138
+  },
+  {
+    "word": "judgment",
+    "start_sec": 39.775,
+    "end_sec": 40.237,
+    "duration_sec": 0.462
+  },
+  {
+    "word": "are",
+    "start_sec": 40.25,
+    "end_sec": 40.375,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "valuable",
+    "start_sec": 40.388,
+    "end_sec": 40.862,
+    "duration_sec": 0.475
+  },
+  {
+    "word": "to",
+    "start_sec": 40.875,
+    "end_sec": 40.975,
+    "duration_sec": 0.1
+  },
+  {
+    "word": "you",
+    "start_sec": 40.987,
+    "end_sec": 41.325,
+    "duration_sec": 0.338
+  },
+  {
+    "word": "Signal",
+    "start_sec": 42.188,
+    "end_sec": 42.688,
+    "duration_sec": 0.5
+  },
+  {
+    "word": "Three",
+    "start_sec": 42.7,
+    "end_sec": 43.112,
+    "duration_sec": 0.412
+  },
+  {
+    "word": "Acknowledging",
+    "start_sec": 43.413,
+    "end_sec": 44.062,
+    "duration_sec": 0.65
+  },
+  {
+    "word": "Effort",
+    "start_sec": 44.075,
+    "end_sec": 44.388,
+    "duration_sec": 0.312
+  },
+  {
+    "word": "Before",
+    "start_sec": 44.4,
+    "end_sec": 44.737,
+    "duration_sec": 0.337
+  },
+  {
+    "word": "Correction",
+    "start_sec": 44.75,
+    "end_sec": 45.4,
+    "duration_sec": 0.65
+  },
+  {
+    "word": "If",
+    "start_sec": 46.263,
+    "end_sec": 46.45,
+    "duration_sec": 0.188
+  },
+  {
+    "word": "he",
+    "start_sec": 46.462,
+    "end_sec": 46.575,
+    "duration_sec": 0.113
+  },
+  {
+    "word": "fixed",
+    "start_sec": 46.587,
+    "end_sec": 46.938,
+    "duration_sec": 0.35
+  },
+  {
+    "word": "something",
+    "start_sec": 46.95,
+    "end_sec": 47.325,
+    "duration_sec": 0.375
+  },
+  {
+    "word": "or",
+    "start_sec": 47.337,
+    "end_sec": 47.487,
+    "duration_sec": 0.15
+  },
+  {
+    "word": "worked",
+    "start_sec": 47.5,
+    "end_sec": 47.775,
+    "duration_sec": 0.275
+  },
+  {
+    "word": "late",
+    "start_sec": 47.788,
+    "end_sec": 48.075,
+    "duration_sec": 0.288
+  },
+  {
+    "word": "say",
+    "start_sec": 48.312,
+    "end_sec": 48.737,
+    "duration_sec": 0.425
+  },
+  {
+    "word": "Thank",
+    "start_sec": 48.913,
+    "end_sec": 49.163,
+    "duration_sec": 0.25
+  },
+  {
+    "word": "you",
+    "start_sec": 49.175,
+    "end_sec": 49.3,
+    "duration_sec": 0.125
+  },
+  {
+    "word": "for",
+    "start_sec": 49.312,
+    "end_sec": 49.425,
+    "duration_sec": 0.112
+  },
+  {
+    "word": "taking",
+    "start_sec": 49.438,
+    "end_sec": 49.788,
+    "duration_sec": 0.35
+  },
+  {
+    "word": "care",
+    "start_sec": 49.8,
+    "end_sec": 50.025,
+    "duration_sec": 0.225
+  },
+  {
+    "word": "of",
+    "start_sec": 50.038,
+    "end_sec": 50.125,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "that",
+    "start_sec": 50.138,
+    "end_sec": 50.375,
+    "duration_sec": 0.237
+  },
+  {
+    "word": "before",
+    "start_sec": 50.5,
+    "end_sec": 50.862,
+    "duration_sec": 0.362
+  },
+  {
+    "word": "pointing",
+    "start_sec": 50.875,
+    "end_sec": 51.237,
+    "duration_sec": 0.362
+  },
+  {
+    "word": "out",
+    "start_sec": 51.25,
+    "end_sec": 51.388,
+    "duration_sec": 0.138
+  },
+  {
+    "word": "what's",
+    "start_sec": 51.4,
+    "end_sec": 51.612,
+    "duration_sec": 0.212
+  },
+  {
+    "word": "missing",
+    "start_sec": 51.625,
+    "end_sec": 52.1,
+    "duration_sec": 0.475
+  }
+]
