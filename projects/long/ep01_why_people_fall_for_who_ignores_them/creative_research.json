@@ -1,0 +1,47 @@
+{
+  "project_id": "ep01_why_people_fall_for_who_ignores_them",
+  "format": "long_form_explainer",
+  "target_duration_minutes": 10.5,
+  "theme": "Attraction Psychology / Intermittent Reinforcement / Emotional Detachment",
+  "target_audience": "Young adults, college students, seniors, individuals navigating dating dynamics and social validation",
+  "title_idea": "Why People Fall For The Person Who Ignores Them (The Psychology of The Unattainable)",
+  "language": "English",
+  "core_psychological_thesis": "Human desire does not gravitate toward constant availability; it fixates on ambiguity. The moment validation is made unconditional and endless, its perceived value collapses. Conversely, the individual who remains emotionally self-sufficient triggers the brain's instinct to earn respect.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Pedestal Paradox",
+      "timestamp_estimate": "0:00 - 2:15",
+      "core_mechanism": "The Pedestal Effect & The Validation Tax",
+      "summary": "Why placing someone on a pedestal forces them to look down on you. How instant, unearned adoration creates unconscious pressure, social friction, and emotional repulsion."
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Casino Effect: The Dopamine of Uncertainty",
+      "timestamp_estimate": "2:15 - 4:30",
+      "core_mechanism": "Variable Ratio Schedule of Reinforcement (B.F. Skinner)",
+      "summary": "Why the brain treats predictable attention like a boring vending machine, but treats unpredictable attention like a high-stakes slot machine. Dopamine spikes during anticipation, not resolution."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Economy of Availability",
+      "timestamp_estimate": "4:30 - 6:45",
+      "core_mechanism": "Scarcity Heuristic & The Law of Least Effort",
+      "summary": "How infinite availability destroys perceived market value. The person who is always free communicates to the subconscious that their time and presence have no other suitors or meaningful purpose."
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Magnetic Power of The Unoccupied Mind",
+      "timestamp_estimate": "6:45 - 8:50",
+      "core_mechanism": "Internal Locus of Control & Autonomous Purpose",
+      "summary": "Why true detachment cannot be faked with text games. The authentic magnetism of someone whose life mission, curiosity, and personal standards transcend romantic validation."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sovereignty vs Cruelty",
+      "timestamp_estimate": "8:50 - 10:45",
+      "core_mechanism": "Healthy Detachment & The Walking Away Power",
+      "summary": "The difference between toxic manipulation (hot-and-cold games) and dignified self-respect. Why the willingness to walk away calmly without malice is the ultimate position of psychological strength."
+    }
+  ]
+}
