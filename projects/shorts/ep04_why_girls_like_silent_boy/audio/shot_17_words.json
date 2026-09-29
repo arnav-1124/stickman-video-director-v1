@@ -1,0 +1,20 @@
+[
+  {
+    "word": "No",
+    "start_sec": 0.099,
+    "end_sec": 0.369,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "nervous",
+    "start_sec": 0.381,
+    "end_sec": 0.798,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "laughter",
+    "start_sec": 0.81,
+    "end_sec": 1.373,
+    "duration_sec": 0.564
+  }
+]

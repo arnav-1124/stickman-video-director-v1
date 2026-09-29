@@ -1,0 +1,20 @@
+[
+  {
+    "word": "RULE",
+    "start_sec": 0.099,
+    "end_sec": 0.491,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "Stop",
+    "start_sec": 0.736,
+    "end_sec": 1.092,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "performing",
+    "start_sec": 1.104,
+    "end_sec": 1.741,
+    "duration_sec": 0.637
+  }
+]

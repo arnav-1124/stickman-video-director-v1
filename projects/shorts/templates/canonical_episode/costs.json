@@ -1,0 +1,10 @@
+{
+  "project_id": "canonical_episode",
+  "pipeline_mode": "static_2d_comic_sync",
+  "ai_image_engine": "Nano Banana Pro (Gemini 3 Pro Image) via Google Flow",
+  "master_assets_count": 6,
+  "scene_slides_count": 38,
+  "credits_used": 0,
+  "cost_usd": 0.0,
+  "generation_date": null
+}

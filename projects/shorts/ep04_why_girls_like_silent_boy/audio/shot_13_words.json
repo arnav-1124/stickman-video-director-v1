@@ -1,0 +1,44 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.246,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "doesn't",
+    "start_sec": 0.258,
+    "end_sec": 0.565,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "avoid",
+    "start_sec": 0.577,
+    "end_sec": 0.957,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "people",
+    "start_sec": 0.969,
+    "end_sec": 1.312,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "out",
+    "start_sec": 1.325,
+    "end_sec": 1.459,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "of",
+    "start_sec": 1.472,
+    "end_sec": 1.557,
+    "duration_sec": 0.086
+  },
+  {
+    "word": "fear",
+    "start_sec": 1.57,
+    "end_sec": 2.035,
+    "duration_sec": 0.466
+  }
+]

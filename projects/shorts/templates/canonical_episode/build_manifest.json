@@ -1,0 +1,28 @@
+{
+  "project_id": "canonical_episode",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "pipeline_type": "static_comic_sync",
+  "voiceover_track": "audio/voiceover.mp3",
+  "subtitles_file": "subtitles.ass",
+  "bgm_track": "../../assets/bgm/dark_contemplation.mp3",
+  "bgm_volume_db": -22.0,
+  "clips": [
+    {
+      "cut_id": 1,
+      "shot_id": 1,
+      "sub_beat": "a",
+      "file_path": "slides/slide_01.png",
+      "duration": 1.70,
+      "text": "In every college lecture hall,"
+    },
+    {
+      "cut_id": 2,
+      "shot_id": 1,
+      "sub_beat": "b",
+      "file_path": "slides/slide_02.png",
+      "duration": 1.85,
+      "text": "there is one boy in the last row"
+    }
+  ]
+}

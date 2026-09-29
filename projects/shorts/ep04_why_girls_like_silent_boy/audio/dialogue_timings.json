@@ -1,0 +1,1234 @@
+[
+  {
+    "shot_id": 1,
+    "speaker": "Narrator",
+    "text": "In every college lecture hall, there is one boy in the last row who never raises his hand.",
+    "file": "shot_1.mp3",
+    "start_time": 0.0,
+    "end_time": 5.832,
+    "duration": 5.832,
+    "words": [
+      {
+        "word": "In",
+        "start_sec": 0.099,
+        "end_sec": 0.295,
+        "duration_sec": 0.196
+      },
+      {
+        "word": "every",
+        "start_sec": 0.307,
+        "end_sec": 0.552,
+        "duration_sec": 0.245
+      },
+      {
+        "word": "college",
+        "start_sec": 0.565,
+        "end_sec": 0.981,
+        "duration_sec": 0.417
+      },
+      {
+        "word": "lecture",
+        "start_sec": 0.994,
+        "end_sec": 1.337,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "hall",
+        "start_sec": 1.349,
+        "end_sec": 1.704,
+        "duration_sec": 0.355
+      },
+      {
+        "word": "there",
+        "start_sec": 1.974,
+        "end_sec": 2.109,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "is",
+        "start_sec": 2.121,
+        "end_sec": 2.231,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "one",
+        "start_sec": 2.244,
+        "end_sec": 2.501,
+        "duration_sec": 0.257
+      },
+      {
+        "word": "boy",
+        "start_sec": 2.513,
+        "end_sec": 2.795,
+        "duration_sec": 0.282
+      },
+      {
+        "word": "in",
+        "start_sec": 2.807,
+        "end_sec": 2.893,
+        "duration_sec": 0.086
+      },
+      {
+        "word": "the",
+        "start_sec": 2.905,
+        "end_sec": 2.979,
+        "duration_sec": 0.074
+      },
+      {
+        "word": "last",
+        "start_sec": 2.991,
+        "end_sec": 3.322,
+        "duration_sec": 0.331
+      },
+      {
+        "word": "row",
+        "start_sec": 3.334,
+        "end_sec": 3.555,
+        "duration_sec": 0.221
+      },
+      {
+        "word": "who",
+        "start_sec": 3.567,
+        "end_sec": 3.702,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "never",
+        "start_sec": 3.714,
+        "end_sec": 4.008,
+        "duration_sec": 0.294
+      },
+      {
+        "word": "raises",
+        "start_sec": 4.021,
+        "end_sec": 4.376,
+        "duration_sec": 0.355
+      },
+      {
+        "word": "his",
+        "start_sec": 4.388,
+        "end_sec": 4.523,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "hand",
+        "start_sec": 4.535,
+        "end_sec": 4.989,
+        "duration_sec": 0.453
+      }
+    ]
+  },
+  {
+    "shot_id": 2,
+    "speaker": "Narrator",
+    "text": "He doesn't fight for attention.",
+    "file": "shot_2.mp3",
+    "start_time": 6.082,
+    "end_time": 8.602,
+    "duration": 2.52,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.246,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "doesn't",
+        "start_sec": 0.258,
+        "end_sec": 0.577,
+        "duration_sec": 0.319
+      },
+      {
+        "word": "fight",
+        "start_sec": 0.589,
+        "end_sec": 0.871,
+        "duration_sec": 0.282
+      },
+      {
+        "word": "for",
+        "start_sec": 0.883,
+        "end_sec": 1.055,
+        "duration_sec": 0.172
+      },
+      {
+        "word": "attention",
+        "start_sec": 1.067,
+        "end_sec": 1.668,
+        "duration_sec": 0.601
+      }
+    ]
+  },
+  {
+    "shot_id": 3,
+    "speaker": "Narrator",
+    "text": "He doesn't laugh at bad jokes.",
+    "file": "shot_3.mp3",
+    "start_time": 8.852,
+    "end_time": 11.588,
+    "duration": 2.736,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.246,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "doesn't",
+        "start_sec": 0.258,
+        "end_sec": 0.577,
+        "duration_sec": 0.319
+      },
+      {
+        "word": "laugh",
+        "start_sec": 0.589,
+        "end_sec": 0.883,
+        "duration_sec": 0.294
+      },
+      {
+        "word": "at",
+        "start_sec": 0.896,
+        "end_sec": 1.006,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "bad",
+        "start_sec": 1.018,
+        "end_sec": 1.288,
+        "duration_sec": 0.27
+      },
+      {
+        "word": "jokes",
+        "start_sec": 1.3,
+        "end_sec": 1.876,
+        "duration_sec": 0.576
+      }
+    ]
+  },
+  {
+    "shot_id": 4,
+    "speaker": "Narrator",
+    "text": "He shuts his laptop,",
+    "file": "shot_4.mp3",
+    "start_time": 11.838,
+    "end_time": 14.094,
+    "duration": 2.256,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.283,
+        "duration_sec": 0.184
+      },
+      {
+        "word": "shuts",
+        "start_sec": 0.295,
+        "end_sec": 0.614,
+        "duration_sec": 0.319
+      },
+      {
+        "word": "his",
+        "start_sec": 0.626,
+        "end_sec": 0.785,
+        "duration_sec": 0.159
+      },
+      {
+        "word": "laptop",
+        "start_sec": 0.798,
+        "end_sec": 1.398,
+        "duration_sec": 0.6
+      }
+    ]
+  },
+  {
+    "shot_id": 5,
+    "speaker": "Narrator",
+    "text": "leans back, and simply observes.",
+    "file": "shot_5.mp3",
+    "start_time": 14.344,
+    "end_time": 17.56,
+    "duration": 3.216,
+    "words": [
+      {
+        "word": "leans",
+        "start_sec": 0.099,
+        "end_sec": 0.491,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "back",
+        "start_sec": 0.503,
+        "end_sec": 0.92,
+        "duration_sec": 0.417
+      },
+      {
+        "word": "and",
+        "start_sec": 1.141,
+        "end_sec": 1.251,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "simply",
+        "start_sec": 1.263,
+        "end_sec": 1.655,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "observes",
+        "start_sec": 1.668,
+        "end_sec": 2.366,
+        "duration_sec": 0.699
+      }
+    ]
+  },
+  {
+    "shot_id": 6,
+    "speaker": "Narrator",
+    "text": "Yet, girls in the middle row constantly glance back, wondering what he's thinking.",
+    "file": "shot_6.mp3",
+    "start_time": 17.81,
+    "end_time": 23.138,
+    "duration": 5.328,
+    "words": [
+      {
+        "word": "Yet",
+        "start_sec": 0.099,
+        "end_sec": 0.442,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "girls",
+        "start_sec": 0.65,
+        "end_sec": 0.981,
+        "duration_sec": 0.331
+      },
+      {
+        "word": "in",
+        "start_sec": 0.994,
+        "end_sec": 1.055,
+        "duration_sec": 0.061
+      },
+      {
+        "word": "the",
+        "start_sec": 1.067,
+        "end_sec": 1.128,
+        "duration_sec": 0.061
+      },
+      {
+        "word": "middle",
+        "start_sec": 1.141,
+        "end_sec": 1.435,
+        "duration_sec": 0.294
+      },
+      {
+        "word": "row",
+        "start_sec": 1.447,
+        "end_sec": 1.631,
+        "duration_sec": 0.184
+      },
+      {
+        "word": "constantly",
+        "start_sec": 1.643,
+        "end_sec": 2.219,
+        "duration_sec": 0.576
+      },
+      {
+        "word": "glance",
+        "start_sec": 2.231,
+        "end_sec": 2.611,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "back",
+        "start_sec": 2.624,
+        "end_sec": 3.003,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "wondering",
+        "start_sec": 3.224,
+        "end_sec": 3.653,
+        "duration_sec": 0.429
+      },
+      {
+        "word": "what",
+        "start_sec": 3.665,
+        "end_sec": 3.788,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "he's",
+        "start_sec": 3.8,
+        "end_sec": 3.996,
+        "duration_sec": 0.196
+      },
+      {
+        "word": "thinking",
+        "start_sec": 4.008,
+        "end_sec": 4.474,
+        "duration_sec": 0.466
+      }
+    ]
+  },
+  {
+    "shot_id": 7,
+    "speaker": "Narrator",
+    "text": "Why?",
+    "file": "shot_7.mp3",
+    "start_time": 23.388,
+    "end_time": 25.476,
+    "duration": 2.088,
+    "words": [
+      {
+        "word": "Why",
+        "start_sec": 0.099,
+        "end_sec": 0.565,
+        "duration_sec": 0.466
+      }
+    ]
+  },
+  {
+    "shot_id": 8,
+    "speaker": "Narrator",
+    "text": "Because the human brain ignores whatever begs for focus.",
+    "file": "shot_8.mp3",
+    "start_time": 25.726,
+    "end_time": 29.902,
+    "duration": 4.176,
+    "words": [
+      {
+        "word": "Because",
+        "start_sec": 0.099,
+        "end_sec": 0.491,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "the",
+        "start_sec": 0.503,
+        "end_sec": 0.577,
+        "duration_sec": 0.074
+      },
+      {
+        "word": "human",
+        "start_sec": 0.589,
+        "end_sec": 0.969,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "brain",
+        "start_sec": 0.981,
+        "end_sec": 1.276,
+        "duration_sec": 0.294
+      },
+      {
+        "word": "ignores",
+        "start_sec": 1.288,
+        "end_sec": 1.741,
+        "duration_sec": 0.453
+      },
+      {
+        "word": "whatever",
+        "start_sec": 1.753,
+        "end_sec": 2.133,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "begs",
+        "start_sec": 2.146,
+        "end_sec": 2.489,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "for",
+        "start_sec": 2.501,
+        "end_sec": 2.66,
+        "duration_sec": 0.159
+      },
+      {
+        "word": "focus",
+        "start_sec": 2.673,
+        "end_sec": 3.322,
+        "duration_sec": 0.649
+      }
+    ]
+  },
+  {
+    "shot_id": 9,
+    "speaker": "Narrator",
+    "text": "The eager frontbencher is trapped in the Validation Tax.",
+    "file": "shot_9.mp3",
+    "start_time": 30.152,
+    "end_time": 34.112,
+    "duration": 3.96,
+    "words": [
+      {
+        "word": "The",
+        "start_sec": 0.099,
+        "end_sec": 0.234,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "eager",
+        "start_sec": 0.246,
+        "end_sec": 0.577,
+        "duration_sec": 0.331
+      },
+      {
+        "word": "frontbencher",
+        "start_sec": 0.589,
+        "end_sec": 1.214,
+        "duration_sec": 0.625
+      },
+      {
+        "word": "is",
+        "start_sec": 1.226,
+        "end_sec": 1.349,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "trapped",
+        "start_sec": 1.361,
+        "end_sec": 1.753,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "in",
+        "start_sec": 1.766,
+        "end_sec": 1.815,
+        "duration_sec": 0.049
+      },
+      {
+        "word": "the",
+        "start_sec": 1.827,
+        "end_sec": 1.888,
+        "duration_sec": 0.061
+      },
+      {
+        "word": "Validation",
+        "start_sec": 1.901,
+        "end_sec": 2.513,
+        "duration_sec": 0.613
+      },
+      {
+        "word": "Tax",
+        "start_sec": 2.526,
+        "end_sec": 3.102,
+        "duration_sec": 0.576
+      }
+    ]
+  },
+  {
+    "shot_id": 10,
+    "speaker": "Narrator",
+    "text": "He talks loud, agrees with everything, and performs for applause.",
+    "file": "shot_10.mp3",
+    "start_time": 34.362,
+    "end_time": 39.282,
+    "duration": 4.92,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.271,
+        "duration_sec": 0.172
+      },
+      {
+        "word": "talks",
+        "start_sec": 0.283,
+        "end_sec": 0.638,
+        "duration_sec": 0.355
+      },
+      {
+        "word": "loud",
+        "start_sec": 0.65,
+        "end_sec": 0.994,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "agrees",
+        "start_sec": 1.226,
+        "end_sec": 1.631,
+        "duration_sec": 0.404
+      },
+      {
+        "word": "with",
+        "start_sec": 1.643,
+        "end_sec": 1.778,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "everything",
+        "start_sec": 1.79,
+        "end_sec": 2.329,
+        "duration_sec": 0.539
+      },
+      {
+        "word": "and",
+        "start_sec": 2.526,
+        "end_sec": 2.648,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "performs",
+        "start_sec": 2.66,
+        "end_sec": 3.212,
+        "duration_sec": 0.551
+      },
+      {
+        "word": "for",
+        "start_sec": 3.224,
+        "end_sec": 3.383,
+        "duration_sec": 0.159
+      },
+      {
+        "word": "applause",
+        "start_sec": 3.396,
+        "end_sec": 4.07,
+        "duration_sec": 0.674
+      }
+    ]
+  },
+  {
+    "shot_id": 11,
+    "speaker": "Narrator",
+    "text": "To the brain, high effort signals low status.",
+    "file": "shot_11.mp3",
+    "start_time": 39.532,
+    "end_time": 43.372,
+    "duration": 3.84,
+    "words": [
+      {
+        "word": "To",
+        "start_sec": 0.099,
+        "end_sec": 0.234,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "the",
+        "start_sec": 0.246,
+        "end_sec": 0.356,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "brain",
+        "start_sec": 0.369,
+        "end_sec": 0.785,
+        "duration_sec": 0.417
+      },
+      {
+        "word": "high",
+        "start_sec": 1.006,
+        "end_sec": 1.202,
+        "duration_sec": 0.196
+      },
+      {
+        "word": "effort",
+        "start_sec": 1.214,
+        "end_sec": 1.557,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "signals",
+        "start_sec": 1.57,
+        "end_sec": 2.06,
+        "duration_sec": 0.49
+      },
+      {
+        "word": "low",
+        "start_sec": 2.072,
+        "end_sec": 2.28,
+        "duration_sec": 0.208
+      },
+      {
+        "word": "status",
+        "start_sec": 2.293,
+        "end_sec": 2.991,
+        "duration_sec": 0.699
+      }
+    ]
+  },
+  {
+    "shot_id": 12,
+    "speaker": "Narrator",
+    "text": "The silent boy operates under the opposite law.",
+    "file": "shot_12.mp3",
+    "start_time": 43.622,
+    "end_time": 47.102,
+    "duration": 3.48,
+    "words": [
+      {
+        "word": "The",
+        "start_sec": 0.099,
+        "end_sec": 0.246,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "silent",
+        "start_sec": 0.258,
+        "end_sec": 0.699,
+        "duration_sec": 0.441
+      },
+      {
+        "word": "boy",
+        "start_sec": 0.712,
+        "end_sec": 0.957,
+        "duration_sec": 0.245
+      },
+      {
+        "word": "operates",
+        "start_sec": 0.969,
+        "end_sec": 1.508,
+        "duration_sec": 0.539
+      },
+      {
+        "word": "under",
+        "start_sec": 1.521,
+        "end_sec": 1.717,
+        "duration_sec": 0.196
+      },
+      {
+        "word": "the",
+        "start_sec": 1.729,
+        "end_sec": 1.839,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "opposite",
+        "start_sec": 1.851,
+        "end_sec": 2.28,
+        "duration_sec": 0.429
+      },
+      {
+        "word": "law",
+        "start_sec": 2.293,
+        "end_sec": 2.636,
+        "duration_sec": 0.343
+      }
+    ]
+  },
+  {
+    "shot_id": 13,
+    "speaker": "Narrator",
+    "text": "He doesn't avoid people out of fear.",
+    "file": "shot_13.mp3",
+    "start_time": 47.352,
+    "end_time": 50.232,
+    "duration": 2.88,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.246,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "doesn't",
+        "start_sec": 0.258,
+        "end_sec": 0.565,
+        "duration_sec": 0.306
+      },
+      {
+        "word": "avoid",
+        "start_sec": 0.577,
+        "end_sec": 0.957,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "people",
+        "start_sec": 0.969,
+        "end_sec": 1.312,
+        "duration_sec": 0.343
+      },
+      {
+        "word": "out",
+        "start_sec": 1.325,
+        "end_sec": 1.459,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "of",
+        "start_sec": 1.472,
+        "end_sec": 1.557,
+        "duration_sec": 0.086
+      },
+      {
+        "word": "fear",
+        "start_sec": 1.57,
+        "end_sec": 2.035,
+        "duration_sec": 0.466
+      }
+    ]
+  },
+  {
+    "shot_id": 14,
+    "speaker": "Narrator",
+    "text": "He is simply immune to approval.",
+    "file": "shot_14.mp3",
+    "start_time": 50.482,
+    "end_time": 53.266,
+    "duration": 2.784,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.283,
+        "duration_sec": 0.184
+      },
+      {
+        "word": "is",
+        "start_sec": 0.295,
+        "end_sec": 0.418,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "simply",
+        "start_sec": 0.43,
+        "end_sec": 0.798,
+        "duration_sec": 0.368
+      },
+      {
+        "word": "immune",
+        "start_sec": 0.81,
+        "end_sec": 1.19,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "to",
+        "start_sec": 1.202,
+        "end_sec": 1.312,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "approval",
+        "start_sec": 1.325,
+        "end_sec": 1.937,
+        "duration_sec": 0.613
+      }
+    ]
+  },
+  {
+    "shot_id": 15,
+    "speaker": "Narrator",
+    "text": "When the professor calls his name, he doesn't panic.",
+    "file": "shot_15.mp3",
+    "start_time": 53.516,
+    "end_time": 57.308,
+    "duration": 3.792,
+    "words": [
+      {
+        "word": "When",
+        "start_sec": 0.099,
+        "end_sec": 0.271,
+        "duration_sec": 0.172
+      },
+      {
+        "word": "the",
+        "start_sec": 0.283,
+        "end_sec": 0.356,
+        "duration_sec": 0.074
+      },
+      {
+        "word": "professor",
+        "start_sec": 0.369,
+        "end_sec": 0.871,
+        "duration_sec": 0.502
+      },
+      {
+        "word": "calls",
+        "start_sec": 0.883,
+        "end_sec": 1.19,
+        "duration_sec": 0.306
+      },
+      {
+        "word": "his",
+        "start_sec": 1.202,
+        "end_sec": 1.337,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "name",
+        "start_sec": 1.349,
+        "end_sec": 1.729,
+        "duration_sec": 0.38
+      },
+      {
+        "word": "he",
+        "start_sec": 1.974,
+        "end_sec": 2.072,
+        "duration_sec": 0.098
+      },
+      {
+        "word": "doesn't",
+        "start_sec": 2.084,
+        "end_sec": 2.403,
+        "duration_sec": 0.319
+      },
+      {
+        "word": "panic",
+        "start_sec": 2.415,
+        "end_sec": 2.93,
+        "duration_sec": 0.515
+      }
+    ]
+  },
+  {
+    "shot_id": 16,
+    "speaker": "Narrator",
+    "text": "He looks up calmly, gives a clean, three-word answer, and returns to his silence.",
+    "file": "shot_16.mp3",
+    "start_time": 57.558,
+    "end_time": 63.366,
+    "duration": 5.808,
+    "words": [
+      {
+        "word": "He",
+        "start_sec": 0.099,
+        "end_sec": 0.258,
+        "duration_sec": 0.159
+      },
+      {
+        "word": "looks",
+        "start_sec": 0.271,
+        "end_sec": 0.54,
+        "duration_sec": 0.27
+      },
+      {
+        "word": "up",
+        "start_sec": 0.552,
+        "end_sec": 0.699,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "calmly",
+        "start_sec": 0.712,
+        "end_sec": 1.202,
+        "duration_sec": 0.49
+      },
+      {
+        "word": "gives",
+        "start_sec": 1.386,
+        "end_sec": 1.582,
+        "duration_sec": 0.196
+      },
+      {
+        "word": "a",
+        "start_sec": 1.594,
+        "end_sec": 1.655,
+        "duration_sec": 0.061
+      },
+      {
+        "word": "clean",
+        "start_sec": 1.668,
+        "end_sec": 2.072,
+        "duration_sec": 0.404
+      },
+      {
+        "word": "three-word",
+        "start_sec": 2.342,
+        "end_sec": 2.783,
+        "duration_sec": 0.441
+      },
+      {
+        "word": "answer",
+        "start_sec": 2.795,
+        "end_sec": 3.261,
+        "duration_sec": 0.466
+      },
+      {
+        "word": "and",
+        "start_sec": 3.494,
+        "end_sec": 3.579,
+        "duration_sec": 0.086
+      },
+      {
+        "word": "returns",
+        "start_sec": 3.592,
+        "end_sec": 4.045,
+        "duration_sec": 0.453
+      },
+      {
+        "word": "to",
+        "start_sec": 4.057,
+        "end_sec": 4.168,
+        "duration_sec": 0.11
+      },
+      {
+        "word": "his",
+        "start_sec": 4.18,
+        "end_sec": 4.302,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "silence",
+        "start_sec": 4.315,
+        "end_sec": 4.964,
+        "duration_sec": 0.649
+      }
+    ]
+  },
+  {
+    "shot_id": 17,
+    "speaker": "Narrator",
+    "text": "No nervous laughter.",
+    "file": "shot_17.mp3",
+    "start_time": 63.616,
+    "end_time": 65.848,
+    "duration": 2.232,
+    "words": [
+      {
+        "word": "No",
+        "start_sec": 0.099,
+        "end_sec": 0.369,
+        "duration_sec": 0.27
+      },
+      {
+        "word": "nervous",
+        "start_sec": 0.381,
+        "end_sec": 0.798,
+        "duration_sec": 0.417
+      },
+      {
+        "word": "laughter",
+        "start_sec": 0.81,
+        "end_sec": 1.373,
+        "duration_sec": 0.564
+      }
+    ]
+  },
+  {
+    "shot_id": 18,
+    "speaker": "Narrator",
+    "text": "No fidgeting.",
+    "file": "shot_18.mp3",
+    "start_time": 66.098,
+    "end_time": 68.186,
+    "duration": 2.088,
+    "words": [
+      {
+        "word": "No",
+        "start_sec": 0.099,
+        "end_sec": 0.381,
+        "duration_sec": 0.282
+      },
+      {
+        "word": "fidgeting",
+        "start_sec": 0.393,
+        "end_sec": 0.957,
+        "duration_sec": 0.564
+      }
+    ]
+  },
+  {
+    "shot_id": 19,
+    "speaker": "Narrator",
+    "text": "No need to qualify himself.",
+    "file": "shot_19.mp3",
+    "start_time": 68.436,
+    "end_time": 71.22,
+    "duration": 2.784,
+    "words": [
+      {
+        "word": "No",
+        "start_sec": 0.099,
+        "end_sec": 0.344,
+        "duration_sec": 0.245
+      },
+      {
+        "word": "need",
+        "start_sec": 0.356,
+        "end_sec": 0.577,
+        "duration_sec": 0.221
+      },
+      {
+        "word": "to",
+        "start_sec": 0.589,
+        "end_sec": 0.687,
+        "duration_sec": 0.098
+      },
+      {
+        "word": "qualify",
+        "start_sec": 0.7,
+        "end_sec": 1.251,
+        "duration_sec": 0.551
+      },
+      {
+        "word": "himself",
+        "start_sec": 1.263,
+        "end_sec": 1.925,
+        "duration_sec": 0.662
+      }
+    ]
+  },
+  {
+    "shot_id": 20,
+    "speaker": "Narrator",
+    "text": "In social psychology, mystery is not built by hiding.",
+    "file": "shot_20.mp3",
+    "start_time": 71.47,
+    "end_time": 75.694,
+    "duration": 4.224,
+    "words": [
+      {
+        "word": "In",
+        "start_sec": 0.099,
+        "end_sec": 0.283,
+        "duration_sec": 0.184
+      },
+      {
+        "word": "social",
+        "start_sec": 0.295,
+        "end_sec": 0.687,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "psychology",
+        "start_sec": 0.7,
+        "end_sec": 1.435,
+        "duration_sec": 0.735
+      },
+      {
+        "word": "mystery",
+        "start_sec": 1.655,
+        "end_sec": 2.084,
+        "duration_sec": 0.429
+      },
+      {
+        "word": "is",
+        "start_sec": 2.097,
+        "end_sec": 2.219,
+        "duration_sec": 0.123
+      },
+      {
+        "word": "not",
+        "start_sec": 2.231,
+        "end_sec": 2.476,
+        "duration_sec": 0.245
+      },
+      {
+        "word": "built",
+        "start_sec": 2.489,
+        "end_sec": 2.709,
+        "duration_sec": 0.221
+      },
+      {
+        "word": "by",
+        "start_sec": 2.722,
+        "end_sec": 2.856,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "hiding",
+        "start_sec": 2.869,
+        "end_sec": 3.359,
+        "duration_sec": 0.49
+      }
+    ]
+  },
+  {
+    "shot_id": 21,
+    "speaker": "Narrator",
+    "text": "It is built by being completely comfortable having nothing to prove.",
+    "file": "shot_21.mp3",
+    "start_time": 75.944,
+    "end_time": 80.216,
+    "duration": 4.272,
+    "words": [
+      {
+        "word": "It",
+        "start_sec": 0.099,
+        "end_sec": 0.234,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "is",
+        "start_sec": 0.246,
+        "end_sec": 0.381,
+        "duration_sec": 0.135
+      },
+      {
+        "word": "built",
+        "start_sec": 0.393,
+        "end_sec": 0.712,
+        "duration_sec": 0.319
+      },
+      {
+        "word": "by",
+        "start_sec": 0.724,
+        "end_sec": 0.871,
+        "duration_sec": 0.147
+      },
+      {
+        "word": "being",
+        "start_sec": 0.883,
+        "end_sec": 1.128,
+        "duration_sec": 0.245
+      },
+      {
+        "word": "completely",
+        "start_sec": 1.141,
+        "end_sec": 1.668,
+        "duration_sec": 0.527
+      },
+      {
+        "word": "comfortable",
+        "start_sec": 1.68,
+        "end_sec": 2.158,
+        "duration_sec": 0.478
+      },
+      {
+        "word": "having",
+        "start_sec": 2.17,
+        "end_sec": 2.452,
+        "duration_sec": 0.282
+      },
+      {
+        "word": "nothing",
+        "start_sec": 2.464,
+        "end_sec": 2.795,
+        "duration_sec": 0.331
+      },
+      {
+        "word": "to",
+        "start_sec": 2.807,
+        "end_sec": 2.905,
+        "duration_sec": 0.098
+      },
+      {
+        "word": "prove",
+        "start_sec": 2.918,
+        "end_sec": 3.408,
+        "duration_sec": 0.49
+      }
+    ]
+  },
+  {
+    "shot_id": 22,
+    "speaker": "Narrator",
+    "text": "RULE: Stop performing.",
+    "file": "shot_22.mp3",
+    "start_time": 80.466,
+    "end_time": 83.058,
+    "duration": 2.592,
+    "words": [
+      {
+        "word": "RULE",
+        "start_sec": 0.099,
+        "end_sec": 0.491,
+        "duration_sec": 0.392
+      },
+      {
+        "word": "Stop",
+        "start_sec": 0.736,
+        "end_sec": 1.092,
+        "duration_sec": 0.355
+      },
+      {
+        "word": "performing",
+        "start_sec": 1.104,
+        "end_sec": 1.741,
+        "duration_sec": 0.637
+      }
+    ]
+  }
+]

@@ -1,0 +1,1364 @@
+[
+  {
+    "word": "हर",
+    "start_sec": 0.099,
+    "end_sec": 0.32,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "कॉलेज",
+    "start_sec": 0.332,
+    "end_sec": 0.736,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "के",
+    "start_sec": 0.736,
+    "end_sec": 0.883,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "लेक्चर",
+    "start_sec": 0.908,
+    "end_sec": 1.3,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "हॉल",
+    "start_sec": 1.3,
+    "end_sec": 1.582,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "में",
+    "start_sec": 1.582,
+    "end_sec": 1.876,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "लास्ट",
+    "start_sec": 2.035,
+    "end_sec": 2.415,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "रो",
+    "start_sec": 2.415,
+    "end_sec": 2.575,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "में",
+    "start_sec": 2.599,
+    "end_sec": 2.795,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "एक",
+    "start_sec": 2.881,
+    "end_sec": 3.138,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "ऐसा",
+    "start_sec": 3.163,
+    "end_sec": 3.543,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "लड़का",
+    "start_sec": 3.543,
+    "end_sec": 3.935,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "होता",
+    "start_sec": 3.935,
+    "end_sec": 4.302,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "है",
+    "start_sec": 4.302,
+    "end_sec": 4.535,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "जो",
+    "start_sec": 4.719,
+    "end_sec": 4.915,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "कभी",
+    "start_sec": 4.915,
+    "end_sec": 5.258,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "हाथ",
+    "start_sec": 5.283,
+    "end_sec": 5.577,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 5.614,
+    "end_sec": 5.896,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "उठाता",
+    "start_sec": 5.896,
+    "end_sec": 6.459,
+    "duration_sec": 0.564
+  },
+  {
+    "word": "वो",
+    "start_sec": 7.463,
+    "end_sec": 7.708,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "कभी",
+    "start_sec": 7.708,
+    "end_sec": 8.039,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 8.051,
+    "end_sec": 8.358,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "लड़ता",
+    "start_sec": 8.37,
+    "end_sec": 8.774,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "अटेंशन",
+    "start_sec": 8.787,
+    "end_sec": 9.375,
+    "duration_sec": 0.588
+  },
+  {
+    "word": "पाने",
+    "start_sec": 9.387,
+    "end_sec": 9.706,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "के",
+    "start_sec": 9.706,
+    "end_sec": 9.865,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "लिए",
+    "start_sec": 9.877,
+    "end_sec": 10.172,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "वो",
+    "start_sec": 11.176,
+    "end_sec": 11.422,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "कभी",
+    "start_sec": 11.422,
+    "end_sec": 11.765,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 11.789,
+    "end_sec": 12.083,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "हंसता",
+    "start_sec": 12.083,
+    "end_sec": 12.561,
+    "duration_sec": 0.478
+  },
+  {
+    "word": "खराब",
+    "start_sec": 12.561,
+    "end_sec": 12.966,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "चुटकुलों",
+    "start_sec": 12.99,
+    "end_sec": 13.529,
+    "duration_sec": 0.539
+  },
+  {
+    "word": "पर",
+    "start_sec": 13.529,
+    "end_sec": 13.774,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "वो",
+    "start_sec": 14.779,
+    "end_sec": 15.012,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "अपना",
+    "start_sec": 15.049,
+    "end_sec": 15.466,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "लैपटॉप",
+    "start_sec": 15.466,
+    "end_sec": 16.054,
+    "duration_sec": 0.588
+  },
+  {
+    "word": "बंद",
+    "start_sec": 16.054,
+    "end_sec": 16.348,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "करता",
+    "start_sec": 16.373,
+    "end_sec": 16.789,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "है",
+    "start_sec": 16.789,
+    "end_sec": 17.034,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "पीछे",
+    "start_sec": 17.194,
+    "end_sec": 17.635,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "आराम",
+    "start_sec": 17.721,
+    "end_sec": 18.137,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "से",
+    "start_sec": 18.137,
+    "end_sec": 18.321,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "बैठता",
+    "start_sec": 18.321,
+    "end_sec": 18.824,
+    "duration_sec": 0.502
+  },
+  {
+    "word": "है",
+    "start_sec": 18.824,
+    "end_sec": 19.081,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "और",
+    "start_sec": 19.326,
+    "end_sec": 19.51,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "बस",
+    "start_sec": 19.522,
+    "end_sec": 19.816,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "सबको",
+    "start_sec": 19.816,
+    "end_sec": 20.208,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "देखता",
+    "start_sec": 20.208,
+    "end_sec": 20.723,
+    "duration_sec": 0.515
+  },
+  {
+    "word": "है",
+    "start_sec": 20.723,
+    "end_sec": 21.042,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "फिर",
+    "start_sec": 22.316,
+    "end_sec": 22.573,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "भी",
+    "start_sec": 22.586,
+    "end_sec": 22.843,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "मिडल",
+    "start_sec": 22.929,
+    "end_sec": 23.297,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "रो",
+    "start_sec": 23.297,
+    "end_sec": 23.468,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "की",
+    "start_sec": 23.48,
+    "end_sec": 23.652,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "लड़कियां",
+    "start_sec": 23.652,
+    "end_sec": 24.154,
+    "duration_sec": 0.502
+  },
+  {
+    "word": "बार-बार",
+    "start_sec": 24.154,
+    "end_sec": 24.706,
+    "duration_sec": 0.551
+  },
+  {
+    "word": "पीछे",
+    "start_sec": 24.706,
+    "end_sec": 25.098,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "मुड़कर",
+    "start_sec": 25.098,
+    "end_sec": 25.527,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "देखती",
+    "start_sec": 25.527,
+    "end_sec": 25.993,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "हैं",
+    "start_sec": 25.993,
+    "end_sec": 26.287,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "कि",
+    "start_sec": 26.532,
+    "end_sec": 26.691,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "वो",
+    "start_sec": 26.703,
+    "end_sec": 26.936,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "आखिर",
+    "start_sec": 26.998,
+    "end_sec": 27.365,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "क्या",
+    "start_sec": 27.365,
+    "end_sec": 27.586,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "सोच",
+    "start_sec": 27.586,
+    "end_sec": 27.917,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "रहा",
+    "start_sec": 27.929,
+    "end_sec": 28.248,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "है",
+    "start_sec": 28.627,
+    "end_sec": 28.922,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "आखिर",
+    "start_sec": 29.804,
+    "end_sec": 30.208,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "क्यों",
+    "start_sec": 30.208,
+    "end_sec": 30.527,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "क्योंकि",
+    "start_sec": 31.397,
+    "end_sec": 31.789,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "इंसान",
+    "start_sec": 31.851,
+    "end_sec": 32.353,
+    "duration_sec": 0.502
+  },
+  {
+    "word": "का",
+    "start_sec": 32.39,
+    "end_sec": 32.549,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "दिमाग",
+    "start_sec": 32.549,
+    "end_sec": 33.002,
+    "duration_sec": 0.453
+  },
+  {
+    "word": "भीख",
+    "start_sec": 33.002,
+    "end_sec": 33.346,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "में",
+    "start_sec": 33.407,
+    "end_sec": 33.627,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "मांगी",
+    "start_sec": 33.627,
+    "end_sec": 34.081,
+    "duration_sec": 0.453
+  },
+  {
+    "word": "गई",
+    "start_sec": 34.081,
+    "end_sec": 34.326,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "अटेंशन",
+    "start_sec": 34.363,
+    "end_sec": 34.926,
+    "duration_sec": 0.564
+  },
+  {
+    "word": "को",
+    "start_sec": 34.975,
+    "end_sec": 35.159,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "इग्नोर",
+    "start_sec": 35.196,
+    "end_sec": 35.551,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "करता",
+    "start_sec": 35.551,
+    "end_sec": 35.993,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "है",
+    "start_sec": 35.993,
+    "end_sec": 36.299,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "उतावला",
+    "start_sec": 37.635,
+    "end_sec": 38.235,
+    "duration_sec": 0.6
+  },
+  {
+    "word": "फ्रंटबेंचर",
+    "start_sec": 38.235,
+    "end_sec": 38.971,
+    "duration_sec": 0.735
+  },
+  {
+    "word": "वैलिडेशन",
+    "start_sec": 38.971,
+    "end_sec": 39.632,
+    "duration_sec": 0.662
+  },
+  {
+    "word": "टैक्स",
+    "start_sec": 39.632,
+    "end_sec": 40.049,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "के",
+    "start_sec": 40.049,
+    "end_sec": 40.184,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "जाल",
+    "start_sec": 40.184,
+    "end_sec": 40.49,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "में",
+    "start_sec": 40.49,
+    "end_sec": 40.662,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "फंसा",
+    "start_sec": 40.662,
+    "end_sec": 41.066,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "होता",
+    "start_sec": 41.066,
+    "end_sec": 41.422,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "है",
+    "start_sec": 41.422,
+    "end_sec": 41.728,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "वो",
+    "start_sec": 42.99,
+    "end_sec": 43.223,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "ज़ोर-ज़ोर",
+    "start_sec": 43.223,
+    "end_sec": 43.787,
+    "duration_sec": 0.564
+  },
+  {
+    "word": "से",
+    "start_sec": 43.787,
+    "end_sec": 43.983,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "बोलता",
+    "start_sec": 43.983,
+    "end_sec": 44.448,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "है",
+    "start_sec": 44.449,
+    "end_sec": 44.694,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "हर",
+    "start_sec": 44.951,
+    "end_sec": 45.123,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "बात",
+    "start_sec": 45.135,
+    "end_sec": 45.466,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "पर",
+    "start_sec": 45.466,
+    "end_sec": 45.662,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "हां",
+    "start_sec": 45.662,
+    "end_sec": 45.895,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "में",
+    "start_sec": 45.895,
+    "end_sec": 46.091,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "हां",
+    "start_sec": 46.091,
+    "end_sec": 46.311,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "मिलाता",
+    "start_sec": 46.311,
+    "end_sec": 46.777,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "है",
+    "start_sec": 46.777,
+    "end_sec": 47.034,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "और",
+    "start_sec": 47.341,
+    "end_sec": 47.524,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "तालियों",
+    "start_sec": 47.525,
+    "end_sec": 48.002,
+    "duration_sec": 0.478
+  },
+  {
+    "word": "के",
+    "start_sec": 48.015,
+    "end_sec": 48.199,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "लिए",
+    "start_sec": 48.235,
+    "end_sec": 48.431,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "नाटक",
+    "start_sec": 48.431,
+    "end_sec": 48.836,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "करता",
+    "start_sec": 48.848,
+    "end_sec": 49.265,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "है",
+    "start_sec": 49.265,
+    "end_sec": 49.571,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "दिमाग",
+    "start_sec": 50.87,
+    "end_sec": 51.287,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "के",
+    "start_sec": 51.287,
+    "end_sec": 51.483,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "लिए",
+    "start_sec": 51.52,
+    "end_sec": 51.801,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "ज़्यादा",
+    "start_sec": 51.961,
+    "end_sec": 52.426,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "मेहनत",
+    "start_sec": 52.426,
+    "end_sec": 52.868,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "लो-स्टेटस",
+    "start_sec": 52.917,
+    "end_sec": 53.566,
+    "duration_sec": 0.649
+  },
+  {
+    "word": "का",
+    "start_sec": 53.603,
+    "end_sec": 53.713,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "संकेत",
+    "start_sec": 53.713,
+    "end_sec": 54.24,
+    "duration_sec": 0.527
+  },
+  {
+    "word": "है",
+    "start_sec": 54.24,
+    "end_sec": 54.608,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "ये",
+    "start_sec": 55.907,
+    "end_sec": 56.115,
+    "duration_sec": 0.208
+  },
+  {
+    "word": "शांत",
+    "start_sec": 56.115,
+    "end_sec": 56.52,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "लड़का",
+    "start_sec": 56.544,
+    "end_sec": 56.973,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "इसके",
+    "start_sec": 57.034,
+    "end_sec": 57.353,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "बिल्कुल",
+    "start_sec": 57.353,
+    "end_sec": 57.794,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "उलट",
+    "start_sec": 57.806,
+    "end_sec": 58.162,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "नियम",
+    "start_sec": 58.162,
+    "end_sec": 58.456,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "पर",
+    "start_sec": 58.468,
+    "end_sec": 58.652,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "चलता",
+    "start_sec": 58.664,
+    "end_sec": 59.069,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "है",
+    "start_sec": 59.069,
+    "end_sec": 59.375,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "वो",
+    "start_sec": 60.662,
+    "end_sec": 60.907,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "लोगों",
+    "start_sec": 60.907,
+    "end_sec": 61.299,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "से",
+    "start_sec": 61.299,
+    "end_sec": 61.483,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "दूर",
+    "start_sec": 61.483,
+    "end_sec": 61.777,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 61.777,
+    "end_sec": 62.096,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "भागता",
+    "start_sec": 62.096,
+    "end_sec": 62.647,
+    "duration_sec": 0.551
+  },
+  {
+    "word": "किसी",
+    "start_sec": 62.647,
+    "end_sec": 62.978,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "डर",
+    "start_sec": 62.99,
+    "end_sec": 63.199,
+    "duration_sec": 0.208
+  },
+  {
+    "word": "की",
+    "start_sec": 63.211,
+    "end_sec": 63.37,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "वजह",
+    "start_sec": 63.382,
+    "end_sec": 63.738,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "से",
+    "start_sec": 63.738,
+    "end_sec": 64.02,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "वो",
+    "start_sec": 65.012,
+    "end_sec": 65.245,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "बस",
+    "start_sec": 65.245,
+    "end_sec": 65.515,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "पूरी",
+    "start_sec": 65.515,
+    "end_sec": 65.809,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "तरह",
+    "start_sec": 65.858,
+    "end_sec": 66.201,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "बेअसर",
+    "start_sec": 66.201,
+    "end_sec": 66.728,
+    "duration_sec": 0.527
+  },
+  {
+    "word": "है",
+    "start_sec": 66.728,
+    "end_sec": 66.998,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "दूसरों",
+    "start_sec": 67.022,
+    "end_sec": 67.5,
+    "duration_sec": 0.478
+  },
+  {
+    "word": "की",
+    "start_sec": 67.5,
+    "end_sec": 67.659,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "मंज़ूरी",
+    "start_sec": 67.659,
+    "end_sec": 68.174,
+    "duration_sec": 0.515
+  },
+  {
+    "word": "से",
+    "start_sec": 68.174,
+    "end_sec": 68.468,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "जब",
+    "start_sec": 69.449,
+    "end_sec": 69.73,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "प्रोफेसर",
+    "start_sec": 69.73,
+    "end_sec": 70.245,
+    "duration_sec": 0.515
+  },
+  {
+    "word": "उसका",
+    "start_sec": 70.294,
+    "end_sec": 70.625,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "नाम",
+    "start_sec": 70.625,
+    "end_sec": 70.907,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "पुकारते",
+    "start_sec": 70.907,
+    "end_sec": 71.495,
+    "duration_sec": 0.588
+  },
+  {
+    "word": "हैं",
+    "start_sec": 71.495,
+    "end_sec": 71.74,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "तो",
+    "start_sec": 71.912,
+    "end_sec": 72.096,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "वो",
+    "start_sec": 72.096,
+    "end_sec": 72.292,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "घबराता",
+    "start_sec": 72.292,
+    "end_sec": 72.819,
+    "duration_sec": 0.527
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 72.819,
+    "end_sec": 73.26,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "वो",
+    "start_sec": 74.228,
+    "end_sec": 74.461,
+    "duration_sec": 0.233
+  },
+  {
+    "word": "शांत",
+    "start_sec": 74.461,
+    "end_sec": 74.841,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "नज़रों",
+    "start_sec": 74.877,
+    "end_sec": 75.294,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "से",
+    "start_sec": 75.294,
+    "end_sec": 75.502,
+    "duration_sec": 0.208
+  },
+  {
+    "word": "ऊपर",
+    "start_sec": 75.527,
+    "end_sec": 75.87,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "देखता",
+    "start_sec": 75.87,
+    "end_sec": 76.385,
+    "duration_sec": 0.515
+  },
+  {
+    "word": "है",
+    "start_sec": 76.385,
+    "end_sec": 76.63,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "साफ़",
+    "start_sec": 76.912,
+    "end_sec": 77.316,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "तीन",
+    "start_sec": 77.316,
+    "end_sec": 77.635,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "शब्दों",
+    "start_sec": 77.635,
+    "end_sec": 78.051,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "में",
+    "start_sec": 78.051,
+    "end_sec": 78.223,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "जवाब",
+    "start_sec": 78.235,
+    "end_sec": 78.676,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "देता",
+    "start_sec": 78.676,
+    "end_sec": 79.069,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "है",
+    "start_sec": 79.069,
+    "end_sec": 79.326,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "और",
+    "start_sec": 79.608,
+    "end_sec": 79.767,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "वापस",
+    "start_sec": 79.792,
+    "end_sec": 80.282,
+    "duration_sec": 0.49
+  },
+  {
+    "word": "अपनी",
+    "start_sec": 80.331,
+    "end_sec": 80.65,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "ख़ामोशी",
+    "start_sec": 80.662,
+    "end_sec": 81.189,
+    "duration_sec": 0.527
+  },
+  {
+    "word": "में",
+    "start_sec": 81.225,
+    "end_sec": 81.36,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "लौट",
+    "start_sec": 81.36,
+    "end_sec": 81.679,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "जाता",
+    "start_sec": 81.679,
+    "end_sec": 82.083,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "है",
+    "start_sec": 82.108,
+    "end_sec": 82.414,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "न",
+    "start_sec": 83.701,
+    "end_sec": 83.946,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "कोई",
+    "start_sec": 83.946,
+    "end_sec": 84.252,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "नर्वस",
+    "start_sec": 84.265,
+    "end_sec": 84.718,
+    "duration_sec": 0.453
+  },
+  {
+    "word": "हंसी",
+    "start_sec": 84.718,
+    "end_sec": 85.184,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "न",
+    "start_sec": 86.176,
+    "end_sec": 86.397,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "कोई",
+    "start_sec": 86.397,
+    "end_sec": 86.703,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "घबराहट",
+    "start_sec": 86.703,
+    "end_sec": 87.353,
+    "duration_sec": 0.649
+  },
+  {
+    "word": "न",
+    "start_sec": 88.284,
+    "end_sec": 88.505,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "कोई",
+    "start_sec": 88.505,
+    "end_sec": 88.824,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "ज़रूरत",
+    "start_sec": 88.824,
+    "end_sec": 89.265,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "खुद",
+    "start_sec": 89.301,
+    "end_sec": 89.547,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "को",
+    "start_sec": 89.583,
+    "end_sec": 89.694,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "साबित",
+    "start_sec": 89.694,
+    "end_sec": 90.123,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "करने",
+    "start_sec": 90.184,
+    "end_sec": 90.466,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "की",
+    "start_sec": 90.466,
+    "end_sec": 90.748,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "सोशल",
+    "start_sec": 91.765,
+    "end_sec": 92.304,
+    "duration_sec": 0.539
+  },
+  {
+    "word": "साइकोलॉजी",
+    "start_sec": 92.304,
+    "end_sec": 93.064,
+    "duration_sec": 0.76
+  },
+  {
+    "word": "में",
+    "start_sec": 93.076,
+    "end_sec": 93.37,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "मिस्ट्री",
+    "start_sec": 93.529,
+    "end_sec": 93.971,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "छुपने",
+    "start_sec": 93.995,
+    "end_sec": 94.387,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "से",
+    "start_sec": 94.387,
+    "end_sec": 94.571,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 94.571,
+    "end_sec": 94.853,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "बनती",
+    "start_sec": 94.853,
+    "end_sec": 95.331,
+    "duration_sec": 0.478
+  },
+  {
+    "word": "ये",
+    "start_sec": 96.311,
+    "end_sec": 96.532,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "बनती",
+    "start_sec": 96.532,
+    "end_sec": 96.936,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "है",
+    "start_sec": 96.936,
+    "end_sec": 97.145,
+    "duration_sec": 0.208
+  },
+  {
+    "word": "खुद",
+    "start_sec": 97.181,
+    "end_sec": 97.451,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "में",
+    "start_sec": 97.451,
+    "end_sec": 97.635,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "पूरी",
+    "start_sec": 97.635,
+    "end_sec": 97.941,
+    "duration_sec": 0.306
+  },
+  {
+    "word": "तरह",
+    "start_sec": 97.99,
+    "end_sec": 98.321,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "सहज",
+    "start_sec": 98.321,
+    "end_sec": 98.738,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "रहने",
+    "start_sec": 98.738,
+    "end_sec": 99.056,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "से",
+    "start_sec": 99.056,
+    "end_sec": 99.326,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "जब",
+    "start_sec": 99.657,
+    "end_sec": 99.914,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "आपको",
+    "start_sec": 99.988,
+    "end_sec": 100.38,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "किसी",
+    "start_sec": 100.38,
+    "end_sec": 100.711,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "को",
+    "start_sec": 100.735,
+    "end_sec": 100.919,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "कुछ",
+    "start_sec": 100.919,
+    "end_sec": 101.189,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "साबित",
+    "start_sec": 101.189,
+    "end_sec": 101.63,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "नहीं",
+    "start_sec": 101.63,
+    "end_sec": 101.85,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "करना",
+    "start_sec": 101.85,
+    "end_sec": 102.243,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "होता",
+    "start_sec": 102.243,
+    "end_sec": 102.635,
+    "duration_sec": 0.392
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.283,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "is",
+    "start_sec": 0.295,
+    "end_sec": 0.418,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "simply",
+    "start_sec": 0.43,
+    "end_sec": 0.798,
+    "duration_sec": 0.368
+  },
+  {
+    "word": "immune",
+    "start_sec": 0.81,
+    "end_sec": 1.19,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "to",
+    "start_sec": 1.202,
+    "end_sec": 1.312,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "approval",
+    "start_sec": 1.325,
+    "end_sec": 1.937,
+    "duration_sec": 0.613
+  }
+]

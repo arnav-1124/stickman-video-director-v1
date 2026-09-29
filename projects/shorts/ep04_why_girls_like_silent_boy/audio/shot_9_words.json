@@ -1,0 +1,56 @@
+[
+  {
+    "word": "The",
+    "start_sec": 0.099,
+    "end_sec": 0.234,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "eager",
+    "start_sec": 0.246,
+    "end_sec": 0.577,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "frontbencher",
+    "start_sec": 0.589,
+    "end_sec": 1.214,
+    "duration_sec": 0.625
+  },
+  {
+    "word": "is",
+    "start_sec": 1.226,
+    "end_sec": 1.349,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "trapped",
+    "start_sec": 1.361,
+    "end_sec": 1.753,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "in",
+    "start_sec": 1.766,
+    "end_sec": 1.815,
+    "duration_sec": 0.049
+  },
+  {
+    "word": "the",
+    "start_sec": 1.827,
+    "end_sec": 1.888,
+    "duration_sec": 0.061
+  },
+  {
+    "word": "Validation",
+    "start_sec": 1.901,
+    "end_sec": 2.513,
+    "duration_sec": 0.613
+  },
+  {
+    "word": "Tax",
+    "start_sec": 2.526,
+    "end_sec": 3.102,
+    "duration_sec": 0.576
+  }
+]

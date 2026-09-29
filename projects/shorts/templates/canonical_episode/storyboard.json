@@ -1,0 +1,51 @@
+{
+  "project_id": "canonical_episode",
+  "title": "Episode Title Placeholder",
+  "format": "9:16",
+  "target_duration_sec": 60,
+  "style": {
+    "canvas": "clean off-white textured paper (#FAF9F6)",
+    "character": "expressive stickman with smooth circular white head and bold black ink strokes",
+    "environment": "minimal 2D hand-drawn cartoon doodle backgrounds, flat color blocking, zero 3D, zero anime architecture",
+    "stroke_weight": "bold 6px-8px ink pen line art",
+    "accents": ["#FF2A4D (Crimson Red)", "#00F0FF (Cyan Blue)"]
+  },
+  "pacing_rules": {
+    "target_median_duration_sec": 1.5,
+    "max_duration_sec": 2.4,
+    "cuts_per_minute": 38,
+    "rule": "Every spoken sentence must be segmented into 1 to 3 visual micro-cuts. No static slide may hold for > 2.5 seconds."
+  },
+  "cuts": [
+    {
+      "cut_id": 1,
+      "shot_id": 1,
+      "sub_beat": "a",
+      "duration_sec": 1.7,
+      "scene_type": "Hook / Wide Environment",
+      "visual_action": "Wide angle view of a college lecture hall packed with chattering stickman students.",
+      "framing": "Wide establishing shot",
+      "audio_phrase": "In every college lecture hall,"
+    },
+    {
+      "cut_id": 2,
+      "shot_id": 1,
+      "sub_beat": "b",
+      "duration_sec": 1.85,
+      "scene_type": "Subject Focus",
+      "visual_action": "Cut to the back bench: lone silent boy sitting with relaxed, confident posture and headphones around neck.",
+      "framing": "Medium shot",
+      "audio_phrase": "there is one boy in the last row"
+    },
+    {
+      "cut_id": 3,
+      "shot_id": 1,
+      "sub_beat": "c",
+      "duration_sec": 2.28,
+      "scene_type": "Behavioral Contrast",
+      "visual_action": "Side profile: foreground students frantically waving their hands while the silent boy looks calmly forward.",
+      "framing": "Close-up profile with deep background blur",
+      "audio_phrase": "who never raises his hand."
+    }
+  ]
+}

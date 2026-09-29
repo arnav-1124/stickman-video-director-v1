@@ -1,0 +1,85 @@
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_01.jpg'
+duration 2.035
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_02.jpg'
+duration 2.684
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_03.jpg'
+duration 2.744
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_04.jpg'
+duration 1.324
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_05.jpg'
+duration 2.389
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_06.jpg'
+duration 1.385
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_07.jpg'
+duration 2.218
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_08.jpg'
+duration 2.415
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_09.jpg'
+duration 2.132
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_10.jpg'
+duration 2.990
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_11.jpg'
+duration 1.838
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_12.jpg'
+duration 2.378
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_13.jpg'
+duration 3.272
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_14.jpg'
+duration 1.593
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_15.jpg'
+duration 1.605
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_16.jpg'
+duration 4.633
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_17.jpg'
+duration 1.336
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_18.jpg'
+duration 4.019
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_19.jpg'
+duration 1.961
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_20.jpg'
+duration 2.390
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_21.jpg'
+duration 3.529
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_22.jpg'
+duration 1.091
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_23.jpg'
+duration 3.946
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_24.jpg'
+duration 1.127
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_25.jpg'
+duration 3.628
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_26.jpg'
+duration 1.985
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_27.jpg'
+duration 2.365
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_28.jpg'
+duration 2.010
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_29.jpg'
+duration 2.427
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_30.jpg'
+duration 2.463
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_31.jpg'
+duration 2.316
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_32.jpg'
+duration 2.684
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_33.jpg'
+duration 2.696
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_34.jpg'
+duration 4.093
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_35.jpg'
+duration 2.475
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_36.jpg'
+duration 2.108
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_37.jpg'
+duration 1.017
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_38.jpg'
+duration 2.464
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_39.jpg'
+duration 1.764
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_40.jpg'
+duration 2.782
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_41.jpg'
+duration 3.346
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_42.jpg'
+duration 3.628
+file 'F:/Arnav - YT/stickman-video-director/projects/ep04_why_girls_like_silent_boy/slides/slide_42.jpg'

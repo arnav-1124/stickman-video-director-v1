@@ -1,0 +1,86 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.258,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "looks",
+    "start_sec": 0.271,
+    "end_sec": 0.54,
+    "duration_sec": 0.27
+  },
+  {
+    "word": "up",
+    "start_sec": 0.552,
+    "end_sec": 0.699,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "calmly",
+    "start_sec": 0.712,
+    "end_sec": 1.202,
+    "duration_sec": 0.49
+  },
+  {
+    "word": "gives",
+    "start_sec": 1.386,
+    "end_sec": 1.582,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "a",
+    "start_sec": 1.594,
+    "end_sec": 1.655,
+    "duration_sec": 0.061
+  },
+  {
+    "word": "clean",
+    "start_sec": 1.668,
+    "end_sec": 2.072,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "three-word",
+    "start_sec": 2.342,
+    "end_sec": 2.783,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "answer",
+    "start_sec": 2.795,
+    "end_sec": 3.261,
+    "duration_sec": 0.466
+  },
+  {
+    "word": "and",
+    "start_sec": 3.494,
+    "end_sec": 3.579,
+    "duration_sec": 0.086
+  },
+  {
+    "word": "returns",
+    "start_sec": 3.592,
+    "end_sec": 4.045,
+    "duration_sec": 0.453
+  },
+  {
+    "word": "to",
+    "start_sec": 4.057,
+    "end_sec": 4.168,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "his",
+    "start_sec": 4.18,
+    "end_sec": 4.302,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "silence",
+    "start_sec": 4.315,
+    "end_sec": 4.964,
+    "duration_sec": 0.649
+  }
+]

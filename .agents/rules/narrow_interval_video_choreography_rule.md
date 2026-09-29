@@ -1,7 +1,8 @@
-# Narrow Interval Video Choreography Rule
+# Semantic Cut Duration & Visual Choreography Rule
 
-## Pacing & Interval Directives
-- **Maximum Shot Duration**: 4.0 seconds. High-retention shorts require visual stimulation cuts every 2.5s–3.5s.
-- **Single Action Focus**: Every prompt must describe ONE clear, unambiguous physical motion or reveal (e.g. "a question mark draws itself", "the stickman shrugs and turns away", "a balance scale tilts down").
-- **No Complex Narrative Chaining**: Never ask an AI video model to perform 3 actions in 1 prompt (e.g., "The stickman runs, then stops, then opens a book, then reads it and cries"). Split multiple actions into distinct sequential shots.
-- **Camera Stasis**: Use subtle 2D pan or subtle push-in zoom. Avoid fast rotating 3D camera sweeps which destroy 2D doodle physics.
+## Pacing & Duration Directives (0.7s to 2.5s)
+1. **Never use a fixed timer or fixed duration.** Cuts are 100% tied to the semantic spoken clause.
+2. **Micro-Action Verbs (0.7s–1.0s):** Fast physical cuts (e.g. key entering lock, light switch flip, book slamming).
+3. **Concept & Text Cards (1.2s–1.6s):** Direct visual labels on off-white paper canvas with arrows (e.g. *"THE ATTENTION PARADOX"*, *"ABOUT 4 FT"*).
+4. **Narrative Explanatory Clauses (1.8s–2.5s):** Character posture and contextual interaction (e.g. backbencher smirking, two classmates whispering).
+5. **Maximum Duration:** Never let any single static slide linger on screen for more than **2.8 seconds** without a cut or visual punch.

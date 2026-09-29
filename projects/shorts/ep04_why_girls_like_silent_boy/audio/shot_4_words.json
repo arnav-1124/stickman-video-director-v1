@@ -1,0 +1,26 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.283,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "shuts",
+    "start_sec": 0.295,
+    "end_sec": 0.614,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "his",
+    "start_sec": 0.626,
+    "end_sec": 0.785,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "laptop",
+    "start_sec": 0.798,
+    "end_sec": 1.398,
+    "duration_sec": 0.6
+  }
+]

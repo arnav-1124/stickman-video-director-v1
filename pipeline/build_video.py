@@ -117,12 +117,23 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
             print(f"[Error] Clip {i+1} not found: {input_path}")
             sys.exit(1)
 
-        width, height, duration, has_audio = get_media_info(input_path)
+        is_image = input_path.suffix.lower() in ['.png', '.jpg', '.jpeg', '.webp']
+        if is_image:
+            duration = float(clip.get('duration', 1.5))
+            has_audio = False
+            width, height, _, _ = get_media_info(input_path)
+        else:
+            width, height, duration, has_audio = get_media_info(input_path)
+            
         processed_path = temp_dir / f"clip_{i:02d}.mp4"
 
-        # Duration trimming if specified
+        # Duration trimming / looping
         trim_args = []
-        if 'duration' in clip and float(clip['duration']) > 0:
+        image_input_args = []
+        if is_image:
+            image_input_args = ['-loop', '1']
+            trim_args = ['-t', str(duration)]
+        elif 'duration' in clip and float(clip['duration']) > 0:
             trim_args = ['-t', str(clip['duration'])]
 
         # Audio strategy
@@ -138,7 +149,7 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
                 # Vertical clip scaling cleanly into 1080x1920
                 vf = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30"
                 cmd = [
-                    'ffmpeg', '-y', '-i', str(input_path), *extra_inputs, *trim_args,
+                    'ffmpeg', '-y', *image_input_args, '-i', str(input_path), *extra_inputs, *trim_args,
                     '-vf', vf,
                     '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',
                     *audio_args, str(processed_path)
@@ -151,7 +162,7 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
                     "[bg][fg]overlay=(W-w)/2:(H-h)/2,setsar=1,fps=30[v_out]"
                 )
                 cmd = [
-                    'ffmpeg', '-y', '-i', str(input_path), *extra_inputs, *trim_args,
+                    'ffmpeg', '-y', *image_input_args, '-i', str(input_path), *extra_inputs, *trim_args,
                     '-filter_complex', complex_filter,
                     '-map', '[v_out]', '-map', '0:a' if has_audio else '1:a',
                     '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',
@@ -162,7 +173,7 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
                 # Widescreen clip scaling cleanly into 1920x1080
                 vf = "scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,fps=30"
                 cmd = [
-                    'ffmpeg', '-y', '-i', str(input_path), *extra_inputs, *trim_args,
+                    'ffmpeg', '-y', *image_input_args, '-i', str(input_path), *extra_inputs, *trim_args,
                     '-vf', vf,
                     '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',
                     *audio_args, str(processed_path)
@@ -175,7 +186,7 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
                     "[bg][fg]overlay=(W-w)/2:(H-h)/2,setsar=1,fps=30[v_out]"
                 )
                 cmd = [
-                    'ffmpeg', '-y', '-i', str(input_path), *extra_inputs, *trim_args,
+                    'ffmpeg', '-y', *image_input_args, '-i', str(input_path), *extra_inputs, *trim_args,
                     '-filter_complex', complex_filter,
                     '-map', '[v_out]', '-map', '0:a' if has_audio else '1:a',
                     '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',

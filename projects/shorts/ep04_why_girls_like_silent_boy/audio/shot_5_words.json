@@ -1,0 +1,32 @@
+[
+  {
+    "word": "leans",
+    "start_sec": 0.099,
+    "end_sec": 0.491,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "back",
+    "start_sec": 0.503,
+    "end_sec": 0.92,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "and",
+    "start_sec": 1.141,
+    "end_sec": 1.251,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "simply",
+    "start_sec": 1.263,
+    "end_sec": 1.655,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "observes",
+    "start_sec": 1.668,
+    "end_sec": 2.366,
+    "duration_sec": 0.699
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "word": "In",
+    "start_sec": 0.099,
+    "end_sec": 0.295,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "every",
+    "start_sec": 0.307,
+    "end_sec": 0.552,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "college",
+    "start_sec": 0.565,
+    "end_sec": 0.981,
+    "duration_sec": 0.417
+  },
+  {
+    "word": "lecture",
+    "start_sec": 0.994,
+    "end_sec": 1.337,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "hall",
+    "start_sec": 1.349,
+    "end_sec": 1.704,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "there",
+    "start_sec": 1.974,
+    "end_sec": 2.109,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "is",
+    "start_sec": 2.121,
+    "end_sec": 2.231,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "one",
+    "start_sec": 2.244,
+    "end_sec": 2.501,
+    "duration_sec": 0.257
+  },
+  {
+    "word": "boy",
+    "start_sec": 2.513,
+    "end_sec": 2.795,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "in",
+    "start_sec": 2.807,
+    "end_sec": 2.893,
+    "duration_sec": 0.086
+  },
+  {
+    "word": "the",
+    "start_sec": 2.905,
+    "end_sec": 2.979,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "last",
+    "start_sec": 2.991,
+    "end_sec": 3.322,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "row",
+    "start_sec": 3.334,
+    "end_sec": 3.555,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "who",
+    "start_sec": 3.567,
+    "end_sec": 3.702,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "never",
+    "start_sec": 3.714,
+    "end_sec": 4.008,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "raises",
+    "start_sec": 4.021,
+    "end_sec": 4.376,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "his",
+    "start_sec": 4.388,
+    "end_sec": 4.523,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "hand",
+    "start_sec": 4.535,
+    "end_sec": 4.989,
+    "duration_sec": 0.453
+  }
+]

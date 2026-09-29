@@ -1,0 +1,50 @@
+[
+  {
+    "word": "The",
+    "start_sec": 0.099,
+    "end_sec": 0.246,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "silent",
+    "start_sec": 0.258,
+    "end_sec": 0.699,
+    "duration_sec": 0.441
+  },
+  {
+    "word": "boy",
+    "start_sec": 0.712,
+    "end_sec": 0.957,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "operates",
+    "start_sec": 0.969,
+    "end_sec": 1.508,
+    "duration_sec": 0.539
+  },
+  {
+    "word": "under",
+    "start_sec": 1.521,
+    "end_sec": 1.717,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "the",
+    "start_sec": 1.729,
+    "end_sec": 1.839,
+    "duration_sec": 0.11
+  },
+  {
+    "word": "opposite",
+    "start_sec": 1.851,
+    "end_sec": 2.28,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "law",
+    "start_sec": 2.293,
+    "end_sec": 2.636,
+    "duration_sec": 0.343
+  }
+]

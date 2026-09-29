@@ -1,0 +1,80 @@
+[
+  {
+    "word": "Yet",
+    "start_sec": 0.099,
+    "end_sec": 0.442,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "girls",
+    "start_sec": 0.65,
+    "end_sec": 0.981,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "in",
+    "start_sec": 0.994,
+    "end_sec": 1.055,
+    "duration_sec": 0.061
+  },
+  {
+    "word": "the",
+    "start_sec": 1.067,
+    "end_sec": 1.128,
+    "duration_sec": 0.061
+  },
+  {
+    "word": "middle",
+    "start_sec": 1.141,
+    "end_sec": 1.435,
+    "duration_sec": 0.294
+  },
+  {
+    "word": "row",
+    "start_sec": 1.447,
+    "end_sec": 1.631,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "constantly",
+    "start_sec": 1.643,
+    "end_sec": 2.219,
+    "duration_sec": 0.576
+  },
+  {
+    "word": "glance",
+    "start_sec": 2.231,
+    "end_sec": 2.611,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "back",
+    "start_sec": 2.624,
+    "end_sec": 3.003,
+    "duration_sec": 0.38
+  },
+  {
+    "word": "wondering",
+    "start_sec": 3.224,
+    "end_sec": 3.653,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "what",
+    "start_sec": 3.665,
+    "end_sec": 3.788,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "he's",
+    "start_sec": 3.8,
+    "end_sec": 3.996,
+    "duration_sec": 0.196
+  },
+  {
+    "word": "thinking",
+    "start_sec": 4.008,
+    "end_sec": 4.474,
+    "duration_sec": 0.466
+  }
+]

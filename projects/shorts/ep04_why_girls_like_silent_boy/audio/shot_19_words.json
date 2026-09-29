@@ -1,0 +1,32 @@
+[
+  {
+    "word": "No",
+    "start_sec": 0.099,
+    "end_sec": 0.344,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "need",
+    "start_sec": 0.356,
+    "end_sec": 0.577,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "to",
+    "start_sec": 0.589,
+    "end_sec": 0.687,
+    "duration_sec": 0.098
+  },
+  {
+    "word": "qualify",
+    "start_sec": 0.7,
+    "end_sec": 1.251,
+    "duration_sec": 0.551
+  },
+  {
+    "word": "himself",
+    "start_sec": 1.263,
+    "end_sec": 1.925,
+    "duration_sec": 0.662
+  }
+]

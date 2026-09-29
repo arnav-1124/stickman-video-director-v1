@@ -1,19 +1,20 @@
-# 60-Second Retention Script Rule
+# Semantic Micro-Beat Scripting Rule (College Psychology & Retention)
 
-## 1. The 7-Shot Architecture (56s+ YouTube Shorts Master - MANDATORY FROM NEXT EPISODE)
-From Episode 04 onwards, every episode must be **at least 56+ seconds** long, consisting of **at least 7 clips × 8 seconds**:
-- **Shot 1 (0s–8s) - Pattern Interrupt Hook**: Counter-intuitive opening that destroys a common assumption. (14–16 words).
-- **Shot 2 (8s–16s) - The Social Trap**: The reactive/performative mistake average people make. (14–16 words).
-- **Shot 3 (16s–24s) - The Psychological Shift**: The quiet, autonomous mechanism of high-value frame control. (14–16 words).
-- **Shot 4 (24s–32s) - The Pressure Test**: Confrontation, judgment, or social stress test (Stoic reaction). (14–16 words).
-- **Shot 5 (32s–40s) - The Attraction Dynamic**: Why emotional detachment creates magnetic mystery. (14–16 words).
-- **Shot 6 (40s–48s) - The Psychological Revelation**: The internal shift or realization of the counterpart. (14–16 words).
-- **Shot 7 (48s–56s+) - The Climax Reversal & Loop**: The permanent sovereign outcome + punchline rule that seamlessly loops back to Shot 1. (14–16 words).
+## 1. The Semantic Beat Structure (20 to 30 Beats / 45s–55s)
+Every Short is written not as long paragraphs, but as **tight, numbered semantic clauses** (beats). Each beat dictates a single visual slide:
 
-*(Note: Prior legacy episodes Ep01-Ep03 used 6 shots / 48s. All future productions must strictly be 7+ shots / 56s+).*
+* **Beat Pacing Distribution:**
+  * **Micro-Action Verbs (0.7s–1.0s):** Sudden physical actions (e.g. *"drops pencil"*, *"slams locker"*, *"looks back"*).
+  * **Concepts & Text Cards (1.2s–1.6s):** High-impact words (e.g. *"RULE #1"*, *"THE SILENT PARADOX"*).
+  * **Narrative Clauses (1.8s–2.5s):** Core psychological mechanisms.
+* **Total Word Count:** 130 to 155 words per 50-second short (~150 WPM).
 
-## 2. The Strict 15-Word Veo Constraint
-- **Per-Shot Word Count:** Strictly **14 to 16 words** (max 18 words) per 8-second shot.
-- **Why:** Veo 3.1 speaks at ~2.1 words/sec. A 15-word line completes in ~7.0s, leaving a 1.0s natural breathing room before the cut. Exceeding 18 words causes Veo to cut off or mumble.
-- **Total Episode Word Count:** **100 to 115 words** (for 7 shots).
-- **Tone:** Mature, articulate, calm, psychologically penetrating. No cartoonish tropes or childish banter.
+## 2. The 5-Phase Campus Narrative Arc
+1. **The Pattern Interrupt Hook (Beats 1–4, 0s–8s):** Challenges a universal student assumption (e.g. *"In every college lecture hall, the loudest guy thinks he has power..."*).
+2. **The Social Illusion (Beats 5–9, 8s–18s):** The eager, performative mistake average guys make (frontbencher begging for validation).
+3. **The Hidden Mechanism (Beats 10–16, 18s–32s):** Why silence, detachment, and calm autonomy trigger curiosity.
+4. **The Teacher / Social Pressure Test (Beats 17–22, 32s–44s):** Stoic behavior under scrutiny (eye contact, unflinching response).
+5. **The Climax & Seamless Loop (Beats 23–26, 44s–50s+):** The permanent takeaway rule looping back to the opening line.
+
+## 3. Strict English Scripting Standard
+All scripts are written strictly in **English** with articulate, mature, and punchy campus vocabulary. No filler words, no generic openings ("Welcome back"), and no childish slang.

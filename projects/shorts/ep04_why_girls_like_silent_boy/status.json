@@ -1,0 +1,344 @@
+{
+  "project_id": "ep04_why_girls_like_silent_boy",
+  "stage": "MASTER_ASSETS",
+  "style": "INK_EXPLAINER",
+  "total_cuts": 42,
+  "cuts": [
+    {
+      "cut_id": 1,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_01.png"
+      },
+      "duration": 1.7
+    },
+    {
+      "cut_id": 2,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_02.png"
+      },
+      "duration": 1.85
+    },
+    {
+      "cut_id": 3,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_03.png"
+      },
+      "duration": 2.28
+    },
+    {
+      "cut_id": 4,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_04.png"
+      },
+      "duration": 1.1
+    },
+    {
+      "cut_id": 5,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_05.png"
+      },
+      "duration": 1.42
+    },
+    {
+      "cut_id": 6,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_06.png"
+      },
+      "duration": 1.25
+    },
+    {
+      "cut_id": 7,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_07.png"
+      },
+      "duration": 1.49
+    },
+    {
+      "cut_id": 8,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_08.png"
+      },
+      "duration": 2.26
+    },
+    {
+      "cut_id": 9,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_09.png"
+      },
+      "duration": 1.15
+    },
+    {
+      "cut_id": 10,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_10.png"
+      },
+      "duration": 2.07
+    },
+    {
+      "cut_id": 11,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_11.png"
+      },
+      "duration": 1.63
+    },
+    {
+      "cut_id": 12,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_12.png"
+      },
+      "duration": 1.37
+    },
+    {
+      "cut_id": 13,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_13.png"
+      },
+      "duration": 2.33
+    },
+    {
+      "cut_id": 14,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_14.png"
+      },
+      "duration": 2.09
+    },
+    {
+      "cut_id": 15,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_15.png"
+      },
+      "duration": 1.5
+    },
+    {
+      "cut_id": 16,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_16.png"
+      },
+      "duration": 2.68
+    },
+    {
+      "cut_id": 17,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_17.png"
+      },
+      "duration": 1.4
+    },
+    {
+      "cut_id": 18,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_18.png"
+      },
+      "duration": 2.56
+    },
+    {
+      "cut_id": 19,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_19.png"
+      },
+      "duration": 1.15
+    },
+    {
+      "cut_id": 20,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_20.png"
+      },
+      "duration": 1.4
+    },
+    {
+      "cut_id": 21,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_21.png"
+      },
+      "duration": 2.37
+    },
+    {
+      "cut_id": 22,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_22.png"
+      },
+      "duration": 1.1
+    },
+    {
+      "cut_id": 23,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_23.png"
+      },
+      "duration": 2.74
+    },
+    {
+      "cut_id": 24,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_24.png"
+      },
+      "duration": 1.25
+    },
+    {
+      "cut_id": 25,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_25.png"
+      },
+      "duration": 2.23
+    },
+    {
+      "cut_id": 26,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_26.png"
+      },
+      "duration": 1.45
+    },
+    {
+      "cut_id": 27,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_27.png"
+      },
+      "duration": 1.43
+    },
+    {
+      "cut_id": 28,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_28.png"
+      },
+      "duration": 1.3
+    },
+    {
+      "cut_id": 29,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_29.png"
+      },
+      "duration": 1.48
+    },
+    {
+      "cut_id": 30,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_30.png"
+      },
+      "duration": 1.85
+    },
+    {
+      "cut_id": 31,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_31.png"
+      },
+      "duration": 1.94
+    },
+    {
+      "cut_id": 32,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_32.png"
+      },
+      "duration": 1.4
+    },
+    {
+      "cut_id": 33,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_33.png"
+      },
+      "duration": 2.1
+    },
+    {
+      "cut_id": 34,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_34.png"
+      },
+      "duration": 2.31
+    },
+    {
+      "cut_id": 35,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_35.png"
+      },
+      "duration": 2.23
+    },
+    {
+      "cut_id": 36,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_36.png"
+      },
+      "duration": 2.09
+    },
+    {
+      "cut_id": 37,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_37.png"
+      },
+      "duration": 1.1
+    },
+    {
+      "cut_id": 38,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_38.png"
+      },
+      "duration": 1.68
+    },
+    {
+      "cut_id": 39,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_39.png"
+      },
+      "duration": 1.6
+    },
+    {
+      "cut_id": 40,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_40.png"
+      },
+      "duration": 2.62
+    },
+    {
+      "cut_id": 41,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_41.png"
+      },
+      "duration": 2.25
+    },
+    {
+      "cut_id": 42,
+      "slide_image": {
+        "status": "pending",
+        "file": "slides/slide_42.png"
+      },
+      "duration": 2.02
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.246,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "doesn't",
+    "start_sec": 0.258,
+    "end_sec": 0.577,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "fight",
+    "start_sec": 0.589,
+    "end_sec": 0.871,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "for",
+    "start_sec": 0.883,
+    "end_sec": 1.055,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "attention",
+    "start_sec": 1.067,
+    "end_sec": 1.668,
+    "duration_sec": 0.601
+  }
+]

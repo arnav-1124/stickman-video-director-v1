@@ -1,0 +1,568 @@
+{
+  "project_id": "ep04_why_girls_like_silent_boy",
+  "title": "Why Girls Like The Silent Boy",
+  "format": "9:16",
+  "total_cuts": 42,
+  "target_duration_sec": 75.22,
+  "style": {
+    "canvas": "clean off-white textured paper (#FAF9F6)",
+    "character": "expressive stickman with smooth circular white head and bold black ink strokes",
+    "environment": "minimal 2D hand-drawn cartoon doodle backgrounds, flat color blocking, zero 3D, zero anime architecture",
+    "stroke_weight": "bold 6px-8px ink pen line art",
+    "accents": [
+      "#FF2A4D (Crimson Red)",
+      "#00F0FF (Cyan Blue)"
+    ]
+  },
+  "pacing_rules": {
+    "target_median_duration_sec": 1.6,
+    "max_duration_sec": 2.7,
+    "cuts_per_minute": 38,
+    "rule": "Every spoken sentence is segmented into 1 to 3 dynamic visual micro-cuts. No static slide holds for > 2.7 seconds."
+  },
+  "cuts": [
+    {
+      "cut_id": 1,
+      "shot_id": 1,
+      "sub_beat": "a",
+      "text": "In every college lecture hall,",
+      "duration": 1.7,
+      "scene_type": "Establishing Environment",
+      "framing": "Wide lecture hall with red marker highlight",
+      "visual_action": "A wide vertical view of a minimalist 2D cartoon lecture hall: rows of simple wooden desks with several generic stickman students. In the very back row, the silent boy in his oversized black hoodie sits motionless, circled with a bold hand-drawn crimson red marker circle ('\u2b55') that immediately highlights him against the crowd.",
+      "refs": [
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 2,
+      "shot_id": 1,
+      "sub_beat": "b",
+      "text": "there is one boy in the last row",
+      "duration": 1.85,
+      "scene_type": "Subject Focus",
+      "framing": "Medium cartoon shot from side angle",
+      "visual_action": "Simple 2D cartoon classroom: lone stickman boy in dark hoodie sitting at a simple wooden desk in the back row, black earphones around neck, calm resting posture.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 3,
+      "shot_id": 1,
+      "sub_beat": "c",
+      "text": "who never raises his hand.",
+      "duration": 2.28,
+      "scene_type": "Behavioral Contrast",
+      "framing": "Depth-of-field cartoon profile: foreground contrast",
+      "visual_action": "Simple 2D doodle: foreground stickman students frantically waving both stick arms in the air with cartoon motion lines, while the silent boy in the back sits motionless with hands flat on desk.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 4,
+      "shot_id": 2,
+      "sub_beat": "a",
+      "text": "He doesn't fight",
+      "duration": 1.1,
+      "scene_type": "Desperation Contrast",
+      "framing": "Close-up on frontbencher",
+      "visual_action": "Frontbencher stickman with wide anxious cartoon dot eyes, spectacles, waving two stick hands hysterically with cartoon sweat drops flying.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 5,
+      "shot_id": 2,
+      "sub_beat": "b",
+      "text": "for attention.",
+      "duration": 1.42,
+      "scene_type": "Effortless Detachment",
+      "framing": "Medium close-up",
+      "visual_action": "Silent boy calmly unscrewing a simple cartoon metal water bottle, taking a slow sip, eyes calm and totally unbothered.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 6,
+      "shot_id": 3,
+      "sub_beat": "a",
+      "text": "He doesn't laugh",
+      "duration": 1.25,
+      "scene_type": "Group Conformity",
+      "framing": "Wide front row view",
+      "visual_action": "Simple cartoon lecture podium: professor stickman smirking while three front row stickmen fake-laugh with exaggerated open mouths and doodle tear icons.",
+      "refs": [
+        "@Character_Frontbencher",
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 7,
+      "shot_id": 3,
+      "sub_beat": "b",
+      "text": "at bad jokes.",
+      "duration": 1.49,
+      "scene_type": "Deadpan Neutrality",
+      "framing": "Close-up side profile",
+      "visual_action": "Close-up of silent boy's face: completely deadpan, simple horizontal black line for mouth, calm unreactive eyes staring straight ahead.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 8,
+      "shot_id": 4,
+      "sub_beat": "a",
+      "text": "He shuts his laptop,",
+      "duration": 2.26,
+      "scene_type": "Deliberate Action",
+      "framing": "Over-the-desk close-up",
+      "visual_action": "Two arms in oversized charcoal black hoodie sleeves with ribbed cuffs (matching @Character_Silent_Boy) gently pressing down the lid of a flat matte black laptop on a wooden classroom desk. Simple minimalist stickman hands emerging from the black cuffs. A small hand-drawn 'SNAP*' sound effect doodle. Zero white gloves, zero puffy mittens.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 9,
+      "shot_id": 5,
+      "sub_beat": "a",
+      "text": "leans back,",
+      "duration": 1.15,
+      "scene_type": "Body Language Power",
+      "framing": "Medium side angle",
+      "visual_action": "Silent boy leaning back comfortably against a simple cartoon chair, arms folded across his chest in relaxed, high-status posture.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 10,
+      "shot_id": 5,
+      "sub_beat": "b",
+      "text": "and simply observes.",
+      "duration": 2.07,
+      "scene_type": "Perceptual Dominance",
+      "framing": "High angle lookdown cartoon POV",
+      "visual_action": "High angle 2D cartoon POV looking down from back row over simple desk outlines: other stickman students look small and busy while he watches with calm perception lines.",
+      "refs": [
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 11,
+      "shot_id": 6,
+      "sub_beat": "a",
+      "text": "Yet, girls in the middle row",
+      "duration": 1.63,
+      "scene_type": "Female Curiosity",
+      "framing": "Medium shot of middle row",
+      "visual_action": "Middle row: stylish female stickman with dark ponytail sitting at a simple wooden desk, holding pen to chin, curious cartoon expression.",
+      "refs": [
+        "@Character_College_Girl",
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 12,
+      "shot_id": 6,
+      "sub_beat": "b",
+      "text": "constantly glance back,",
+      "duration": 1.37,
+      "scene_type": "Over-the-Shoulder Glance",
+      "framing": "Over-the-shoulder view",
+      "visual_action": "Female stickman turning head over right shoulder, looking all the way up toward the last row with simple cartoon glance arc lines.",
+      "refs": [
+        "@Character_College_Girl",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 13,
+      "shot_id": 6,
+      "sub_beat": "c",
+      "text": "wondering what he's thinking.",
+      "duration": 2.33,
+      "scene_type": "Intrigue & Mystery",
+      "framing": "Medium two-shot",
+      "visual_action": "Female stickman whispering to another female stickman classmate, with a subtle hand-drawn question mark doodle floating above her head.",
+      "refs": [
+        "@Character_College_Girl"
+      ]
+    },
+    {
+      "cut_id": 14,
+      "shot_id": 7,
+      "sub_beat": "a",
+      "text": "Why?",
+      "duration": 2.09,
+      "scene_type": "Graphic Hook / Interrogation",
+      "framing": "Minimalist graphic punch card",
+      "visual_action": "Massive bold hand-drawn black ink question mark '?' centered on clean off-white canvas (#FAF9F6) with subtle comic impact lines and bold hand-lettered 'WHY?' text below. Pure graphic punch, zero human characters.",
+      "refs": []
+    },
+    {
+      "cut_id": 15,
+      "shot_id": 8,
+      "sub_beat": "a",
+      "text": "Because the human brain",
+      "duration": 1.5,
+      "scene_type": "Psychological Mechanism",
+      "framing": "Iconic anatomical doodle with red marker highlight",
+      "visual_action": "At top center, clean bold hand-drawn ink title in capital letters: 'THE BRAIN'. In the center of the clean canvas, a single minimalist 2D cartoon doodle of a human brain drawn in bold black ink lines with simple flat grey-pink fill. Around the brain, a hand-drawn bold crimson red marker circle ('\u2b55') drawn like a dry-erase pen highlights the central attention area. Off-white textured paper background with ample negative space.",
+      "refs": []
+    },
+    {
+      "cut_id": 16,
+      "shot_id": 8,
+      "sub_beat": "b",
+      "text": "ignores whatever begs for focus.",
+      "duration": 2.68,
+      "scene_type": "Sensory Adaptation Metaphor",
+      "framing": "Minimalist rejection card with red X",
+      "visual_action": "At top center, clean bold hand-drawn ink title in capital letters: 'BEGGING FOR FOCUS'. In the center of the clean canvas, a single cartoon stickman jumping up and down frantically waving both arms. Stamped boldly across the entire stickman is a MASSIVE BOLD HAND-DRAWN CRIMSON RED 'X' (two thick red marker strokes crossing corner to corner, like a myth busted). Clean off-white paper canvas with generous negative space.",
+      "refs": []
+    },
+    {
+      "cut_id": 17,
+      "shot_id": 9,
+      "sub_beat": "a",
+      "text": "The eager frontbencher",
+      "duration": 1.4,
+      "scene_type": "Character Diagnosis",
+      "framing": "Medium portrait",
+      "visual_action": "Frontbencher sitting bolt upright at his cartoon desk, gripping three pens, strained cartoon sweat droplets flying.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 18,
+      "shot_id": 9,
+      "sub_beat": "b",
+      "text": "is trapped in the Validation Tax.",
+      "duration": 2.56,
+      "scene_type": "Concept Illustration",
+      "framing": "Minimalist hamster wheel metaphor",
+      "visual_action": "Using references @Character_Frontbencher: At top center, clean bold hand-drawn ink title in capital letters: 'VALIDATION TAX'. In the center of the canvas, the frontbencher stickman running inside a simple 2D hand-drawn cartoon hamster wheel made of clean black outlines. Off-white paper background, flat colors, generous breathing room.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 19,
+      "shot_id": 10,
+      "sub_beat": "a",
+      "text": "He talks loud,",
+      "duration": 1.15,
+      "scene_type": "Overcompensation",
+      "framing": "Simple 2D cartoon loud talking",
+      "visual_action": "Using references @Character_Frontbencher: A simple 2D minimalist cartoon doodle of the frontbencher stickman seated at a flat cartoon wooden desk. He leans forward with his mouth open wide shouting, holding a small hand-drawn red megaphone doodle. From the megaphone, three simple curved black ink sound wave lines ')))' radiate cleanly. Clean off-white paper canvas (#FAF9F6), flat solid colors, clean negative space.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 20,
+      "shot_id": 10,
+      "sub_beat": "b",
+      "text": "agrees with everything,",
+      "duration": 1.4,
+      "scene_type": "Sycophant Behavior",
+      "framing": "Simple 2D enthusiastic nodding",
+      "visual_action": "Using references @Character_Frontbencher: A simple 2D minimalist cartoon doodle of the frontbencher student sitting at his simple cartoon desk, happily giving two enthusiastic thumbs-up with an eager open-mouth smile. Above his head are two simple curved hand-drawn nod motion doodle lines. Clean off-white paper canvas, flat light-blue shirt, clean black pen outlines.",
+      "refs": [
+        "@Character_Frontbencher",
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 21,
+      "shot_id": 10,
+      "sub_beat": "c",
+      "text": "and performs for applause.",
+      "duration": 2.37,
+      "scene_type": "Performative Desperation",
+      "framing": "Theatrical stage framing",
+      "visual_action": "Frontbencher standing alone on a tiny cartoon wooden stage in the classroom, taking a deep dramatic bow to empty cartoon chairs.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 22,
+      "shot_id": 11,
+      "sub_beat": "a",
+      "text": "To the brain,",
+      "duration": 1.1,
+      "scene_type": "Psychological Axiom",
+      "framing": "Iconic symbolic balance",
+      "visual_action": "A clean 2D cartoon balance scale drawn in black ink lines, balanced at center above an off-white paper canvas.",
+      "refs": []
+    },
+    {
+      "cut_id": 23,
+      "shot_id": 11,
+      "sub_beat": "b",
+      "text": "high effort signals low status.",
+      "duration": 2.74,
+      "scene_type": "Status Law Diagram",
+      "framing": "Tilted balance scale continuation",
+      "visual_action": "The exact same bronze antique balance scale from Slide 22, now heavily tilted. A solid black weight block labeled 'HIGH EFFORT' weighs the left pan down near the desk surface, while the right pan labeled 'STATUS' floats high and empty in the air. Off-white textured paper canvas (#FAF9F6).",
+      "refs": [
+        "slides/slide_22.jpg"
+      ]
+    },
+    {
+      "cut_id": 24,
+      "shot_id": 12,
+      "sub_beat": "a",
+      "text": "The silent boy",
+      "duration": 1.25,
+      "scene_type": "Hero Introduction",
+      "framing": "Medium walking tracking shot",
+      "visual_action": "Simple 2D cartoon campus walkway: silent boy walking casually, hands in hoodie pocket, eyes straight ahead, calm unhurried pace.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 25,
+      "shot_id": 12,
+      "sub_beat": "b",
+      "text": "operates under the opposite law.",
+      "duration": 2.23,
+      "scene_type": "Scarcity Principle",
+      "framing": "Simple 2D pedestal metaphor",
+      "visual_action": "A simple 2D minimalist hand-drawn doodle: a cartoon black diamond resting under a simple bell jar on a small wooden pedestal, with three simple rough pebble doodles lying on the floor beside it. Bold black ink outlines, flat solid color fills, clean off-white paper canvas.",
+      "refs": []
+    },
+    {
+      "cut_id": 26,
+      "shot_id": 13,
+      "sub_beat": "a",
+      "text": "He doesn't avoid people",
+      "duration": 1.45,
+      "scene_type": "Social Grounding",
+      "framing": "Cafeteria doorway shot",
+      "visual_action": "Simple 2D cartoon cafeteria doorway: silent boy standing upright and calm, relaxed posture, not hiding, comfortable in the room.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 27,
+      "shot_id": 13,
+      "sub_beat": "b",
+      "text": "out of fear.",
+      "duration": 1.43,
+      "scene_type": "Misconception Shattered",
+      "framing": "Close-up heart rate monitor",
+      "visual_action": "A clean 2D medical EKG heart-rate line: completely flat and steady horizontal pulse wave, with crimson 'FEAR: 0%' cartoon stamp beside it.",
+      "refs": []
+    },
+    {
+      "cut_id": 28,
+      "shot_id": 14,
+      "sub_beat": "a",
+      "text": "He is simply immune",
+      "duration": 1.3,
+      "scene_type": "Psychological Armor",
+      "framing": "Simple 2D circle immunity doodle",
+      "visual_action": "Using references @Character_Silent_Boy: A simple 2D minimalist cartoon doodle: the silent boy standing centered with calm posture and hands in his oversized black hoodie pocket. Around him is a simple hand-drawn cyan blue '#00F0FF' circular doodle ring on the paper canvas. Clean off-white background with generous negative space.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 29,
+      "shot_id": 14,
+      "sub_beat": "b",
+      "text": "to approval.",
+      "duration": 1.48,
+      "scene_type": "Rejection of Cheap Coins",
+      "framing": "Simple 2D icon deflection doodle",
+      "visual_action": "Using references @Character_Silent_Boy: A simple 2D minimalist cartoon doodle: small hand-drawn thumbs-up icons and red heart doodle stickers bouncing off the outside of the silent boy's circular blue outline ring, while the silent boy inside stands completely unbothered with deadpan calm eyes. Clean off-white paper canvas.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 30,
+      "shot_id": 15,
+      "sub_beat": "a",
+      "text": "When the professor calls his name,",
+      "duration": 1.85,
+      "scene_type": "Classroom Tension Peak",
+      "framing": "Low angle professor point",
+      "visual_action": "Simple 2D cartoon classroom: stickman professor at green chalkboard turning around, pointing chalk stick directly toward the back row.",
+      "refs": [
+        "@Environment_Lecture_Hall"
+      ]
+    },
+    {
+      "cut_id": 31,
+      "shot_id": 15,
+      "sub_beat": "b",
+      "text": "he doesn't panic.",
+      "duration": 1.94,
+      "scene_type": "Unshakable Frame",
+      "framing": "Extreme close-up eyes",
+      "visual_action": "Extreme close-up on the silent boy's eyes: calm cartoon dot eyes, relaxed eyebrows, absolute stillness and grounded composure.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 32,
+      "shot_id": 16,
+      "sub_beat": "a",
+      "text": "He looks up calmly,",
+      "duration": 1.4,
+      "scene_type": "Deliberate Transition",
+      "framing": "Medium side angle",
+      "visual_action": "Silent boy smoothly looking up from his wooden desk, resting his chin casually on his hand, unhurried and composed.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 33,
+      "shot_id": 16,
+      "sub_beat": "b",
+      "text": "gives a clean, three-word answer,",
+      "duration": 2.1,
+      "scene_type": "Precision Articulation",
+      "framing": "Medium classroom shot with speech bubble",
+      "visual_action": "In the background at his wooden backbench desk, the silent boy speaks calmly with a neat rectangular speech bubble containing exactly: 'It Depends, Professor.' In the foreground, the stickman professor matching Slide 30 exactly (bald round head, round spectacles, little white mustache, simple thin stick body with white shirt) freezes in surprised awe.",
+      "refs": [
+        "master_assets/CHARACTER_01_DNA.jpg",
+        "master_assets/ENV_02_BACKBENCH.jpg",
+        "slides/slide_30.jpg"
+      ]
+    },
+    {
+      "cut_id": 34,
+      "shot_id": 16,
+      "sub_beat": "c",
+      "text": "and returns to his silence.",
+      "duration": 2.31,
+      "scene_type": "Conversation Terminated",
+      "framing": "Over-the-shoulder desk return",
+      "visual_action": "Silent boy immediately dropping his pen back down onto his notebook, looking down calmly, conversation sealed.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 35,
+      "shot_id": 17,
+      "sub_beat": "a",
+      "text": "No nervous laughter.",
+      "duration": 2.23,
+      "scene_type": "Negative Space Rule 1",
+      "framing": "Full-body stickman rejection with massive red X",
+      "visual_action": "At top center, clean bold hand-drawn black ink title in capital letters: 'NERVOUS LAUGHTER'. In the center of the canvas, the frontbencher student (matching @Character_Frontbencher) drawn as a full-body minimalist stickman with round white circular head, neat parted black hair, round wireframe spectacles with simple black dot eyes, light-blue collared shirt and thin black stick legs. He stands awkwardly, rubbing the back of his neck with one stick hand, an anxious small squiggly mouth, and two tiny cartoon sweat drops. Stamped boldly across him is a MASSIVE BOLD HAND-DRAWN CRIMSON RED 'X' (two thick red marker diagonal strokes crossing the frame). Clean off-white paper canvas with generous breathing room.",
+      "refs": [
+        "@Character_Frontbencher"
+      ]
+    },
+    {
+      "cut_id": 36,
+      "shot_id": 18,
+      "sub_beat": "a",
+      "text": "No fidgeting.",
+      "duration": 2.09,
+      "scene_type": "Negative Space Rule 2",
+      "framing": "Myth-busted rejection card with massive red X",
+      "visual_action": "At top center, clean bold hand-drawn ink title in capital letters: 'FIDGETING'. In the center, cartoon hands tapping nervously on a desk with frantic jitter motion lines and flying sweat drops. Stamped boldly across the entire illustration is a MASSIVE BOLD HAND-DRAWN CRIMSON RED 'X' (two thick red marker diagonal strokes crossing the entire frame). Clean off-white paper canvas.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Back_Bench"
+      ]
+    },
+    {
+      "cut_id": 37,
+      "shot_id": 19,
+      "sub_beat": "a",
+      "text": "No need",
+      "duration": 1.1,
+      "scene_type": "Zero Over-Explanation",
+      "framing": "Myth-busted rejection card with massive red X",
+      "visual_action": "At top center, clean bold hand-drawn ink title in capital letters: 'OVER-EXPLAINING'. In the center, a dense block of messy scribbled excuse text and defensive speech lines. Stamped boldly across the entire block is a MASSIVE BOLD HAND-DRAWN CRIMSON RED 'X' (two thick red diagonal strokes slashing it completely). Clean off-white paper canvas.",
+      "refs": []
+    },
+    {
+      "cut_id": 38,
+      "shot_id": 19,
+      "sub_beat": "b",
+      "text": "to qualify himself.",
+      "duration": 1.68,
+      "scene_type": "Total Self-Sufficiency",
+      "framing": "Medium solo silhouette",
+      "visual_action": "Silent boy standing centered on clean off-white paper canvas, standing tall with arms folded, comfortable with silence.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 39,
+      "shot_id": 20,
+      "sub_beat": "a",
+      "text": "In social psychology,",
+      "duration": 1.6,
+      "scene_type": "Psychology Domain Card",
+      "framing": "Infographic field card",
+      "visual_action": "Two stickman silhouettes at a simple cartoon library table, magnetic attraction arrows pulling attention toward the still figure.",
+      "refs": []
+    },
+    {
+      "cut_id": 40,
+      "shot_id": 20,
+      "sub_beat": "b",
+      "text": "mystery is not built by hiding.",
+      "duration": 2.62,
+      "scene_type": "False Mystery Debunked",
+      "framing": "Myth-busted rejection card with massive red X",
+      "visual_action": "At top center, clean bold hand-drawn ink title in capital letters: 'HIDING \u2260 MYSTERY'. In the center, a cartoon stickman hiding awkwardly behind a brick pillar wearing sunglasses indoors with a trenchcoat. Stamped boldly across the entire illustration is a MASSIVE BOLD HAND-DRAWN CRIMSON RED 'X' (two thick red diagonal strokes crossing the entire frame). Clean off-white paper canvas.",
+      "refs": []
+    },
+    {
+      "cut_id": 41,
+      "shot_id": 21,
+      "sub_beat": "a",
+      "text": "It is built by being completely comfortable",
+      "duration": 2.25,
+      "scene_type": "True Gravitas",
+      "framing": "Close-up confident hero",
+      "visual_action": "Close-up of silent boy looking directly into camera with calm, steady eyes and a faint subtle half-smile, total internal peace.",
+      "refs": [
+        "@Character_Silent_Boy"
+      ]
+    },
+    {
+      "cut_id": 42,
+      "shot_id": 21,
+      "sub_beat": "b",
+      "text": "having nothing to prove.",
+      "duration": 2.02,
+      "scene_type": "Ultimate High Status",
+      "framing": "Wide campus exit",
+      "visual_action": "Simple 2D cartoon campus exit: silent boy walking out through a simple cartoon door frame, backpack over one shoulder, totally free, while simple classroom outlines fade behind him.",
+      "refs": [
+        "@Character_Silent_Boy",
+        "@Environment_Lecture_Hall"
+      ]
+    }
+  ]
+}

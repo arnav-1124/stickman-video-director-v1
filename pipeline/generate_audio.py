@@ -15,7 +15,8 @@ NARRATOR_VOICES = {
     "christopher": {"voice": "en-US-ChristopherNeural", "pitch": "-2Hz", "rate": "+2%"},
     "guy": {"voice": "en-US-GuyNeural", "pitch": "+0Hz", "rate": "+4%"},
     "brian": {"voice": "en-US-BrianNeural", "pitch": "-1Hz", "rate": "+0%"},
-    "eric": {"voice": "en-US-EricNeural", "pitch": "-3Hz", "rate": "+1%"}
+    "eric": {"voice": "en-US-EricNeural", "pitch": "-3Hz", "rate": "+1%"},
+    "madhur_hindi": {"voice": "hi-IN-MadhurNeural", "pitch": "-2Hz", "rate": "+2%"}
 }
 
 def format_ass_time(seconds):
@@ -108,14 +109,17 @@ async def build_episode_audio(project_dir, voice_key="christopher"):
     timings = []
     cumulative_time = 0.0
 
-    print(f"\n[TTS] Generating voiceover for {len(sb.get('shots', []))} shots using voice {voice}...")
-    for idx, shot in enumerate(sb.get("shots", []), start=1):
-        sid = shot.get("shot_id", idx)
+    shots_list = sb.get("shots", []) or sb.get("beats", [])
+    print(f"\n[TTS] Generating voiceover for {len(shots_list)} shots/beats using voice {voice}...")
+    for idx, shot in enumerate(shots_list, start=1):
+        sid = shot.get("shot_id", shot.get("beat_id", idx))
         narration = ""
         if isinstance(shot.get("audio"), dict):
             narration = shot["audio"].get("narration", "")
         elif isinstance(shot.get("narration"), str):
             narration = shot["narration"]
+        elif isinstance(shot.get("semantic_clause"), str):
+            narration = shot["semantic_clause"]
 
         if not narration:
             continue
@@ -147,11 +151,29 @@ async def build_episode_audio(project_dir, voice_key="christopher"):
             "words": words
         })
 
-        cumulative_time = end_time + 0.35  # Subtle pause between shots
+        cumulative_time = end_time + 0.25  # Pacing pause between semantic beats
 
     timings_path = audio_dir / "dialogue_timings.json"
     with open(timings_path, 'w', encoding='utf-8') as f:
         json.dump(timings, f, indent=2)
+
+    # Also generate full unified voiceover if script.txt exists
+    script_path = project_dir / "script.txt"
+    if script_path.exists():
+        with open(script_path, 'r', encoding='utf-8') as f:
+            full_script_text = f.read().strip()
+        master_audio = audio_dir / "voiceover.mp3"
+        master_words = audio_dir / "word_timestamps.json"
+        print(f"\n[TTS] Generating master continuous voiceover.mp3 from script.txt...")
+        await generate_speech_with_timestamps(
+            full_script_text,
+            master_audio,
+            master_words,
+            voice=voice,
+            pitch=pitch,
+            rate=rate
+        )
+        print(f"✓ Master voiceover generated: {master_audio}")
 
     print(f"\n✓ Episode voiceover completed! Total narration duration: {round(cumulative_time, 1)}s")
     print(f"✓ Shot audios saved to: {audio_dir}")

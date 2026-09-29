@@ -1,0 +1,68 @@
+{
+  "project_id": "ep04_why_girls_like_silent_boy",
+  "languages": ["English", "Hindi"],
+  "english": {
+    "titles": [
+      "Why Girls Like The Silent Boy #shorts",
+      "The Backbencher Paradox #shorts",
+      "Why Professors Respect Silence #shorts",
+      "He Never Speaks, Yet Everyone Listens #shorts",
+      "The Validation Tax in College #shorts"
+    ],
+    "selected_title": "Why Girls Like The Silent Boy #shorts",
+    "description": "In a lecture hall full of people desperate for validation, the guy who needs nothing owns the room.\n\nHigh effort signals low status. Discover why the quietest student in the last row holds effortless magnetic respect without ever trying to prove himself.\n\nSubscribe for daily college psychology animations.\n#psychology #shorts #college #mindset #sigma #bodylanguage",
+    "tags": [
+      "psychology",
+      "college psychology",
+      "silent guy",
+      "backbencher",
+      "body language",
+      "student mindset",
+      "social status",
+      "why girls like quiet guys",
+      "sigma male",
+      "confidence",
+      "shorts"
+    ],
+    "pinned_comment": "Notice the difference? The eager student performs for applause. The quiet guy owns his frame. Which one are you in your lectures? 👇",
+    "visibility": "public"
+  },
+  "hindi": {
+    "titles": [
+      "लड़कियां Silent Boy को क्यों पसंद करती हैं? #shorts",
+      "The Silent Boy Psychology #shorts",
+      "क्लासरूम का सबसे शांत लड़का क्यों जीतता है? #shorts",
+      "Validation Tax: शांत रहने की ताक़त #shorts"
+    ],
+    "selected_title": "लड़कियां Silent Boy को क्यों पसंद करती हैं? #shorts",
+    "description": "जब पूरी क्लास अटेंशन और वाहवाही के पीछे भाग रही होती है, तब लास्ट बेंच पर बैठा वो शांत लड़का बिना कुछ बोले पूरी क्लास का ध्यान खींच लेता है।\n\nसाइकोलॉजी कहती है: जो भीख में ध्यान मांगता है, दिमाग उसे इग्नोर करता है।\n\nडेली साइकोलॉजी और माइंडसेट वीडियो के लिए सब्सक्राइब करें।\n#psychology #shorts #hindishorts #mindset #collegelife #sigma",
+    "tags": [
+      "hindi psychology",
+      "silent boy",
+      "backbencher psychology",
+      "student mindset",
+      "college life",
+      "sigma male hindi",
+      "body language tips",
+      "shorts hindi",
+      "self improvement"
+    ],
+    "pinned_comment": "क्या आपके कॉलेज में भी ऐसा कोई शांत लड़का है? कमेंट्स में बताएं! 👇",
+    "visibility": "public"
+  },
+  "thumbnail": {
+    "aspect_ratio": "9:16 (Shorts Cover) and 16:9 (Community / Browse)",
+    "style": "Minimalist 2D Pen-and-Ink Comic Doodle (Ink Explainer DNA)",
+    "recommended_concept": {
+      "title": "Over-The-Shoulder Fascination (High CTR)",
+      "prompt": "A minimal 2D hand-drawn cartoon doodle in the exact Ink Explainer art style on off-white textured paper (#FAF9F6). Bold black ink pen outlines (5px-8px), flat muted colors. In the sharp foreground, the stylish college girl stickman (matching @Character_College_Girl with brunette ponytail and cream sweater) turns her head over her shoulder, resting her chin on one stick hand with subtle cute pink cheek blush marks and wide fascinated eyes. In the classroom background, the silent boy (matching @Character_Silent_Boy in oversized black hoodie) leans back calmly at his wooden desk, unbothered and mysterious. A bold hand-drawn crimson red marker circle ('⭕') highlights the silent boy with a dashed red arrow pointing from her eyes to him. High-contrast, clean graphic novel doodle aesthetic. STRICT NEGATIVE: Single full-screen frame only, NO 3D rendering, NO photorealism, NO comic panel borders, NO speech bubbles, 9:16 vertical.",
+      "overlay_text": "WHY HIM?",
+      "sub_text": "HE SAID NOTHING."
+    },
+    "alternative_concept": {
+      "title": "Classroom Secret Glance",
+      "prompt": "A minimal 2D hand-drawn cartoon doodle in the exact Ink Explainer art style on off-white paper canvas (#FAF9F6). Bold black ink outlines, flat solid colors. Medium-shot lecture hall: stylish female stickman student (@Character_College_Girl) sitting in the middle row, holding a pen to her lips, secretly whispering to her friend while glancing back toward the last row with curious wide dot eyes and a subtle cartoon question mark floating above her head. In the back bench, the silent boy sits in complete stoic stillness wearing his dark hoodie. Clean negative space, viral YouTube thumbnail composition.",
+      "overlay_text": "SHE CAN'T STOP LOOKING"
+    }
+  }
+}

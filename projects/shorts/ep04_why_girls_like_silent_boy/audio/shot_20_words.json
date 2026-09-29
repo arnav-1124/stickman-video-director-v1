@@ -1,0 +1,56 @@
+[
+  {
+    "word": "In",
+    "start_sec": 0.099,
+    "end_sec": 0.283,
+    "duration_sec": 0.184
+  },
+  {
+    "word": "social",
+    "start_sec": 0.295,
+    "end_sec": 0.687,
+    "duration_sec": 0.392
+  },
+  {
+    "word": "psychology",
+    "start_sec": 0.7,
+    "end_sec": 1.435,
+    "duration_sec": 0.735
+  },
+  {
+    "word": "mystery",
+    "start_sec": 1.655,
+    "end_sec": 2.084,
+    "duration_sec": 0.429
+  },
+  {
+    "word": "is",
+    "start_sec": 2.097,
+    "end_sec": 2.219,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "not",
+    "start_sec": 2.231,
+    "end_sec": 2.476,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "built",
+    "start_sec": 2.489,
+    "end_sec": 2.709,
+    "duration_sec": 0.221
+  },
+  {
+    "word": "by",
+    "start_sec": 2.722,
+    "end_sec": 2.856,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "hiding",
+    "start_sec": 2.869,
+    "end_sec": 3.359,
+    "duration_sec": 0.49
+  }
+]

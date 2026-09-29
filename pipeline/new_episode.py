@@ -24,8 +24,8 @@ def scaffold_episode(episode_name):
     shutil.copytree(template_dir, target_dir)
 
     # Ensure required directories exist
-    (target_dir / "raw").mkdir(parents=True, exist_ok=True)
-    (target_dir / "anchors").mkdir(parents=True, exist_ok=True)
+    (target_dir / "master_assets").mkdir(parents=True, exist_ok=True)
+    (target_dir / "slides").mkdir(parents=True, exist_ok=True)
     (target_dir / "audio").mkdir(parents=True, exist_ok=True)
 
     # Update project_id in JSON template files
@@ -41,7 +41,9 @@ def scaffold_episode(episode_name):
             pass
 
     print(f"[SUCCESS] Episode workspace initialized at: {target_dir}")
-    print(f"[INFO] Downloaded AI video clips should be placed in: {target_dir / 'raw'}")
+    print(f"[INFO] 1. Generate master DNA in Flow AI -> save to: {target_dir / 'master_assets'}")
+    print(f"[INFO] 2. Generate voiceover -> save to: {target_dir / 'audio' / 'voiceover.mp3'}")
+    print(f"[INFO] 3. Slice cuts into 38-42 comic slides -> save to: {target_dir / 'slides'}")
     return target_dir
 
 if __name__ == "__main__":

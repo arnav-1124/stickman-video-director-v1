@@ -1,0 +1,68 @@
+[
+  {
+    "word": "It",
+    "start_sec": 0.099,
+    "end_sec": 0.234,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "is",
+    "start_sec": 0.246,
+    "end_sec": 0.381,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "built",
+    "start_sec": 0.393,
+    "end_sec": 0.712,
+    "duration_sec": 0.319
+  },
+  {
+    "word": "by",
+    "start_sec": 0.724,
+    "end_sec": 0.871,
+    "duration_sec": 0.147
+  },
+  {
+    "word": "being",
+    "start_sec": 0.883,
+    "end_sec": 1.128,
+    "duration_sec": 0.245
+  },
+  {
+    "word": "completely",
+    "start_sec": 1.141,
+    "end_sec": 1.668,
+    "duration_sec": 0.527
+  },
+  {
+    "word": "comfortable",
+    "start_sec": 1.68,
+    "end_sec": 2.158,
+    "duration_sec": 0.478
+  },
+  {
+    "word": "having",
+    "start_sec": 2.17,
+    "end_sec": 2.452,
+    "duration_sec": 0.282
+  },
+  {
+    "word": "nothing",
+    "start_sec": 2.464,
+    "end_sec": 2.795,
+    "duration_sec": 0.331
+  },
+  {
+    "word": "to",
+    "start_sec": 2.807,
+    "end_sec": 2.905,
+    "duration_sec": 0.098
+  },
+  {
+    "word": "prove",
+    "start_sec": 2.918,
+    "end_sec": 3.408,
+    "duration_sec": 0.49
+  }
+]

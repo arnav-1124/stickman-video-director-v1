@@ -1,0 +1,62 @@
+[
+  {
+    "word": "He",
+    "start_sec": 0.099,
+    "end_sec": 0.271,
+    "duration_sec": 0.172
+  },
+  {
+    "word": "talks",
+    "start_sec": 0.283,
+    "end_sec": 0.638,
+    "duration_sec": 0.355
+  },
+  {
+    "word": "loud",
+    "start_sec": 0.65,
+    "end_sec": 0.994,
+    "duration_sec": 0.343
+  },
+  {
+    "word": "agrees",
+    "start_sec": 1.226,
+    "end_sec": 1.631,
+    "duration_sec": 0.404
+  },
+  {
+    "word": "with",
+    "start_sec": 1.643,
+    "end_sec": 1.778,
+    "duration_sec": 0.135
+  },
+  {
+    "word": "everything",
+    "start_sec": 1.79,
+    "end_sec": 2.329,
+    "duration_sec": 0.539
+  },
+  {
+    "word": "and",
+    "start_sec": 2.526,
+    "end_sec": 2.648,
+    "duration_sec": 0.123
+  },
+  {
+    "word": "performs",
+    "start_sec": 2.66,
+    "end_sec": 3.212,
+    "duration_sec": 0.551
+  },
+  {
+    "word": "for",
+    "start_sec": 3.224,
+    "end_sec": 3.383,
+    "duration_sec": 0.159
+  },
+  {
+    "word": "applause",
+    "start_sec": 3.396,
+    "end_sec": 4.07,
+    "duration_sec": 0.674
+  }
+]

@@ -1,26 +1,25 @@
-# Audio & Video Generation Rule: Native Veo 3.1 Audio Standard
+# Audio & Timestamp Synchronization Rule (Comic-Sync Standard)
 
-> **MANDATE:** As per studio directive, audio is NOT generated locally via TTS. The production pipeline exclusively utilizes Google Veo 3.1's native multimodal Video + Audio generation.
+## 1. Narration Standard (English Only)
+* **Voice Profile:** `en-US-ChristopherNeural` (Deep, calm, articulate, authoritative male voice with clear studio acoustics).
+* **Pacing:** ~145–155 words per minute.
+* **Sub-Millisecond Word Timestamps:**
+  Every word boundary must be captured in `word_timestamps.json` (`word`, `start_time`, `end_time`) via `pipeline/generate_audio.py`.
 
----
+## 2. Semantic Clause Duration Mapping
+* Slide transitions are not locked to arbitrary intervals.
+* Each visual beat is mapped to the exact start and end timestamps of its spoken semantic clause:
+  - Micro-action verbs (e.g. *"locks the door"*): ~0.8s
+  - Concept cards (e.g. *"THE SILENT TRAP"*): ~1.3s–1.6s
+  - Narrative mechanisms: ~1.8s–2.5s
 
-## 1. Google Veo 3.1 Native Audio Architecture
-- **Primary Source:** Veo 3.1 generates both the visual motion and native audio track (narration dialogue, Foley effects, and room tone) simultaneously in Google Flow / VideoFX.
-- **The 15-Word Rule (Strict Duration Constraint):**
-  - Veo 3.1 clips have a strict 8-second limit.
-  - To prevent Veo from mumbling or cutting off narration before 8 seconds, **each shot's narration text in `[Audio Cues]` MUST be strictly 12 to 18 words (target: 14-16 words)**.
-  - ❌ *Never put 25+ word paragraphs in Veo `[Audio Cues]`.*
+## 3. Audio Mastering & Sound Bed
+* **Integrated Loudness:** Strictly normalized to **-11.9 LUFS** with compressed dynamic range (**LRA: 2.0 LU**).
+* **Continuous BGM Bed:** Lo-fi / dark ambient synth bed at `-22dB` to `-24dB` running non-stop.
+* **Diegetic Foley:** Real-world sound effects anchored to visual actions (footsteps, keys, locker slams, phone chimes, whispering).
 
----
-
-## 2. Assembly & Sound Layering
-- **Primary Dialogue Track:** The native audio stream from `clip_0X.mp4` is preserved at full volume.
-- **Background Music (BGM):** A subtle lo-fi contemplative drone or psychological track (`assets/bgm/`) is mixed underneath at low volume (`-18dB` to `-22dB`) to maintain consistent atmosphere across cuts without competing with Veo's dialogue.
-- **Final Loudness:** Normalized to broadcast **-14 LUFS** standard.
-
----
-
-## 3. Animated Kinetic Subtitles
-- SubStation Alpha (`.ass`) kinetic karaoke subtitles are generated from the prompt's spoken narration text.
-- Word boundaries are paced to match the 8.0s clip (onset at ~0.5s, active gold highlight `&H0000D7FF` with 108% scale pop, solid white inactive words, thick black outline).
-- Subtitles are positioned in the safe lower-third (`MarginV: 350` to `400`) above platform UI overlays.
+## 4. Kinetic Subtitles (.ass)
+* SubStation Alpha karaoke subtitles generated from word timestamps.
+* Safe zone: `MarginV: 400` (Lower-third, clear of Shorts UI).
+* Active word: Gold highlight pop (`&H0000D7FF`) at 108% scale.
+* Inactive words: Crisp solid white (`&H00FFFFFF`) with 4.5px black outline.
