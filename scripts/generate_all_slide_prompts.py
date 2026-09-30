@@ -36,30 +36,54 @@ chapter_folder_names = {
     5: "chapter_05_detachment_without_cruelty",
 }
 
+def clean_visual_composition(comp_text):
+    text = comp_text.replace("\n", " ").strip()
+    
+    # Strip out audio cues and storyboard animation loop directives
+    text = re.sub(r"A subtle sub-bass thud plays\.?", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"A subtle sub-bass[^\.]*\.?", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"A low frequency[^\.]*\.?", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"with a click sound\s*`\*CLICK\*`\.?", "clicking the lever.", text, flags=re.IGNORECASE)
+    text = re.sub(r"with a chime\s*`\*DING\*`\.?", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"2-step animation loop:?", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"1\.\s*", "", text)
+    text = re.sub(r"2\.\s*", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
 def determine_references(shot):
+    scene_type = shot.get("scene_type", "")
+    comp_raw = shot.get("visual_composition_16_9", "")
     text = (
         shot.get("title", "") + " " +
-        shot.get("visual_composition_16_9", "") + " " +
+        comp_raw + " " +
         shot.get("spoken_clause", "") + " " +
         shot.get("psychological_intent", "")
     ).lower()
 
+    # Pure text/title cards without any character mention should NOT attach character/environment references
+    is_pure_text = any(t in scene_type for t in ["title_card", "text_card", "text_punch_card", "transition_card", "outro_card", "fade_out"])
+    has_character_figure = any(c in comp_raw for c in ["CHAR_01", "CHAR_02", "CHAR_03", "CHAR_04", "CHAR_05", "CHAR_06", "CHAR_07", "stickman", "person", "silhouette", "figure", "pigeon", "salesman", "scientist"])
+
+    if is_pure_text and not has_character_figure:
+        return "None (Pure typography card on paper canvas)"
+
     refs = []
 
     # Characters
-    if any(k in text for k in ["sovereign", "backbencher", "char_01"]):
+    if any(k in text for k in ["sovereign", "backbencher", "char_01"]) or "CHAR_01" in comp_raw:
         refs.append("@char_01_sovereign.jpg")
-    if any(k in text for k in ["overgiver", "anxious", "char_02", "people-pleas", "pleasing", "text", "replied", "frantic"]):
+    if any(k in text for k in ["overgiver", "anxious", "char_02", "people-pleas", "pleasing", "text", "replied", "frantic"]) or "CHAR_02" in comp_raw:
         refs.append("@char_02_overgiver.jpg")
-    if any(k in text for k in ["observer", "char_03", "female", "girl", "woman", "classmate", "crush", "walks past"]):
+    if any(k in text for k in ["observer", "char_03", "female", "girl", "woman", "classmate", "crush", "walks past"]) or "CHAR_03" in comp_raw:
         refs.append("@char_03_observer.jpg")
-    if any(k in text for k in ["salesman", "salesperson", "char_04", "discount", "megaphone", "cheap suit"]):
+    if any(k in text for k in ["salesman", "salesperson", "char_04", "discount", "megaphone", "cheap suit"]) or "CHAR_04" in comp_raw:
         refs.append("@char_04_salesman.jpg")
-    if any(k in text for k in ["scientist", "skinner", "char_05", "lab coat"]):
+    if any(k in text for k in ["scientist", "skinner", "char_05", "lab coat"]) or "CHAR_05" in comp_raw:
         refs.append("@char_05_scientist.jpg")
-    if any(k in text for k in ["pigeon", "char_06", "beak", "peck", "pellet"]):
+    if any(k in text for k in ["pigeon", "char_06", "beak", "peck", "pellet"]) or "CHAR_06" in comp_raw:
         refs.append("@char_06_pigeon.jpg")
-    if any(k in text for k in ["inner child", "char_07", "child", "chest cavity", "vulnerable"]):
+    if any(k in text for k in ["inner child", "char_07", "child", "chest cavity", "vulnerable"]) or "CHAR_07" in comp_raw:
         refs.append("@char_07_inner_child.jpg")
 
     # Environments
@@ -73,32 +97,30 @@ def determine_references(shot):
         refs.append("@env_04_campus_cafe.jpg")
     if any(k in text for k in ["brain", "mindscape", "neural", "scale", "balance scale", "value scale", "dopamine", "graph", "metric", "psychological"]):
         refs.append("@env_05_abstract_mind.jpg")
-    if any(k in text for k in ["pedestal", "pillar", "column", "marble", "throne"]):
+    if any(k in text for k in ["pedestal", "pillar", "column", "marble", "throne"]) and "title_card" not in scene_type:
         refs.append("@env_06_pedestal_pillar.jpg")
 
-    # Fallback to visual DNA anchor if none matched
     if not refs:
         refs.append("@char_01_sovereign.jpg (for ink style & line weight)")
 
     return ", ".join(refs)
 
 def build_prompt(shot, ref_str):
-    comp = shot.get("visual_composition_16_9", "").replace("\n", " ").strip()
-    # Clean up double spaces
-    comp = re.sub(r"\s+", " ", comp)
+    comp = clean_visual_composition(shot.get("visual_composition_16_9", ""))
     accent = shot.get("color_accent", "").replace("\n", " ").strip()
     accent = re.sub(r"\s+", " ", accent)
-
     accent_str = f"Color Accent: {accent}. " if accent else ""
 
+    ref_clause = f"Using references {ref_str}: " if ref_str != "None (Pure typography card on paper canvas)" else ""
+
     prompt_text = (
-        f"A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, "
-        f"drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), "
+        f"A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, "
+        f"drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), "
         f"flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. "
-        f"Widescreen 16:9 aspect ratio (1920x1080). Using references {ref_str}: {comp}. "
+        f"Widescreen 16:9 landscape aspect ratio (1920x1080). {ref_clause}{comp}. "
         f"{accent_str}"
-        f"Clean 2D graphic novel doodle art with generous negative space. "
-        f"STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen."
+        f"Clean minimalist line art with generous negative space. "
+        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO realistic human skin."
     )
     return prompt_text
 
@@ -113,22 +135,20 @@ for s in shots:
     chapters_data[ch].append(s)
 
 with open(ep_md_path, "w", encoding="utf-8") as md, open(ep_txt_path, "w", encoding="utf-8") as txt:
-    # Markdown Header
     md.write("# Nano Banana Pro (Google Flow AI) Scene Slide Prompts: Complete Episode 01\n")
     md.write("## Episode 01: Why People Fall For Who Ignores Them\n")
     md.write("### Complete Production Packet: All 148 Slides (Chapters 01 – 05)\n\n")
-    md.write("> **Aspect Ratio:** `16:9` Widescreen (`1920x1080`)  \n")
-    md.write("> **Global Aesthetic:** 2D Minimalist Comic Art / The Ink Explainer Aesthetic  \n")
+    md.write("> **Aspect Ratio:** `16:9` Widescreen (`1920x1080` Landscape)  \n")
+    md.write("> **Global Aesthetic:** 2D Minimalist Vector Ink Explainer on Textured Paper  \n")
     md.write("> **Model:** Nano Banana Pro (Gemini 3 Pro Image) via Google Flow  \n")
-    md.write("> **Master Consistency Anchors:** Upload `@char_01_sovereign.jpg`, `@char_02_overgiver.jpg`, `@char_03_observer.jpg`, `@char_04_salesman.jpg`, `@char_05_scientist.jpg`, `@char_06_pigeon.jpg`, `@char_07_inner_child.jpg`, `@env_01_bedroom.jpg`, `@env_02_skinner_lab.jpg`, `@env_03_library.jpg`, `@env_04_campus_cafe.jpg`, `@env_05_abstract_mind.jpg`, and `@env_06_pedestal_pillar.jpg` into Flow AI as reference attachments.\n\n")
+    md.write("> **Framing Rule:** Every single slide must be generated as a single full-screen edge-to-edge landscape frame. Do not select vertical/comic formats.\n\n")
     md.write("---\n\n")
 
-    # Plain Text Header
     txt.write("==================================================================\n")
     txt.write("  EPISODE 01: WHY PEOPLE FALL FOR WHO IGNORES THEM\n")
     txt.write("  Model: Nano Banana Pro (Gemini 3 Pro Image) via Google Flow\n")
-    txt.write("  Aspect Ratio: 16:9 Widescreen (1920x1080) for all 148 scene slides\n")
-    txt.write("  Style: Minimal Hand-Drawn 2D Comic Doodle (Ink Explainer DNA)\n")
+    txt.write("  Aspect Ratio: 16:9 Widescreen Landscape (1920x1080)\n")
+    txt.write("  Style: Minimal Hand-Drawn 2D Ink Explainer (Single Full Frame)\n")
     txt.write("  Total Slides: 148 | All 5 Chapters\n")
     txt.write("==================================================================\n\n")
 
@@ -140,7 +160,6 @@ with open(ep_md_path, "w", encoding="utf-8") as md, open(ep_txt_path, "w", encod
         txt.write(f"  {ch_title} (Shots {ch_shots[0]['shot_id']:03d} - {ch_shots[-1]['shot_id']:03d})\n")
         txt.write("==================================================================\n\n")
 
-        # Chapter-specific prompt files
         ch_folder = ep_dir / chapter_folder_names[ch_num]
         ch_md_path = ch_folder / "nano_banana_prompts.md"
         ch_txt_path = ch_folder / "quick_batch_copypaste.txt"
@@ -150,16 +169,16 @@ with open(ep_md_path, "w", encoding="utf-8") as md, open(ep_txt_path, "w", encod
 
         ch_md_lines.append(f"# Nano Banana Pro (Google Flow AI) Scene Slide Prompts: {ch_title}\n")
         ch_md_lines.append("## Episode 01: Why People Fall For Who Ignores Them\n\n")
-        ch_md_lines.append("> **Aspect Ratio:** `16:9` Widescreen (`1920x1080`)  \n")
-        ch_md_lines.append("> **Global Aesthetic:** 2D Minimalist Comic Art / The Ink Explainer Aesthetic  \n")
+        ch_md_lines.append("> **Aspect Ratio:** `16:9` Widescreen Landscape (`1920x1080`)  \n")
+        ch_md_lines.append("> **Global Aesthetic:** 2D Minimalist Vector Ink Explainer on Textured Paper  \n")
         ch_md_lines.append("> **Model:** Nano Banana Pro (Gemini 3 Pro Image) via Google Flow  \n\n")
         ch_md_lines.append("---\n\n")
 
         ch_txt_lines.append("==================================================================\n")
         ch_txt_lines.append(f"  EPISODE 01 - {ch_title}\n")
         ch_txt_lines.append("  Model: Nano Banana Pro (Gemini 3 Pro Image) via Google Flow\n")
-        ch_txt_lines.append(f"  Aspect Ratio: 16:9 Widescreen (1920x1080) for all {len(ch_shots)} scene slides\n")
-        ch_txt_lines.append("  Style: Minimal Hand-Drawn 2D Comic Doodle (Ink Explainer DNA)\n")
+        ch_txt_lines.append(f"  Aspect Ratio: 16:9 Widescreen Landscape (1920x1080)\n")
+        ch_txt_lines.append("  Style: Minimal Hand-Drawn 2D Ink Explainer (Single Full Frame)\n")
         ch_txt_lines.append(f"  Total Slides: {len(ch_shots)}\n")
         ch_txt_lines.append("==================================================================\n\n")
 
@@ -211,7 +230,4 @@ with open(ep_md_path, "w", encoding="utf-8") as md, open(ep_txt_path, "w", encod
         with open(ch_txt_path, "w", encoding="utf-8") as f_ch_txt:
             f_ch_txt.writelines(ch_txt_lines)
 
-print(f"Generated Episode Slide Prompts:")
-print(f"  Markdown: {ep_md_path}")
-print(f"  Plain Text: {ep_txt_path}")
-print(f"Total Slides: {len(shots)}")
+print("Slide prompts successfully updated across all files!")
