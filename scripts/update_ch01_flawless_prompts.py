@@ -108,7 +108,7 @@ ch1_updates = {
         "title": "The Three-Word Economy",
         "scene_type": "character_interaction",
         "refs": "@char_01_sovereign.jpg",
-        "comp": "Side-by-side profile view. On the left, an over-excited classmate asks an elaborate question with a sprawling paragraph speech bubble. On the right, CHAR_01_SOVEREIGN looks back with a calm, steady neutral gaze, offering a clean, compact speech bubble containing only: 'Yes, that's correct.' Nothing more.",
+        "comp": "Two-shot side-by-side profile view of two 2D doodle stick figures with smooth solid white circular heads (#FFFFFF) and simple black ink outlines. On the left, an over-excited classmate stickman wearing a simple striped t-shirt gestures frantically with both hands, accompanied by a giant chaotic speech bubble filled with scribbled squiggly doodle lines representing non-stop rambling. On the right, CHAR_01_SOVEREIGN stands completely relaxed, wearing his oversized black hoodie with hands tucked in his pocket (matching @char_01_sovereign.jpg), calmly looking back with half-lidded unbothered eyes, offering a single small clean speech bubble containing only: 'Yes, that\\'s correct.'",
         "accent": ""
     },
     16: {
@@ -122,7 +122,7 @@ ch1_updates = {
         "title": "Immune to Fake Politeness",
         "scene_type": "character_interaction",
         "refs": "@char_01_sovereign.jpg",
-        "comp": "Close-up on a crowded social circle. Three background students are throwing their heads back in theatrical, forced, exaggerated fake laughter over a mediocre joke. In the center of the group, CHAR_01_SOVEREIGN maintains a steady, serene, neutral half-smile, completely immune to peer pressure.",
+        "comp": "Close-up on a crowded social circle. Three background 2D doodle stickman students with smooth white circular heads are throwing their heads back in theatrical, forced, exaggerated fake laughter over a mediocre joke. In the center of the group, CHAR_01_SOVEREIGN maintains a steady, serene, neutral half-smile with half-lidded eyes, completely immune to peer pressure.",
         "accent": ""
     },
     18: {

@@ -156,6 +156,9 @@ def build_prompt(shot, ref_str):
 
     ref_clause = f"Using references {ref_str}: " if ref_str != "None (Pure typography card on paper canvas)" else ""
 
+    allow_speech_bubbles = "speech bubble" in comp.lower() or "speech bubbles" in comp.lower()
+    speech_bubble_neg = "" if allow_speech_bubbles else "NO speech bubbles, "
+
     prompt_text = (
         f"A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, "
         f"drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), "
@@ -163,7 +166,7 @@ def build_prompt(shot, ref_str):
         f"Widescreen 16:9 landscape aspect ratio (1920x1080). {ref_clause}{comp}. "
         f"{accent_str}"
         f"Clean minimalist line art with generous negative space. "
-        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin."
+        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, {speech_bubble_neg}NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin, NO flesh tones, NO colored skin, NO anime faces, NO realistic faces, NO noses, NO lips, NO 3D rendering."
     )
     return prompt_text
 
