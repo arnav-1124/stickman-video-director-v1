@@ -219,8 +219,8 @@ ch1_updates = {
     31: {
         "title": "Looking Up, Looking Down",
         "scene_type": "character_interaction",
-        "refs": "slide_030.png",
-        "comp": "Split-angle two-panel continuation of slide 030: On the left, close-up of CHAR_02_OVERGIVER with a strained neck looking straight up into the sky with adoration. On the right, close-up of CHAR_03_OBSERVER looking down from high above, her eyes expressing discomfort, awkwardness, and emotional distance.",
+        "refs": "@char_02_overgiver.jpg, @char_03_observer.jpg",
+        "comp": "A graphic two-panel split screen divided cleanly by a single vertical black ink line down the center of the 16:9 widescreen canvas. On the left panel: Close-up profile of CHAR_02_OVERGIVER (an expressive 2D doodle stickman with a smooth round white circular head and blue sweater, normal neck and head proportions). He tilts his head slightly upward looking toward the top right with wide adoring starry eyes. Below him is a neat hand-drawn label: 'LOOKING UP'. On the right panel: Close-up profile of CHAR_03_OBSERVER (smooth round white circular head, brown ponytail, beige sweater). She looks downward toward the bottom left with uncomfortable, distant, detached eyes. Below her is a neat hand-drawn label: 'LOOKING DOWN'.",
         "accent": ""
     },
     32: {

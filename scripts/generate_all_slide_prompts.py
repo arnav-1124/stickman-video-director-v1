@@ -94,7 +94,7 @@ def determine_references(shot):
         28: "slide_026.png",
         29: "@env_06_pedestal_pillar.jpg",
         30: "slide_029.png, @char_03_observer.jpg, @char_02_overgiver.jpg",
-        31: "slide_030.png",
+        31: "@char_02_overgiver.jpg, @char_03_observer.jpg",
         32: "None (Pure typography card on paper canvas)",
         33: "None (Pure typography card on paper canvas)",
         34: "None (Pure typography card on paper canvas)",
@@ -159,6 +159,9 @@ def build_prompt(shot, ref_str):
     allow_speech_bubbles = "speech bubble" in comp.lower() or "speech bubbles" in comp.lower()
     speech_bubble_neg = "" if allow_speech_bubbles else "NO speech bubbles, "
 
+    allow_split = "split screen" in comp.lower() or "two-panel" in comp.lower() or "split-angle" in comp.lower()
+    panel_neg = "" if allow_split else "NO multiple panels, NO comic book strips, NO cards, NO split screens, "
+
     prompt_text = (
         f"A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, "
         f"drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), "
@@ -166,7 +169,7 @@ def build_prompt(shot, ref_str):
         f"Widescreen 16:9 landscape aspect ratio (1920x1080). {ref_clause}{comp}. "
         f"{accent_str}"
         f"Clean minimalist line art with generous negative space. "
-        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, {speech_bubble_neg}NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin, NO flesh tones, NO colored skin, NO anime faces, NO realistic faces, NO noses, NO lips, NO 3D rendering."
+        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. {panel_neg}NO black borders, NO frames, NO grid layouts, {speech_bubble_neg}NO elongated necks, NO stretched necks, NO giraffe necks, NO floating heads, NO floating bodies, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin, NO flesh tones, NO colored skin, NO anime faces, NO realistic faces, NO noses, NO lips, NO 3D rendering."
     )
     return prompt_text
 
