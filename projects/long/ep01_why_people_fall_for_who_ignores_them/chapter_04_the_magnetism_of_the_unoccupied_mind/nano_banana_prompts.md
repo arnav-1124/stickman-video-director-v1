@@ -285,10 +285,10 @@ A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in t
 - **Duration:** `3.4s`
 - **Voiceover Phrase:** *"He doesn't check his phone every two minutes to see if someone liked his photo."*
 - **Scene Type:** `prop_closeup`
-- **Bound References:** `@char_01_sovereign.jpg, @env_04_campus_cafe.jpg, @env_05_abstract_mind.jpg`
+- **Bound References:** `@char_01_sovereign.jpg, @env_05_abstract_mind.jpg`
 - **Flow AI Prompt (16:9 Widescreen):**
 ```text
-A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_04_campus_cafe.jpg, @env_05_abstract_mind.jpg: His phone sits upside down beside his coffee cup. In a ghosted thought bubble above it, an Instagram heart notification counter `+1` pops up, but it has zero power over him.. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
+A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_05_abstract_mind.jpg: His phone sits upside down beside his coffee cup. In a ghosted thought bubble above it, an Instagram heart notification counter `+1` pops up, but it has zero power over him.. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
 ```
 
 ---

@@ -90,10 +90,10 @@ A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in t
 - **Duration:** `4.0s`
 - **Voiceover Phrase:** *"One student is desperate for an A-plus. He stays up until three in the morning formatting slides, worrying about fonts, and sweating every detail."*
 - **Scene Type:** `character_closeup`
-- **Bound References:** `@char_02_overgiver.jpg, @env_04_campus_cafe.jpg`
+- **Bound References:** `@char_02_overgiver.jpg`
 - **Flow AI Prompt (16:9 Widescreen):**
 ```text
-A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_04_campus_cafe.jpg: Close-up on the frantic student at 3:00 AM. Three coffee mugs stacked up, red bloodshot ink eyes, frantic clicking on slide formatting tools, posture completely crumpled.. Color Accent: Red indicator warnings on his screen (`#FF3B30`).. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
+A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: Close-up on the frantic student at 3:00 AM. Three coffee mugs stacked up, red bloodshot ink eyes, frantic clicking on slide formatting tools, posture completely crumpled.. Color Accent: Red indicator warnings on his screen (`#FF3B30`).. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
 ```
 
 ---
@@ -285,10 +285,10 @@ A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in t
 - **Duration:** `4.2s`
 - **Voiceover Phrase:** *"When a person ignores you, or simply doesn't rush to cater to your every mood, they trigger the exact opposite reaction. They signal emotional self-sufficiency."*
 - **Scene Type:** `character_vignette`
-- **Bound References:** `@char_01_sovereign.jpg, @char_04_salesman.jpg, @env_04_campus_cafe.jpg`
+- **Bound References:** `@char_01_sovereign.jpg, @char_04_salesman.jpg`
 - **Flow AI Prompt (16:9 Widescreen):**
 ```text
-A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_04_salesman.jpg, @env_04_campus_cafe.jpg: `CHAR_01_SOVEREIGN` sitting in a café window table. He takes a slow sip of coffee, looks out at the rainy street, and turns a page of his book. He is completely, peacefully content in his own presence.. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
+A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_04_salesman.jpg: `CHAR_01_SOVEREIGN` sitting in a café window table. He takes a slow sip of coffee, looks out at the rainy street, and turns a page of his book. He is completely, peacefully content in his own presence.. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin.
 ```
 
 ---

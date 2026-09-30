@@ -61,6 +61,49 @@ def determine_references(shot):
         shot.get("psychological_intent", "")
     ).lower()
 
+    sid = shot.get("shot_id")
+    # Explicit sequential continuity and scene overrides
+    shot_continuity_refs = {
+        1: "None (Pure typography card on paper canvas)",
+        2: "@env_01_bedroom.jpg, @char_02_overgiver.jpg",
+        3: "@char_02_overgiver.jpg",
+        4: "@char_02_overgiver.jpg, @char_03_observer.jpg, @env_04_campus_cafe.jpg",
+        5: "@char_01_sovereign.jpg (for ink style & line weight)",
+        6: "@char_01_sovereign.jpg (for ink style & line weight)",
+        7: "@char_02_overgiver.jpg, @char_03_observer.jpg",
+        8: "slide_007.png, @char_03_observer.jpg",
+        9: "@char_02_overgiver.jpg",
+        10: "@char_03_observer.jpg",
+        11: "@char_02_overgiver.jpg, @char_03_observer.jpg",
+        12: "None (Pure typography card on paper canvas)",
+        13: "@char_01_sovereign.jpg",
+        14: "@char_01_sovereign.jpg",
+        15: "@char_01_sovereign.jpg",
+        16: "@char_01_sovereign.jpg, @char_02_overgiver.jpg",
+        17: "@char_01_sovereign.jpg",
+        18: "@char_01_sovereign.jpg, @char_03_observer.jpg",
+        19: "None (Pure typography card on paper canvas)",
+        20: "@char_03_observer.jpg, @env_01_bedroom.jpg",
+        21: "@env_01_bedroom.jpg, @char_03_observer.jpg",
+        22: "@char_03_observer.jpg",
+        23: "@char_03_observer.jpg",
+        24: "None (Pure typography card on paper canvas)",
+        25: "None (Pure typography card on paper canvas)",
+        26: "@char_01_sovereign.jpg (for ink style & line weight)",
+        27: "None (Pure typography card on paper canvas)",
+        28: "slide_026.png",
+        29: "@env_06_pedestal_pillar.jpg",
+        30: "slide_029.png, @char_03_observer.jpg, @char_02_overgiver.jpg",
+        31: "slide_030.png",
+        32: "None (Pure typography card on paper canvas)",
+        33: "None (Pure typography card on paper canvas)",
+        34: "None (Pure typography card on paper canvas)",
+        35: "None (Pure typography card on paper canvas)",
+        36: "None (Pure typography card on paper canvas)",
+    }
+    if sid in shot_continuity_refs:
+        return shot_continuity_refs[sid]
+
     # Pure text/title cards without any character mention should NOT attach character/environment references
     is_pure_text = any(t in scene_type for t in ["title_card", "text_card", "text_punch_card", "transition_card", "outro_card", "fade_out"])
     has_character_figure = any(c in comp_raw for c in ["CHAR_01", "CHAR_02", "CHAR_03", "CHAR_04", "CHAR_05", "CHAR_06", "CHAR_07", "stickman", "person", "silhouette", "figure", "pigeon", "salesman", "scientist"])
@@ -86,14 +129,14 @@ def determine_references(shot):
     if any(k in text for k in ["inner child", "char_07", "child", "chest cavity", "vulnerable"]) or "CHAR_07" in comp_raw:
         refs.append("@char_07_inner_child.jpg")
 
-    # Environments
+    # Environments (Strict matching, no false umbrella or coffee triggers)
     if any(k in text for k in ["bedroom", "bed", "2:14", "02:14", "midnight", "night stand"]):
         refs.append("@env_01_bedroom.jpg")
     if any(k in text for k in ["skinner lab", "lever", "cage", "operant", "slot machine", "casino", "gambler"]):
         refs.append("@env_02_skinner_lab.jpg")
     if any(k in text for k in ["library", "bookshelf", "bookshelves", "studying", "study table"]):
         refs.append("@env_03_library.jpg")
-    if any(k in text for k in ["cafe", "coffee", "umbrella", "latte", "dining"]):
+    if any(k in text for k in ["campus cafe", "café table", "cafe table", "inside the cafe", "coffee shop"]):
         refs.append("@env_04_campus_cafe.jpg")
     if any(k in text for k in ["brain", "mindscape", "neural", "scale", "balance scale", "value scale", "dopamine", "graph", "metric", "psychological"]):
         refs.append("@env_05_abstract_mind.jpg")
