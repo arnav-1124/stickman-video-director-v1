@@ -24,9 +24,9 @@
       "duration_sec": 5.05,
       "spoken_clause": "Have you ever noticed a strange and painful pattern in modern relationships?",
       "scene_type": "character_vignette",
-      "visual_composition_16_9": "Wide shot of a minimalist room. In the center, a silhouette of a person sitting at the edge of a bed, head resting in their hands, staring down at a cracked mirror on the floor. Red and amber question mark doodles gently float above their head.",
+      "visual_composition_16_9": "Wide shot of the quiet late-night bedroom. In the center, an expressive 2D doodle stickman with a smooth round white circular head, wearing a simple blue sweater (CHAR_02_OVERGIVER), sits hunched on the edge of the bed with his head buried in his hands in deep melancholy. Floating gently above his head are three hand-drawn doodle question marks in crimson red (#FF3B30) and warm amber (#F59E0B). The small bedside lamp casts a soft warm amber puddle of light.",
       "character_state": "Pensive, confused, feeling a familiar emotional sting.",
-      "color_accent": "",
+      "color_accent": "Warm amber lamp glow (#F59E0B) and crimson question marks (#FF3B30).",
       "camera_movement": "Slow tracking push-in toward the mirror.",
       "psychological_intent": "Hooks the viewer by calling out a deeply personal, universal relationship wound.\n\n---",
       "audio_file_en": "audio/en/shot_002.mp3"
@@ -52,7 +52,7 @@
       "duration_sec": 3.52,
       "spoken_clause": "The person who agrees with everything you say.",
       "scene_type": "character_interaction",
-      "visual_composition_16_9": "Two-shot at a small caf\u00e9 table. `CHAR_03_OBSERVER` (the girl) is talking, one hand raised. `CHAR_02_OVERGIVER` is nodding so violently that multiple motion lines blur his head, giving an exaggerated agreeable thumbs-up with an anxious grin.",
+      "visual_composition_16_9": "Two-shot at a small café table. `CHAR_03_OBSERVER` (the girl) is talking, one hand raised. `CHAR_02_OVERGIVER` is nodding so violently that multiple motion lines blur his head, giving an exaggerated agreeable thumbs-up with an anxious grin.",
       "character_state": "The girl looks slightly uneasy; the boy looks desperate for approval.",
       "color_accent": "",
       "camera_movement": "Slow pan from the eager boy to the girl's guarded face.",
@@ -80,11 +80,11 @@
       "duration_sec": 3.54,
       "spoken_clause": "On paper, they are doing everything right.",
       "scene_type": "prop_closeup",
-      "visual_composition_16_9": "A clean clipboard with a checklist: `[\u2714] Always replies`, `[\u2714] Never argues`, `[\u2714] Always compliments`, `[\u2714] 100% Available`. All boxes are checked in crisp slate-blue ink.",
+      "visual_composition_16_9": "A clean clipboard with a checklist: `[✔] Always replies`, `[✔] Never argues`, `[✔] Always compliments`, `[✔] 100% Available`. All boxes are checked in crisp slate-blue ink.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Smooth diagonal pan down the checklist.",
-      "psychological_intent": "Validates the rational paradox\u2014logic says this is great, but human biology disagrees.\n\n---",
+      "psychological_intent": "Validates the rational paradox—logic says this is great, but human biology disagrees.\n\n---",
       "audio_file_en": "audio/en/shot_006.mp3"
     },
     {
@@ -108,7 +108,7 @@
       "duration_sec": 4.74,
       "spoken_clause": "Yet, almost instinctively, you feel yourself pulling away.",
       "scene_type": "character_interaction",
-      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`\u2019s feet and torso stepping backward, away from the warm umbrella. Her arms cross over her chest in defensive body language. A cold blue space widens between them.",
+      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`’s feet and torso stepping backward, away from the warm umbrella. Her arms cross over her chest in defensive body language. A cold blue space widens between them.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow dolly backward matching her retreating step.",
@@ -192,7 +192,7 @@
       "duration_sec": 2.87,
       "spoken_clause": "They rarely check their phone.",
       "scene_type": "prop_closeup",
-      "visual_composition_16_9": "A smartphone lies face down on a wooden table next to a notebook. Three notification vibrations shake the phone slightly, but no hand reaches for it. The boy\u2019s hand in the background is calmly holding a pen, writing notes.",
+      "visual_composition_16_9": "A smartphone lies face down on a wooden table next to a notebook. Three notification vibrations shake the phone slightly, but no hand reaches for it. The boy’s hand in the background is calmly holding a pen, writing notes.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Shallow depth of field focus on the untouched phone.",
@@ -210,7 +210,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Static hold.",
-      "psychological_intent": "Demonstrates conversational economy\u2014brevity conveys certainty.\n\n---",
+      "psychological_intent": "Demonstrates conversational economy—brevity conveys certainty.\n\n---",
       "audio_file_en": "audio/en/shot_015.mp3"
     },
     {
@@ -252,7 +252,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Tracking shot following his back as he walks away, with the girl standing frozen, watching him leave.",
-      "psychological_intent": "The visual shock of a polite rejection\u2014it creates instant curiosity because it breaks the script.\n\n---",
+      "psychological_intent": "The visual shock of a polite rejection—it creates instant curiosity because it breaks the script.\n\n---",
       "audio_file_en": "audio/en/shot_018.mp3"
     },
     {
@@ -294,7 +294,7 @@
       "character_state": "",
       "color_accent": "Cold blue phone glow contrasting with crimson red clock digits (`#FF3B30`).",
       "camera_movement": "Slow, drifting pull-back showing the stillness and quiet obsession of the room.",
-      "psychological_intent": "The emotional climax of the hook\u2014this is the exact moment 90% of viewers will feel exposed.\n\n---",
+      "psychological_intent": "The emotional climax of the hook—this is the exact moment 90% of viewers will feel exposed.\n\n---",
       "audio_file_en": "audio/en/shot_021.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow push into the spinning film reel.",
-      "psychological_intent": "Visualizes cognitive rumination\u2014the brain desperately trying to decode ambiguous signals.\n\n---",
+      "psychological_intent": "Visualizes cognitive rumination—the brain desperately trying to decode ambiguous signals.\n\n---",
       "audio_file_en": "audio/en/shot_022.mp3"
     },
     {
@@ -318,7 +318,7 @@
       "duration_sec": 5.46,
       "spoken_clause": "You wonder what they are doing, who they are with, and why you couldn't get a read on them.",
       "scene_type": "split_screen_contrast",
-      "visual_composition_16_9": "Three thought bubbles emerging from the thinker:\n  * Bubble 1: A desk with blueprints and a glowing lamp (Are they working?).\n  * Bubble 2: A caf\u00e9 table with anonymous silhouettes (Are they with someone else?).\n  * Bubble 3: A padlock over a smiling face (Why can't I unlock them?).",
+      "visual_composition_16_9": "Three thought bubbles emerging from the thinker:\n  * Bubble 1: A desk with blueprints and a glowing lamp (Are they working?).\n  * Bubble 2: A café table with anonymous silhouettes (Are they with someone else?).\n  * Bubble 3: A padlock over a smiling face (Why can't I unlock them?).",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Smooth pan across the three thought bubbles.",
@@ -346,7 +346,7 @@
       "duration_sec": 8.25,
       "spoken_clause": "Why do we instinctively run away from unconditional adoration, and chase after the person who seems completely indifferent to our existence?",
       "scene_type": "metaphor_diagram",
-      "visual_composition_16_9": "Wide shot showing two magnetic poles on the canvas:\n  * Left: A character holding open arms labeled `\"100% AVAILABLE\"`\u2014the viewer character is running away from it.\n  * Right: A solitary figure walking into the mist labeled `\"UNATTAINABLE\"`\u2014the viewer character is reaching out, chasing after it.",
+      "visual_composition_16_9": "Wide shot showing two magnetic poles on the canvas:\n  * Left: A character holding open arms labeled `\"100% AVAILABLE\"`—the viewer character is running away from it.\n  * Right: A solitary figure walking into the mist labeled `\"UNATTAINABLE\"`—the viewer character is reaching out, chasing after it.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow tracking shot following the chasing motion.",
@@ -374,7 +374,7 @@
       "duration_sec": 5.85,
       "spoken_clause": "It is not bad luck, and it is not because you are secretly attracted to toxic behavior.",
       "scene_type": "metaphor_vignette",
-      "visual_composition_16_9": "Two crossed-out labels in red ink: `[\u2718 BAD LUCK]` and `[\u2718 BROKEN / TOXIC]`.",
+      "visual_composition_16_9": "Two crossed-out labels in red ink: `[✘ BAD LUCK]` and `[✘ BROKEN / TOXIC]`.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Clean horizontal scan across the crossed-out tags.",

@@ -22,9 +22,9 @@
       "duration_sec": 3.8,
       "spoken_clause": "Have you ever noticed a strange and painful pattern in modern relationships?",
       "scene_type": "character_vignette",
-      "visual_composition_16_9": "Wide shot of a minimalist room. In the center, a silhouette of a person sitting at the edge of a bed, head resting in their hands, staring down at a cracked mirror on the floor. Red and amber question mark doodles gently float above their head.",
+      "visual_composition_16_9": "Wide shot of the quiet late-night bedroom. In the center, an expressive 2D doodle stickman with a smooth round white circular head, wearing a simple blue sweater (CHAR_02_OVERGIVER), sits hunched on the edge of the bed with his head buried in his hands in deep melancholy. Floating gently above his head are three hand-drawn doodle question marks in crimson red (#FF3B30) and warm amber (#F59E0B). The small bedside lamp casts a soft warm amber puddle of light.",
       "character_state": "Pensive, confused, feeling a familiar emotional sting.",
-      "color_accent": "",
+      "color_accent": "Warm amber lamp glow (#F59E0B) and crimson question marks (#FF3B30).",
       "camera_movement": "Slow tracking push-in toward the mirror.",
       "psychological_intent": "Hooks the viewer by calling out a deeply personal, universal relationship wound.\n\n---"
     },
@@ -48,7 +48,7 @@
       "duration_sec": 2.9,
       "spoken_clause": "The person who agrees with everything you say.",
       "scene_type": "character_interaction",
-      "visual_composition_16_9": "Two-shot at a small caf\u00e9 table. `CHAR_03_OBSERVER` (the girl) is talking, one hand raised. `CHAR_02_OVERGIVER` is nodding so violently that multiple motion lines blur his head, giving an exaggerated agreeable thumbs-up with an anxious grin.",
+      "visual_composition_16_9": "Two-shot at a small café table. `CHAR_03_OBSERVER` (the girl) is talking, one hand raised. `CHAR_02_OVERGIVER` is nodding so violently that multiple motion lines blur his head, giving an exaggerated agreeable thumbs-up with an anxious grin.",
       "character_state": "The girl looks slightly uneasy; the boy looks desperate for approval.",
       "color_accent": "",
       "camera_movement": "Slow pan from the eager boy to the girl's guarded face.",
@@ -74,11 +74,11 @@
       "duration_sec": 3.1,
       "spoken_clause": "On paper, they are doing everything right.",
       "scene_type": "prop_closeup",
-      "visual_composition_16_9": "A clean clipboard with a checklist: `[\u2714] Always replies`, `[\u2714] Never argues`, `[\u2714] Always compliments`, `[\u2714] 100% Available`. All boxes are checked in crisp slate-blue ink.",
+      "visual_composition_16_9": "A clean clipboard with a checklist: `[✔] Always replies`, `[✔] Never argues`, `[✔] Always compliments`, `[✔] 100% Available`. All boxes are checked in crisp slate-blue ink.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Smooth diagonal pan down the checklist.",
-      "psychological_intent": "Validates the rational paradox\u2014logic says this is great, but human biology disagrees.\n\n---"
+      "psychological_intent": "Validates the rational paradox—logic says this is great, but human biology disagrees.\n\n---"
     },
     {
       "shot_id": 7,
@@ -100,7 +100,7 @@
       "duration_sec": 3.4,
       "spoken_clause": "Yet, almost instinctively, you feel yourself pulling away.",
       "scene_type": "character_interaction",
-      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`\u2019s feet and torso stepping backward, away from the warm umbrella. Her arms cross over her chest in defensive body language. A cold blue space widens between them.",
+      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`’s feet and torso stepping backward, away from the warm umbrella. Her arms cross over her chest in defensive body language. A cold blue space widens between them.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow dolly backward matching her retreating step.",
@@ -178,7 +178,7 @@
       "duration_sec": 2.7,
       "spoken_clause": "They rarely check their phone.",
       "scene_type": "prop_closeup",
-      "visual_composition_16_9": "A smartphone lies face down on a wooden table next to a notebook. Three notification vibrations shake the phone slightly, but no hand reaches for it. The boy\u2019s hand in the background is calmly holding a pen, writing notes.",
+      "visual_composition_16_9": "A smartphone lies face down on a wooden table next to a notebook. Three notification vibrations shake the phone slightly, but no hand reaches for it. The boy’s hand in the background is calmly holding a pen, writing notes.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Shallow depth of field focus on the untouched phone.",
@@ -195,7 +195,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Static hold.",
-      "psychological_intent": "Demonstrates conversational economy\u2014brevity conveys certainty.\n\n---"
+      "psychological_intent": "Demonstrates conversational economy—brevity conveys certainty.\n\n---"
     },
     {
       "shot_id": 16,
@@ -234,7 +234,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Tracking shot following his back as he walks away, with the girl standing frozen, watching him leave.",
-      "psychological_intent": "The visual shock of a polite rejection\u2014it creates instant curiosity because it breaks the script.\n\n---"
+      "psychological_intent": "The visual shock of a polite rejection—it creates instant curiosity because it breaks the script.\n\n---"
     },
     {
       "shot_id": 19,
@@ -273,7 +273,7 @@
       "character_state": "",
       "color_accent": "Cold blue phone glow contrasting with crimson red clock digits (`#FF3B30`).",
       "camera_movement": "Slow, drifting pull-back showing the stillness and quiet obsession of the room.",
-      "psychological_intent": "The emotional climax of the hook\u2014this is the exact moment 90% of viewers will feel exposed.\n\n---"
+      "psychological_intent": "The emotional climax of the hook—this is the exact moment 90% of viewers will feel exposed.\n\n---"
     },
     {
       "shot_id": 22,
@@ -286,7 +286,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow push into the spinning film reel.",
-      "psychological_intent": "Visualizes cognitive rumination\u2014the brain desperately trying to decode ambiguous signals.\n\n---"
+      "psychological_intent": "Visualizes cognitive rumination—the brain desperately trying to decode ambiguous signals.\n\n---"
     },
     {
       "shot_id": 23,
@@ -295,7 +295,7 @@
       "duration_sec": 3.5,
       "spoken_clause": "You wonder what they are doing, who they are with, and why you couldn't get a read on them.",
       "scene_type": "split_screen_contrast",
-      "visual_composition_16_9": "Three thought bubbles emerging from the thinker:\n  * Bubble 1: A desk with blueprints and a glowing lamp (Are they working?).\n  * Bubble 2: A caf\u00e9 table with anonymous silhouettes (Are they with someone else?).\n  * Bubble 3: A padlock over a smiling face (Why can't I unlock them?).",
+      "visual_composition_16_9": "Three thought bubbles emerging from the thinker:\n  * Bubble 1: A desk with blueprints and a glowing lamp (Are they working?).\n  * Bubble 2: A café table with anonymous silhouettes (Are they with someone else?).\n  * Bubble 3: A padlock over a smiling face (Why can't I unlock them?).",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Smooth pan across the three thought bubbles.",
@@ -321,7 +321,7 @@
       "duration_sec": 4.2,
       "spoken_clause": "Why do we instinctively run away from unconditional adoration, and chase after the person who seems completely indifferent to our existence?",
       "scene_type": "metaphor_diagram",
-      "visual_composition_16_9": "Wide shot showing two magnetic poles on the canvas:\n  * Left: A character holding open arms labeled `\"100% AVAILABLE\"`\u2014the viewer character is running away from it.\n  * Right: A solitary figure walking into the mist labeled `\"UNATTAINABLE\"`\u2014the viewer character is reaching out, chasing after it.",
+      "visual_composition_16_9": "Wide shot showing two magnetic poles on the canvas:\n  * Left: A character holding open arms labeled `\"100% AVAILABLE\"`—the viewer character is running away from it.\n  * Right: A solitary figure walking into the mist labeled `\"UNATTAINABLE\"`—the viewer character is reaching out, chasing after it.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow tracking shot following the chasing motion.",
@@ -347,7 +347,7 @@
       "duration_sec": 3.4,
       "spoken_clause": "It is not bad luck, and it is not because you are secretly attracted to toxic behavior.",
       "scene_type": "metaphor_vignette",
-      "visual_composition_16_9": "Two crossed-out labels in red ink: `[\u2718 BAD LUCK]` and `[\u2718 BROKEN / TOXIC]`.",
+      "visual_composition_16_9": "Two crossed-out labels in red ink: `[✘ BAD LUCK]` and `[✘ BROKEN / TOXIC]`.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Clean horizontal scan across the crossed-out tags.",
@@ -624,7 +624,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow pull-back revealing the lonely, frantic bird.",
-      "psychological_intent": "Eerie and haunting\u2014unpredictability causes self-destructive obsession.\n\n---"
+      "psychological_intent": "Eerie and haunting—unpredictability causes self-destructive obsession.\n\n---"
     },
     {
       "shot_id": 49,
@@ -659,7 +659,7 @@
       "duration_sec": 3.2,
       "spoken_clause": "Dopamine is not the chemical of pleasure.",
       "scene_type": "text_punch_card",
-      "visual_composition_16_9": "Big bold text across the canvas: `\"DOPAMINE \u2260 PLEASURE\"`. A large red ink cross slashes across the word `\"PLEASURE\"`.",
+      "visual_composition_16_9": "Big bold text across the canvas: `\"DOPAMINE ≠ PLEASURE\"`. A large red ink cross slashes across the word `\"PLEASURE\"`.",
       "character_state": "",
       "color_accent": "Heavy crimson red cross (`#FF3B30`).",
       "camera_movement": "Hard snap zoom on the word `\"NOT\"`.",
@@ -711,7 +711,7 @@
       "duration_sec": 3.8,
       "spoken_clause": "When you pull the lever on a slot machine, the thrilling tension is in the spinning reels.",
       "scene_type": "prop_closeup",
-      "visual_composition_16_9": "Close-up on the 3 reels of a slot machine spinning in a blur: `[ \ud83c\udf52 | \u2753 | \u2753 ]`. The sound of spinning gears clicks frantically.",
+      "visual_composition_16_9": "Close-up on the 3 reels of a slot machine spinning in a blur: `[ 🍒 | ❓ | ❓ ]`. The sound of spinning gears clicks frantically.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow push into the spinning center reel.",
@@ -818,8 +818,8 @@
       "visual_composition_16_9": "Crowded lecture hall. Everyone is looking at their phones or talking. Suddenly, `CHAR_01_SOVEREIGN` turns his head and makes direct, steady eye contact with `CHAR_03_OBSERVER` for 2 seconds. A small golden spark connects their eyes.",
       "character_state": "",
       "color_accent": "Golden eye-contact spark line (`#F59E0B`).",
-      "camera_movement": "Push-in on the girl\u2019s widened eyes.",
-      "psychological_intent": "The power of selective attention\u2014when attention is scarce, a single glance feels like a coronation.\n\n---"
+      "camera_movement": "Push-in on the girl’s widened eyes.",
+      "psychological_intent": "The power of selective attention—when attention is scarce, a single glance feels like a coronation.\n\n---"
     },
     {
       "shot_id": 64,
@@ -839,13 +839,13 @@
       "chapter": 2,
       "title": "The Heart-Skip Notification",
       "duration_sec": 4.4,
-      "spoken_clause": "When they text you back, your phone lights up and your heart skips a beat\u2014not because the text is poetic, but because you genuinely didn't know if they would reply at all.",
+      "spoken_clause": "When they text you back, your phone lights up and your heart skips a beat—not because the text is poetic, but because you genuinely didn't know if they would reply at all.",
       "scene_type": "character_closeup",
-      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`\u2019s hand holding her phone. The screen lights up with a simple notification: `[Alex: Sure, 4 PM works.]`. A small hand-drawn heart doodle near her chest flashes once with an electric pulse line.",
+      "visual_composition_16_9": "Close-up on `CHAR_03_OBSERVER`’s hand holding her phone. The screen lights up with a simple notification: `[Alex: Sure, 4 PM works.]`. A small hand-drawn heart doodle near her chest flashes once with an electric pulse line.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Quick zoom to the screen notification.",
-      "psychological_intent": "The biological payoff\u2014the dopamine rush was caused by the relief of uncertainty, not the words themselves.\n\n---"
+      "psychological_intent": "The biological payoff—the dopamine rush was caused by the relief of uncertainty, not the words themselves.\n\n---"
     },
     {
       "shot_id": 66,
@@ -858,7 +858,7 @@
       "character_state": "",
       "color_accent": "Amber and violet fluid swirl (`#F59E0B`, `#8B5CF6`).",
       "camera_movement": "Macro zoom into the reflection on the glass.",
-      "psychological_intent": "The master epiphany of Chapter 2\u2014unmasking romantic infatuation as neurochemical addiction.\n\n---"
+      "psychological_intent": "The master epiphany of Chapter 2—unmasking romantic infatuation as neurochemical addiction.\n\n---"
     },
     {
       "shot_id": 67,
@@ -923,7 +923,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow tilt from the high, helpless side down to the grounded, powerful side.",
-      "psychological_intent": "Willard Waller\u2019s famous Principle of Least Interest visualized with brutal clarity.\n\n---"
+      "psychological_intent": "Willard Waller’s famous Principle of Least Interest visualized with brutal clarity.\n\n---"
     },
     {
       "shot_id": 72,
@@ -1040,7 +1040,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Pull-back emphasizing loneliness and lack of purpose.",
-      "psychological_intent": "Highlights the root cause of over-availability\u2014an absence of personal purpose.\n\n---"
+      "psychological_intent": "Highlights the root cause of over-availability—an absence of personal purpose.\n\n---"
     },
     {
       "shot_id": 81,
@@ -1127,7 +1127,7 @@
       "duration_sec": 4.2,
       "spoken_clause": "Desperate enthusiasm always feels like an invisible trap. It signals that the seller needs something from you more than you need something from them.",
       "scene_type": "metaphor_diagram",
-      "visual_composition_16_9": "The salesman holds out a gift box tied with a gold ribbon. But under the table, the box is connected by an invisible steel chain and bear trap around the recipient\u2019s ankle.",
+      "visual_composition_16_9": "The salesman holds out a gift box tied with a gold ribbon. But under the table, the box is connected by an invisible steel chain and bear trap around the recipient’s ankle.",
       "character_state": "",
       "color_accent": "Crimson red steel chain (`#FF3B30`).",
       "camera_movement": "Slow vertical pan revealing the hidden trap below the desk.",
@@ -1140,16 +1140,16 @@
       "duration_sec": 4.2,
       "spoken_clause": "When a person ignores you, or simply doesn't rush to cater to your every mood, they trigger the exact opposite reaction. They signal emotional self-sufficiency.",
       "scene_type": "character_vignette",
-      "visual_composition_16_9": "`CHAR_01_SOVEREIGN` sitting in a caf\u00e9 window table. He takes a slow sip of coffee, looks out at the rainy street, and turns a page of his book. He is completely, peacefully content in his own presence.",
+      "visual_composition_16_9": "`CHAR_01_SOVEREIGN` sitting in a café window table. He takes a slow sip of coffee, looks out at the rainy street, and turns a page of his book. He is completely, peacefully content in his own presence.",
       "character_state": "",
       "color_accent": "",
-      "camera_movement": "Slow tracking shot passing outside the caf\u00e9 window looking in.",
+      "camera_movement": "Slow tracking shot passing outside the café window looking in.",
       "psychological_intent": "Contrast with the salesman: the sovereign person sells nothing, demands nothing, and therefore looks infinitely attractive.\n\n---"
     },
     {
       "shot_id": 89,
       "chapter": 3,
-      "title": "Your Absence Won\u2019t Break Me",
+      "title": "Your Absence Won’t Break Me",
       "duration_sec": 4.2,
       "spoken_clause": "They communicate that while your presence might be welcome, your absence will not shatter their existence.",
       "scene_type": "character_interaction",
@@ -1170,7 +1170,7 @@
       "character_state": "",
       "color_accent": "Radiant amber and gold ring glow (`#F59E0B`).",
       "camera_movement": "Epic cosmic zoom-out.",
-      "psychological_intent": "Triumphant climax of Chapter 3\u2014sovereignty creates natural gravity.\n\n---"
+      "psychological_intent": "Triumphant climax of Chapter 3—sovereignty creates natural gravity.\n\n---"
     },
     {
       "shot_id": 91,
@@ -1309,7 +1309,7 @@
       "duration_sec": 2.8,
       "spoken_clause": "It is clumsy, reactive, and transparent.",
       "scene_type": "metaphor_vignette",
-      "visual_composition_16_9": "A stickman holding a paper mask of a calm, stoic face in front of his head. But the mask is made of clear cellophane plastic\u2014behind it, his real face is sweating and biting its fingernails.",
+      "visual_composition_16_9": "A stickman holding a paper mask of a calm, stoic face in front of his head. But the mask is made of clear cellophane plastic—behind it, his real face is sweating and biting its fingernails.",
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow push-in revealing the transparent mask.",
@@ -1320,7 +1320,7 @@
       "chapter": 4,
       "title": "Keeping Score",
       "duration_sec": 4.2,
-      "spoken_clause": "When someone waits three hours to text you back, but their message is dripping with passive aggression, they are not detached\u2014they are keeping score.",
+      "spoken_clause": "When someone waits three hours to text you back, but their message is dripping with passive aggression, they are not detached—they are keeping score.",
       "scene_type": "prop_closeup",
       "visual_composition_16_9": "A chalkboard labeled `\"THE SCOREBOARD\"`. Tally marks are aggressively scratched into the stone: `Her replies: 4 | My delayed replies: 4 | Vengeance: Pending`.",
       "character_state": "",
@@ -1361,7 +1361,7 @@
       "duration_sec": 3.5,
       "spoken_clause": "True detachment is the byproduct of an occupied mind.",
       "scene_type": "metaphor_diagram",
-      "visual_composition_16_9": "A glowing golden lightbulb inside an ink-drawn skull. The brain\u2019s cognitive channels are 100% illuminated with equations, architecture sketches, and creative plans. Zero bandwidth remains for petty games.",
+      "visual_composition_16_9": "A glowing golden lightbulb inside an ink-drawn skull. The brain’s cognitive channels are 100% illuminated with equations, architecture sketches, and creative plans. Zero bandwidth remains for petty games.",
       "character_state": "",
       "color_accent": "Warm golden core light (`#F59E0B`).",
       "camera_movement": "Slow push into the glowing mind.",
@@ -1374,9 +1374,9 @@
       "duration_sec": 3.6,
       "spoken_clause": "Consider the boy sitting in the corner of a crowded campus library.",
       "scene_type": "environment_vignette",
-      "visual_composition_16_9": "Wide shot of the majestic university library (`ENV_03_LIBRARY`). In the far right corner, under a tall arched window and a green banker\u2019s lamp, `CHAR_01_SOVEREIGN` sits alone at a solid oak desk.",
+      "visual_composition_16_9": "Wide shot of the majestic university library (`ENV_03_LIBRARY`). In the far right corner, under a tall arched window and a green banker’s lamp, `CHAR_01_SOVEREIGN` sits alone at a solid oak desk.",
       "character_state": "",
-      "color_accent": "Soft emerald green on the banker\u2019s lamp shade (`#10B981`).",
+      "color_accent": "Soft emerald green on the banker’s lamp shade (`#10B981`).",
       "camera_movement": "Slow sweeping crane shot descending toward his desk.",
       "psychological_intent": "Creates an atmosphere of intellectual sanctuary and sacred focus.\n\n---"
     },
@@ -1443,7 +1443,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Slow dolly-in on his steady eyes.",
-      "psychological_intent": "Proof of authentic absorption\u2014he is not performing focus; he *is* focused.\n\n---"
+      "psychological_intent": "Proof of authentic absorption—he is not performing focus; he *is* focused.\n\n---"
     },
     {
       "shot_id": 112,
@@ -1586,7 +1586,7 @@
       "character_state": "",
       "color_accent": "Pure golden spotlight (`#F59E0B`).",
       "camera_movement": "Epic vertical crane shot slowly rising.",
-      "psychological_intent": "Chapter 4 climax\u2014the profound paradox that invisibility creates supreme magnetism.\n\n---"
+      "psychological_intent": "Chapter 4 climax—the profound paradox that invisibility creates supreme magnetism.\n\n---"
     },
     {
       "shot_id": 123,
@@ -1599,7 +1599,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Static hold.",
-      "psychological_intent": "Sets a mature, grounded, deeply ethical tone for the video\u2019s conclusion.\n\n---"
+      "psychological_intent": "Sets a mature, grounded, deeply ethical tone for the video’s conclusion.\n\n---"
     },
     {
       "shot_id": 124,
@@ -1690,7 +1690,7 @@
       "character_state": "",
       "color_accent": "Warm golden glow between the two figures (`#F59E0B`).",
       "camera_movement": "Slow, tender push-in.",
-      "psychological_intent": "The emotional core of the entire video\u2014turning validation inward.\n\n---"
+      "psychological_intent": "The emotional core of the entire video—turning validation inward.\n\n---"
     },
     {
       "shot_id": 131,
@@ -1703,7 +1703,7 @@
       "character_state": "",
       "color_accent": "",
       "camera_movement": "Horizontal two-shot tracking the eye-level alignment.",
-      "psychological_intent": "Visual resolution of the Pedestal Paradox\u2014equality, not dominance.\n\n---"
+      "psychological_intent": "Visual resolution of the Pedestal Paradox—equality, not dominance.\n\n---"
     },
     {
       "shot_id": 132,
@@ -1885,7 +1885,7 @@
       "character_state": "",
       "color_accent": "Warm radiant golden sunset rays streaming across the paper canvas (`#F59E0B`).",
       "camera_movement": "Epic slow pull-back revealing the whole campus leaning toward his quiet path.",
-      "psychological_intent": "The emotional, triumphant climax\u2014true respect is earned by letting go of the need for applause.\n\n---"
+      "psychological_intent": "The emotional, triumphant climax—true respect is earned by letting go of the need for applause.\n\n---"
     },
     {
       "shot_id": 146,

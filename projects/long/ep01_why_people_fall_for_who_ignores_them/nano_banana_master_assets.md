@@ -90,11 +90,11 @@ A clean character duo illustration in 2D minimalist comic art style, perfectly m
 
 ## 🏛️ SECTION 2: MASTER WIDESCREEN ENVIRONMENTS (`16:9` Widescreen)
 
-### 9. `env_01_bedroom.jpg` — The Late-Night Bedroom / 2 AM Phone Desk (Chapter 1)
-* **Status:** `[LOCKED ON DISK]` in `master_assets/environments/env_01_bedroom.jpg`
+### 9. `env_01_bedroom.jpg` — The Late-Night Bedroom With Bed (Chapter 1)
+* **Status:** READY TO RE-GENERATE IN FLOW
 * **Flow AI Prompt (`16:9` Widescreen):**
 ```text
-A minimal 2D hand-drawn webcomic cartoon background of a late-night bedroom study desk, in the simple vector doodle art style of Ink Explainer. Drawn on a clean solid off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-7px stroke weight). In the foreground, a simple wooden desk surface with a glowing smartphone lying flat, showing a digital clock displaying "02:14 AM" in soft red digits. A small minimalist desk lamp casting a warm soft puddle of amber light (#FEF3C7) across an open blank notebook and pen. In the background, a simple rectangular cartoon window outline showing a dark slate-blue night sky with a tiny crescent moon and two stars. Flat 2D vector comic background plate, zero 3D rendering, zero photorealism, zero gradients. Clean empty background plate, zero people, zero characters, zero UI elements. 16:9 widescreen aspect ratio, centered framing.
+A minimal 2D hand-drawn vector doodle background illustration of a quiet, cozy late-night bedroom with a bed, in the raw felt-tip pen and ink art style of Ink Explainer. Drawn on a clean off-white textured paper canvas (#FAF9F6). Bold, wobbly, organic black ink pen outlines (6px-8px stroke weight), flat solid color fills, zero 3D rendering, zero CAD perspective, zero photorealism, zero gradients. In the center against the back wall, a simple 2D hand-sketched wooden bed with neat off-white sheets, a simple doodle pillow, and a folded grey blanket at the foot. To the right of the bed, a small bedside nightstand with a desk lamp casting a warm soft amber light puddle (#FEF3C7) and a glowing smartphone displaying "02:14 AM" in faint red digits. On the back wall above, a simple sketched rectangular window showing a dark slate-blue night sky with a tiny crescent moon and two stars. Flat 2D graphic novel background plate, completely empty room, zero people, zero characters, zero silhouettes, generous negative space. 16:9 widescreen landscape.
 ```
 
 ---

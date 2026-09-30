@@ -120,7 +120,7 @@ def build_prompt(shot, ref_str):
         f"Widescreen 16:9 landscape aspect ratio (1920x1080). {ref_clause}{comp}. "
         f"{accent_str}"
         f"Clean minimalist line art with generous negative space. "
-        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO realistic human skin."
+        f"STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO black borders, NO frames, NO grid layouts, NO split screens, NO speech bubbles, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin."
     )
     return prompt_text
 
