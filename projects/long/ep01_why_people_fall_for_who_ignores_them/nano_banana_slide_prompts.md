@@ -1,0 +1,1945 @@
+# Nano Banana Pro (Google Flow AI) Scene Slide Prompts: Complete Episode 01
+## Episode 01: Why People Fall For Who Ignores Them
+### Complete Production Packet: All 148 Slides (Chapters 01 – 05)
+
+> **Aspect Ratio:** `16:9` Widescreen (`1920x1080`)  
+> **Global Aesthetic:** 2D Minimalist Comic Art / The Ink Explainer Aesthetic  
+> **Model:** Nano Banana Pro (Gemini 3 Pro Image) via Google Flow  
+> **Master Consistency Anchors:** Upload `@char_01_sovereign.jpg`, `@char_02_overgiver.jpg`, `@char_03_observer.jpg`, `@char_04_salesman.jpg`, `@char_05_scientist.jpg`, `@char_06_pigeon.jpg`, `@char_07_inner_child.jpg`, `@env_01_bedroom.jpg`, `@env_02_skinner_lab.jpg`, `@env_03_library.jpg`, `@env_04_campus_cafe.jpg`, `@env_05_abstract_mind.jpg`, and `@env_06_pedestal_pillar.jpg` into Flow AI as reference attachments.
+
+---
+
+## CHAPTER 01: THE PEDESTAL PARADOX (Shots 001 – 036)
+
+### Slide 001 (`slide_001.png`)
+- **Title / Action:** Chapter Title Card
+- **Duration:** `3.69s`
+- **Voiceover Phrase:** *"[CHAPTER 1: THE PEDESTAL PARADOX]"*
+- **Scene Type:** `title_card`
+- **Bound References:** `@char_02_overgiver.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_06_pedestal_pillar.jpg: Centered minimalist hand-drawn title in heavy solid black ink: `"CHAPTER 01: THE PEDESTAL PARADOX"`. Below the text, a thin slate-blue horizontal line (`#2563EB`) that slowly expands outward. A subtle sub-bass thud plays.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 002 (`slide_002.png`)
+- **Title / Action:** The Opening Riddle
+- **Duration:** `5.05s`
+- **Voiceover Phrase:** *"Have you ever noticed a strange and painful pattern in modern relationships?"*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_01_bedroom.jpg: Wide shot of a minimalist room. In the center, a silhouette of a person sitting at the edge of a bed, head resting in their hands, staring down at a cracked mirror on the floor. Red and amber question mark doodles gently float above their head.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 003 (`slide_003.png`)
+- **Title / Action:** The 3-Second Reply
+- **Duration:** `4.05s`
+- **Voiceover Phrase:** *"The person who texts you back in three seconds flat."*
+- **Scene Type:** `split_screen_vignette`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: Extreme close-up of a smartphone screen. A message notification pops up instantly with a loud doodle buzz `*BZZZ*`. Timestamp reads: `Sent 10:42 PM -> Replied 10:42 PM`. On the left side, `CHAR_02_OVERGIVER` hunched over, sweating, fingers frantically tapping the glass.. Color Accent: Glowing crimson red phone screen outline (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 004 (`slide_004.png`)
+- **Title / Action:** The Aggressive Agreeableness
+- **Duration:** `3.52s`
+- **Voiceover Phrase:** *"The person who agrees with everything you say."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg: Two-shot at a small café table. `CHAR_03_OBSERVER` (the girl) is talking, one hand raised. `CHAR_02_OVERGIVER` is nodding so violently that multiple motion lines blur his head, giving an exaggerated agreeable thumbs-up with an anxious grin.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 005 (`slide_005.png`)
+- **Title / Action:** The Schedule Collapse
+- **Duration:** `5.39s`
+- **Voiceover Phrase:** *"The person who rearranges their entire schedule just to see you for twenty minutes."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A large hand-drawn weekly calendar on an off-white wall. All the busy schedule blocks (`"Gym"`, `"Study"`, `"Dinner with Friends"`) are furiously scribbled out with violent red ink lines, replaced by a single handwritten note: `"WAITING FOR HER CALL"`.. Color Accent: Heavy crimson red marker scribbles (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 006 (`slide_006.png`)
+- **Title / Action:** The Checklist Illusion
+- **Duration:** `3.54s`
+- **Voiceover Phrase:** *"On paper, they are doing everything right."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A clean clipboard with a checklist: `[✔] Always replies`, `[✔] Never argues`, `[✔] Always compliments`, `[✔] 100% Available`. All boxes are checked in crisp slate-blue ink.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 007 (`slide_007.png`)
+- **Title / Action:** The Perfect Partner on Paper
+- **Duration:** `4.43s`
+- **Voiceover Phrase:** *"They are kind, attentive, and consistently present."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg, @env_04_campus_cafe.jpg: `CHAR_02_OVERGIVER` standing politely with an umbrella over `CHAR_03_OBSERVER` in the rain, holding a warm coffee cup out to her with both hands, perfectly attentive.. Color Accent: Soft warm amber steam rising from the coffee cup (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 008 (`slide_008.png`)
+- **Title / Action:** The Instinctive Pullback
+- **Duration:** `4.74s`
+- **Voiceover Phrase:** *"Yet, almost instinctively, you feel yourself pulling away."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_03_observer.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_03_observer.jpg, @env_04_campus_cafe.jpg: Close-up on `CHAR_03_OBSERVER`’s feet and torso stepping backward, away from the warm umbrella. Her arms cross over her chest in defensive body language. A cold blue space widens between them.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 009 (`slide_009.png`)
+- **Title / Action:** The Suffocation of Text Bubbles
+- **Duration:** `3.13s`
+- **Voiceover Phrase:** *"Their messages start to feel heavy."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: A stickman phone user holding a device, while gigantic, heavy stone-textured speech bubbles fall from the sky onto their shoulders like 50-pound weights, bending their spine.. Color Accent: Heavy charcoal gray shading on the speech bubbles.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 010 (`slide_010.png`)
+- **Title / Action:** Emotional Exhaustion
+- **Duration:** `3.49s`
+- **Voiceover Phrase:** *"Their enthusiasm feels exhausting."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_03_observer.jpg: Close-up of `CHAR_03_OBSERVER` staring down at her buzzing phone with half-closed eyes, letting out a visible doodle sigh cloud. A battery icon above her head blinks at 8% in red ink.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 011 (`slide_011.png`)
+- **Title / Action:** Taken for Granted
+- **Duration:** `4.69s`
+- **Voiceover Phrase:** *"And without even wanting to, you begin to take them for granted."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg: Wide shot of a hallway. `CHAR_02_OVERGIVER` is waiting anxiously by the locker door. `CHAR_03_OBSERVER` walks straight past him looking at her watch, barely offering a wave. The boy slowly lowers his raised hand.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 012 (`slide_012.png`)
+- **Title / Action:** The Paradigm Shift
+- **Duration:** `3.64s`
+- **Voiceover Phrase:** *"Now, consider the opposite scenario."*
+- **Scene Type:** `transition_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Screen splits with a sharp vertical ink cut down the center. The left side fades to soft grey. The right side illuminates with crisp off-white paper and a warm spotlight.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 013 (`slide_013.png`)
+- **Title / Action:** The Arrival of The Sovereign
+- **Duration:** `3.11s`
+- **Voiceover Phrase:** *"There is another person in your life."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Medium full-body shot of `CHAR_01_SOVEREIGN` leaning against a campus railing. Dark charcoal hoodie, hands tucked casually into his front pocket, staring calmly toward the distant horizon. Wind gently moves his hair.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 014 (`slide_014.png`)
+- **Title / Action:** The Ignored Device
+- **Duration:** `2.87s`
+- **Voiceover Phrase:** *"They rarely check their phone."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A smartphone lies face down on a wooden table next to a notebook. Three notification vibrations shake the phone slightly, but no hand reaches for it. The boy’s hand in the background is calmly holding a pen, writing notes.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 015 (`slide_015.png`)
+- **Title / Action:** The Three-Word Economy
+- **Duration:** `4.69s`
+- **Voiceover Phrase:** *"When you ask them a question, they give a calm, brief answer."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_02_overgiver.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_02_overgiver.jpg, @char_03_observer.jpg: Side-by-side profile view. A classmate asks an elaborate, excited question with three lines of text. `CHAR_01_SOVEREIGN` looks back calmly, offering a clean, simple speech bubble: `"Yes, that's correct."` Nothing more.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 016 (`slide_016.png`)
+- **Title / Action:** No Clown Shoes
+- **Duration:** `3.35s`
+- **Voiceover Phrase:** *"They don't jump through hoops to make you laugh."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @char_02_overgiver.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_02_overgiver.jpg, @env_04_campus_cafe.jpg: An imaginary flaming circus hoop in the middle of the frame. `CHAR_02_OVERGIVER` is frantically diving through it in clown shoes, while `CHAR_01_SOVEREIGN` stands calmly to the side, sipping coffee, watching the circus with mild detachment.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 017 (`slide_017.png`)
+- **Title / Action:** Immune to Fake Politeness
+- **Duration:** `3.33s`
+- **Voiceover Phrase:** *"They don't laugh at jokes that aren't funny."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Close-up on a crowded social circle. Everyone is throwing their heads back in forced, theatrical laughter over a mediocre comment. In the middle, `CHAR_01_SOVEREIGN` has a steady, neutral, serene half-smile, completely unmoved by peer pressure.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 018 (`slide_018.png`)
+- **Title / Action:** The Clean Refusal
+- **Duration:** `6.76s`
+- **Voiceover Phrase:** *"And when you invite them out, they might simply say, 'I can't make it today, I have work to finish.'"*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg, @env_03_library.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg, @env_03_library.jpg: Campus hallway outside a doorway. `CHAR_03_OBSERVER` holds up two event tickets with an open posture. `CHAR_01_SOVEREIGN` offers a polite, warm half-nod, raises one hand in a respectful farewell, and walks toward the library.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 019 (`slide_019.png`)
+- **Title / Action:** The Broken Logic
+- **Duration:** `3.97s`
+- **Voiceover Phrase:** *"By all conventional logic, you should forget them."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A blackboard showing a simple equation: `Ignored = Forget & Move On`. Suddenly, a large red ink `[ERROR]` stamp slams over the equation.. Color Accent: Bright crimson stamp outline (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 020 (`slide_020.png`)
+- **Title / Action:** The Annoyance That Hooked You
+- **Duration:** `2.51s`
+- **Voiceover Phrase:** *"You should feel annoyed."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_03_observer.jpg: Close-up of `CHAR_03_OBSERVER` leaning back in her room chair, crossing her arms, pouting slightly with a small annoyed furrow in her brow.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 021 (`slide_021.png`)
+- **Title / Action:** The 2:00 AM Screen Stare
+- **Duration:** `6.88s`
+- **Voiceover Phrase:** *"Instead, you find yourself staring at your screen at two in the morning, wondering why they haven't replied."*
+- **Scene Type:** `environment_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg, @env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg, @env_01_bedroom.jpg: High-angle cinematic wide shot of a dark bedroom (`ENV_01_BEDROOM`). A glowing blue-white smartphone light illuminates `CHAR_03_OBSERVER`'s face under the blankets. A digital wall clock in the corner glows red: `02:14 AM`.. Color Accent: Cold blue phone glow contrasting with crimson red clock digits (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 022 (`slide_022.png`)
+- **Title / Action:** The Mental Rewind
+- **Duration:** `3.76s`
+- **Voiceover Phrase:** *"You replay your last conversation in your head."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Silhouette of the character's head in profile. Inside the head, a vintage film reel is spinning backwards at high speed, projecting miniature doodle figures having the hallway conversation over and over again.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 023 (`slide_023.png`)
+- **Title / Action:** The Black Hole of Mystery
+- **Duration:** `5.46s`
+- **Voiceover Phrase:** *"You wonder what they are doing, who they are with, and why you couldn't get a read on them."*
+- **Scene Type:** `split_screen_contrast`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Three thought bubbles emerging from the thinker: * Bubble 1: A desk with blueprints and a glowing lamp (Are they working?). * Bubble 2: A café table with anonymous silhouettes (Are they with someone else?). * Bubble 3: A padlock over a smiling face (Why can't I unlock them?).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 024 (`slide_024.png`)
+- **Title / Action:** The Fundamental Question
+- **Duration:** `3.01s`
+- **Voiceover Phrase:** *"Why does the human mind do this?"*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Minimalist off-white paper canvas. Giant hand-drawn black ink typography in center: `"WHY?"` with a single bold red question mark (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 025 (`slide_025.png`)
+- **Title / Action:** The Core Dilemma
+- **Duration:** `8.25s`
+- **Voiceover Phrase:** *"Why do we instinctively run away from unconditional adoration, and chase after the person who seems completely indifferent to our existence?"*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Wide shot showing two magnetic poles on the canvas: * Left: A character holding open arms labeled `"100% AVAILABLE"`—the viewer character is running away from it. * Right: A solitary figure walking into the mist labeled `"UNATTAINABLE"`—the viewer character is reaching out, chasing after it.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 026 (`slide_026.png`)
+- **Title / Action:** Not An Accident
+- **Duration:** `2.61s`
+- **Voiceover Phrase:** *"This isn't an accident."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Clean close-up of a human brain illustration drawn in minimalist black ink outlines on cream paper.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 027 (`slide_027.png`)
+- **Title / Action:** De-shaming The Viewer
+- **Duration:** `5.85s`
+- **Voiceover Phrase:** *"It is not bad luck, and it is not because you are secretly attracted to toxic behavior."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Two crossed-out labels in red ink: `[✘ BAD LUCK]` and `[✘ BROKEN / TOXIC]`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 028 (`slide_028.png`)
+- **Title / Action:** Evolutionary Wiring
+- **Duration:** `8.58s`
+- **Voiceover Phrase:** *"It is the result of deeply wired evolutionary mechanics that dictate how the human brain calculates value, status, and desire."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: The brain illustration illuminates with three glowing circuit pathways in slate blue and gold: `[1. VALUE]`, `[2. STATUS]`, `[3. DESIRE]`. Gear icons mesh smoothly together.. Color Accent: Golden nodes lighting up along the neural pathways (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 029 (`slide_029.png`)
+- **Title / Action:** The Pedestal Paradox Defined
+- **Duration:** `5.8s`
+- **Voiceover Phrase:** *"To understand why this happens, we first have to understand the Pedestal Paradox."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@env_05_abstract_mind.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg, @env_06_pedestal_pillar.jpg: Clean typographic slate-blue banner across the upper third: `"THE PEDESTAL PARADOX"`. Below it, an illustration of a towering 15-foot classical Greek marble column rising from the bottom edge of the frame.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 030 (`slide_030.png`)
+- **Title / Action:** The Celebrity vs The Fan
+- **Duration:** `5.2s`
+- **Voiceover Phrase:** *"When you treat someone like a celebrity, you force them to treat you like a fan."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg, @env_05_abstract_mind.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg, @env_05_abstract_mind.jpg, @env_06_pedestal_pillar.jpg: Wide shot. On top of the high pedestal stands `CHAR_03_OBSERVER` under a warm spotlight. Down on the dirt below, `CHAR_02_OVERGIVER` is holding an autograph book and camera, looking up with adoring cartoon eyes.. Color Accent: Warm amber spotlight on the pedestal (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 031 (`slide_031.png`)
+- **Title / Action:** Looking Up, Looking Down
+- **Duration:** `12.73s`
+- **Voiceover Phrase:** *"Think about what happens when you place another human being on a pedestal. The moment you put someone above you, you are forced to look up at them. And more importantly, they are forced to look down at you."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_03_observer.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_03_observer.jpg, @env_06_pedestal_pillar.jpg: Split-angle shot: * Left: The boy with a strained neck, looking straight up into the sky. * Right: Close-up of the girl looking down from above, her eyes expressing discomfort and distance.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 032 (`slide_032.png`)
+- **Title / Action:** The Unconscious Valuation
+- **Duration:** `7.65s`
+- **Voiceover Phrase:** *"When someone gives away their attention too cheaply, the receiving brain makes an automatic, unconscious calculation:"*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A digital cash register / receipt tape rolling out from a brain illustration. The receipt reads: `ATTENTION RECEIVED: 100% | EFFORT REQUIRED: 0% | COMPUTED VALUE: $0.00`.. Color Accent: Crimson red zero value (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 033 (`slide_033.png`)
+- **Title / Action:** The Brutal Internal Monologue
+- **Duration:** `7.31s`
+- **Voiceover Phrase:** *"'If this person is offering me their complete devotion without me having to earn it, their time must not be worth very much.'"*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Clean cream canvas with the quote appearing word-by-word in elegant ink typography. In the background, a silhouette of a person shrugging dismissively.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 034 (`slide_034.png`)
+- **Title / Action:** The Free Tap Water Metaphor
+- **Duration:** `10.72s`
+- **Voiceover Phrase:** *"It sounds brutal, but human beings rarely value what comes without cost. When water is free from the kitchen tap, nobody stops to admire its purity."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A clean minimalist kitchen sink faucet running crystal-clear water into a drain. A stickman walks right past it holding a dirty cup without even looking at the tap.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 035 (`slide_035.png`)
+- **Title / Action:** The Buried Diamond
+- **Duration:** `6.95s`
+- **Voiceover Phrase:** *"When a rare mineral is buried five miles beneath solid rock, wars are fought over a single ounce."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Cross-section view of the earth. Surface level is calm; 5 miles below solid charcoal rock layers, a single glowing golden diamond radiates light. Tiny stickman miners are furiously tunneling with pickaxes.. Color Accent: Radiant golden gem sparkle (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 036 (`slide_036.png`)
+- **Title / Action:** The Law of Value
+- **Duration:** `9.01s`
+- **Voiceover Phrase:** *"Value is never an inherent property of an object or a person. Value is created by scarcity and the effort required to obtain it."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_01_bedroom.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_01_bedroom.jpg, @env_05_abstract_mind.jpg: A mathematical balance scale in slate blue. On one side, a giant block labeled `"SCARCITY"`; on the other side, an equally heavy block labeled `"EFFORT REQUIRED"`. The scale balances in perfect equilibrium.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+## CHAPTER 02: THE CASINO EFFECT (Shots 037 – 066)
+
+### Slide 037 (`slide_037.png`)
+- **Title / Action:** Chapter 2 Title Card
+- **Duration:** `2.2s`
+- **Voiceover Phrase:** *"[CHAPTER 2: THE CASINO EFFECT: THE DOPAMINE OF UNCERTAINTY]"*
+- **Scene Type:** `title_card`
+- **Bound References:** `@env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg: Centered hand-drawn typography: `"CHAPTER 02: THE CASINO EFFECT"`. Below it, three spinning slot machine reels with question marks in slate blue (`#2563EB`). Acoustic drum thud.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 038 (`slide_038.png`)
+- **Title / Action:** Entering The 1950s Lab
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"To see this principle in action, we have to look inside a psychology laboratory from the nineteen fifties."*
+- **Scene Type:** `environment_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_05_scientist.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_05_scientist.jpg: A wide view of the retro psychology lab (`ENV_02_SKINNER_LAB`). Vintage oscilloscopes, slate-blue chalkboard with experimental notes, and a neat row of experimental chambers on clean steel tables.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 039 (`slide_039.png`)
+- **Title / Action:** B.F. Skinner & The Box
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"The behavioral scientist B.F. Skinner conducted a famous series of experiments with animals."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_05_scientist.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_05_scientist.jpg, @env_05_abstract_mind.jpg: `CHAR_05_SCIENTIST` standing with glasses and lab coat, holding a clipboard with experimental graphs, peering with curiosity through a glass observation window.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 040 (`slide_040.png`)
+- **Title / Action:** The First Setup: The Predictable Lever
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"In the first setup, a pigeon was placed inside a box with a lever."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: Inside the clean box. A cute minimalist cartoon pigeon stands on the wire floor facing a polished brass lever and a small silver feeding bowl.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 041 (`slide_041.png`)
+- **Title / Action:** Press Lever, Get Food
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"Every single time the pigeon pressed the lever, a food pellet dropped into the bowl. Press the lever, get food. Press the lever, get food."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: 2-step animation loop: 1. The pigeon taps the lever with its beak with a click sound `*CLICK*`. 2. A golden food pellet immediately drops into the bowl with a chime `*DING*`.. Color Accent: Golden food pellet (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 042 (`slide_042.png`)
+- **Title / Action:** The Bored Pigeon
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"What happened? The pigeon pressed the lever when it was hungry, ate its food, and then completely ignored the lever."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: The pigeon is sitting on the opposite side of the chamber with its back turned to the lever, grooming its feathers casually. The lever sits cold and abandoned.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 043 (`slide_043.png`)
+- **Title / Action:** Reliable, Safe, and Boring
+- **Duration:** `2.9s`
+- **Voiceover Phrase:** *"The food was completely predictable. It was reliable, safe, and boring."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Three minimalist doodle rubber stamps slam onto the screen: `[RELIABLE]`, `[SAFE]`, `[BORING]`. The third stamp is tilted and faded grey.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 044 (`slide_044.png`)
+- **Title / Action:** Skinner Changes The Rules
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Then, Skinner changed the rules. He introduced what psychologists call a variable-ratio schedule of reinforcement."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_05_scientist.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_05_scientist.jpg: A hand wearing a white lab glove reaches into the control panel above the box and flips a heavy toggle switch from `"FIXED 1:1"` to `"VARIABLE ??"`. A warning light blinks amber.. Color Accent: Glowing amber indicator light (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 045 (`slide_045.png`)
+- **Title / Action:** The Game of Chance
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Now, when the pigeon pressed the lever, food only dropped out sometimes."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: Pigeon taps the lever: `*CLICK*` -> Silence. No food pellet drops. The pigeon tilts its head in pure confusion with cartoon question marks.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 046 (`slide_046.png`)
+- **Title / Action:** One, Five, Twelve Presses
+- **Duration:** `4.5s`
+- **Voiceover Phrase:** *"Sometimes it took one press. Sometimes it took five presses. Sometimes it took twelve presses with nothing, and then suddenly two pellets dropped at once."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_06_pigeon.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_06_pigeon.jpg: A rapid montage across a timeline line: * Tally marks: `|` -> Pellet! * Tally marks: `|||||` -> Pellet! * Tally marks: `||||||||||||` -> Empty... Empty... Suddenly TWO Pellets drop!. Color Accent: Golden pellets flashing on screen.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 047 (`slide_047.png`)
+- **Title / Action:** The Obsessed Animal
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"The reward was completely unpredictable. What did the pigeon do? It became completely obsessed."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: The pigeon is now in a frantic frenzy, beak tapping the lever repeatedly with blur lines, sweat droplets flying, pupils dilated wide.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 048 (`slide_048.png`)
+- **Title / Action:** Forgetting Sleep & Peers
+- **Duration:** `4.1s`
+- **Voiceover Phrase:** *"It stood in front of the lever for hours, pressing it frantically, ignoring its sleep, and ignoring other birds."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_06_pigeon.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_06_pigeon.jpg, @env_02_skinner_lab.jpg: Night falls outside the window. Other birds are sleeping peacefully on a perch in the corner. The obsessed pigeon stands under a lone cone of light, still desperately pecking the lever.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 049 (`slide_049.png`)
+- **Title / Action:** Neurological Hijack
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"The unpredictability hijacked the animal's neurological reward circuitry."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A cutaway diagram of a neural circuit. A bright electric lightning bolt jumps across a synaptic gap, bypassing the rational prefrontal control centers straight into the primitive basal ganglia.. Color Accent: Electric amber and crimson sparks (`#F59E0B`, `#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 050 (`slide_050.png`)
+- **Title / Action:** The Modern Neuroscience Reveal
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Modern neuroscientists now know why this happens."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_05_scientist.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_05_scientist.jpg, @env_05_abstract_mind.jpg: Clean minimalist doodle of a neuroscientist pointing to a high-contrast brain scan graphic with glowing focal points.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 051 (`slide_051.png`)
+- **Title / Action:** Dopamine is Not Pleasure
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Dopamine is not the chemical of pleasure."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@char_02_overgiver.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_05_abstract_mind.jpg: Big bold text across the canvas: `"DOPAMINE ≠ PLEASURE"`. A large red ink cross slashes across the word `"PLEASURE"`.. Color Accent: Heavy crimson red cross (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 052 (`slide_052.png`)
+- **Title / Action:** Dopamine is Anticipation
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"Dopamine is the chemical of anticipation."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@char_02_overgiver.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_05_abstract_mind.jpg: The text morphs smoothly: `"DOPAMINE = THE ANTICIPATION OF THE REWARD"`. An animated ink speedometer needle revs up into the red zone.. Color Accent: Glowing golden speedometer arc (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 053 (`slide_053.png`)
+- **Title / Action:** The Spike in Uncertainty
+- **Duration:** `4.8s`
+- **Voiceover Phrase:** *"Your brain does not release its biggest spike of dopamine when you receive a prize. It releases its biggest spike of dopamine when it does not know whether a prize is coming or not."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Two side-by-side dopamine graphs: * Graph A (`Certain Reward`): A flat, mild hill when the prize is handed over. * Graph B (`50/50 Uncertainty`): A colossal, jagged mountain peak during the countdown before the outcome is revealed.. Color Accent: Golden peak towering 3x higher than the flat hill.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 054 (`slide_054.png`)
+- **Title / Action:** The Slot Machine Reality
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"This is the exact psychological mechanism behind slot machines, lottery tickets, and social media notifications."*
+- **Scene Type:** `split_screen_vignette`
+- **Bound References:** `@env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg: Triptych split-screen: * Left: A glowing casino slot machine lever being pulled. * Center: A scratch-off lottery coin scraping gray foil. * Right: A smartphone pull-to-refresh spinning wheel animation.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 055 (`slide_055.png`)
+- **Title / Action:** The Spinning Reels
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"When you pull the lever on a slot machine, the thrilling tension is in the spinning reels."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@char_02_overgiver.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_02_skinner_lab.jpg: Close-up on the 3 reels of a slot machine spinning in a blur: `[ 🍒 | ❓ | ❓ ]`. The sound of spinning gears clicks frantically.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 056 (`slide_056.png`)
+- **Title / Action:** The Gap Between Hope and Fear
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"Will three cherries align, or will you lose everything? That unresolved gap between hope and fear floods your brain with dopamine."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: An enormous chasm in the paper landscape. On one cliff stands `"HOPE"`; on the other stands `"FEAR"`. In the canyon between them, a torrent of glowing golden particles (dopamine) rushes upward into the sky.. Color Accent: Golden particle storm (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 057 (`slide_057.png`)
+- **Title / Action:** The Predictable Lever Human
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"Now, bring this back to human interaction. The person who is always available operates like the first lever."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_02_skinner_lab.jpg: `CHAR_02_OVERGIVER` standing rigidly upright with a literal brass lever sticking out of his chest. A sign taped to his forehead says: `"PRESS FOR INSTANT ATTENTION"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 058 (`slide_058.png`)
+- **Title / Action:** Thirty Seconds Flat
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"Text them, and they reply within thirty seconds. Compliment them, and they shower you with praise. Ask them to meet, and they immediately say yes."*
+- **Scene Type:** `split_screen_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg, @env_04_campus_cafe.jpg: Rapid 3-panel demonstration: 1. Phone sends `Hi` -> Instant reply `HEYYYY!!`. 2. Girl says `Nice shirt` -> Boy showers 10 floral emojis. 3. Girl says `Coffee?` -> Boy already standing at the door with his coat on.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 059 (`slide_059.png`)
+- **Title / Action:** Zero Mystery, Zero Tension
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Their behavior is a hundred percent predictable. There is no mystery. There is no tension."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A tightrope wire stretched across two buildings. Normally, walking a tightrope is thrilling. But here, a wide concrete sidewalk with safety railings has been built over the wire. A stickman walks across it yawning.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 060 (`slide_060.png`)
+- **Title / Action:** Zero Dopamine
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"And because there is no anticipation, there is no dopamine."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A chemical vial labeled `"DOPAMINE"` is completely empty, sitting on an off-white table with dry cobwebs around its neck.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 061 (`slide_061.png`)
+- **Title / Action:** Comfortable But Gravitationally Inert
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"Their attention is comfortable, but it creates zero gravitational pull."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): An astronaut floating weightlessly in empty space. Small pebbles drift around without touching each other. No mass, no gravity, no orbit.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 062 (`slide_062.png`)
+- **Title / Action:** The Human Slot Machine
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"The person who is slightly aloof, however, operates like the slot machine."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_02_skinner_lab.jpg, @env_05_abstract_mind.jpg: `CHAR_01_SOVEREIGN` walking past a crowded campus corridor. Above his head, subtle minimalist slot machine reels spin once and settle with a gentle click. His dark hoodie and calm demeanor give off a mysterious aura.. Color Accent: Soft warm amber glow around his silhouette (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 063 (`slide_063.png`)
+- **Title / Action:** The Rare Glance
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"When they look at you, it feels meaningful because they rarely look around."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg: Crowded lecture hall. Everyone is looking at their phones or talking. Suddenly, `CHAR_01_SOVEREIGN` turns his head and makes direct, steady eye contact with `CHAR_03_OBSERVER` for 2 seconds. A small golden spark connects their eyes.. Color Accent: Golden eye-contact spark line (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 064 (`slide_064.png`)
+- **Title / Action:** The Three-Week Compliment
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"When they pay you a compliment, it sticks in your memory for three weeks because compliments from them are virtually impossible to get."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A page from a journal with handwritten notes. One simple line is circled three times in glowing amber marker: `"He said: 'Your analysis in class was sharp today.'"` A calendar page flips from Monday to 3 weeks later, and the note is still glowing.. Color Accent: Glowing amber marker circle (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 065 (`slide_065.png`)
+- **Title / Action:** The Heart-Skip Notification
+- **Duration:** `4.4s`
+- **Voiceover Phrase:** *"When they text you back, your phone lights up and your heart skips a beat—not because the text is poetic, but because you genuinely didn't know if they would reply at all."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg, @env_05_abstract_mind.jpg: Close-up on `CHAR_03_OBSERVER`’s hand holding her phone. The screen lights up with a simple notification: `[Alex: Sure, 4 PM works.]`. A small hand-drawn heart doodle near her chest flashes once with an electric pulse line.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 066 (`slide_066.png`)
+- **Title / Action:** The Chemical Cocktail Truth
+- **Duration:** `4.8s`
+- **Voiceover Phrase:** *"You are not necessarily falling in love with the person. You are falling in love with the chemical cocktail created by their unpredictability."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A martini glass in the center of the frame. Inside, a swirling glowing cocktail of dopamine, adrenaline, and cortisol bubbles softly. In the reflection of the glass, the silhouette of the aloof person is seen.. Color Accent: Amber and violet fluid swirl (`#F59E0B`, `#8B5CF6`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+## CHAPTER 03: THE ECONOMY OF AVAILABILITY (Shots 067 – 090)
+
+### Slide 067 (`slide_067.png`)
+- **Title / Action:** Chapter 3 Title Card
+- **Duration:** `2.2s`
+- **Voiceover Phrase:** *"[CHAPTER 3: THE ECONOMY OF AVAILABILITY]"*
+- **Scene Type:** `title_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Centered heavy ink typography: `"CHAPTER 03: THE ECONOMY OF AVAILABILITY"`. Below it, an economic supply and demand graph with intersecting curves in slate blue and gold. Acoustic thud.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 068 (`slide_068.png`)
+- **Title / Action:** Social Supply & Demand
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"Beyond dopamine, there is a second fundamental law at work: the Law of Social Supply and Demand."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A large blackboard on the wall. A red chalk arrow points downward labeled `"HIGH SUPPLY"`; a gold chalk arrow points upward labeled `"HIGH VALUE"`. The two arrows never touch.. Color Accent: Red and gold arrows (`#FF3B30`, `#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 069 (`slide_069.png`)
+- **Title / Action:** Unspoken Power Dynamics
+- **Duration:** `3.1s`
+- **Voiceover Phrase:** *"Every social interaction carries an unspoken power dynamic."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Two stickmen standing across from each other having a casual conversation. Above them, subtle hand-drawn chess pieces (King, Pawn) hover invisibly over their heads.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 070 (`slide_070.png`)
+- **Title / Action:** Social Exchange Theory
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Psychologist George Homans called this Social Exchange Theory."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: An academic chalkboard with a portrait sketch of George Homans and the title: `"SOCIAL EXCHANGE THEORY (1958)"`. Below it: `"Relationships = Cost-Benefit Analysis"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 071 (`slide_071.png`)
+- **Title / Action:** The Principle of Least Interest
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"In any relationship between two people, the person who has the least investment in the outcome holds the most leverage."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_02_skinner_lab.jpg: A see-saw balance beam. On the high end sits Person A holding a mountain of heavy baggage labeled `"DESPERATE FOR APPROVAL"`. On the grounded, commanding low end sits Person B holding a single cup of tea, completely relaxed.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 072 (`slide_072.png`)
+- **Title / Action:** The College Group Project
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"Imagine two students working on a group presentation in college."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: A campus study desk with two laptops open side-by-side. On the left sits the anxious student; on the right sits the calm student.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 073 (`slide_073.png`)
+- **Title / Action:** The Desperate Over-Achiever
+- **Duration:** `4.0s`
+- **Voiceover Phrase:** *"One student is desperate for an A-plus. He stays up until three in the morning formatting slides, worrying about fonts, and sweating every detail."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_02_overgiver.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_04_campus_cafe.jpg: Close-up on the frantic student at 3:00 AM. Three coffee mugs stacked up, red bloodshot ink eyes, frantic clicking on slide formatting tools, posture completely crumpled.. Color Accent: Red indicator warnings on his screen (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 074 (`slide_074.png`)
+- **Title / Action:** The B-Minus Guy
+- **Duration:** `4.5s`
+- **Voiceover Phrase:** *"The other student leans back in his chair, glances at the project, and says, 'A B-minus is fine with me. I have other priorities.'"*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: `CHAR_01_SOVEREIGN` leaning back with his hands behind his head, feet propped lightly on the desk corner. He glances at the screen with an unbothered smile, shrugging with zero anxiety.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 075 (`slide_075.png`)
+- **Title / Action:** Who Holds The Frame?
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"Who controls the frame of that project?"*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Clean cream canvas with a hand-drawn golden picture frame around the words: `"WHO HOLDS THE FRAME?"`.. Color Accent: Bold golden frame lines (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 076 (`slide_076.png`)
+- **Title / Action:** The Power of Caring Less
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"The person who cares less."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_02_overgiver.jpg: Medium shot of `CHAR_01_SOVEREIGN` closing his notebook and packing his bag. The frantic student is looking up at him wide-eyed, completely helpless to argue.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 077 (`slide_077.png`)
+- **Title / Action:** The Walking Away Power
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"The person who is comfortable walking away sets the rules."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Wide shot of an open glass doorway. The sovereign student walks through it into the sunlight, while the classroom door stays open. His footsteps leave calm, steady ink prints.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 078 (`slide_078.png`)
+- **Title / Action:** The Unspoken Broadcast
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"When you constantly make yourself available to someone, you communicate a hidden signal without saying a single word."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: `CHAR_02_OVERGIVER` standing in a room. Invisible red radio frequency waves broadcast continuously from his chest in 360 degrees, sending a flashing text pulse: `[I HAVE NOTHING ELSE]`.. Color Accent: Flashing red radio rings (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 079 (`slide_079.png`)
+- **Title / Action:** The Empty Calendar
+- **Duration:** `3.1s`
+- **Voiceover Phrase:** *"You communicate that your calendar is empty."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Close-up on a wall calendar where Monday through Sunday are completely blank white boxes with tumbleweed blowing across them.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 080 (`slide_080.png`)
+- **Title / Action:** No Compelling Passions
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"You communicate that you have no pressing goals, no compelling passions, and no other options."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A character sitting in the middle of an empty room staring at a blank wall, while other doors labeled `"MISSION"`, `"CRAFT"`, `"FRIENDS"` are locked with cobwebs.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 081 (`slide_081.png`)
+- **Title / Action:** The Orbiting Satellite
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"You communicate that your entire world revolves around whether this one person grants you their favor."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_02_overgiver.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_03_observer.jpg: Astronomical diagram: In the center, `CHAR_03_OBSERVER` is drawn as a glowing Earth. `CHAR_02_OVERGIVER` is drawn as a tiny, helpless satellite locked in a frantic, tight orbit around her, unable to break away.. Color Accent: Blue and amber planet aura (`#2563EB`, `#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 082 (`slide_082.png`)
+- **Title / Action:** Total Availability = Desperation
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"And to the human subconscious, total availability looks dangerously close to desperation."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Two bold words across the canvas connected by an equal sign: `"TOTAL AVAILABILITY = DESPERATION"`. The word `"DESPERATION"` vibrates slightly with red ink distortion.. Color Accent: Crimson red text highlight (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 083 (`slide_083.png`)
+- **Title / Action:** The Cornering Salesman
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"Think about how you feel when a salesperson in a shopping mall corners you."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_04_salesman.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_04_salesman.jpg: A shopping mall corridor. `CHAR_04_SALESMAN` steps directly into the walking path of a pedestrian, holding up lotion bottles and flyer sheets, blocking the way.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 084 (`slide_084.png`)
+- **Title / Action:** The Forced Smile & The Follow
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"They smile too broadly. They follow you down the aisle. They offer you discounts before you even inspect the price tag."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @char_04_salesman.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_04_salesman.jpg: The salesman is walking backward in front of the shopper, grinning frantically, pointing to a massive cardboard sign: `"-70% OFF! PLEASE TAKE IT!"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 085 (`slide_085.png`)
+- **Title / Action:** The Immediate Reflex: Backing Away
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"Even if the product they are selling is decent, what is your immediate reflex? You want to back away. You feel suspicious."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Close-up on the shopper's face. Eyes squinting in suspicion, shoulders rising, hands held up in a polite `"No thanks"` barrier, looking for an emergency exit.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 086 (`slide_086.png`)
+- **Title / Action:** The Hidden Defect Suspicion
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"You think to yourself: 'If this jacket is so incredible, why are they practically begging me to take it?'"*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): The shopper holds up a leather jacket, looking underneath the collar with a magnifying glass, searching for hidden tears or defects.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 087 (`slide_087.png`)
+- **Title / Action:** The Invisible Trap
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"Desperate enthusiasm always feels like an invisible trap. It signals that the seller needs something from you more than you need something from them."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_02_overgiver.jpg, @char_04_salesman.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @char_04_salesman.jpg: The salesman holds out a gift box tied with a gold ribbon. But under the table, the box is connected by an invisible steel chain and bear trap around the recipient’s ankle.. Color Accent: Crimson red steel chain (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 088 (`slide_088.png`)
+- **Title / Action:** The Signal of Self-Sufficiency
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"When a person ignores you, or simply doesn't rush to cater to your every mood, they trigger the exact opposite reaction. They signal emotional self-sufficiency."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @char_04_salesman.jpg, @env_04_campus_cafe.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_04_salesman.jpg, @env_04_campus_cafe.jpg: `CHAR_01_SOVEREIGN` sitting in a café window table. He takes a slow sip of coffee, looks out at the rainy street, and turns a page of his book. He is completely, peacefully content in his own presence.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 089 (`slide_089.png`)
+- **Title / Action:** Your Absence Won’t Break Me
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"They communicate that while your presence might be welcome, your absence will not shatter their existence."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg: Wide shot. `CHAR_03_OBSERVER` stands near the table saying goodbye. `CHAR_01_SOVEREIGN` smiles warmly, gives a genuine, friendly wave: `"Have a great evening."` He turns right back to his reading without lingering or staring at her back.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 090 (`slide_090.png`)
+- **Title / Action:** Having Your Own Orbit
+- **Duration:** `4.8s`
+- **Voiceover Phrase:** *"They have their own orbit. They are not auditioning for your approval. And because they refuse to sell themselves, you immediately assume the product must be of immense value."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: A golden celestial body with its own steady orbital rings. Other smaller satellites are drawn naturally into its orbit without it moving an inch. A golden stamp appears: `[INTRINSIC VALUE: UNMEASURABLE]`.. Color Accent: Radiant amber and gold ring glow (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+## CHAPTER 04: THE MAGNETISM OF THE UNOCCUPIED MIND (Shots 091 – 122)
+
+### Slide 091 (`slide_091.png`)
+- **Title / Action:** Chapter 4 Title Card
+- **Duration:** `2.2s`
+- **Voiceover Phrase:** *"[CHAPTER 4: THE MAGNETISM OF THE UNOCCUPIED MIND]"*
+- **Scene Type:** `title_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Centered hand-drawn typography: `"CHAPTER 04: THE MAGNETISM OF THE UNOCCUPIED MIND"`. Below it, a clean doodle of an open notebook with a glowing fountain pen in slate blue (`#2563EB`). Acoustic thud.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 092 (`slide_092.png`)
+- **Title / Action:** The Critical Mistake
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"At this point, many people make a critical mistake."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A stickman walking down a path. The path forks into two roads: * Left road: `"AUTHENTIC PURPOSE"` (lit with warm sunlight). * Right road: `"PLAYING MIND GAMES"` (marked with a red warning sign and quicksand). The stickman is turning right into the quicksand.. Color Accent: Warning red on the right road (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 093 (`slide_093.png`)
+- **Title / Action:** The Game Player
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"They read about psychology, they learn about scarcity, and they decide to play games."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A character sitting at a desk with a stack of self-help books (`"How to Manipulate"`, `"The 3-Day Rule"`). He has a chessboard in front of him, moving little pawns labeled `"HER"` and `"ME"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 094 (`slide_094.png`)
+- **Title / Action:** Staring At The Stopwatch
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"They purposely wait three hours to reply to a text message while staring at their watch."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_02_overgiver.jpg, @env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_01_bedroom.jpg: A character sitting on the edge of a bed, holding his phone in one hand and an oversized ticking stopwatch in the other. He stares intently at the second hand: `02:59:58... 02:59:59... 03:00:00! NOW I CAN SEND IT!`.. Color Accent: Red stopwatch hand ticking (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 095 (`slide_095.png`)
+- **Title / Action:** Staring At The Ceiling
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"They pretend to be busy when they are actually sitting on their bed staring at the ceiling."*
+- **Scene Type:** `environment_vignette`
+- **Bound References:** `@char_02_overgiver.jpg, @env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_01_bedroom.jpg: Wide shot of a messy bedroom. The character lies flat on his back staring at a blank ceiling fan. His phone sits beside him. He sends a text: `"Sorry, crazy busy with meetings right now!"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 096 (`slide_096.png`)
+- **Title / Action:** The Cold and Arrogant Mask
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"They act cold, rude, or arrogant, believing that indifference alone creates attraction."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A stickman wearing oversized dark sunglasses indoors, crossing his arms with an exaggerated sneer, deliberately rolling his eyes at anyone who says hello.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 097 (`slide_097.png`)
+- **Title / Action:** The Inevitable Failure
+- **Duration:** `2.2s`
+- **Voiceover Phrase:** *"This almost always fails."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A massive black ink stamp slams onto the frame: `"IT FAILS."` with cracked ink lines radiating outward.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 098 (`slide_098.png`)
+- **Title / Action:** The Single Question
+- **Duration:** `1.8s`
+- **Voiceover Phrase:** *"Why?"*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Clean off-white paper. Crisp black ink: `"WHY?"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 099 (`slide_099.png`)
+- **Title / Action:** Detecting Performative Detachment
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"Because people can sense performative detachment from a mile away."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): An airport radar screen. The sweeping green scanner line instantly detects a blinking red blip labeled `"FAKE DETACHMENT (RADAR DETECTED: 100%)"`.. Color Accent: Glowing radar green and blip red (`#22C55E`, `#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 100 (`slide_100.png`)
+- **Title / Action:** Artificial Indifference is Loud
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"Artificial indifference is loud."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@char_04_salesman.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_04_salesman.jpg: The words `"ARTIFICIAL INDIFFERENCE IS LOUD"` drawn with giant spiky megaphone lines blasting noise.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 101 (`slide_101.png`)
+- **Title / Action:** Clumsy and Transparent
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"It is clumsy, reactive, and transparent."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A stickman holding a paper mask of a calm, stoic face in front of his head. But the mask is made of clear cellophane plastic—behind it, his real face is sweating and biting its fingernails.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 102 (`slide_102.png`)
+- **Title / Action:** Keeping Score
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"When someone waits three hours to text you back, but their message is dripping with passive aggression, they are not detached—they are keeping score."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: A chalkboard labeled `"THE SCOREBOARD"`. Tally marks are aggressively scratched into the stone: `Her replies: 4 | My delayed replies: 4 | Vengeance: Pending`.. Color Accent: Red chalk scratches (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 103 (`slide_103.png`)
+- **Title / Action:** Seeking A Reaction
+- **Duration:** `3.1s`
+- **Voiceover Phrase:** *"They are still trapped in the game of seeking your reaction."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@env_02_skinner_lab.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_02_skinner_lab.jpg: A stickman trapped inside a giant birdcage made of question marks and notification icons, shaking the bars while staring out.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 104 (`slide_104.png`)
+- **Title / Action:** Not An Act
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"True detachment is not an act."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Clean cream canvas. Minimalist hand-drawn serif typography: `"TRUE DETACHMENT IS NOT AN ACT."`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 105 (`slide_105.png`)
+- **Title / Action:** The Byproduct of An Occupied Mind
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"True detachment is the byproduct of an occupied mind."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_05_abstract_mind.jpg: A glowing golden lightbulb inside an ink-drawn skull. The brain’s cognitive channels are 100% illuminated with equations, architecture sketches, and creative plans. Zero bandwidth remains for petty games.. Color Accent: Warm golden core light (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 106 (`slide_106.png`)
+- **Title / Action:** The Boy in The Library
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"Consider the boy sitting in the corner of a crowded campus library."*
+- **Scene Type:** `environment_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @env_03_library.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_03_library.jpg: Wide shot of the majestic university library (`ENV_03_LIBRARY`). In the far right corner, under a tall arched window and a green banker’s lamp, `CHAR_01_SOVEREIGN` sits alone at a solid oak desk.. Color Accent: Soft emerald green on the banker’s lamp shade (`#10B981`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 107 (`slide_107.png`)
+- **Title / Action:** Immersed in The Craft
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"He has his headphones on, his notebook open, and he is deeply immersed in solving a difficult problem."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Medium close-up of `CHAR_01_SOVEREIGN`. Over-ear studio headphones resting over his messy fringe hair. A pen in his hand scratches fluid ink diagrams into a leather notebook. His brow is furrowed in deep, joyous cognitive absorption.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 108 (`slide_108.png`)
+- **Title / Action:** The Passing Crowd
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"People walk past him."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Side profile view. Two students carrying backpacks walk right past his desk. He does not turn his head or break rhythm.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 109 (`slide_109.png`)
+- **Title / Action:** Distant Laughter
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"Laughter breaks out two tables away."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: In the blurred middle-ground, three students are laughing loudly with wide cartoon mouths. `CHAR_01_SOVEREIGN` remains in sharp focus in the foreground, headphones blocking the noise, turning a page.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 110 (`slide_110.png`)
+- **Title / Action:** Weekend Gossip
+- **Duration:** `2.9s`
+- **Voiceover Phrase:** *"A group of students discuss weekend plans."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Students whispering animatedly about parties and drama. Their speech bubbles drift upward and dissolve into thin air.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 111 (`slide_111.png`)
+- **Title / Action:** Never Looking Up
+- **Duration:** `3.0s`
+- **Voiceover Phrase:** *"He doesn't glance up to see who is looking at him."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Tight shot on his eyes and forehead. His gaze remains anchored to the page. There is zero peripheral scanning for social validation.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 112 (`slide_112.png`)
+- **Title / Action:** The Untouched Screen
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"He doesn't check his phone every two minutes to see if someone liked his photo."*
+- **Scene Type:** `prop_closeup`
+- **Bound References:** `@char_01_sovereign.jpg, @env_04_campus_cafe.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_04_campus_cafe.jpg, @env_05_abstract_mind.jpg: His phone sits upside down beside his coffee cup. In a ghosted thought bubble above it, an Instagram heart notification counter `+1` pops up, but it has zero power over him.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 113 (`slide_113.png`)
+- **Title / Action:** Absorbed in The Craft
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"He is completely absorbed in his own craft."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_01_bedroom.jpg: An invisible glowing dome of warm amber light surrounds the boy and his desk. Outside the dome, the world is faint grey sketch lines; inside the dome, his work radiates golden brilliance.. Color Accent: Radiant golden dome perimeter (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 114 (`slide_114.png`)
+- **Title / Action:** Not Proving A Point
+- **Duration:** `2.9s`
+- **Voiceover Phrase:** *"He is not ignoring people to prove a point."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: Clean text: `"NOT TO PROVE A POINT."` with a soft slate-blue underline.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 115 (`slide_115.png`)
+- **Title / Action:** Focus Allocated Elsewhere
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"He is ignoring people because his focus is genuinely allocated elsewhere."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A mental pie chart of attention: * 90% Golden sector: `"MY MISSION / MY CRAFT / MY STANDARDS"`. * 10% Slate sector: `"REAL-TIME NECESSITIES"`. * 0% Red sector: `"WHAT OTHERS THINK"`.. Color Accent: Golden majority slice (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 116 (`slide_116.png`)
+- **Title / Action:** Genuine Sovereignty Defined
+- **Duration:** `3.0s`
+- **Voiceover Phrase:** *"This is what genuine sovereignty looks like."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Wide shot of `CHAR_01_SOVEREIGN` writing with steady hand. His posture radiates effortless authority without a drop of arrogance.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 117 (`slide_117.png`)
+- **Title / Action:** The Room Shifting Posture
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"When an attractive girl or a high-status peer walks into the room, most people shift their posture. They speak slightly louder. They try to make eye contact. They perform."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_03_observer.jpg, @env_03_library.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_03_observer.jpg, @env_03_library.jpg: The library door opens. `CHAR_03_OBSERVER` walks in looking elegant. Instantly, three nearby male students sit up straighter, puff their chests out, laugh louder, and nervously fix their hair with awkward glances.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 118 (`slide_118.png`)
+- **Title / Action:** The Person Who Continues
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"The person with an occupied mind simply continues what they were doing."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Same room. In the corner, `CHAR_01_SOVEREIGN` doesn't flinch. His pen continues making clean ink marks on the page. His pulse remains at 60 BPM.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 119 (`slide_119.png`)
+- **Title / Action:** Unintimidated by Status or Beauty
+- **Duration:** `4.5s`
+- **Voiceover Phrase:** *"They are not intimidated by beauty, and they are not intimidated by status, because their internal sense of self-worth does not depend on who validates them in the next ten minutes."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@env_01_bedroom.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_01_bedroom.jpg: Inside the character's chest, an anchor made of solid forged iron rests on deep bedrock. Raging waves of social opinion and beauty crash against the surface, but the anchor does not move a single millimeter.. Color Accent: Deep slate-blue anchor with golden chain links (`#2563EB`, `#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 120 (`slide_120.png`)
+- **Title / Action:** The Electric Silence
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"This kind of silence is electric."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg, @env_03_library.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_03_library.jpg: The library room around the sovereign boy. Faint, elegant blue-and-gold electric arcs crackle silently across the air around his desk, signaling massive latent energy.. Color Accent: Electric amber sparks (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 121 (`slide_121.png`)
+- **Title / Action:** The Gravitational Vacuum
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"It creates a vacuum that pulls other people in."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg, @env_03_library.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg, @env_03_library.jpg: `CHAR_03_OBSERVER` walking between the bookshelves. She stops, looks between two book stacks, and stares at `CHAR_01_SOVEREIGN`. Her expression is captivated, her head slightly tilted, drawn to his calm aura.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 122 (`slide_122.png`)
+- **Title / Action:** The Most Visible Person
+- **Duration:** `4.8s`
+- **Voiceover Phrase:** *"Because in a world where almost everyone is begging to be seen, the person who doesn't need to be seen becomes the most visible person in the room."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: High-angle panoramic wide shot. In the crowded hall, dozens of figures hold glowing neon signs saying `"LOOK AT ME!"`. But in the center, `CHAR_01_SOVEREIGN` stands with zero signs, wearing his dark hoodie under a pure, clean spotlight, effortlessly dominating the visual frame.. Color Accent: Pure golden spotlight (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+## CHAPTER 05: DETACHMENT WITHOUT CRUELTY (Shots 123 – 148)
+
+### Slide 123 (`slide_123.png`)
+- **Title / Action:** Chapter 5 Title Card
+- **Duration:** `2.2s`
+- **Voiceover Phrase:** *"[CHAPTER 5: DETACHMENT WITHOUT CRUELTY]"*
+- **Scene Type:** `title_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Centered hand-drawn typography: `"CHAPTER 05: DETACHMENT WITHOUT CRUELTY"`. Below it, a clean hand-drawn heart resting inside an open palm in slate blue and gold (`#2563EB`, `#F59E0B`). Acoustic thud.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 124 (`slide_124.png`)
+- **Title / Action:** The Core Question
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"So where does this leave us? Does this mean that to be valued in life, you must become cold, unfeeling, and emotionally unavailable?"*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A stickman wearing a solid block of blue ice over his chest, shivering, walking alone through a freezing, barren snowfield.. Color Accent: Cold ice blue (`#38BDF8`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 125 (`slide_125.png`)
+- **Title / Action:** Absolutely Not
+- **Duration:** `2.0s`
+- **Voiceover Phrase:** *"Absolutely not."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Massive solid ink typography: `"ABSOLUTELY NOT."` with a sharp red underline.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 126 (`slide_126.png`)
+- **Title / Action:** Sovereignty vs Immaturity
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"There is a massive difference between emotional sovereignty and emotional immaturity."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @env_06_pedestal_pillar.jpg: Side-by-side comparison column: * Left: `"EMOTIONAL SOVEREIGNTY"` (Strong tree rooted in soil, open branches). * Right: `"EMOTIONAL IMMATURITY"` (Spiky cactus in a cracked flowerpot, thorny and fragile).. Color Accent: Slate blue vs prickly red (`#2563EB`, `#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 127 (`slide_127.png`)
+- **Title / Action:** Silence As A Weapon
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"The person who uses silence as a weapon to punish, confuse, or manipulate others is not powerful. They are operating from deep woundedness and fear of vulnerability."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A character holding a black dagger made of silence, pointing it at someone else. Behind his back, his own spine is shattered with cracks and band-aids.. Color Accent: Crimson cracks on his spine (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 128 (`slide_128.png`)
+- **Title / Action:** Emotional Cowardice
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"Playing hot and cold to keep people on a hook is not strength; it is emotional cowardice."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A character dangling a fishing rod with a sharp hook baited with a glowing heart over someone's head, jerking it upward whenever they reach for it. Above the fisherman, a label appears: `[EMOTIONAL COWARDICE]`.. Color Accent: Red hook highlight (`#FF3B30`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 129 (`slide_129.png`)
+- **Title / Action:** The Real Goal
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"The ultimate goal of social psychology is not to learn how to ignore people."*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg: Text: `"THE GOAL IS NOT TO IGNORE OTHERS."` crossed out with a gentle grey pencil stroke.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 130 (`slide_130.png`)
+- **Title / Action:** Stop Abandoning Yourself
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"The goal is to learn how to stop abandoning yourself."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A character kneeling down, reaching out both hands, and helping his own smaller, exhausted self stand up off the floor with deep compassion and solidarity.. Color Accent: Warm golden glow between the two figures (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 131 (`slide_131.png`)
+- **Title / Action:** Bringing Yourself To Eye Level
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"When you stop placing others on pedestals, you don't do it to push them down. You do it to bring yourself up to eye level."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg, @env_06_pedestal_pillar.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg, @env_06_pedestal_pillar.jpg: The Greek marble column from Chapter 1 smoothly descends into the earth like an elevator, until `CHAR_03_OBSERVER` and `CHAR_01_SOVEREIGN` are standing on the exact same flat, level ground, looking directly into each other's eyes as equals.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 132 (`slide_132.png`)
+- **Title / Action:** Not Psychological Chess
+- **Duration:** `4.2s`
+- **Voiceover Phrase:** *"When you don't jump at every notification, it shouldn't be because you are playing psychological chess. It should be because your life is rich enough, purposeful enough, and disciplined enough that your attention is actually precious."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: A wide montage of a full, dignified life: * Morning workout weights. * Leather notebook and design sketches. * Real conversations with trusted friends. * Reading by the window.. Color Accent: Soft warm morning sunlight (`#FEF3C7`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 133 (`slide_133.png`)
+- **Title / Action:** Warm Detachment
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"The most magnetic posture in human relationships is warm detachment."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Clean cream canvas. The words `"WARM DETACHMENT"` appear in heavy black ink. Around the word `"WARM"`, a soft orange aura; around the word `"DETACHMENT"`, a crisp geometric slate-blue diamond.. Color Accent: Amber warmth (`#F59E0B`) and slate-blue clarity (`#2563EB`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 134 (`slide_134.png`)
+- **Title / Action:** Be Warm, Listen Deeply
+- **Duration:** `4.0s`
+- **Voiceover Phrase:** *"Be warm when people are in front of you. Listen deeply. Be kind, be respectful, and be honest. Give them your undivided presence."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Medium two-shot at a table. `CHAR_01_SOVEREIGN` is leaning forward slightly, maintaining warm, relaxed eye contact, his phone completely out of sight. A genuine, friendly smile is on his face. The other person feels completely heard and respected.. Color Accent: Warm amber glow on the table (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 135 (`slide_135.png`)
+- **Title / Action:** Detached From Validation
+- **Duration:** `3.4s`
+- **Voiceover Phrase:** *"But remain completely detached from their validation."*
+- **Scene Type:** `metaphor_diagram`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): An invisible glass shield between the character and a cloud of floating thumbs-up and approval icons. The icons touch the glass and drift harmlessly away like snowflakes.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 136 (`slide_136.png`)
+- **Title / Action:** Welcoming Those Who Stay
+- **Duration:** `2.8s`
+- **Voiceover Phrase:** *"If they choose to stay, welcome them."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: A character walks toward `CHAR_01_SOVEREIGN`. He opens the door wide with a warm, welcoming gesture, inviting them into a brightly lit room.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 137 (`slide_137.png`)
+- **Title / Action:** Letting Go Without Chasing
+- **Duration:** `4.4s`
+- **Voiceover Phrase:** *"If they choose to pull away, let them go without chasing, without arguing, and without begging for an explanation."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_02_overgiver.jpg: Wide shot of an open road. A figure walks away into the distance. `CHAR_01_SOVEREIGN` stands calmly by a tree. His hands are in his pockets, his posture is upright, and he offers a peaceful nod. Zero desperate running, zero frantic texts.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 138 (`slide_138.png`)
+- **Title / Action:** Unshakeable Frame
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"The person who knows how to hold their own frame doesn't panic when someone ignores them."*
+- **Scene Type:** `character_closeup`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Close-up on `CHAR_01_SOVEREIGN`. A notification silence hangs. His eyes remain serene, his breathing even. A heart rate monitor shows a calm, steady rhythm: `62 BPM`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 139 (`slide_139.png`)
+- **Title / Action:** No Scrambling To Win Them Back
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"They don't scramble to win back someone who walked away."*
+- **Scene Type:** `metaphor_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: A broken ceramic cup on the floor. Instead of desperately gluing tiny shards together on his knees, the sovereign character simply sweeps the dust away, pours tea into a new cup, and continues forward.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 140 (`slide_140.png`)
+- **Title / Action:** The Fundamental Truth
+- **Duration:** `3.2s`
+- **Voiceover Phrase:** *"They understand a fundamental truth of human psychology:"*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Clean off-white paper canvas. The words `"THE FUNDAMENTAL TRUTH"` in classic black ink serif.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 141 (`slide_141.png`)
+- **Title / Action:** You Cannot Lose What Was Never Yours
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"You can never lose what was never yours."*
+- **Scene Type:** `text_punch_card`
+- **Bound References:** `@env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @env_05_abstract_mind.jpg: Bold, beautiful typography: `"YOU CAN NEVER LOSE WHAT WAS NEVER YOURS."`. Below it, an open hand releasing a captive bird that flies freely into the open sky.. Color Accent: Golden silhouette on the rising bird (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 142 (`slide_142.png`)
+- **Title / Action:** Comfortable in Your Own Silence
+- **Duration:** `5.0s`
+- **Voiceover Phrase:** *"And you can never convince someone to value your presence until you show them that you are completely comfortable with your own silence."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Wide cinematic shot of a hilltop under a twilight sky. `CHAR_01_SOVEREIGN` sits quietly on a wooden bench looking at the stars. The silence of the universe wraps around him like a cloak of dignity.. Color Accent: Deep slate-blue twilight with soft golden stars (`#1E293B`, `#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 143 (`slide_143.png`)
+- **Title / Action:** Stop Auditioning
+- **Duration:** `3.6s`
+- **Voiceover Phrase:** *"Stop auditioning for people who are barely paying attention."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): A theatrical stage with blinding spotlights. An empty wooden chair sits in the audience with no one watching. The actor on stage puts down his script, steps off the stage, turns off the spotlight, and walks out the side door into real life.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 144 (`slide_144.png`)
+- **Title / Action:** Build A Demanding Life
+- **Duration:** `3.8s`
+- **Voiceover Phrase:** *"Build a life that demands your complete focus."*
+- **Scene Type:** `character_vignette`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Fast, inspiring cinematic montage: * Running down a morning track. * Writing bold plans in a notebook. * Building a project with your hands. * Helping a friend with genuine warmth.. Color Accent: High-contrast crisp black ink with warm golden highlights (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 145 (`slide_145.png`)
+- **Title / Action:** The Climax Call to Action
+- **Duration:** `5.2s`
+- **Voiceover Phrase:** *"Because the moment you stop needing the world to applaud, the world finally begins to lean in."*
+- **Scene Type:** `character_interaction`
+- **Bound References:** `@char_01_sovereign.jpg, @char_03_observer.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_03_observer.jpg: Final full-circle scene. `CHAR_01_SOVEREIGN` is walking through the university courtyard with his dark hoodie and notebook in hand. In the background, `CHAR_03_OBSERVER` and two other peers are looking over, genuinely intrigued, leaning forward slightly as he walks past. He doesn't look around; he simply walks into the golden sunset with quiet, unshakeable dignity.. Color Accent: Warm radiant golden sunset rays streaming across the paper canvas (`#F59E0B`).. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 146 (`slide_146.png`)
+- **Title / Action:** The End Philosophy Slate
+- **Duration:** `3.5s`
+- **Voiceover Phrase:** *"[MUSIC SWELLS & GENTLE OUTRO DRONE]"*
+- **Scene Type:** `text_card`
+- **Bound References:** `@char_02_overgiver.jpg, @env_05_abstract_mind.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_02_overgiver.jpg, @env_05_abstract_mind.jpg: Pure textured cream canvas (`#FAF9F6`). A single centered quote in crisp, timeless hand-drawn typography: > *"The most magnetic move in any room is being completely comfortable having nothing to prove."*. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 147 (`slide_147.png`)
+- **Title / Action:** The Channel Outro Frame
+- **Duration:** `4.0s`
+- **Voiceover Phrase:** *"[SUBSCRIBE & NEXT ESSAY PREVIEW]"*
+- **Scene Type:** `outro_card`
+- **Bound References:** `@char_01_sovereign.jpg, @char_02_overgiver.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg, @char_02_overgiver.jpg: A minimalist ink illustration of the backbencher sitting on a hill, reading a book. Two interactive 16:9 video recommendation boxes on the left and right in clean slate-blue outlines. Center text: `"INK EXPLAINER STUDIO"`.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
+### Slide 148 (`slide_148.png`)
+- **Title / Action:** Fade To Black
+- **Duration:** `1.5s`
+- **Voiceover Phrase:** *"[FADE OUT]"*
+- **Scene Type:** `fade_out`
+- **Bound References:** `@char_01_sovereign.jpg (for ink style & line weight)`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A minimal 2D hand-drawn webcomic illustration in the exact simple vector doodle art style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 aspect ratio (1920x1080). Using references @char_01_sovereign.jpg (for ink style & line weight): Smooth 1.5s fade from warm cream paper to deep solid black.. Clean 2D graphic novel doodle art with generous negative space. STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO multi-panel grids, NO speech bubbles, NO realistic human skin, 16:9 widescreen.
+```
+
+---
+
