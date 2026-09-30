@@ -219,9 +219,9 @@ ch1_updates = {
     31: {
         "title": "Looking Up, Looking Down",
         "scene_type": "character_interaction",
-        "refs": "@char_02_overgiver.jpg, @char_03_observer.jpg",
-        "comp": "A graphic two-panel split screen divided cleanly by a single vertical black ink line down the center of the 16:9 widescreen canvas. On the left panel: Close-up profile of CHAR_02_OVERGIVER (an expressive 2D doodle stickman with a smooth round white circular head and blue sweater, normal neck and head proportions). He tilts his head slightly upward looking toward the top right with wide adoring starry eyes. Below him is a neat hand-drawn label: 'LOOKING UP'. On the right panel: Close-up profile of CHAR_03_OBSERVER (smooth round white circular head, brown ponytail, beige sweater). She looks downward toward the bottom left with uncomfortable, distant, detached eyes. Below her is a neat hand-drawn label: 'LOOKING DOWN'.",
-        "accent": ""
+        "refs": "slide_30.jpg, @char_02_overgiver.jpg, @char_03_observer.jpg",
+        "comp": "A graphic two-panel split screen divided cleanly by a single thin hand-drawn vertical black ink line down the center of the 16:9 widescreen canvas, showing direct close-up continuity from slide_30.jpg. On the left panel (ground perspective at the base of the tower): A close-up shot of CHAR_02_OVERGIVER standing at the ground base of the tall classical marble column/tower from slide_30.jpg. The textured stone base of the column rises along the right edge of this panel. CHAR_02_OVERGIVER (blue sweater, smooth round white head, brown hair, normal stickman neck proportions) tilts his head upward, looking up toward the top-right corner with adoring starry cartoon eyes. Neatly handwritten in black ink below him is the label: 'LOOKING UP'. On the right panel (high perspective atop the tower): A close-up shot of CHAR_03_OBSERVER standing high atop the classical marble pillar capital ledge from slide_30.jpg, illuminated from above by the warm amber spotlight cone (#F59E0B) matching slide_30.jpg. The top decorative stone ledge of the pillar capital is visible under her feet. CHAR_03_OBSERVER (beige sweater, backpack, brown ponytail, smooth round white head) looks down over the ledge toward the bottom-left with an uncomfortable, distant, detached expression. Neatly handwritten in black ink below her is the label: 'LOOKING DOWN'.",
+        "accent": "Warm amber spotlight on the right panel atop the tower (#F59E0B)."
     },
     32: {
         "title": "The Unconscious Valuation",

@@ -94,7 +94,7 @@ def determine_references(shot):
         28: "slide_026.png",
         29: "@env_06_pedestal_pillar.jpg",
         30: "slide_029.png, @char_03_observer.jpg, @char_02_overgiver.jpg",
-        31: "@char_02_overgiver.jpg, @char_03_observer.jpg",
+        31: "slide_30.jpg, @char_02_overgiver.jpg, @char_03_observer.jpg",
         32: "None (Pure typography card on paper canvas)",
         33: "None (Pure typography card on paper canvas)",
         34: "None (Pure typography card on paper canvas)",
