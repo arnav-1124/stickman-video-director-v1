@@ -74,7 +74,16 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
         manifest = json.load(f)
 
     project_dir = manifest_path.parent
+    
+    # Locate repository root robustly
+    curr = project_dir.resolve()
     root_dir = project_dir.parent.parent
+    while curr.parent != curr:
+        if (curr / ".git").exists() or (curr / "pipeline").exists():
+            root_dir = curr
+            break
+        curr = curr.parent
+
     project_id = manifest.get('project_id', project_dir.name)
 
     # Determine target resolution
@@ -84,7 +93,11 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
     target_h = 1920 if is_vertical else 1080
     
     output_file = project_dir / f"{project_id}_final.mp4"
-    renders_dir = root_dir / "renders"
+    
+    # Conventional render destination: renders/shorts or renders/long
+    is_short = "shorts" in str(project_dir).lower()
+    subfolder = "shorts" if is_short else "long"
+    renders_dir = root_dir / "renders" / subfolder
     renders_dir.mkdir(parents=True, exist_ok=True)
     render_copy_file = renders_dir / f"{project_id}_final.mp4"
 
@@ -294,8 +307,14 @@ def build_video(manifest_path, burn_subtitles=True, clean_cache=True, target_asp
 
     run_ffmpeg(final_cmd)
 
-    # Copy to renders
+    # Copy to renders vault
     shutil.copy2(output_file, render_copy_file)
+    for thumb_ext in [".jpg", ".png"]:
+        thumb_src = project_dir / f"thumbnail{thumb_ext}"
+        if thumb_src.exists():
+            thumb_render = renders_dir / f"{project_id}_thumbnail{thumb_ext}"
+            shutil.copy2(thumb_src, thumb_render)
+            print(f"   Render Vault Thumbnail: {thumb_render}")
 
     if clean_cache and temp_dir.exists():
         shutil.rmtree(temp_dir, ignore_errors=True)
