@@ -57,22 +57,153 @@ Style: Default,Arial Black,58,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
+CHUNK_OVERRIDE = {
+    1: [
+        ["What", "do", "you"],
+        ["actually", "do", "when"],
+        ["someone", "makes"],
+        ["a", "slick", "joke"],
+        ["at", "your", "expense"],
+    ],
+    2: [
+        ["in", "front", "of"],
+        ["everyone", "at"],
+        ["a", "friend’s", "house?"],
+    ],
+    3: [
+        ["Most", "guys", "freeze."],
+    ],
+    4: [
+        ["You", "either", "laugh"],
+        ["along", "nervously"],
+        ["to", "keep", "the", "peace,"],
+    ],
+    5: [
+        ["or", "you", "get", "angry"],
+        ["and", "ruin"],
+        ["the", "whole", "vibe."],
+    ],
+    6: [
+        ["Look,", "both", "reactions"],
+        ["hand", "all", "your", "power"],
+        ["to", "them."],
+    ],
+    7: [
+        ["Fake-laughing", "says"],
+        ["you", "accept", "disrespect."],
+    ],
+    8: [
+        ["Getting", "angry", "shows"],
+        ["they", "rattled", "you."],
+    ],
+    9: [
+        ["Here’s", "what", "an"],
+        ["experienced", "senior"],
+        ["will", "tell", "you."],
+    ],
+    10: [
+        ["Don’t", "get", "mad,"],
+        ["and", "don’t", "raise"],
+        ["your", "voice."],
+    ],
+    11: [
+        ["Just", "look", "at"],
+        ["them", "calmly,"],
+    ],
+    12: [
+        ["and", "ask", "with"],
+        ["quiet", "curiosity:"],
+    ],
+    13: [
+        ['"Wait,', "I", "didn’t"],
+        ["get", 'it."'],
+    ],
+    14: [
+        ["Something", "like,"],
+        ['"What’s', "the", 'joke?"'],
+    ],
+    15: [
+        ["Notice", "what"],
+        ["happens", "next."],
+    ],
+    16: [
+        ["The", "whole", "room"],
+        ["goes", "quiet."],
+    ],
+    17: [
+        ["Sarcasm", "only", "survives"],
+        ["on", "quick", "laughter."],
+    ],
+    18: [
+        ["The", "moment", "you", "force"],
+        ["someone", "to", "explain"],
+        ["their", "insult,"],
+    ],
+    19: [
+        ["they", "have", "to", "admit"],
+        ["they", "were", "just"],
+        ["being", "petty."],
+    ],
+    20: [
+        ["They'll", "mumble,", "backpedal,"],
+        ["and", "fold", "on"],
+        ["the", "spot."],
+    ],
+    21: [
+        ["You", "don’t", "need", "to", "fight"],
+        ["to", "command", "respect."],
+    ],
+    22: [
+        ["Just", "hold", "up"],
+        ["the", "mirror,"],
+    ],
+    23: [
+        ["and", "let", "them"],
+        ["dismantle", "themselves."],
+    ],
+}
+
+def generate_subtitles(output_path: Path):
+    header = """[Script Info]
+Title: Stickman Ink Explainer Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ExplainerWordSub,Arial Black,58,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.2,0,1,5.5,2.0,2,60,60,350,1
+Style: Default,Arial Black,58,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.0,0,1,5.0,2.0,2,60,60,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
     events = []
-    chunk_size = 3
+    # Perceptual sync delay: shifts animated highlight +0.07s so words highlight exactly on spoken vowels
+    SYNC_DELAY = 0.07
 
     for cid, text, speech_start, speech_end, cut_dur in CUT_SPEECH_DATA:
         words = text.split()
         if not words:
             continue
-        total_words = len(words)
+
+        chunks = CHUNK_OVERRIDE.get(cid)
+        if not chunks:
+            # fallback to 3 words
+            chunks = [words[i:i + 3] for i in range(0, len(words), 3)]
+
+        total_words = sum(len(c) for c in chunks)
         total_speech_dur = max(0.4, speech_end - speech_start)
         word_dur = total_speech_dur / total_words
 
-        # Group words into short chunks of 2-3 words
-        for i in range(0, total_words, chunk_size):
-            chunk = words[i:i + chunk_size]
-            chunk_start = speech_start + (i * word_dur)
-            chunk_end = speech_start + (min(total_words, i + chunk_size) * word_dur)
+        word_counter = 0
+        for chunk in chunks:
+            chunk_word_count = len(chunk)
+            chunk_start = speech_start + SYNC_DELAY + (word_counter * word_dur)
+            chunk_end = chunk_start + (chunk_word_count * word_dur)
 
             for active_idx, active_word in enumerate(chunk):
                 w_start = chunk_start + (active_idx * word_dur)
@@ -82,7 +213,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
                 parts = []
                 for idx, w in enumerate(chunk):
-                    raw_w = w.upper()
+                    raw_w = w.upper().replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
                     if idx == active_idx:
                         # Highlight active word in Gold with subtle pop animation
                         parts.append(f"{{\\c&H0000D7FF&\\3c&H000A0D14&\\t(0,70,\\fscx110\\fscy110)\\t(70,140,\\fscx100\\fscy100)}}{raw_w}{{\\c&H00FFFFFF&\\3c&H000A0D14&}}")
@@ -91,6 +222,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
                 line_text = " ".join(parts)
                 events.append(f"Dialogue: 0,{start_str},{end_str},ExplainerWordSub,,0,0,0,,{line_text}")
+
+            word_counter += chunk_word_count
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:

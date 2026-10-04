@@ -27,6 +27,7 @@ Thumbs.db
 *.wav
 *.jpg
 *.png
+!assets/branding/channel_logo.png
 productions/**/temp/
 
 
