@@ -3,8 +3,9 @@
   "format": "YouTube Shorts (9:16 Vertical)",
   "language": "English",
   "titles": {
-    "recommended": "How To Handle Disrespect Without Getting Angry",
+    "recommended": "How To React When Someone Insults You In Front Of Friends",
     "alternatives": [
+      "How To Handle Disrespect Without Getting Angry",
       "The 'Explain The Joke' Rule (Frame Control in Groups)",
       "What To Say When Someone Makes A Slick Joke About You",
       "Why Quiet Curiosity Destroys Cheap Insults",
@@ -13,6 +14,7 @@
   },
   "description": "Have you ever been hanging out with friends when someone drops a cheap joke at your expense? Most people either laugh along nervously to keep the peace, or explode in anger. But both reactions give all your power away.\n\nIn this video, an experienced senior breaks down the 'Explain The Joke' rule: how to stay completely calm, ask one curious question, and let the insulter dismantle their own disrespect.\n\n#psychology #socialskills #confidence #mindset #selfimprovement #framecontrol #stoicism #shorts",
   "tags": [
+    "how to react when someone insults you in front of friends",
     "how to handle disrespect",
     "frame control",
     "social skills",
@@ -29,9 +31,11 @@
     "communication skills",
     "shorts"
   ],
-  "thumbnail_prompt": {
-    "model": "Nano Banana Pro (Gemini 3 Pro Image)",
-    "aspect_ratio": "9:16",
-    "prompt": "A minimal 2D hand-drawn webcomic cartoon illustration in the iconic Ink Explainer pen-and-ink style, drawn on a clean solid off-white paper canvas (#FAF9F6). Bold black ink outlines (7px-9px stroke weight), flat solid color blocking, zero 3D rendering. In the center, a calm stickman in a dark forest-green hoodie holding up a sleek circular silver mirror facing the viewer. Inside the mirror reflection, a stammering stickman in a bright yellow shirt with wide nervous eyes and sweat drops shrinking backward. Above them, bold hand-lettered ink title in crimson red and black: 'NEVER GET ANGRY'. Ample negative space, high contrast, clean vector comic art."
+  "thumbnail": {
+    "file_path": "thumbnail.jpg",
+    "vault_path": "projects/renders/ep05_how_to_handle_disrespect_thumbnail.jpg",
+    "aspect_ratio": "9:16 (1536x2752)",
+    "text_hook": "HOW TO REACT WHEN SOMEONE INSULTS YOU IN FRONT OF FRIENDS (NEVER GET ANGRY)",
+    "style": "Authentic hand-drawn ink marker lettering (Permanent Marker) composited on slide_01.jpg with zero character drift and official PhD stickman channel badge"
   }
 }

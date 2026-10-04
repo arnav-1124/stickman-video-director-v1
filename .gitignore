@@ -28,6 +28,9 @@ Thumbs.db
 *.jpg
 *.png
 !assets/branding/channel_logo.png
+!assets/fonts/*.ttf
+!**/thumbnail.jpg
+!**/thumbnails/*.jpg
 productions/**/temp/
 
 
