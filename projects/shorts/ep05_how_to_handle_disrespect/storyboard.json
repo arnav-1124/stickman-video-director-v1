@@ -30,10 +30,10 @@
       "duration": 3.2,
       "scene_type": "Intro Question Hook Part 1",
       "framing": "Medium wide shot of group living room",
-      "visual_action": "Inside a friend's cozy 2D cartoon living room: Brad in a bright mustard-yellow shirt stands leaning forward over a low wooden coffee table, aggressively pointing an index finger and smirking with an open mouth, delivering a slick joke at someone across the room. Bold black ink outlines on clean off-white canvas (#FAF9F6).",
+      "visual_action": "Inside the exact cozy 2D cartoon living room from @Scene_LivingRoom_Group_Anchor: Brad in a bright mustard-yellow shirt stands leaning forward over the coffee table, aggressively pointing an index finger directly across at Alex on the couch, smirking with an open mouth delivering a slick joke to the room. Bold black ink outlines on off-white canvas (#FAF9F6).",
       "refs": [
         "@Character_Jester",
-        "@Environment_LivingRoom"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -84,10 +84,10 @@
       "duration": 2.34,
       "scene_type": "The Rage Reaction",
       "framing": "Medium shot of explosive anger",
-      "visual_action": "Alternative mistake: The stickman jumping up abruptly with clenched fists, red angry face lines, cartoon steam puffs blowing from his ears, while two background friends recoil backward in awkward shock. Bold crimson red accent strokes (#FF3B30).",
+      "visual_action": "Alternative mistake inside the exact room from @Scene_LivingRoom_Group_Anchor: The protagonist jumping up abruptly from the couch with clenched fists, red angry face lines, cartoon steam puffs blowing from his ears, while the friends in the armchairs recoil backward in awkward shock. Bold crimson red accent strokes (#FF3B30).",
       "refs": [
         "@Character_Protagonist",
-        "@Environment_LivingRoom"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -209,9 +209,9 @@
       "duration": 1.83,
       "scene_type": "The Freeze Frame / Ticking Clock",
       "framing": "Overhead cinematic 2D view of living room",
-      "visual_action": "High-angle 2D view looking down on the living room. Every character is frozen in place. On the back wall, a minimalist cartoon wall clock with hand-drawn motion lines indicating a slow, heavy 'TICK... TOCK...'. Heavy anticipation.",
+      "visual_action": "High-angle 2D view looking down on the exact living room from @Scene_LivingRoom_Group_Anchor. Every character is frozen in place. On the back wall, a minimalist cartoon wall clock with hand-drawn motion lines indicating a slow, heavy 'TICK... TOCK...'. Heavy anticipation.",
       "refs": [
-        "@Environment_LivingRoom"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -222,9 +222,9 @@
       "duration": 2.16,
       "scene_type": "Total Silence / Awkward Room",
       "framing": "Medium shot of background friends",
-      "visual_action": "The two background stickman friends sitting on the sofa/beanbag, holding their soda cans completely still in mid-air. Wide cartoon dot eyes, straight neutral mouths, dead silence. A flatline doodle line with tiny musical rest notes floating in the air.",
+      "visual_action": "The friends in the armchairs from @Scene_LivingRoom_Group_Anchor holding their soda cans completely still in mid-air. Wide cartoon dot eyes, straight neutral mouths, dead silence. A flatline doodle line with tiny musical rest notes floating in the air.",
       "refs": [
-        "@Environment_LivingRoom"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -285,10 +285,10 @@
       "duration": 2.73,
       "scene_type": "The Sovereign Stance",
       "framing": "Medium shot of protagonist relaxed",
-      "visual_action": "The protagonist in his forest-green hoodie sitting back comfortably on the couch, taking a slow sip from a simple white mug or glass, completely serene, grounded, and unbothered. A soft green aura of calm authority around him.",
+      "visual_action": "The protagonist in his forest-green hoodie sitting back comfortably on the slate-grey couch from @Scene_LivingRoom_Group_Anchor, taking a slow sip from a simple white mug or glass, completely serene, grounded, and unbothered. A soft green aura of calm authority around him.",
       "refs": [
         "@Character_Protagonist",
-        "@Environment_LivingRoom"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
