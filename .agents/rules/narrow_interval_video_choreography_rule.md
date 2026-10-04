@@ -2,7 +2,10 @@
 
 ## Pacing & Duration Directives (0.7s to 2.5s)
 1. **Never use a fixed timer or fixed duration.** Cuts are 100% tied to the semantic spoken clause.
-2. **Micro-Action Verbs (0.7s–1.0s):** Fast physical cuts (e.g. key entering lock, light switch flip, book slamming).
-3. **Concept & Text Cards (1.2s–1.6s):** Direct visual labels on off-white paper canvas with arrows (e.g. *"THE ATTENTION PARADOX"*, *"ABOUT 4 FT"*).
-4. **Narrative Explanatory Clauses (1.8s–2.5s):** Character posture and contextual interaction (e.g. backbencher smirking, two classmates whispering).
-5. **Maximum Duration:** Never let any single static slide linger on screen for more than **2.8 seconds** without a cut or visual punch.
+2. **Never Cut by Syntax Alone (Anti-Sentence-Trap):** Visuals must remain on screen as long as the spoken clause describes, questions, or references elements on that slide. Do not cut early simply because a sentence ended if the next clause refers to the same visual.
+3. **Zero-Latency Text Cards:** Text cards and rubber stamps must appear on the exact word matching their visual text (no preamble sentences idling on screen).
+4. **Micro-Action Verbs (0.7s–1.0s):** Fast physical cuts (e.g. key entering lock, light switch flip, book slamming).
+5. **Concept & Text Cards (1.2s–1.6s):** Direct visual labels on off-white paper canvas with arrows (e.g. *"THE ATTENTION PARADOX"*, *"ABOUT 4 FT"*).
+6. **Narrative Explanatory Clauses (1.8s–2.5s):** Character posture and contextual interaction (e.g. backbencher smirking, two classmates whispering).
+7. **Maximum Duration:** Never let any single static slide linger on screen for more than **2.8 seconds** without a cut or visual punch.
+

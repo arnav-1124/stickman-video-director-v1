@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import subprocess
+import shutil
 from pathlib import Path
 
 # Ensure UTF-8 output
@@ -17,9 +18,11 @@ MASTER_VO_PATH = CH1_DIR / "audio" / "ch01_master_en.mp3"
 BGM_PATH = ROOT_DIR / "assets" / "bgm" / "dark_contemplation.mp3"
 RENDERS_DIR = CH1_DIR / "renders"
 CENTRAL_RENDERS_DIR = ROOT_DIR / "renders" / "long" / "ep01_why_people_fall_for_who_ignores_them"
+SEGMENTS_DIR = CH1_DIR / "_segments_temp"
 
 RENDERS_DIR.mkdir(parents=True, exist_ok=True)
 CENTRAL_RENDERS_DIR.mkdir(parents=True, exist_ok=True)
+SEGMENTS_DIR.mkdir(parents=True, exist_ok=True)
 
 def get_duration(file_path):
     cmd = [
@@ -43,7 +46,6 @@ def main():
         img_name = f"slide_{i:02d}.jpg"
         img_path = SLIDES_DIR / img_name
         if not img_path.exists():
-            # Check for alternative naming
             alt = SLIDES_DIR / f"slide_{i:03d}.png"
             if alt.exists():
                 img_path = alt
@@ -61,86 +63,98 @@ def main():
         print(f"  Slide {i:02d} -> {img_name} ({dur:.3f}s)")
 
     total_audio_dur = sum(d for _, d in slide_durations)
+
+    # 2. Assembling sample-accurate master VO track
+    print("\n--- [2/4] Assembling sample-accurate master VO track ---")
+    inputs = []
+    filter_inputs = []
+    for i in range(1, 37):
+        inputs.extend(['-i', str(AUDIO_DIR_EN / f"shot_{i:03d}.mp3")])
+        filter_inputs.append(f'[{i-1}:a]')
+    filter_str = ''.join(filter_inputs) + f'concat=n=36:v=0:a=1[aout]'
+    cmd_master = ['ffmpeg', '-y'] + inputs + ['-filter_complex', filter_str, '-map', '[aout]', '-c:a', 'libmp3lame', '-b:a', '192k', str(MASTER_VO_PATH)]
+    subprocess.run(cmd_master, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+
     master_vo_dur = get_duration(MASTER_VO_PATH)
-    print(f"\nTotal Shots Audio Duration: {total_audio_dur:.3f}s")
-    print(f"Master VO Track Duration:   {master_vo_dur:.3f}s")
+    print(f"  ✓ Total Shots Duration: {total_audio_dur:.3f}s")
+    print(f"  ✓ Master VO Duration:   {master_vo_dur:.3f}s (Sync Drift: {abs(total_audio_dur - master_vo_dur)*1000:.1f}ms)")
 
-    # 2. Write exact concat list
-    print("\n--- [2/4] Generating frame-perfect concat list ---")
-    concat_file = CH1_DIR / "concat_en_ch01.txt"
-    with open(concat_file, "w", encoding="utf-8") as f:
-        for img_name, dur in slide_durations:
-            f.write(f"file 'slides/{img_name}'\n")
-            f.write(f"duration {dur:.4f}\n")
-        # Repeat last file for ffmpeg concat demuxer quirk
-        f.write(f"file 'slides/{slide_durations[-1][0]}'\n")
-
-    print(f"  ✓ Updated concat list: {concat_file}")
-
-    # 3. Render clean video (Voiceover only)
-    out_no_bgm = RENDERS_DIR / "ch01_the_pedestal_paradox_preview_no_bgm.mp4"
-    print(f"\n--- [3/4] Rendering video with narration track ---")
-    print(f"  Output: {out_no_bgm.name}")
-
-    # Video filter: scale to 1920x1080 with padding if needed, paper background color #FAF9F6, 30fps
+    # 3. Render 36 frame-bound micro-segments (100% Image-Audio Binding)
+    print("\n--- [3/4] Rendering 36 micro-segments (guaranteeing 100% frame sync) ---")
     vf = "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=#FAF9F6,setsar=1,fps=30"
+    segment_files = []
 
-    cmd_no_bgm = [
-        'ffmpeg', '-y',
-        '-f', 'concat', '-safe', '0',
-        '-i', str(concat_file),
-        '-i', str(MASTER_VO_PATH),
-        '-vf', vf,
-        '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',
-        '-c:a', 'aac', '-b:a', '192k', '-ar', '44100',
-        '-shortest',
+    for sid in range(1, 37):
+        img_name, dur = slide_durations[sid - 1]
+        img_path = SLIDES_DIR / img_name
+        audio_path = AUDIO_DIR_EN / f"shot_{sid:03d}.mp3"
+        seg_out = SEGMENTS_DIR / f"seg_{sid:02d}.mp4"
+
+        cmd_seg = [
+            "ffmpeg", "-y",
+            "-loop", "1", "-i", str(img_path),
+            "-i", str(audio_path),
+            "-vf", vf,
+            "-c:v", "libx264", "-preset", "ultrafast", "-crf", "18", "-pix_fmt", "yuv420p",
+            "-c:a", "aac", "-b:a", "192k", "-ar", "44100",
+            "-t", f"{dur:.3f}",
+            "-shortest",
+            str(seg_out)
+        ]
+        subprocess.run(cmd_seg, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+        segment_files.append(seg_out)
+
+    seg_list_path = SEGMENTS_DIR / "concat_segments.txt"
+    with open(seg_list_path, "w", encoding="utf-8") as f:
+        for seg in segment_files:
+            f.write(f"file '{seg.as_posix()}'\n")
+
+    # 4. Concatenate segments into clean preview video
+    out_no_bgm = RENDERS_DIR / "ch01_the_pedestal_paradox_preview_no_bgm.mp4"
+    print(f"\n--- [4/4] Assembling full video ---")
+    print(f"  Rendering clean narration preview: {out_no_bgm.name}")
+
+    cmd_stitch = [
+        "ffmpeg", "-y",
+        "-f", "concat", "-safe", "0",
+        "-i", str(seg_list_path),
+        "-c", "copy",
         str(out_no_bgm)
     ]
-    subprocess.run(cmd_no_bgm, check=True)
+    subprocess.run(cmd_stitch, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
     print(f"  ✓ Rendered narration preview: {out_no_bgm}")
 
-    # 4. Render production version with subtle BGM ducking
+    # Render production version with subtle BGM ducking
     out_with_bgm = RENDERS_DIR / "ch01_the_pedestal_paradox_preview.mp4"
     central_out = CENTRAL_RENDERS_DIR / "ch01_the_pedestal_paradox_preview.mp4"
 
     if BGM_PATH.exists():
-        print(f"\n--- [4/4] Rendering production video with subtle BGM ---")
-        print(f"  BGM Track: {BGM_PATH.name}")
-        print(f"  Output: {out_with_bgm.name}")
-
+        print(f"  Adding atmospheric BGM track: {BGM_PATH.name}")
         fade_out_start = max(0, total_audio_dur - 2.5)
-        # BGM: looped, volume scaled to 0.10 (subtle atmospheric lo-fi), soft fade in and fade out
-        # Mixed with VO at full clarity (1.0)
         filter_complex = (
-            f"[0:v]scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=#FAF9F6,setsar=1,fps=30[v];"
-            f"[2:a]volume=0.10,afade=t=in:st=0:d=0.5,afade=t=out:st={fade_out_start:.2f}:d=2.0[bgm];"
-            f"[1:a]volume=1.0[vo];"
+            f"[1:a]volume=0.10,afade=t=in:st=0:d=0.5,afade=t=out:st={fade_out_start:.2f}:d=2.0[bgm];"
+            f"[0:a]volume=1.0[vo];"
             f"[vo][bgm]amix=inputs=2:duration=first:normalize=0[aout]"
         )
-
         cmd_bgm = [
-            'ffmpeg', '-y',
-            '-f', 'concat', '-safe', '0',
-            '-i', str(concat_file),
-            '-i', str(MASTER_VO_PATH),
-            '-stream_loop', '-1', '-i', str(BGM_PATH),
-            '-filter_complex', filter_complex,
-            '-map', '[v]',
-            '-map', '[aout]',
-            '-c:v', 'libx264', '-preset', 'fast', '-crf', '18', '-pix_fmt', 'yuv420p',
-            '-c:a', 'aac', '-b:a', '192k', '-ar', '44100',
-            '-shortest',
+            "ffmpeg", "-y",
+            "-i", str(out_no_bgm),
+            "-stream_loop", "-1", "-i", str(BGM_PATH),
+            "-filter_complex", filter_complex,
+            "-map", "0:v",
+            "-map", "[aout]",
+            "-c:v", "copy",
+            "-c:a", "aac", "-b:a", "192k",
+            "-shortest",
             str(out_with_bgm)
         ]
-        subprocess.run(cmd_bgm, check=True)
-        print(f"  ✓ Rendered production preview with BGM: {out_with_bgm}")
-
-        # Also copy to central renders
-        import shutil
+        subprocess.run(cmd_bgm, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
         shutil.copy2(str(out_with_bgm), str(central_out))
+        print(f"  ✓ Production video with BGM ready: {out_with_bgm}")
         print(f"  ✓ Central archive copy: {central_out}")
-    else:
-        print("  Notice: BGM track not found, skipping BGM mix.")
+
+    # Cleanup temp segments
+    shutil.rmtree(SEGMENTS_DIR, ignore_errors=True)
 
     print("\n" + "=" * 60)
     print("  CHAPTER 01 VIDEO ASSEMBLY COMPLETE!")

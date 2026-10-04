@@ -10,11 +10,14 @@ Every Short is written not as long paragraphs, but as **tight, numbered semantic
 * **Total Word Count:** 130 to 155 words per 50-second short (~150 WPM).
 
 ## 2. The 5-Phase Campus Narrative Arc
-1. **The Pattern Interrupt Hook (Beats 1–4, 0s–8s):** Challenges a universal student assumption (e.g. *"In every college lecture hall, the loudest guy thinks he has power..."*).
-2. **The Social Illusion (Beats 5–9, 8s–18s):** The eager, performative mistake average guys make (frontbencher begging for validation).
-3. **The Hidden Mechanism (Beats 10–16, 18s–32s):** Why silence, detachment, and calm autonomy trigger curiosity.
-4. **The Teacher / Social Pressure Test (Beats 17–22, 32s–44s):** Stoic behavior under scrutiny (eye contact, unflinching response).
-5. **The Climax & Seamless Loop (Beats 23–26, 44s–50s+):** The permanent takeaway rule looping back to the opening line.
+1. **The Intro Question Hook (Beats 1–3, 0s–6s):** Opens directly with a relatable, high-stakes question framing the exact real-world scenario (e.g., *"What do you actually do when someone makes a slick joke at your expense in front of everyone at a friend’s house?"*). Gives the audience immediate context and a reason to stay.
+2. **The Social Illusion / Binary Mistake (Beats 4–7, 6s–14s):** The common trap people fall into (e.g. laughing along nervously or raging/exploding).
+3. **The Senior Brother's Pivot (Beats 8–11, 14s–26s):** Grounded wisdom delivered like a wise elder brother or senior classmate pulling the viewer aside.
+4. **The Psychological Unveiling (Beats 12–16, 26s–40s):** Why the counter-intuitive response works, breaking down frame control and human behavior.
+5. **The Permanent Law & Seamless Loop (Beats 17–19+, 40s–50s):** The clean, unforgettable principle that loops naturally.
 
-## 3. Strict English Scripting Standard
-All scripts are written strictly in **English** with articulate, mature, and punchy campus vocabulary. No filler words, no generic openings ("Welcome back"), and no childish slang.
+## 3. Persona, Tone & Setting Directives
+* **The Voice:** Experienced elder brother or trusted senior classmate. Warm, candid, grounded in lived experience, protective, and zero robotic/clinical lecture vibes.
+* **Banned Vocabulary:** The word **`hallway`** is strictly forbidden.
+* **Approved Anchors:** *College hall, classroom, library, friend's home, living room, neighborhood, city café, home.*
+* **Strict English Scripting Standard:** Articulate, mature, and punchy vocabulary. No filler words, no generic openings, and no childish slang.
