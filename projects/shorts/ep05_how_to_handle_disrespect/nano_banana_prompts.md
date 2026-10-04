@@ -2,54 +2,478 @@
 ## Title: How To Handle Disrespect Without Getting Angry
 **Voice:** Ludo (Gemini 3.8 Flash TTS — 53.36s Golden Short)  
 **Aspect Ratio:** 9:16 Vertical (1080x1920)  
-**Total Slides:** 23 Scene Slides + 3 Master Asset References  
+**Total Slides:** 23 Scene Slides  
 **Aesthetic:** The Ink Explainer Minimalist Vector 2D Comic Style (`#FAF9F6` Canvas)
 
 ---
 
 ## 🎨 Master Character & Environment Assets
-Generate/Upload these in Flow:
-1. **`@Character_Protagonist` (1:1 Square):** The Calm Guy (Alex) in dark forest-green hoodie, relaxed dot eyes, messy brown fringe.
-2. **`@Character_Jester` (1:1 Square):** Brad in bright mustard-yellow tee, spiky hair, aggressive smirk, performative posture.
+1. **`@Character_Protagonist` (1:1 Square):** Alex in dark forest-green hoodie, relaxed dot eyes, messy brown fringe.
+2. **`@Character_Jester` (1:1 Square):** Brad in bright mustard-yellow tee, spiky hair, aggressive smirk.
 3. **`@Character_Friends` (1:1 Square):** Room observers holding soda cans.
 4. **`@Character_Senior` (1:1 Square):** Older brother/mentor figure in dark navy chore jacket.
-5. **`@Environment_LivingRoom` (9:16 Vertical):** Friend's living room lounge with slate-grey couch, low coffee table, soda cans.
-6. **`@Scene_LivingRoom_Group_Anchor` (9:16 Vertical / `slide_02.jpg`):** Master Living Room Group Anchor! Locks the couch, coffee table, armchairs, and friend lineup.
+5. **`@Scene_LivingRoom_Group_Anchor` (9:16 Vertical / `slide_02.jpg`):** Master Living Room Group Anchor (Approved ✅).
 
 ---
 
-## 🎬 23 Scene Slides Manifest (Synced to Ludo's 53.36s Delivery)
+## 📋 Standardized Scene Prompts (Slides 01–23)
+*Formatted according to `.agents/rules/prompt_presentation_rule.md`*
 
-| Slide | Duration | Audio Voiceover Script | Scene Concept & Visual Action | References | Status |
-|---|---|---|---|---|---|
-| **01** | 3.20s | *"What do you actually do when someone makes a slick joke at your expense"* | Brad in yellow shirt pointing aggressively across coffee table directly at Alex on couch in the living room hangout. | `@Character_Jester`, `@Scene_LivingRoom_Group_Anchor` | **RE-GENERATE** |
-| **02** | 2.53s | *"in front of everyone at a friend’s house?"* | Protagonist on couch circled with crimson red marker ('⭕') as friends in armchairs watch. | Master Anchor (`slide_02.jpg`) | **APPROVED ✅** |
-| **03** | 1.44s | *"Most guys freeze."* | Punch-in medium shot on Alex on couch: wide stunned dot eyes, sweat drop, subtle shock tremor lines, speechless mental freeze. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **04** | 2.66s | *"You either laugh along nervously to keep the peace,"* | Strained awkward smile on couch, rubbing hands nervously, 'HEHE...' doodles, label `[NERVOUS SMILE]`. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **05** | 2.34s | *"or you get angry and ruin the whole vibe."* | Jumping up with clenched fists in living room, red steam puffs from ears, friends in armchairs recoiling. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **06** | 3.34s | *"Look, both reactions hand all your power to them."* | Conceptual diagram: Golden glowing crown/steering wheel flying from protagonist to Brad via red arrow. | `@Character_Jester`, `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **07** | 2.66s | *"Fake-laughing says you accept disrespect."* | Fake-laughing figure stamped with bold red rubber stamp: `[ACCEPTED DISRESPECT]`. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **08** | 2.25s | *"Getting angry shows they rattled you."* | Flat cardiogram heart-rate line spiking wildly into a jagged red danger zone next to `[RATTLED]`. | Graphic Card | Pending |
-| **09** | 3.03s | *"Here’s what an experienced senior will tell you."* | Wise older brother figure in dark jacket leaning against doorframe, calm reassuring smile, subtle blue aura. | `@Character_Senior` | Pending |
-| **10** | 2.66s | *"Don’t get mad, and don’t raise your voice."* | Two crossed-out icons: Red clenched fist with black 'X', and loud megaphone with black 'X'. | Graphic Card | Pending |
-| **11** | 1.40s | *"Just look at them calmly,"* | Tight close-up portrait: Level dark dot eyes, steady eyebrows, zero flinching, pure relaxed stillness. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **12** | 2.17s | *"and ask with quiet curiosity:"* | Protagonist tilting head curiously with chin on fingers, hand-drawn blue question mark doodle ('?'). | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **13** | 1.20s | *"\"Wait, I didn’t get it."* | Typographic punch card: Centered bold black ink quotation: `"WAIT, I DIDN'T GET IT..."` with shockwave lines. | Graphic Card | Pending |
-| **14** | 1.32s | *"What’s the joke?\""* | Two-shot in living room: Protagonist asking calmly; bold text `"WHAT'S THE JOKE?"`, Brad freezing in awkward shock. | `@Character_Jester`, `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **15** | 1.83s | *"Notice what happens next."* | Overhead 2D shot of living room: Everyone frozen in place, minimalist cartoon wall clock ticking: 'TICK... TOCK...'. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **16** | 2.16s | *"The whole room goes quiet."* | Friends in armchairs holding soda cans frozen in mid-air, wide dot eyes, dead silence, flatline doodle. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **17** | 3.02s | *"Sarcasm only survives on quick laughter."* | Visual metaphor: 'SARCASM' flame inside jar starved of oxygen as 'ROOM LAUGHTER' valve is shut. | Metaphor Card | Pending |
-| **18** | 2.84s | *"The moment you force someone to explain their insult,"* | Brad standing alone under harsh vertical yellow spotlight, smirk gone, nervous sweat drops flying. | `@Character_Jester` | Pending |
-| **19** | 2.25s | *"they have to admit they were just being petty."* | Close-up of Brad stammering with tangled black scribble doodle coming out of mouth: `[EXPOSED PETTINESS]`. | `@Character_Jester` | Pending |
-| **20** | 2.97s | *"They'll mumble, backpedal, and fold on the spot."* | Brad visibly shrinking, shoulders hunched, looking at sneakers, downward motion arrows of social defeat. | `@Character_Jester` | Pending |
-| **21** | 2.73s | *"You don’t need to fight to command respect."* | Protagonist calmly sipping from mug on couch in living room, grounded sovereign frame, soft emerald glow. | `@Scene_LivingRoom_Group_Anchor` | Pending |
-| **22** | 1.50s | *"Just hold up the mirror,"* | Close-up: Stickman hand in green sleeve holding a clean circular hand mirror facing camera with glint stars. | `@Character_Protagonist` | Pending |
-| **23** | 1.86s | *"and let them dismantle themselves."* | Inside mirror reflection: Brad looking embarrassed; bold ink text 'THE MIRROR RULE' looping to top. | `@Character_Jester` | Pending |
+### Slide 01 (3.20s) — RE-GENERATE
+**Voiceover:** *"What do you actually do when someone makes a slick joke at your expense"*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **@Image2:** master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 3.20s | Cut 01 (Re-generate)
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium-wide two-shot living room view
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using references @Image1 and @Image2:
+Inside the exact same casual 2D cartoon living room from @Image1 with the slate-grey couch, wooden coffee table, and armchairs:
+Brad from @Image2 (wearing his bright mustard-yellow long-sleeve tee, spiky black hair, and smug cartoon smirk) stands leaning forward over the wooden coffee table, aggressively pointing his index finger across the room directly at the protagonist sitting on the slate-grey couch. The protagonist in his dark green hoodie and the mutual friends in the armchairs are seated in the living room looking toward him. Black ink comic action lines dart from Brad's pointing finger across the table, visually launching a slick insulting joke across the room. Bold clean black vector pen lines, flat solid colors, off-white background.
+
+STRICT NEGATIVE: Single full-screen frame only. NO red marker circle (the red circle is for slide 2 only), NO comic panel borders, NO split frames, NO speech bubbles, NO photorealism, 9:16 vertical.
+```
 
 ---
 
-## 💡 How to Generate in Google Flow:
-1. Open Google Flow in your browser.
-2. Select **Nano Banana Pro (Gemini 3 Pro Image)**.
-3. Set Aspect Ratio to **`1:1`** for the 2 character references, then switch to **`9:16`** for the room and all 23 scene slides.
-4. Open [`quick_batch_copypaste.txt`](file:///f:/Arnav%20-%20YT/stickman-video-director/projects/shorts/ep05_how_to_handle_disrespect/quick_batch_copypaste.txt) and copy each prompt one by one!
+### Slide 02 (2.53s) — APPROVED ✅
+**Voiceover:** *"in front of everyone at a friend’s house?"*
+
+- **Input / Ingredients to attach:** Already generated as slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.53s | Cut 02 (Master Anchor)
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Reverse medium shot on couch with circle highlight
+
+> Master Anchor established as `slides/slide_02.jpg`.
+
+---
+
+### Slide 03 (1.44s) — Pending
+**Voiceover:** *"Most guys freeze."*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.44s | Cut 03
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Punch-in medium close-up
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean minimalist graphic novel illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Punch-in medium shot of the protagonist from @Image1 sitting right on the slate-grey couch in that exact living room. He is suddenly struck by complete social paralysis and psychological shock: wide stunned unblinking cartoon dot eyes, raised anxious eyebrows, mouth clamped shut in speechless disbelief, completely paralyzed and frozen in his seat. A prominent cartoon sweat drop drips down his cheek. Subtle black ink shock tremor vibration lines radiate around his head to emphasize the sudden awkward silence and mental freeze. In the background, the slate-grey couch cushions and off-white living room wall from @Image1 are visible.
+
+STRICT NEGATIVE: Single full-screen frame only. NO literal ice, NO ice blocks, NO frost, NO snow, NO blue ice crystals, NO winter cold, NO comic panel borders, NO split frames, NO speech bubbles, NO red circle, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
+### Slide 04 (2.66s) — Pending
+**Voiceover:** *"You either laugh along nervously to keep the peace,"*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.66s | Cut 04
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium shot on couch
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Medium shot of the protagonist from @Image1 sitting on that slate-grey couch in front of the coffee table, forcing an awkward, strained cartoon grin to keep the peace. Anxious curved eyes and small sweat beads on his temple. He rubs his hands together nervously in front of his chest. Small hand-drawn comic laugh doodles floating near his mouth: 'HEHE...'. Floating neat grey label above his head: '[NERVOUS SMILE]'. Visible living room background from @Image1: slate-grey couch, off-white wall. Clean line art, flat 2D colors.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO red circle, NO 3D depth, 9:16 vertical.
+```
+
+---
+
+### Slide 05 (2.34s) — Pending
+**Voiceover:** *"or you get angry and ruin the whole vibe."*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.34s | Cut 05
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium wide room shot
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Inside the exact living room from @Image1: The protagonist in green hoodie abruptly leaps up from the slate-grey couch with clenched fists, red angry facial scribble lines, cartoon steam puffs blowing out of his ears (#FF3B30 crimson accents), knocking over a soda can on the wooden coffee table. In the foreground armchairs, the mutual friends recoil backward in awkward shock and discomfort as the room's chill vibe is ruined. Slate-grey couch, wooden coffee table, cream walls.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO red circle, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
+### Slide 06 (3.34s) — Pending
+**Voiceover:** *"Look, both reactions hand all your power to them."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Protagonist.jpg (Alex)
+- **@Image2:** master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 3.34s | Cut 06
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Eye-level conceptual infographic
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean conceptual infographic diagram. Vertical 9:16 aspect ratio (1080x1920).
+
+Using references @Image1 and @Image2:
+Conceptual diagram on clean off-white canvas: On the left, the protagonist from @Image1 in his dark green hoodie standing with open empty palms looking disempowered. On the right, Brad from @Image2 in his yellow shirt catching an object with a greedy smirk. Between them in mid-air, a golden glowing royal crown / steering wheel doodle is flying out of the protagonist's open hands toward Brad, connected by a bold crimson dotted arrow labeled: 'STATUS SURRENDER'. Ample clean negative space, high contrast.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO complex background, 9:16 vertical.
+```
+
+---
+
+### Slide 07 (2.66s) — Pending
+**Voiceover:** *"Fake-laughing says you accept disrespect."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Protagonist.jpg (Alex)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.66s | Cut 07
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Centered character portrait
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean minimalist graphic novel illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Centered medium shot of the protagonist from @Image1 with his strained fake smile, stamped squarely across his dark green hoodie chest with a large bold rectangular crimson red ink rubber stamp: '[ACCEPTED DISRESPECT]'. Bold black ink pen line art on clean off-white paper canvas, high contrast, clean minimalist visual punch.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO extra people, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
+### Slide 08 (2.25s) — Pending
+**Voiceover:** *"Getting angry shows they rattled you."*
+
+- **Input / Ingredients to attach:** None (Standalone graphic card)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.25s | Cut 08
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Flat graphic layout
+
+```text
+A minimal 2D hand-drawn graphic card in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+In the center of the clean canvas, a flat horizontal seismograph / heart-rate monitor line that suddenly spikes wildly into a jagged crimson red danger zone (#FF3B30). Next to the sharp spike, clean bold hand-lettered ink text: '[RATTLED]'. High-contrast visual punch with generous clean off-white breathing room.
+
+STRICT NEGATIVE: Single full-screen frame only. NO human bodies, NO characters, NO comic panel borders, NO split frames, NO speech bubbles, 9:16 vertical.
+```
+
+---
+
+### Slide 09 (3.03s) — Pending
+**Voiceover:** *"Here’s what an experienced senior will tell you."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Senior.jpg (Senior Mentor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 3.03s | Cut 09
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium shot, eye level
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+The older senior stickman figure from @Image1 leaning comfortably against a clean wooden doorframe. Wearing his open dark navy chore jacket over a plain white tee, hands loosely tucked in his jacket pockets, looking directly forward with a calm, reassuring elder-brother half-smile. A subtle clean blue aura line (#2563EB) around his silhouette, radiating quiet confidence and wisdom. Off-white canvas, clean line art.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D shading, 9:16 vertical.
+```
+
+---
+
+### Slide 10 (2.66s) — Pending
+**Voiceover:** *"Don’t get mad, and don’t raise your voice."*
+
+- **Input / Ingredients to attach:** None (Standalone dual graphic card)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.66s | Cut 10
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Flat graphic layout
+
+```text
+A minimal 2D hand-drawn graphic card in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Two clean minimalist hand-drawn ink icons side-by-side on the canvas:
+On the left, an angry clenched red fist (#FF3B30) with a bold black diagonal 'X' over it.
+On the right, a loud cartoon megaphone blasting soundwaves with a bold black diagonal 'X' over it.
+Underneath, a small neat label: '[NEVER REACT]'. Clean, balanced negative space, off-white textured paper.
+
+STRICT NEGATIVE: Single full-screen frame only. NO characters, NO bodies, NO comic panel borders, NO split frames, NO speech bubbles, 9:16 vertical.
+```
+
+---
+
+### Slide 11 (1.40s) — Pending
+**Voiceover:** *"Just look at them calmly,"*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.40s | Cut 11
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Cinematic close-up portrait
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean portrait illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Tight cinematic close-up on the face of the protagonist from @Image1: Calm, steady horizontal eyebrows, level dark dot eyes looking straight ahead into the camera with zero fear, zero hostility, and zero nervous blinking. Messy brown fringe hair and dark green hoodie collar. Pure relaxed self-possession, unbothered stillness, and quiet status. Clean off-white background.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D depth, 9:16 vertical.
+```
+
+---
+
+### Slide 12 (2.17s) — Pending
+**Voiceover:** *"and ask with quiet curiosity:"*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.17s | Cut 12
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium close-up on couch
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Medium close-up of the protagonist from @Image1 sitting upright on the slate-grey couch: He slightly tilts his head to one side with genuine, calm curiosity, resting his chin lightly on two fingers as if trying to solve a harmless puzzle. A subtle clean hand-drawn royal blue question mark doodle ('?') floating beside his head. Slate-grey couch cushions and off-white living room wall behind him. Clean vector lines.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO angry expressions, 9:16 vertical.
+```
+
+---
+
+### Slide 13 (1.20s) — Pending
+**Voiceover:** *""Wait, I didn’t get it."*
+
+- **Input / Ingredients to attach:** None (Standalone typographic card)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.20s | Cut 13
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Flat typographic card
+
+```text
+A minimal 2D hand-drawn graphic card in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Centered on the canvas, bold hand-lettered black ink text in quotation marks:
+'"WAIT, I DIDN'T GET IT..."'
+with subtle hand-drawn comic shockwave ripple lines radiating outward in concentric rings. Clean, high-impact typography with ample breathing space on off-white paper canvas.
+
+STRICT NEGATIVE: Single full-screen frame only. NO characters, NO bodies, NO comic panel borders, NO split frames, NO speech bubbles, 9:16 vertical.
+```
+
+---
+
+### Slide 14 (1.32s) — Pending
+**Voiceover:** *"What’s the joke?""*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **@Image2:** master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.32s | Cut 14
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Profile two-shot across coffee table
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using references @Image1 and @Image2:
+Side-profile two-shot in the living room across the wooden coffee table: The protagonist on the left from @Image1 in his green hoodie sits on the slate-grey couch speaking calmly with an open, relaxed hand gesture directly toward Brad on the right. Large bold hand-lettered ink text floating between them: '"WHAT'S THE JOKE?"'. Brad from @Image2 in his yellow shirt stands frozen, his performative smirk beginning to visibly melt into awkward confusion.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO photorealism, NO speech bubbles with tails, 9:16 vertical.
+```
+
+---
+
+### Slide 15 (1.83s) — Pending
+**Voiceover:** *"Notice what happens next."*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.83s | Cut 15
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Overhead / High-angle wide view
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+High-angle 2D view looking down on the exact living room hangout from @Image1: Protagonist sitting calmly on the slate-grey couch, Brad frozen mid-gesture by the table, friends in armchairs completely motionless. On the back cream wall, a minimalist cartoon wall clock with hand-drawn motion lines indicating a slow, heavy 'TICK... TOCK...'. Heavy room anticipation and suspense suspended in the air. Off-white canvas.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
+### Slide 16 (2.16s) — Pending
+**Voiceover:** *"The whole room goes quiet."*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.16s | Cut 16
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium shot on room observers
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Medium shot focused on the mutual friends in the living room from @Image1: The friend in the blue armchair and the friend in the red armchair holding their soda cans completely motionless in mid-air halfway to their mouths. Wide blank cartoon dot eyes, straight deadpan mouths, dead awkward room silence. A flatline electrocardiogram doodle line floats horizontally with tiny musical rest symbols in the air. Off-white canvas.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D depth, 9:16 vertical.
+```
+
+---
+
+### Slide 17 (3.02s) — Pending
+**Voiceover:** *"Sarcasm only survives on quick laughter."*
+
+- **Input / Ingredients to attach:** None (Standalone conceptual metaphor card)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 3.02s | Cut 17
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Centered conceptual illustration
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering. Conceptual visual metaphor. Vertical 9:16 aspect ratio (1080x1920).
+
+In the center of the canvas, a glowing red-orange flame labeled 'SARCASM' inside a clear glass jar doodle. A pipe connected to an oxygen tank labeled 'ROOM LAUGHTER'. A large hand-drawn cartoon valve doodle is shown turned completely shut, causing the flame to flicker into cold grey smoke wisps. Off-white paper background, high contrast visual metaphor.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO characters, 9:16 vertical.
+```
+
+---
+
+### Slide 18 (2.84s) — Pending
+**Voiceover:** *"The moment you force someone to explain their insult,"*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.84s | Cut 18
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Dramatic cartoon spotlight
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Dramatic cartoon spotlight. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Brad from @Image1 in his yellow long-sleeve tee standing completely alone under a single bright vertical yellow cartoon spotlight (#F59E0B) beaming down from the top frame. His smirk is wiped clean off, replaced by wide nervous eyes and three large cartoon sweat drops flying off his temples into the air. Clean off-white canvas, stark dramatic contrast.
+
+STRICT NEGATIVE: Single full-screen frame only. NO other characters, NO comic panel borders, NO split frames, NO speech bubbles, 9:16 vertical.
+```
+
+---
+
+### Slide 19 (2.25s) — Pending
+**Voiceover:** *"they have to admit they were just being petty."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.25s | Cut 19
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Close-up on stammering mouth
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Close-up on Brad's face from @Image1: his mouth open awkwardly, with a tangled squiggly ball of black scribble ink doodle coming out of his lips: 'UH... WELL...'. Stamped in bold black ink beneath him: '[EXPOSED PETTINESS]'. Disheveled spiky black hair, nervous sweat droplets on forehead. Off-white canvas, clean line art.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles with tails, NO 3D shading, 9:16 vertical.
+```
+
+---
+
+### Slide 20 (2.97s) — Pending
+**Voiceover:** *"They'll mumble, backpedal, and fold on the spot."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.97s | Cut 20
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Full-body shrinking posture
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Full-body shot of Brad from @Image1 in his yellow shirt visibly shrinking downward in scale, shoulders hunched forward, looking down at his sneakers with hands shoved awkwardly into his pockets. Three downward-pointing hand-drawn comic arrows (#EF4444 red) hover beside him showing his complete collapse of social dominance. Off-white canvas.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
+### Slide 21 (2.73s) — Pending
+**Voiceover:** *"You don’t need to fight to command respect."*
+
+- **Input / Ingredients to attach:** @Image1: slides/slide_02.jpg (Master Living Room Anchor)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 2.73s | Cut 21
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Medium shot on couch
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+The protagonist in his dark forest-green hoodie sitting back comfortably on the slate-grey couch from @Image1, taking a slow sip from a simple ceramic mug, completely serene, grounded, and unbothered. A soft emerald green glow (#10B981) surrounds his silhouette. The wooden coffee table with soda cans in front, framed picture on the cream wall. Sovereign composure, zero tension.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO red circle, NO 3D depth, 9:16 vertical.
+```
+
+---
+
+### Slide 22 (1.50s) — Pending
+**Voiceover:** *"Just hold up the mirror,"*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Protagonist.jpg (Alex)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.50s | Cut 22
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Close-up object shot
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Clean minimalist close-up: A simple stickman hand emerging from the dark green hoodie sleeve of @Image1 holding up a clean circular silver-rimmed hand mirror directly facing the camera, shining with two clean white comic glint sparkle stars ('✨'). Off-white textured paper background, generous negative space.
+
+STRICT NEGATIVE: Single full-screen frame only. NO faces in mirror yet (slide 23 reveals the reflection), NO comic panel borders, NO split frames, NO speech bubbles, 9:16 vertical.
+```
+
+---
+
+### Slide 23 (1.86s) — Pending
+**Voiceover:** *"and let them dismantle themselves."*
+
+- **Input / Ingredients to attach:** @Image1: master_assets/Character_Jester.jpg (Brad)
+- **Model:** Nano Banana Pro (Gemini 3 Pro Image)
+- **Duration / Type:** 1.86s | Cut 23
+- **Dimension:** 9:16 Vertical (1080x1920)
+- **Camera:** Inside-mirror reflection view
+
+```text
+A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel loop illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Looking directly into the circular mirror: Inside the round reflection, Brad from @Image1 in his yellow shirt is seen looking down with embarrassed, flushed red cheeks. Beneath the mirror, bold clean hand-lettered ink text: 'THE MIRROR RULE' with a sleek circular arrow looping smoothly back to the top of the canvas for a viral short loop. Off-white canvas.
+
+STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles, NO 3D rendering, 9:16 vertical.
+```
+
+---
+
