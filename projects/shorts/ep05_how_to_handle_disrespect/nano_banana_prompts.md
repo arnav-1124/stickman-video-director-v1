@@ -384,15 +384,15 @@ STRICT NEGATIVE: Single full-screen frame only. NO other characters, NO comic pa
 - **Model:** Nano Banana Pro (Gemini 3 Pro Image)
 - **Duration / Type:** 2.25s | Cut 19
 - **Dimension:** 9:16 Vertical (1080x1920)
-- **Camera:** Close-up on stammering mouth
+- **Camera:** Close-up of flustered stammering expression
 
 ```text
 A minimal 2D hand-drawn animation still in the exact simple vector pen-and-ink cartoon style of Ink Explainer, drawn on an off-white paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
 
 Using reference @Image1:
-Close-up on Brad's face from @Image1: his mouth open awkwardly, with a tangled squiggly ball of black scribble ink doodle coming out of his lips: 'UH... WELL...'. Stamped in bold black ink beneath him: '[EXPOSED PETTINESS]'. Disheveled spiky black hair, nervous sweat droplets on forehead. Off-white canvas, clean line art.
+Clean close-up on Brad's face from @Image1: his mouth open slightly in an awkward, speechless stammer, wide flustered dot eyes looking sideways in embarrassment, and prominent cartoon sweat drops dripping down his forehead. Stamped in crisp, clean bold black ink beneath him: '[EXPOSED PETTINESS]'. Disheveled spiky black hair, mustard-yellow tee collar. Pure clean hand-drawn line art on off-white canvas with zero clutter.
 
-STRICT NEGATIVE: Single full-screen frame only. NO comic panel borders, NO split frames, NO speech bubbles with tails, NO 3D shading, 9:16 vertical.
+STRICT NEGATIVE: Single full-screen frame only. NO scribble ball, NO wire knot, NO tangled scribble lines, NO rough lines, NO scribble cloud, NO messy voice bubble, NO speech bubbles, NO text inside mouth, NO comic panel borders, NO split frames, NO 3D shading, 9:16 vertical.
 ```
 
 ---
