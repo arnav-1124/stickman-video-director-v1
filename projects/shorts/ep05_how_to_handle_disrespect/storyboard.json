@@ -58,9 +58,9 @@
       "duration": 1.44,
       "scene_type": "The Freeze Reaction",
       "framing": "Close-up portrait with doodle frost",
-      "visual_action": "Close-up of a generic stickman figure completely frozen rigid: wide nervous dot eyes, tiny cartoon sweat bead dropping from his cheek, with sharp hand-drawn light-blue frost/ice crack doodle lines encasing his torso. Clean off-white background (#FAF9F6).",
+      "visual_action": "Punch-in medium close-up of the protagonist from @Scene_LivingRoom_Group_Anchor sitting right on the slate-grey couch: wide nervous dot eyes, tiny cartoon sweat bead dropping from his cheek, with sharp hand-drawn light-blue frost/ice crack doodle lines encasing his torso and dark green hoodie. Slate-grey couch visible in background.",
       "refs": [
-        "@Character_Protagonist"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -71,9 +71,9 @@
       "duration": 2.66,
       "scene_type": "The Compliance Trap",
       "framing": "Medium close-up of forced fake laughter",
-      "visual_action": "The stickman forcing an awkward, strained smile with hands nervously rubbing together in front of his chest. Small hand-drawn comic laugh doodle notes floating near his mouth: 'HEHE...'. Floating label in faint grey ink above him: '[NERVOUS SMILE]'. Off-white canvas, clean vector lines.",
+      "visual_action": "The protagonist from @Scene_LivingRoom_Group_Anchor sitting on the slate-grey couch forcing an awkward, strained smile with hands nervously rubbing together in front of his chest. Small hand-drawn comic laugh doodle notes floating near his mouth: 'HEHE...'. Floating label in faint grey ink above him: '[NERVOUS SMILE]'. Slate-grey couch in background.",
       "refs": [
-        "@Character_Protagonist"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -158,9 +158,9 @@
       "duration": 1.4,
       "scene_type": "The Calm Gaze",
       "framing": "Close-up eye contact portrait",
-      "visual_action": "Tight close-up of the protagonist in his dark green hoodie. Calm, steady horizontal eyebrows, level dark dot eyes looking straight ahead with zero anger and zero flinching. Pure relaxed self-possession.",
+      "visual_action": "Tight close-up of the protagonist's face from @Scene_LivingRoom_Group_Anchor in his dark green hoodie. Calm, steady horizontal eyebrows, level dark dot eyes looking straight ahead with zero anger and zero flinching. Pure relaxed self-possession.",
       "refs": [
-        "@Character_Protagonist"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -171,9 +171,9 @@
       "duration": 2.17,
       "scene_type": "Curious Head Tilt",
       "framing": "Medium close-up profile",
-      "visual_action": "Protagonist slightly tilting his head to one side with genuine, calm curiosity, resting his chin lightly on two fingers as if genuinely trying to understand a puzzle. A subtle hand-drawn blue question mark doodle ('?') floating beside his head.",
+      "visual_action": "Protagonist from @Scene_LivingRoom_Group_Anchor slightly tilting his head to one side on the couch with genuine, calm curiosity, resting his chin lightly on two fingers as if genuinely trying to understand a puzzle. A subtle hand-drawn blue question mark doodle ('?') floating beside his head.",
       "refs": [
-        "@Character_Protagonist"
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
@@ -195,10 +195,10 @@
       "duration": 1.32,
       "scene_type": "The Question Part 2 / Direct Confrontation",
       "framing": "Medium profile: Protagonist speaking directly to Brad",
-      "visual_action": "Side-profile two-shot: The protagonist on the left in green hoodie speaking with a clean open hand gesture directly toward Brad on the right. Large bold hand-lettered ink text floating between them: '\"WHAT'S THE JOKE?\"'. Brad's arrogant smirk instantly begins to freeze.",
+      "visual_action": "Side-profile two-shot in living room across the wooden table: The protagonist from @Scene_LivingRoom_Group_Anchor on the left in green hoodie speaking with a clean open hand gesture directly toward Brad on the right. Large bold hand-lettered ink text floating between them: '\"WHAT'S THE JOKE?\"'. Brad's arrogant smirk instantly begins to freeze.",
       "refs": [
-        "@Character_Protagonist",
-        "@Character_Jester"
+        "@Character_Jester",
+        "@Scene_LivingRoom_Group_Anchor"
       ]
     },
     {
