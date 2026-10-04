@@ -24,7 +24,7 @@ Generate/Upload these in Flow:
 |---|---|---|---|---|---|
 | **01** | 3.20s | *"What do you actually do when someone makes a slick joke at your expense"* | Brad in yellow shirt pointing aggressively across coffee table directly at Alex on couch in the living room hangout. | `@Character_Jester`, `@Scene_LivingRoom_Group_Anchor` | **RE-GENERATE** |
 | **02** | 2.53s | *"in front of everyone at a friend’s house?"* | Protagonist on couch circled with crimson red marker ('⭕') as friends in armchairs watch. | Master Anchor (`slide_02.jpg`) | **APPROVED ✅** |
-| **03** | 1.44s | *"Most guys freeze."* | Punch-in close-up on Alex on the couch: cartoon sweat drop, sharp blue frost/ice crack lines encasing him. | `@Scene_LivingRoom_Group_Anchor` | Pending |
+| **03** | 1.44s | *"Most guys freeze."* | Punch-in medium shot on Alex on couch: wide stunned dot eyes, sweat drop, subtle shock tremor lines, speechless mental freeze. | `@Scene_LivingRoom_Group_Anchor` | Pending |
 | **04** | 2.66s | *"You either laugh along nervously to keep the peace,"* | Strained awkward smile on couch, rubbing hands nervously, 'HEHE...' doodles, label `[NERVOUS SMILE]`. | `@Scene_LivingRoom_Group_Anchor` | Pending |
 | **05** | 2.34s | *"or you get angry and ruin the whole vibe."* | Jumping up with clenched fists in living room, red steam puffs from ears, friends in armchairs recoiling. | `@Scene_LivingRoom_Group_Anchor` | Pending |
 | **06** | 3.34s | *"Look, both reactions hand all your power to them."* | Conceptual diagram: Golden glowing crown/steering wheel flying from protagonist to Brad via red arrow. | `@Character_Jester`, `@Scene_LivingRoom_Group_Anchor` | Pending |
