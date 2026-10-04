@@ -1,0 +1,938 @@
+[
+  {
+    "word": "What",
+    "start_sec": 0.1,
+    "end_sec": 0.297,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "do",
+    "start_sec": 0.31,
+    "end_sec": 0.372,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "you",
+    "start_sec": 0.384,
+    "end_sec": 0.508,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "actually",
+    "start_sec": 0.52,
+    "end_sec": 0.929,
+    "duration_sec": 0.408
+  },
+  {
+    "word": "do",
+    "start_sec": 0.941,
+    "end_sec": 1.238,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "when",
+    "start_sec": 1.25,
+    "end_sec": 1.424,
+    "duration_sec": 0.173
+  },
+  {
+    "word": "someone",
+    "start_sec": 1.436,
+    "end_sec": 1.746,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "makes",
+    "start_sec": 1.758,
+    "end_sec": 1.968,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "a",
+    "start_sec": 1.981,
+    "end_sec": 2.043,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "slick",
+    "start_sec": 2.055,
+    "end_sec": 2.389,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "joke",
+    "start_sec": 2.401,
+    "end_sec": 2.736,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "at",
+    "start_sec": 2.748,
+    "end_sec": 2.81,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "your",
+    "start_sec": 2.822,
+    "end_sec": 2.958,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "expense",
+    "start_sec": 2.971,
+    "end_sec": 3.429,
+    "duration_sec": 0.458
+  },
+  {
+    "word": "in",
+    "start_sec": 3.441,
+    "end_sec": 3.552,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "front",
+    "start_sec": 3.565,
+    "end_sec": 3.763,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "of",
+    "start_sec": 3.775,
+    "end_sec": 3.862,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "everyone",
+    "start_sec": 3.874,
+    "end_sec": 4.246,
+    "duration_sec": 0.371
+  },
+  {
+    "word": "at",
+    "start_sec": 4.258,
+    "end_sec": 4.307,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "a",
+    "start_sec": 4.32,
+    "end_sec": 4.369,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "friend\u2019s",
+    "start_sec": 4.382,
+    "end_sec": 4.703,
+    "duration_sec": 0.322
+  },
+  {
+    "word": "house",
+    "start_sec": 4.716,
+    "end_sec": 5.198,
+    "duration_sec": 0.483
+  },
+  {
+    "word": "Most",
+    "start_sec": 6.052,
+    "end_sec": 6.411,
+    "duration_sec": 0.359
+  },
+  {
+    "word": "guys",
+    "start_sec": 6.423,
+    "end_sec": 6.72,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "freeze",
+    "start_sec": 6.733,
+    "end_sec": 7.314,
+    "duration_sec": 0.582
+  },
+  {
+    "word": "You",
+    "start_sec": 8.168,
+    "end_sec": 8.354,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "either",
+    "start_sec": 8.366,
+    "end_sec": 8.577,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "laugh",
+    "start_sec": 8.589,
+    "end_sec": 8.899,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "along",
+    "start_sec": 8.911,
+    "end_sec": 9.27,
+    "duration_sec": 0.359
+  },
+  {
+    "word": "nervously",
+    "start_sec": 9.282,
+    "end_sec": 9.765,
+    "duration_sec": 0.483
+  },
+  {
+    "word": "to",
+    "start_sec": 9.777,
+    "end_sec": 9.889,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "keep",
+    "start_sec": 9.901,
+    "end_sec": 10.136,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "the",
+    "start_sec": 10.149,
+    "end_sec": 10.235,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "peace",
+    "start_sec": 10.248,
+    "end_sec": 10.78,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "or",
+    "start_sec": 11.634,
+    "end_sec": 11.819,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "you",
+    "start_sec": 11.832,
+    "end_sec": 11.943,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "get",
+    "start_sec": 11.955,
+    "end_sec": 12.141,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "angry",
+    "start_sec": 12.153,
+    "end_sec": 12.574,
+    "duration_sec": 0.421
+  },
+  {
+    "word": "and",
+    "start_sec": 12.587,
+    "end_sec": 12.735,
+    "duration_sec": 0.149
+  },
+  {
+    "word": "ruin",
+    "start_sec": 12.748,
+    "end_sec": 13.045,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "the",
+    "start_sec": 13.057,
+    "end_sec": 13.131,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "whole",
+    "start_sec": 13.144,
+    "end_sec": 13.391,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "vibe",
+    "start_sec": 13.403,
+    "end_sec": 13.849,
+    "duration_sec": 0.446
+  },
+  {
+    "word": "Look",
+    "start_sec": 14.703,
+    "end_sec": 15.062,
+    "duration_sec": 0.359
+  },
+  {
+    "word": "both",
+    "start_sec": 15.285,
+    "end_sec": 15.545,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "reactions",
+    "start_sec": 15.557,
+    "end_sec": 16.163,
+    "duration_sec": 0.606
+  },
+  {
+    "word": "hand",
+    "start_sec": 16.176,
+    "end_sec": 16.473,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "all",
+    "start_sec": 16.485,
+    "end_sec": 16.671,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "your",
+    "start_sec": 16.683,
+    "end_sec": 16.819,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "power",
+    "start_sec": 16.832,
+    "end_sec": 17.191,
+    "duration_sec": 0.359
+  },
+  {
+    "word": "to",
+    "start_sec": 17.203,
+    "end_sec": 17.314,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "them",
+    "start_sec": 17.327,
+    "end_sec": 17.636,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "Fake-laughing",
+    "start_sec": 18.49,
+    "end_sec": 19.233,
+    "duration_sec": 0.743
+  },
+  {
+    "word": "says",
+    "start_sec": 19.245,
+    "end_sec": 19.505,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "you",
+    "start_sec": 19.517,
+    "end_sec": 19.641,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "accept",
+    "start_sec": 19.653,
+    "end_sec": 20.049,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "disrespect",
+    "start_sec": 20.062,
+    "end_sec": 20.879,
+    "duration_sec": 0.817
+  },
+  {
+    "word": "Getting",
+    "start_sec": 21.733,
+    "end_sec": 22.067,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "angry",
+    "start_sec": 22.079,
+    "end_sec": 22.426,
+    "duration_sec": 0.347
+  },
+  {
+    "word": "shows",
+    "start_sec": 22.438,
+    "end_sec": 22.834,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "they",
+    "start_sec": 22.847,
+    "end_sec": 22.97,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "rattled",
+    "start_sec": 22.983,
+    "end_sec": 23.379,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "you",
+    "start_sec": 23.391,
+    "end_sec": 23.663,
+    "duration_sec": 0.272
+  },
+  {
+    "word": "Here\u2019s",
+    "start_sec": 24.517,
+    "end_sec": 24.802,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "what",
+    "start_sec": 24.814,
+    "end_sec": 24.926,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "an",
+    "start_sec": 24.938,
+    "end_sec": 25.012,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "experienced",
+    "start_sec": 25.025,
+    "end_sec": 25.681,
+    "duration_sec": 0.656
+  },
+  {
+    "word": "senior",
+    "start_sec": 25.693,
+    "end_sec": 26.101,
+    "duration_sec": 0.408
+  },
+  {
+    "word": "will",
+    "start_sec": 26.114,
+    "end_sec": 26.225,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "tell",
+    "start_sec": 26.238,
+    "end_sec": 26.473,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "you",
+    "start_sec": 26.485,
+    "end_sec": 26.757,
+    "duration_sec": 0.272
+  },
+  {
+    "word": "Don\u2019t",
+    "start_sec": 27.611,
+    "end_sec": 27.859,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "get",
+    "start_sec": 27.871,
+    "end_sec": 28.032,
+    "duration_sec": 0.161
+  },
+  {
+    "word": "mad",
+    "start_sec": 28.045,
+    "end_sec": 28.428,
+    "duration_sec": 0.384
+  },
+  {
+    "word": "and",
+    "start_sec": 28.688,
+    "end_sec": 28.837,
+    "duration_sec": 0.149
+  },
+  {
+    "word": "don\u2019t",
+    "start_sec": 28.849,
+    "end_sec": 29.072,
+    "duration_sec": 0.223
+  },
+  {
+    "word": "raise",
+    "start_sec": 29.084,
+    "end_sec": 29.332,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "your",
+    "start_sec": 29.344,
+    "end_sec": 29.455,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "voice",
+    "start_sec": 29.468,
+    "end_sec": 30.037,
+    "duration_sec": 0.569
+  },
+  {
+    "word": "Just",
+    "start_sec": 30.891,
+    "end_sec": 31.2,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "look",
+    "start_sec": 31.213,
+    "end_sec": 31.398,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "at",
+    "start_sec": 31.411,
+    "end_sec": 31.473,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "them",
+    "start_sec": 31.485,
+    "end_sec": 31.671,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "calmly",
+    "start_sec": 31.683,
+    "end_sec": 32.178,
+    "duration_sec": 0.495
+  },
+  {
+    "word": "and",
+    "start_sec": 32.401,
+    "end_sec": 32.574,
+    "duration_sec": 0.173
+  },
+  {
+    "word": "ask",
+    "start_sec": 32.587,
+    "end_sec": 32.896,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "with",
+    "start_sec": 32.908,
+    "end_sec": 33.032,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "quiet",
+    "start_sec": 33.045,
+    "end_sec": 33.428,
+    "duration_sec": 0.384
+  },
+  {
+    "word": "curiosity",
+    "start_sec": 33.441,
+    "end_sec": 34.27,
+    "duration_sec": 0.829
+  },
+  {
+    "word": "Wait",
+    "start_sec": 35.124,
+    "end_sec": 35.545,
+    "duration_sec": 0.421
+  },
+  {
+    "word": "I",
+    "start_sec": 35.817,
+    "end_sec": 35.879,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "didn\u2019t",
+    "start_sec": 35.891,
+    "end_sec": 36.151,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "get",
+    "start_sec": 36.163,
+    "end_sec": 36.349,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "it",
+    "start_sec": 36.361,
+    "end_sec": 36.572,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "What\u2019s",
+    "start_sec": 37.426,
+    "end_sec": 37.71,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "the",
+    "start_sec": 37.723,
+    "end_sec": 37.822,
+    "duration_sec": 0.099
+  },
+  {
+    "word": "joke",
+    "start_sec": 37.834,
+    "end_sec": 38.304,
+    "duration_sec": 0.47
+  },
+  {
+    "word": "Notice",
+    "start_sec": 39.158,
+    "end_sec": 39.604,
+    "duration_sec": 0.446
+  },
+  {
+    "word": "what",
+    "start_sec": 39.616,
+    "end_sec": 39.752,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "happens",
+    "start_sec": 39.765,
+    "end_sec": 40.198,
+    "duration_sec": 0.433
+  },
+  {
+    "word": "next",
+    "start_sec": 40.21,
+    "end_sec": 40.743,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "The",
+    "start_sec": 41.597,
+    "end_sec": 41.733,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "whole",
+    "start_sec": 41.745,
+    "end_sec": 42.054,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "room",
+    "start_sec": 42.067,
+    "end_sec": 42.302,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "goes",
+    "start_sec": 42.314,
+    "end_sec": 42.562,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "quiet",
+    "start_sec": 42.574,
+    "end_sec": 43.106,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "Sarcasm",
+    "start_sec": 43.96,
+    "end_sec": 44.678,
+    "duration_sec": 0.718
+  },
+  {
+    "word": "only",
+    "start_sec": 44.691,
+    "end_sec": 44.938,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "survives",
+    "start_sec": 44.95,
+    "end_sec": 45.495,
+    "duration_sec": 0.545
+  },
+  {
+    "word": "on",
+    "start_sec": 45.507,
+    "end_sec": 45.705,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "quick",
+    "start_sec": 45.718,
+    "end_sec": 45.99,
+    "duration_sec": 0.272
+  },
+  {
+    "word": "laughter",
+    "start_sec": 46.002,
+    "end_sec": 46.535,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "The",
+    "start_sec": 47.389,
+    "end_sec": 47.512,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "moment",
+    "start_sec": 47.525,
+    "end_sec": 47.859,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "you",
+    "start_sec": 47.871,
+    "end_sec": 47.995,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "force",
+    "start_sec": 48.007,
+    "end_sec": 48.317,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "someone",
+    "start_sec": 48.329,
+    "end_sec": 48.614,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "to",
+    "start_sec": 48.626,
+    "end_sec": 48.75,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "explain",
+    "start_sec": 48.762,
+    "end_sec": 49.257,
+    "duration_sec": 0.495
+  },
+  {
+    "word": "their",
+    "start_sec": 49.27,
+    "end_sec": 49.394,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "insult",
+    "start_sec": 49.406,
+    "end_sec": 50.025,
+    "duration_sec": 0.619
+  },
+  {
+    "word": "they",
+    "start_sec": 50.879,
+    "end_sec": 51.04,
+    "duration_sec": 0.161
+  },
+  {
+    "word": "have",
+    "start_sec": 51.052,
+    "end_sec": 51.287,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "to",
+    "start_sec": 51.3,
+    "end_sec": 51.411,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "admit",
+    "start_sec": 51.423,
+    "end_sec": 51.795,
+    "duration_sec": 0.371
+  },
+  {
+    "word": "they",
+    "start_sec": 51.807,
+    "end_sec": 51.918,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "were",
+    "start_sec": 51.931,
+    "end_sec": 52.042,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "just",
+    "start_sec": 52.054,
+    "end_sec": 52.314,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "being",
+    "start_sec": 52.327,
+    "end_sec": 52.55,
+    "duration_sec": 0.223
+  },
+  {
+    "word": "petty",
+    "start_sec": 52.562,
+    "end_sec": 52.995,
+    "duration_sec": 0.433
+  },
+  {
+    "word": "They'll",
+    "start_sec": 53.849,
+    "end_sec": 54.109,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "mumble",
+    "start_sec": 54.121,
+    "end_sec": 54.53,
+    "duration_sec": 0.408
+  },
+  {
+    "word": "backpedal",
+    "start_sec": 54.74,
+    "end_sec": 55.359,
+    "duration_sec": 0.619
+  },
+  {
+    "word": "and",
+    "start_sec": 55.594,
+    "end_sec": 55.705,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "fold",
+    "start_sec": 55.718,
+    "end_sec": 56.04,
+    "duration_sec": 0.322
+  },
+  {
+    "word": "on",
+    "start_sec": 56.052,
+    "end_sec": 56.163,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "the",
+    "start_sec": 56.176,
+    "end_sec": 56.238,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "spot",
+    "start_sec": 56.25,
+    "end_sec": 56.733,
+    "duration_sec": 0.483
+  },
+  {
+    "word": "You",
+    "start_sec": 57.587,
+    "end_sec": 57.723,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "don\u2019t",
+    "start_sec": 57.735,
+    "end_sec": 57.908,
+    "duration_sec": 0.173
+  },
+  {
+    "word": "need",
+    "start_sec": 57.921,
+    "end_sec": 58.082,
+    "duration_sec": 0.161
+  },
+  {
+    "word": "to",
+    "start_sec": 58.094,
+    "end_sec": 58.168,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "fight",
+    "start_sec": 58.181,
+    "end_sec": 58.478,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "to",
+    "start_sec": 58.49,
+    "end_sec": 58.589,
+    "duration_sec": 0.099
+  },
+  {
+    "word": "command",
+    "start_sec": 58.602,
+    "end_sec": 58.998,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "respect",
+    "start_sec": 59.01,
+    "end_sec": 59.641,
+    "duration_sec": 0.631
+  },
+  {
+    "word": "Just",
+    "start_sec": 60.495,
+    "end_sec": 60.78,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "hold",
+    "start_sec": 60.792,
+    "end_sec": 61.027,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "up",
+    "start_sec": 61.04,
+    "end_sec": 61.176,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "the",
+    "start_sec": 61.188,
+    "end_sec": 61.275,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "mirror",
+    "start_sec": 61.287,
+    "end_sec": 61.683,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "and",
+    "start_sec": 61.918,
+    "end_sec": 62.017,
+    "duration_sec": 0.099
+  },
+  {
+    "word": "let",
+    "start_sec": 62.03,
+    "end_sec": 62.178,
+    "duration_sec": 0.148
+  },
+  {
+    "word": "them",
+    "start_sec": 62.191,
+    "end_sec": 62.327,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "dismantle",
+    "start_sec": 62.339,
+    "end_sec": 62.871,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "themselves",
+    "start_sec": 62.884,
+    "end_sec": 63.614,
+    "duration_sec": 0.73
+  }
+]

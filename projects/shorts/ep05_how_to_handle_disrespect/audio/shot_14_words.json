@@ -1,0 +1,38 @@
+[
+  {
+    "word": "Sarcasm",
+    "start_sec": 0.1,
+    "end_sec": 0.817,
+    "duration_sec": 0.718
+  },
+  {
+    "word": "only",
+    "start_sec": 0.83,
+    "end_sec": 1.077,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "survives",
+    "start_sec": 1.09,
+    "end_sec": 1.634,
+    "duration_sec": 0.545
+  },
+  {
+    "word": "on",
+    "start_sec": 1.647,
+    "end_sec": 1.845,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "quick",
+    "start_sec": 1.857,
+    "end_sec": 2.129,
+    "duration_sec": 0.272
+  },
+  {
+    "word": "laughter",
+    "start_sec": 2.142,
+    "end_sec": 2.674,
+    "duration_sec": 0.532
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "or",
+    "start_sec": 0.1,
+    "end_sec": 0.285,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "you",
+    "start_sec": 0.298,
+    "end_sec": 0.409,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "get",
+    "start_sec": 0.421,
+    "end_sec": 0.607,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "angry",
+    "start_sec": 0.619,
+    "end_sec": 1.04,
+    "duration_sec": 0.421
+  },
+  {
+    "word": "and",
+    "start_sec": 1.052,
+    "end_sec": 1.201,
+    "duration_sec": 0.149
+  },
+  {
+    "word": "ruin",
+    "start_sec": 1.213,
+    "end_sec": 1.51,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "the",
+    "start_sec": 1.523,
+    "end_sec": 1.597,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "whole",
+    "start_sec": 1.609,
+    "end_sec": 1.857,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "vibe",
+    "start_sec": 1.869,
+    "end_sec": 2.315,
+    "duration_sec": 0.446
+  }
+]

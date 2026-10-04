@@ -1,0 +1,50 @@
+[
+  {
+    "word": "Here\u2019s",
+    "start_sec": 0.1,
+    "end_sec": 0.384,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "what",
+    "start_sec": 0.397,
+    "end_sec": 0.508,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "an",
+    "start_sec": 0.52,
+    "end_sec": 0.595,
+    "duration_sec": 0.074
+  },
+  {
+    "word": "experienced",
+    "start_sec": 0.607,
+    "end_sec": 1.263,
+    "duration_sec": 0.656
+  },
+  {
+    "word": "senior",
+    "start_sec": 1.275,
+    "end_sec": 1.684,
+    "duration_sec": 0.408
+  },
+  {
+    "word": "will",
+    "start_sec": 1.696,
+    "end_sec": 1.807,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "tell",
+    "start_sec": 1.82,
+    "end_sec": 2.055,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "you",
+    "start_sec": 2.067,
+    "end_sec": 2.34,
+    "duration_sec": 0.272
+  }
+]

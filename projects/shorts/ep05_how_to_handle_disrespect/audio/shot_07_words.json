@@ -1,0 +1,38 @@
+[
+  {
+    "word": "Getting",
+    "start_sec": 0.1,
+    "end_sec": 0.434,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "angry",
+    "start_sec": 0.446,
+    "end_sec": 0.793,
+    "duration_sec": 0.347
+  },
+  {
+    "word": "shows",
+    "start_sec": 0.805,
+    "end_sec": 1.201,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "they",
+    "start_sec": 1.213,
+    "end_sec": 1.337,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "rattled",
+    "start_sec": 1.349,
+    "end_sec": 1.746,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "you",
+    "start_sec": 1.758,
+    "end_sec": 2.03,
+    "duration_sec": 0.272
+  }
+]

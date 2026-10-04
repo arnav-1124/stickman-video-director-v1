@@ -1,0 +1,134 @@
+[
+  {
+    "word": "What",
+    "start_sec": 0.1,
+    "end_sec": 0.297,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "do",
+    "start_sec": 0.31,
+    "end_sec": 0.372,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "you",
+    "start_sec": 0.384,
+    "end_sec": 0.508,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "actually",
+    "start_sec": 0.52,
+    "end_sec": 0.929,
+    "duration_sec": 0.408
+  },
+  {
+    "word": "do",
+    "start_sec": 0.941,
+    "end_sec": 1.238,
+    "duration_sec": 0.297
+  },
+  {
+    "word": "when",
+    "start_sec": 1.25,
+    "end_sec": 1.424,
+    "duration_sec": 0.173
+  },
+  {
+    "word": "someone",
+    "start_sec": 1.436,
+    "end_sec": 1.746,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "makes",
+    "start_sec": 1.758,
+    "end_sec": 1.968,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "a",
+    "start_sec": 1.981,
+    "end_sec": 2.043,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "slick",
+    "start_sec": 2.055,
+    "end_sec": 2.389,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "joke",
+    "start_sec": 2.401,
+    "end_sec": 2.736,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "at",
+    "start_sec": 2.748,
+    "end_sec": 2.81,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "your",
+    "start_sec": 2.822,
+    "end_sec": 2.958,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "expense",
+    "start_sec": 2.971,
+    "end_sec": 3.429,
+    "duration_sec": 0.458
+  },
+  {
+    "word": "in",
+    "start_sec": 3.441,
+    "end_sec": 3.552,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "front",
+    "start_sec": 3.565,
+    "end_sec": 3.763,
+    "duration_sec": 0.198
+  },
+  {
+    "word": "of",
+    "start_sec": 3.775,
+    "end_sec": 3.862,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "everyone",
+    "start_sec": 3.874,
+    "end_sec": 4.246,
+    "duration_sec": 0.371
+  },
+  {
+    "word": "at",
+    "start_sec": 4.258,
+    "end_sec": 4.307,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "a",
+    "start_sec": 4.32,
+    "end_sec": 4.369,
+    "duration_sec": 0.05
+  },
+  {
+    "word": "friend\u2019s",
+    "start_sec": 4.382,
+    "end_sec": 4.703,
+    "duration_sec": 0.322
+  },
+  {
+    "word": "house",
+    "start_sec": 4.716,
+    "end_sec": 5.198,
+    "duration_sec": 0.483
+  }
+]

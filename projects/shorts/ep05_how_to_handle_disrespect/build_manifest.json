@@ -1,0 +1,198 @@
+{
+  "project_id": "ep05_how_to_handle_disrespect",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "pipeline_type": "static_comic_sync",
+  "voiceover_track": "audio/voiceover.mp3",
+  "subtitles_file": "subtitles.ass",
+  "bgm_track": "../../assets/bgm/dark_contemplation.mp3",
+  "bgm_volume_db": -22.0,
+  "total_cuts": 23,
+  "total_duration": 66.41,
+  "clips": [
+    {
+      "cut_id": 1,
+      "beat_id": 1,
+      "sub_beat": "a",
+      "file_path": "slides/slide_01.png",
+      "duration": 3.43,
+      "text": "What do you actually do when someone makes a slick joke at your expense"
+    },
+    {
+      "cut_id": 2,
+      "beat_id": 1,
+      "sub_beat": "b",
+      "file_path": "slides/slide_02.png",
+      "duration": 2.64,
+      "text": "in front of everyone at a friend\u2019s house?"
+    },
+    {
+      "cut_id": 3,
+      "beat_id": 2,
+      "sub_beat": "a",
+      "file_path": "slides/slide_03.png",
+      "duration": 2.23,
+      "text": "Most guys freeze."
+    },
+    {
+      "cut_id": 4,
+      "beat_id": 3,
+      "sub_beat": "a",
+      "file_path": "slides/slide_04.png",
+      "duration": 3.58,
+      "text": "You either laugh along nervously to keep the peace,"
+    },
+    {
+      "cut_id": 5,
+      "beat_id": 4,
+      "sub_beat": "a",
+      "file_path": "slides/slide_05.png",
+      "duration": 3.17,
+      "text": "or you get angry and ruin the whole vibe."
+    },
+    {
+      "cut_id": 6,
+      "beat_id": 5,
+      "sub_beat": "a",
+      "file_path": "slides/slide_06.png",
+      "duration": 3.89,
+      "text": "Look, both reactions hand all your power to them."
+    },
+    {
+      "cut_id": 7,
+      "beat_id": 6,
+      "sub_beat": "a",
+      "file_path": "slides/slide_07.png",
+      "duration": 3.36,
+      "text": "Fake-laughing says you accept disrespect."
+    },
+    {
+      "cut_id": 8,
+      "beat_id": 7,
+      "sub_beat": "a",
+      "file_path": "slides/slide_08.png",
+      "duration": 2.9,
+      "text": "Getting angry shows they rattled you."
+    },
+    {
+      "cut_id": 9,
+      "beat_id": 8,
+      "sub_beat": "a",
+      "file_path": "slides/slide_09.png",
+      "duration": 3.19,
+      "text": "Here\u2019s what an experienced senior will tell you."
+    },
+    {
+      "cut_id": 10,
+      "beat_id": 9,
+      "sub_beat": "a",
+      "file_path": "slides/slide_10.png",
+      "duration": 3.38,
+      "text": "Don\u2019t get mad, and don\u2019t raise your voice."
+    },
+    {
+      "cut_id": 11,
+      "beat_id": 10,
+      "sub_beat": "a",
+      "file_path": "slides/slide_11.png",
+      "duration": 1.6,
+      "text": "Just look at them calmly,"
+    },
+    {
+      "cut_id": 12,
+      "beat_id": 10,
+      "sub_beat": "b",
+      "file_path": "slides/slide_12.png",
+      "duration": 2.74,
+      "text": "and ask with quiet curiosity:"
+    },
+    {
+      "cut_id": 13,
+      "beat_id": 11,
+      "sub_beat": "a",
+      "file_path": "slides/slide_13.png",
+      "duration": 2.0,
+      "text": "\"Wait, I didn\u2019t get it."
+    },
+    {
+      "cut_id": 14,
+      "beat_id": 11,
+      "sub_beat": "b",
+      "file_path": "slides/slide_14.png",
+      "duration": 2.15,
+      "text": "What\u2019s the joke?\""
+    },
+    {
+      "cut_id": 15,
+      "beat_id": 12,
+      "sub_beat": "a",
+      "file_path": "slides/slide_15.png",
+      "duration": 2.54,
+      "text": "Notice what happens next."
+    },
+    {
+      "cut_id": 16,
+      "beat_id": 13,
+      "sub_beat": "a",
+      "file_path": "slides/slide_16.png",
+      "duration": 2.47,
+      "text": "The whole room goes quiet."
+    },
+    {
+      "cut_id": 17,
+      "beat_id": 14,
+      "sub_beat": "a",
+      "file_path": "slides/slide_17.png",
+      "duration": 3.53,
+      "text": "Sarcasm only survives on quick laughter."
+    },
+    {
+      "cut_id": 18,
+      "beat_id": 15,
+      "sub_beat": "a",
+      "file_path": "slides/slide_18.png",
+      "duration": 3.6,
+      "text": "The moment you force someone to explain their insult,"
+    },
+    {
+      "cut_id": 19,
+      "beat_id": 16,
+      "sub_beat": "a",
+      "file_path": "slides/slide_19.png",
+      "duration": 3.07,
+      "text": "they have to admit they were just being petty."
+    },
+    {
+      "cut_id": 20,
+      "beat_id": 17,
+      "sub_beat": "a",
+      "file_path": "slides/slide_20.png",
+      "duration": 3.84,
+      "text": "They'll mumble, backpedal, and fold on the spot."
+    },
+    {
+      "cut_id": 21,
+      "beat_id": 18,
+      "sub_beat": "a",
+      "file_path": "slides/slide_21.png",
+      "duration": 3.02,
+      "text": "You don\u2019t need to fight to command respect."
+    },
+    {
+      "cut_id": 22,
+      "beat_id": 19,
+      "sub_beat": "a",
+      "file_path": "slides/slide_22.png",
+      "duration": 1.5,
+      "text": "Just hold up the mirror,"
+    },
+    {
+      "cut_id": 23,
+      "beat_id": 19,
+      "sub_beat": "b",
+      "file_path": "slides/slide_23.png",
+      "duration": 2.58,
+      "text": "and let them dismantle themselves."
+    }
+  ]
+}

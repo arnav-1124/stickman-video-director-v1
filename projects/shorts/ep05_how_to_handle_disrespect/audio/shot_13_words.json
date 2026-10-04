@@ -1,0 +1,32 @@
+[
+  {
+    "word": "The",
+    "start_sec": 0.1,
+    "end_sec": 0.236,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "whole",
+    "start_sec": 0.248,
+    "end_sec": 0.557,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "room",
+    "start_sec": 0.57,
+    "end_sec": 0.805,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "goes",
+    "start_sec": 0.817,
+    "end_sec": 1.065,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "quiet",
+    "start_sec": 1.077,
+    "end_sec": 1.609,
+    "duration_sec": 0.532
+  }
+]

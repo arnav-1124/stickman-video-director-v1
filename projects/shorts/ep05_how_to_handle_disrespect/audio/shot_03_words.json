@@ -1,0 +1,56 @@
+[
+  {
+    "word": "You",
+    "start_sec": 0.1,
+    "end_sec": 0.285,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "either",
+    "start_sec": 0.298,
+    "end_sec": 0.508,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "laugh",
+    "start_sec": 0.52,
+    "end_sec": 0.83,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "along",
+    "start_sec": 0.842,
+    "end_sec": 1.201,
+    "duration_sec": 0.359
+  },
+  {
+    "word": "nervously",
+    "start_sec": 1.213,
+    "end_sec": 1.696,
+    "duration_sec": 0.483
+  },
+  {
+    "word": "to",
+    "start_sec": 1.708,
+    "end_sec": 1.82,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "keep",
+    "start_sec": 1.832,
+    "end_sec": 2.067,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "the",
+    "start_sec": 2.08,
+    "end_sec": 2.166,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "peace",
+    "start_sec": 2.179,
+    "end_sec": 2.711,
+    "duration_sec": 0.532
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "word": "Don\u2019t",
+    "start_sec": 0.1,
+    "end_sec": 0.347,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "get",
+    "start_sec": 0.359,
+    "end_sec": 0.52,
+    "duration_sec": 0.161
+  },
+  {
+    "word": "mad",
+    "start_sec": 0.533,
+    "end_sec": 0.916,
+    "duration_sec": 0.384
+  },
+  {
+    "word": "and",
+    "start_sec": 1.176,
+    "end_sec": 1.325,
+    "duration_sec": 0.149
+  },
+  {
+    "word": "don\u2019t",
+    "start_sec": 1.337,
+    "end_sec": 1.56,
+    "duration_sec": 0.223
+  },
+  {
+    "word": "raise",
+    "start_sec": 1.572,
+    "end_sec": 1.82,
+    "duration_sec": 0.248
+  },
+  {
+    "word": "your",
+    "start_sec": 1.832,
+    "end_sec": 1.944,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "voice",
+    "start_sec": 1.956,
+    "end_sec": 2.525,
+    "duration_sec": 0.569
+  }
+]

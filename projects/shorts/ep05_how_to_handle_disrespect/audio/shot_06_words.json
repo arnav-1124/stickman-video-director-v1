@@ -1,0 +1,32 @@
+[
+  {
+    "word": "Fake-laughing",
+    "start_sec": 0.1,
+    "end_sec": 0.842,
+    "duration_sec": 0.743
+  },
+  {
+    "word": "says",
+    "start_sec": 0.854,
+    "end_sec": 1.114,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "you",
+    "start_sec": 1.127,
+    "end_sec": 1.25,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "accept",
+    "start_sec": 1.263,
+    "end_sec": 1.659,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "disrespect",
+    "start_sec": 1.671,
+    "end_sec": 2.488,
+    "duration_sec": 0.817
+  }
+]

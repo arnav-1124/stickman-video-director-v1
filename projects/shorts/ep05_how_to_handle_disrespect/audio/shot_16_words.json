@@ -1,0 +1,56 @@
+[
+  {
+    "word": "they",
+    "start_sec": 0.1,
+    "end_sec": 0.26,
+    "duration_sec": 0.161
+  },
+  {
+    "word": "have",
+    "start_sec": 0.273,
+    "end_sec": 0.508,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "to",
+    "start_sec": 0.52,
+    "end_sec": 0.632,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "admit",
+    "start_sec": 0.644,
+    "end_sec": 1.015,
+    "duration_sec": 0.371
+  },
+  {
+    "word": "they",
+    "start_sec": 1.028,
+    "end_sec": 1.139,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "were",
+    "start_sec": 1.151,
+    "end_sec": 1.263,
+    "duration_sec": 0.111
+  },
+  {
+    "word": "just",
+    "start_sec": 1.275,
+    "end_sec": 1.535,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "being",
+    "start_sec": 1.548,
+    "end_sec": 1.77,
+    "duration_sec": 0.223
+  },
+  {
+    "word": "petty",
+    "start_sec": 1.783,
+    "end_sec": 2.216,
+    "duration_sec": 0.433
+  }
+]

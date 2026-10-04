@@ -1,0 +1,50 @@
+[
+  {
+    "word": "Wait",
+    "start_sec": 0.1,
+    "end_sec": 0.52,
+    "duration_sec": 0.421
+  },
+  {
+    "word": "I",
+    "start_sec": 0.793,
+    "end_sec": 0.854,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "didn\u2019t",
+    "start_sec": 0.867,
+    "end_sec": 1.127,
+    "duration_sec": 0.26
+  },
+  {
+    "word": "get",
+    "start_sec": 1.139,
+    "end_sec": 1.325,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "it",
+    "start_sec": 1.337,
+    "end_sec": 1.548,
+    "duration_sec": 0.21
+  },
+  {
+    "word": "What\u2019s",
+    "start_sec": 2.401,
+    "end_sec": 2.686,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "the",
+    "start_sec": 2.698,
+    "end_sec": 2.797,
+    "duration_sec": 0.099
+  },
+  {
+    "word": "joke",
+    "start_sec": 2.809,
+    "end_sec": 3.28,
+    "duration_sec": 0.47
+  }
+]

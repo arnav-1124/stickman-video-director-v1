@@ -1,0 +1,56 @@
+[
+  {
+    "word": "The",
+    "start_sec": 0.1,
+    "end_sec": 0.223,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "moment",
+    "start_sec": 0.236,
+    "end_sec": 0.57,
+    "duration_sec": 0.334
+  },
+  {
+    "word": "you",
+    "start_sec": 0.582,
+    "end_sec": 0.706,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "force",
+    "start_sec": 0.718,
+    "end_sec": 1.028,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "someone",
+    "start_sec": 1.04,
+    "end_sec": 1.325,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "to",
+    "start_sec": 1.337,
+    "end_sec": 1.461,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "explain",
+    "start_sec": 1.473,
+    "end_sec": 1.968,
+    "duration_sec": 0.495
+  },
+  {
+    "word": "their",
+    "start_sec": 1.981,
+    "end_sec": 2.104,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "insult",
+    "start_sec": 2.117,
+    "end_sec": 2.736,
+    "duration_sec": 0.619
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "word": "Notice",
+    "start_sec": 0.1,
+    "end_sec": 0.545,
+    "duration_sec": 0.446
+  },
+  {
+    "word": "what",
+    "start_sec": 0.557,
+    "end_sec": 0.694,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "happens",
+    "start_sec": 0.706,
+    "end_sec": 1.139,
+    "duration_sec": 0.433
+  },
+  {
+    "word": "next",
+    "start_sec": 1.151,
+    "end_sec": 1.684,
+    "duration_sec": 0.532
+  }
+]

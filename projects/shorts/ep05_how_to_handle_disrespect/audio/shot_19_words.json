@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Just",
+    "start_sec": 0.1,
+    "end_sec": 0.384,
+    "duration_sec": 0.285
+  },
+  {
+    "word": "hold",
+    "start_sec": 0.397,
+    "end_sec": 0.632,
+    "duration_sec": 0.235
+  },
+  {
+    "word": "up",
+    "start_sec": 0.644,
+    "end_sec": 0.78,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "the",
+    "start_sec": 0.793,
+    "end_sec": 0.879,
+    "duration_sec": 0.087
+  },
+  {
+    "word": "mirror",
+    "start_sec": 0.892,
+    "end_sec": 1.288,
+    "duration_sec": 0.396
+  },
+  {
+    "word": "and",
+    "start_sec": 1.523,
+    "end_sec": 1.622,
+    "duration_sec": 0.099
+  },
+  {
+    "word": "let",
+    "start_sec": 1.634,
+    "end_sec": 1.783,
+    "duration_sec": 0.148
+  },
+  {
+    "word": "them",
+    "start_sec": 1.795,
+    "end_sec": 1.931,
+    "duration_sec": 0.136
+  },
+  {
+    "word": "dismantle",
+    "start_sec": 1.944,
+    "end_sec": 2.476,
+    "duration_sec": 0.532
+  },
+  {
+    "word": "themselves",
+    "start_sec": 2.488,
+    "end_sec": 3.218,
+    "duration_sec": 0.73
+  }
+]

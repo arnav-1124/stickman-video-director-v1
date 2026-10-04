@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Just",
+    "start_sec": 0.1,
+    "end_sec": 0.409,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "look",
+    "start_sec": 0.421,
+    "end_sec": 0.607,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "at",
+    "start_sec": 0.619,
+    "end_sec": 0.681,
+    "duration_sec": 0.062
+  },
+  {
+    "word": "them",
+    "start_sec": 0.694,
+    "end_sec": 0.879,
+    "duration_sec": 0.186
+  },
+  {
+    "word": "calmly",
+    "start_sec": 0.892,
+    "end_sec": 1.387,
+    "duration_sec": 0.495
+  },
+  {
+    "word": "and",
+    "start_sec": 1.609,
+    "end_sec": 1.783,
+    "duration_sec": 0.173
+  },
+  {
+    "word": "ask",
+    "start_sec": 1.795,
+    "end_sec": 2.104,
+    "duration_sec": 0.309
+  },
+  {
+    "word": "with",
+    "start_sec": 2.117,
+    "end_sec": 2.241,
+    "duration_sec": 0.124
+  },
+  {
+    "word": "quiet",
+    "start_sec": 2.253,
+    "end_sec": 2.637,
+    "duration_sec": 0.384
+  },
+  {
+    "word": "curiosity",
+    "start_sec": 2.649,
+    "end_sec": 3.478,
+    "duration_sec": 0.829
+  }
+]
