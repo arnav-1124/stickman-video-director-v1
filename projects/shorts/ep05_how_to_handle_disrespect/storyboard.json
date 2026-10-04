@@ -3,7 +3,7 @@
   "title": "How To Handle Disrespect Without Getting Angry",
   "format": "9:16",
   "total_cuts": 23,
-  "target_duration_sec": 66.41,
+  "target_duration_sec": 53.36,
   "style": {
     "canvas": "clean solid off-white paper (#FAF9F6)",
     "character": "minimalist expressive stickman with circular white head, bold black vector ink strokes (6px-8px)",
@@ -27,84 +27,102 @@
       "beat_id": 1,
       "sub_beat": "a",
       "text": "What do you actually do when someone makes a slick joke at your expense",
-      "duration": 3.43,
+      "duration": 3.2,
       "scene_type": "Intro Question Hook Part 1",
       "framing": "Medium wide shot of group living room",
       "visual_action": "Inside a friend's cozy 2D cartoon living room: Brad in a bright mustard-yellow shirt stands leaning forward over a low wooden coffee table, aggressively pointing an index finger and smirking with an open mouth, delivering a slick joke at someone across the room. Bold black ink outlines on clean off-white canvas (#FAF9F6).",
-      "refs": ["@Character_Jester", "@Environment_LivingRoom"]
+      "refs": [
+        "@Character_Jester",
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 2,
       "beat_id": 1,
       "sub_beat": "b",
-      "text": "in front of everyone at a friend’s house?",
-      "duration": 2.64,
+      "text": "in front of everyone at a friend\u2019s house?",
+      "duration": 2.53,
       "scene_type": "Intro Question Hook Part 2",
       "framing": "Reverse medium shot on protagonist with circle highlight",
-      "visual_action": "The protagonist in his dark forest-green hoodie sitting on the grey couch, circled with a bold hand-drawn crimson marker circle ('⭕') highlighting him as the target. Around him, two background stickman friends on the couch turn their heads, watching the reaction. Clean 2D graphic novel art, zero 3D.",
-      "refs": ["@Character_Protagonist", "@Environment_LivingRoom"]
+      "visual_action": "The protagonist in his dark forest-green hoodie sitting on the grey couch, circled with a bold hand-drawn crimson marker circle ('\u2b55') highlighting him as the target. Around him, two background stickman friends on the couch turn their heads, watching the reaction. Clean 2D graphic novel art, zero 3D.",
+      "refs": [
+        "@Character_Protagonist",
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 3,
       "beat_id": 2,
       "sub_beat": "a",
       "text": "Most guys freeze.",
-      "duration": 2.23,
+      "duration": 1.44,
       "scene_type": "The Freeze Reaction",
       "framing": "Close-up portrait with doodle frost",
       "visual_action": "Close-up of a generic stickman figure completely frozen rigid: wide nervous dot eyes, tiny cartoon sweat bead dropping from his cheek, with sharp hand-drawn light-blue frost/ice crack doodle lines encasing his torso. Clean off-white background (#FAF9F6).",
-      "refs": ["@Character_Protagonist"]
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 4,
       "beat_id": 3,
       "sub_beat": "a",
       "text": "You either laugh along nervously to keep the peace,",
-      "duration": 3.58,
+      "duration": 2.66,
       "scene_type": "The Compliance Trap",
       "framing": "Medium close-up of forced fake laughter",
       "visual_action": "The stickman forcing an awkward, strained smile with hands nervously rubbing together in front of his chest. Small hand-drawn comic laugh doodle notes floating near his mouth: 'HEHE...'. Floating label in faint grey ink above him: '[NERVOUS SMILE]'. Off-white canvas, clean vector lines.",
-      "refs": ["@Character_Protagonist"]
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 5,
       "beat_id": 4,
       "sub_beat": "a",
       "text": "or you get angry and ruin the whole vibe.",
-      "duration": 3.17,
+      "duration": 2.34,
       "scene_type": "The Rage Reaction",
       "framing": "Medium shot of explosive anger",
       "visual_action": "Alternative mistake: The stickman jumping up abruptly with clenched fists, red angry face lines, cartoon steam puffs blowing from his ears, while two background friends recoil backward in awkward shock. Bold crimson red accent strokes (#FF3B30).",
-      "refs": ["@Character_Protagonist", "@Environment_LivingRoom"]
+      "refs": [
+        "@Character_Protagonist",
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 6,
       "beat_id": 5,
       "sub_beat": "a",
       "text": "Look, both reactions hand all your power to them.",
-      "duration": 3.89,
+      "duration": 3.34,
       "scene_type": "Visual Metaphor: Power Surrender",
       "framing": "Conceptual iconographic diagram",
       "visual_action": "Minimalist visual diagram: On the left, the protagonist in green hoodie. On the right, Brad in yellow. A golden glowing royal crown / steering wheel is flying out of the protagonist's open hands toward Brad, connected by a bold crimson dotted arrow labeled: 'STATUS SURRENDER'. Generous negative space.",
-      "refs": ["@Character_Protagonist", "@Character_Jester"]
+      "refs": [
+        "@Character_Protagonist",
+        "@Character_Jester"
+      ]
     },
     {
       "cut_id": 7,
       "beat_id": 6,
       "sub_beat": "a",
       "text": "Fake-laughing says you accept disrespect.",
-      "duration": 3.36,
+      "duration": 2.66,
       "scene_type": "Conceptual Label Card",
       "framing": "Centered character with rubber stamp",
       "visual_action": "The fake-laughing stickman with his strained smile, stamped squarely across his chest with a large rectangular bold red ink rubber stamp: '[ACCEPTED DISRESPECT]'. Bold black ink pen line art on off-white paper (#FAF9F6).",
-      "refs": ["@Character_Protagonist"]
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 8,
       "beat_id": 7,
       "sub_beat": "a",
       "text": "Getting angry shows they rattled you.",
-      "duration": 2.9,
+      "duration": 2.25,
       "scene_type": "Heart Rate / Spike Meter",
       "framing": "Graphic cardiogram monitor card",
       "visual_action": "In the center of the clean canvas, a flat horizontal seismograph/heart-rate monitor line that suddenly spikes wildly into a jagged crimson red danger zone (#FF3B30). Next to the spike, clean bold hand-lettered ink text: '[RATTLED]'. Single visual graphic punch.",
@@ -114,8 +132,8 @@
       "cut_id": 9,
       "beat_id": 8,
       "sub_beat": "a",
-      "text": "Here’s what an experienced senior will tell you.",
-      "duration": 3.19,
+      "text": "Here\u2019s what an experienced senior will tell you.",
+      "duration": 3.03,
       "scene_type": "The Senior Mentor",
       "framing": "Medium shot of older brother / senior figure",
       "visual_action": "An older, calm senior stickman figure leaning comfortably against a clean wooden doorframe. Dark neat jacket, hands loosely in pockets, looking directly at the camera with a reassuring, wise half-smile. A subtle glowing blue aura (#2563EB) around his silhouette.",
@@ -125,8 +143,8 @@
       "cut_id": 10,
       "beat_id": 9,
       "sub_beat": "a",
-      "text": "Don’t get mad, and don’t raise your voice.",
-      "duration": 3.38,
+      "text": "Don\u2019t get mad, and don\u2019t raise your voice.",
+      "duration": 2.66,
       "scene_type": "Dual Prohibition Icons",
       "framing": "Centered dual graphic cards",
       "visual_action": "Two clean minimalist hand-drawn ink icons side-by-side on the off-white paper canvas: On the left, an angry clenched red fist with a bold black 'X' over it. On the right, a loud megaphone blasting soundwaves with a bold black 'X' over it. Clean, balanced negative space.",
@@ -137,29 +155,33 @@
       "beat_id": 10,
       "sub_beat": "a",
       "text": "Just look at them calmly,",
-      "duration": 1.6,
+      "duration": 1.4,
       "scene_type": "The Calm Gaze",
       "framing": "Close-up eye contact portrait",
       "visual_action": "Tight close-up of the protagonist in his dark green hoodie. Calm, steady horizontal eyebrows, level dark dot eyes looking straight ahead with zero anger and zero flinching. Pure relaxed self-possession.",
-      "refs": ["@Character_Protagonist"]
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 12,
       "beat_id": 10,
       "sub_beat": "b",
       "text": "and ask with quiet curiosity:",
-      "duration": 2.74,
+      "duration": 2.17,
       "scene_type": "Curious Head Tilt",
       "framing": "Medium close-up profile",
       "visual_action": "Protagonist slightly tilting his head to one side with genuine, calm curiosity, resting his chin lightly on two fingers as if genuinely trying to understand a puzzle. A subtle hand-drawn blue question mark doodle ('?') floating beside his head.",
-      "refs": ["@Character_Protagonist"]
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 13,
       "beat_id": 11,
       "sub_beat": "a",
-      "text": "\"Wait, I didn’t get it.",
-      "duration": 2.0,
+      "text": "\"Wait, I didn\u2019t get it.",
+      "duration": 1.2,
       "scene_type": "The Question Part 1",
       "framing": "Bold typographic dialogue card",
       "visual_action": "A clean bold hand-drawn graphic card on off-white paper (#FAF9F6). In the center, bold hand-lettered black ink text in quotation marks: '\"WAIT, I DIDN'T GET IT...\"' with subtle radiating hand-drawn shockwave lines.",
@@ -169,41 +191,48 @@
       "cut_id": 14,
       "beat_id": 11,
       "sub_beat": "b",
-      "text": "What’s the joke?\"",
-      "duration": 2.15,
+      "text": "What\u2019s the joke?\"",
+      "duration": 1.32,
       "scene_type": "The Question Part 2 / Direct Confrontation",
       "framing": "Medium profile: Protagonist speaking directly to Brad",
       "visual_action": "Side-profile two-shot: The protagonist on the left in green hoodie speaking with a clean open hand gesture directly toward Brad on the right. Large bold hand-lettered ink text floating between them: '\"WHAT'S THE JOKE?\"'. Brad's arrogant smirk instantly begins to freeze.",
-      "refs": ["@Character_Protagonist", "@Character_Jester"]
+      "refs": [
+        "@Character_Protagonist",
+        "@Character_Jester"
+      ]
     },
     {
       "cut_id": 15,
       "beat_id": 12,
       "sub_beat": "a",
       "text": "Notice what happens next.",
-      "duration": 2.54,
+      "duration": 1.83,
       "scene_type": "The Freeze Frame / Ticking Clock",
       "framing": "Overhead cinematic 2D view of living room",
       "visual_action": "High-angle 2D view looking down on the living room. Every character is frozen in place. On the back wall, a minimalist cartoon wall clock with hand-drawn motion lines indicating a slow, heavy 'TICK... TOCK...'. Heavy anticipation.",
-      "refs": ["@Environment_LivingRoom"]
+      "refs": [
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 16,
       "beat_id": 13,
       "sub_beat": "a",
       "text": "The whole room goes quiet.",
-      "duration": 2.47,
+      "duration": 2.16,
       "scene_type": "Total Silence / Awkward Room",
       "framing": "Medium shot of background friends",
       "visual_action": "The two background stickman friends sitting on the sofa/beanbag, holding their soda cans completely still in mid-air. Wide cartoon dot eyes, straight neutral mouths, dead silence. A flatline doodle line with tiny musical rest notes floating in the air.",
-      "refs": ["@Environment_LivingRoom"]
+      "refs": [
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 17,
       "beat_id": 14,
       "sub_beat": "a",
       "text": "Sarcasm only survives on quick laughter.",
-      "duration": 3.53,
+      "duration": 3.02,
       "scene_type": "Visual Metaphor: The Laughter Oxygen Tank",
       "framing": "Metaphorical illustration card",
       "visual_action": "A hand-drawn minimalist 2D cartoon illustration: A glowing red flame labeled 'SARCASM' inside a glass jar. A pipe connected to an oxygen tank labeled 'ROOM LAUGHTER'. A large hand-drawn valve is shown turned completely shut, causing the flame to flicker into cold grey smoke.",
@@ -214,44 +243,53 @@
       "beat_id": 15,
       "sub_beat": "a",
       "text": "The moment you force someone to explain their insult,",
-      "duration": 3.6,
+      "duration": 2.84,
       "scene_type": "The Spotlight on the Jester",
       "framing": "Dramatic spotlight on Brad",
       "visual_action": "Brad in his yellow long-sleeve tee standing completely alone under a single bright vertical yellow cartoon spotlight (#F59E0B) beaming down from the top frame. His smirk is completely wiped off, replaced by wide nervous eyes and three large cartoon sweat drops flying off his head.",
-      "refs": ["@Character_Jester"]
+      "refs": [
+        "@Character_Jester"
+      ]
     },
     {
       "cut_id": 19,
       "beat_id": 16,
       "sub_beat": "a",
       "text": "they have to admit they were just being petty.",
-      "duration": 3.07,
+      "duration": 2.25,
       "scene_type": "Exposing the Pettiness",
       "framing": "Close-up of stammering mouth with scribble",
       "visual_action": "Close-up of Brad's face: his mouth open awkwardly, with a tangled squiggly ball of black scribble ink doodle coming out of his lips: 'UH... WELL...'. Stamped in bold black ink beneath him: '[EXPOSED PETTINESS]'.",
-      "refs": ["@Character_Jester"]
+      "refs": [
+        "@Character_Jester"
+      ]
     },
     {
       "cut_id": 20,
       "beat_id": 17,
       "sub_beat": "a",
       "text": "They'll mumble, backpedal, and fold on the spot.",
-      "duration": 3.84,
+      "duration": 2.97,
       "scene_type": "The Social Collapse",
       "framing": "Full-body shrinking posture",
       "visual_action": "Brad in his yellow shirt visibly shrinking downward, shoulders hunched forward, looking down at his sneakers with hands shoved awkwardly into his pockets, while subtle cartoon motion arrows point downward showing his complete loss of social status.",
-      "refs": ["@Character_Jester"]
+      "refs": [
+        "@Character_Jester"
+      ]
     },
     {
       "cut_id": 21,
       "beat_id": 18,
       "sub_beat": "a",
-      "text": "You don’t need to fight to command respect.",
-      "duration": 3.02,
+      "text": "You don\u2019t need to fight to command respect.",
+      "duration": 2.73,
       "scene_type": "The Sovereign Stance",
       "framing": "Medium shot of protagonist relaxed",
       "visual_action": "The protagonist in his forest-green hoodie sitting back comfortably on the couch, taking a slow sip from a simple white mug or glass, completely serene, grounded, and unbothered. A soft green aura of calm authority around him.",
-      "refs": ["@Character_Protagonist", "@Environment_LivingRoom"]
+      "refs": [
+        "@Character_Protagonist",
+        "@Environment_LivingRoom"
+      ]
     },
     {
       "cut_id": 22,
@@ -261,19 +299,23 @@
       "duration": 1.5,
       "scene_type": "Holding The Mirror",
       "framing": "Close-up of hand holding clean mirror",
-      "visual_action": "A clean minimalist close-up: A simple stickman hand in a dark green sleeve holding up a clean circular silver-rimmed hand mirror directly facing the camera, shining with two clean white comic glint stars ('✨').",
-      "refs": ["@Character_Protagonist"]
+      "visual_action": "A clean minimalist close-up: A simple stickman hand in a dark green sleeve holding up a clean circular silver-rimmed hand mirror directly facing the camera, shining with two clean white comic glint stars ('\u2728').",
+      "refs": [
+        "@Character_Protagonist"
+      ]
     },
     {
       "cut_id": 23,
       "beat_id": 19,
       "sub_beat": "b",
       "text": "and let them dismantle themselves.",
-      "duration": 2.58,
+      "duration": 1.86,
       "scene_type": "The Final Reflection & Loop",
       "framing": "The mirror reflection revealing the jester's defeat",
       "visual_action": "Looking directly into the circular mirror: Inside the reflection, Brad in his yellow shirt is seen looking embarrassed and looking away. Beneath the mirror, bold clean hand-lettered ink text: 'THE MIRROR RULE' with a sleek circular arrow looping back to the top of the canvas.",
-      "refs": ["@Character_Jester"]
+      "refs": [
+        "@Character_Jester"
+      ]
     }
   ]
 }
