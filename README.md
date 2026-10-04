@@ -16,30 +16,37 @@ Engineered with the exact workflow architecture of **`yt-shorts-animation-v1`**,
 ---
 
 ## 📁 Repository Architecture
-```
 stickman-video-director/
 ├── .agents/
-│   ├── rules/                 # Production rules (ink style, workflow, narrow intervals)
+│   ├── rules/                 # Production rules (ink style, Gemini TTS, channel branding)
 │   └── skills/                # Agent personas (storyboard-director, prompt-engineer, ffmpeg-master)
 ├── assets/
+│   ├── branding/              # Official channel logo badge (PhD Stickman Graduate)
 │   ├── bgm/                   # Ambient lo-fi & dark psychological background music
 │   ├── sfx/                   # Pen scratches, thuds, wooshes, glass cracks
 │   └── characters/            # Character blueprints and visual anchors
 ├── docs/
-│   ├── cloud_video_generation_roadmap.md # Colab & RunPod scaling blueprint
-│   └── longform_topics_vault.md          # Longform topic library
+│   ├── voiceover_and_storytelling_standards.md # Google Gemini TTS ("Ludo"), dialogue & pacing
+│   ├── channel_branding_and_watermark_protocol.md # Watermark inpainting & channel bug placement
+│   ├── cloud_video_generation_roadmap.md      # Scaling blueprint
+│   └── longform_topics_vault.md               # Longform topic library
 ├── instructions/
-│   └── ink_explainer_mastery_playbook/  # 4-part master prompt engineering guide
+│   └── ink_explainer_mastery_playbook/        # 4-part master prompt engineering guide
 ├── pipeline/
-│   ├── new_episode.py         # Scaffolds new episodes from canonical template
-│   ├── automate_pipeline.py   # State tracking, batch prompt export & auto-ingestion
-│   ├── generate_audio.py      # Edge-TTS voiceover with word boundary timestamps
-│   ├── generate_subtitles.py  # Kinetic word-highlight ASS subtitles (9:16 & 16:9)
-│   └── build_video.py         # Studio-grade FFmpeg video builder & audio mixer
+│   ├── generate_gemini_tts.py                 # Google Gemini Flash TTS ("Ludo") synthesis
+│   ├── apply_channel_logo_branding.py         # Telea inpainting & channel badge overlay
+│   ├── calibrate_subtitles_ep05.py            # Linguistic semantic chunking & audio sync engine
+│   ├── build_video.py                         # Studio-grade FFmpeg video builder & audio mixer
+│   └── new_episode.py                         # Scaffolds new episodes from canonical template
+├── scripts/                                   # Modular automation & diagnostic tools
+│   ├── audio_calibration/                     # Word boundary profiling & acoustic analysis
+│   ├── flow_browser_automation/               # Chrome DevTools (CDP) prompt automation
+│   ├── chapter_audits/                        # Multi-chapter audits & gap analysis
+│   └── experimental_tests/                    # Timing, PTS cadence, and video tests
 ├── projects/
-│   ├── templates/canonical_episode/  # Canonical episode template
-│   └── ep01_the_respect_love_asymmetry/  # Active 48s production episode
-└── renders/                   # Exported final production videos
+│   ├── shorts/ep05_how_to_handle_disrespect/  # Active production episode
+│   └── templates/canonical_episode/           # Canonical episode template
+└── renders/                                   # Exported final production videos
 ```
 
 ---

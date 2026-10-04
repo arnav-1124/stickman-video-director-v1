@@ -1,10 +1,17 @@
 # Audio & Timestamp Synchronization Rule (Comic-Sync Standard)
 
-## 1. Narration Standard (English Only)
-* **Voice Profile:** `en-US-ChristopherNeural` (Deep, calm, articulate, authoritative male voice with clear studio acoustics).
-* **Pacing:** ~145–155 words per minute.
-* **Sub-Millisecond Word Timestamps:**
-  Every word boundary must be captured in `word_timestamps.json` (`word`, `start_time`, `end_time`) via `pipeline/generate_audio.py`.
+## 1. Narration Standard (Google Gemini TTS Engine)
+* **Master Voice Profile:** `gemini-3.8-flash-tts` ("Ludo" persona — deep, calm, articulate, authoritative, seasoned senior mentor).
+* **Storytelling & Expressive Modulation:**
+  - Capable of per-dialogue emotional modulation (subtext, quiet confidence, vulnerability, micro-pauses).
+  - Use conversational bridging phrases (e.g., *"Something like, 'What's the joke?'"*) to make storytelling sound like a real human in the room.
+* **Acoustic Syllable Calibration:**
+  - Syllable onsets derived from acoustic RMS energy profiles in [`voiceover_googleTTS.wav`](file:///f:/Arnav%20-%20YT/stickman-video-director/projects/shorts/ep05_how_to_handle_disrespect/audio/voiceover_googleTTS.wav).
+* **Perceptual Audio Sync Delay:**
+  - Mandatory `+70ms` (`SYNC_DELAY = 0.07`) offset applied to kinetic subtitle highlighting so visual pop hits in sync with spoken vowels.
+* **Linguistic Semantic Chunking Law:**
+  - Subtitle words MUST be grouped into natural grammatical phrases (e.g. `[A, SLICK, JOKE]`, `[AT, YOUR, EXPENSE]`).
+  - NEVER strand prepositions or break idiomatic phrases across arbitrary chunk-size thresholds. Each chunk must remain on screen for at least 550ms–700ms.
 
 ## 2. Semantic Clause Duration Mapping & 100% Visual Sync Law
 * Slide transitions are **never locked to arbitrary intervals or sliced mechanically by punctuation**.
