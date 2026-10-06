@@ -9,15 +9,23 @@ Every Short is written not as long paragraphs, but as **tight, numbered semantic
   * **Narrative Clauses (1.8s–2.5s):** Core psychological mechanisms.
 * **Total Word Count:** 130 to 155 words per 50-second short (~150 WPM).
 
-## 2. The 5-Phase Campus Narrative Arc
-1. **The Intro Question Hook (Beats 1–3, 0s–6s):** Opens directly with a relatable, high-stakes question framing the exact real-world scenario (e.g., *"What do you actually do when someone makes a slick joke at your expense in front of everyone at a friend’s house?"*). Gives the audience immediate context and a reason to stay.
-2. **The Social Illusion / Binary Mistake (Beats 4–7, 6s–14s):** The common trap people fall into (e.g. laughing along nervously or raging/exploding).
-3. **The Senior Brother's Pivot (Beats 8–11, 14s–26s):** Grounded wisdom delivered like a wise elder brother or senior classmate pulling the viewer aside.
-4. **The Psychological Unveiling (Beats 12–16, 26s–40s):** Why the counter-intuitive response works, breaking down frame control and human behavior.
-5. **The Permanent Law & Seamless Loop (Beats 17–19+, 40s–50s):** The clean, unforgettable principle that loops naturally.
+## 2. The 5-Phase Campus Narrative Arc & Swipe Defense (Target: >70% Stay Rate)
+1. **The Swipe-Defense Opener (Beats 1–2, 0.0s–3.0s):**
+   * **Frame 1 / Second 0:** High-contrast visual action that immediately matches the title premise.
+   * **Second 0.5–2.5:** A visceral paradox or high-stakes social question. The viewer must understand the stakes in under 2 seconds. (Never delay the promised subject!).
+2. **The Social Illusion / Binary Mistake (Beats 3–6, 3s–12s):** The common trap people fall into (e.g. laughing along nervously, over-explaining, or raging).
+3. **The Counter-Intuitive Pivot (Beats 7–10, 12s–22s):** Grounded wisdom delivered like a wise elder brother or senior classmate reframing the dynamic.
+4. **The Psychological Unveiling (Beats 11–15, 22s–36s):** Why the unexpected behavior wins, breaking down cognitive bias, status signalling, or evolutionary defense.
+5. **The Permanent Law & Seamless Audio Loop (Beats 16–19+, 36s–48s):**
+   * Deliver the unforgettable takeaway.
+   * **Mandatory Seamless Loop:** The final spoken line must connect syntactically or conceptually directly into the opening line of the video (e.g., Final line: *"And that's the exact reason why..."* ➔ Loops to: *"In every college hall, ten guys stare at her..."*). This powers re-watches and pushes APV > 100%.
 
-## 3. Persona, Tone & Setting Directives
-* **The Voice:** Experienced elder brother or trusted senior classmate. Warm, candid, grounded in lived experience, protective, and zero robotic/clinical lecture vibes.
-* **Banned Vocabulary:** The word **`hallway`** is strictly forbidden.
+## 3. Duration & Pacing Guardrails
+* **Optimal Short Runtime:** **42 to 49 seconds** (Maximum 52s). Data shows 72s Shorts experience severe viewer attrition before the climax. Keep it tight, dense, and punchy.
+* **Target Benchmarks:**
+  * **Stayed to watch:** **≥ 70%** (Swiped away < 30%).
+  * **Average Percentage Viewed (APV):** **≥ 90%** (Viral threshold: > 110% with loops).
+* **Banned Vocabulary & Tropes:**
+  * Strictly banned: `hallway`, `Alpha`, `Sigma`, `Dark Psychology`, `High Value Male`.
 * **Approved Anchors:** *College hall, classroom, library, friend's home, living room, neighborhood, city café, home.*
 * **Strict English Scripting Standard:** Articulate, mature, and punchy vocabulary. No filler words, no generic openings, and no childish slang.

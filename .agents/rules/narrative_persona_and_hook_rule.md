@@ -22,11 +22,24 @@ Every video must open with an immediate, high-stakes question that provides inst
 
 ---
 
-## 3. Concrete Physical Settings (Banned Vocabulary: "Hallway")
-To ensure maximum relatability and immersion, scripts must ground scenes in concrete, authentic everyday environments.
-
-* **Strictly Banned:** The generic, overused word **`hallway`** is prohibited across all scripts and prompts.
+* **Strictly Banned Settings & Tropes:**
+  * **Generic Setting:** The word **`hallway`** is prohibited across all scripts and prompts.
+  * **Cringe/Spam Identity Labels:** **`Alpha`**, **`Sigma`**, **`Dark Psychology`**, **`High Value`**, **`Hierarchy`**, **`Pack`** are strictly banned. YouTube's algorithm flags them as low-quality reused content, and viewers instantly swipe away (evidenced by 2.48% CTR and 61.8% swipe-away on label-stuffed episodes).
 * **Approved Everyday World Anchors:**
   * **Campus/Academic:** *College hall, classroom, lecture desk, university library, study lounge, campus steps.*
   * **Social/Domestic:** *Friend’s house, living room couch, kitchen table, neighborhood hangout, city sidewalk, local café.*
   * **Personal/Digital:** *Late night at home on phone, desk workspace.*
+
+---
+
+## 4. The 1.5-Second Title-to-Hook Congruence Law (Anti-Swipe Protocol)
+A high CTR means nothing if viewers swipe away within 2 seconds. The #1 cause of swipe-away is **title betrayal**—making a promise in the title and failing to show it on Frame 1.
+
+* **Rule 1: Immediate Subject Delivery (0.0s – 1.5s):**
+  * If the title mentions a specific subject (e.g. *"Why Girls Like..."*, *"When A Bully Mocks You..."*), that subject and the promised interaction **MUST appear on screen in Cut 1 / Shot 1**.
+  * **NEVER delay the core subject** (e.g., waiting 16 seconds to introduce the girl or the conflict). If the subject is not visible within 1.5 seconds, the viewer swipes away.
+* **Rule 2: Zero Textbook / Jargon Openers:**
+  * Strictly forbidden to open with: *"In psychology..."*, *"According to science..."*, or abstract definitions.
+  * Always open with a **visceral physical contradiction or immediate dilemma** (e.g., *"In every lecture hall, ten guys stare at her. She only notices the one who didn't."*).
+* **Rule 3: First Spoken Syllable at < 0.8s:**
+  * The voiceover must begin speaking within 0.8 seconds of video start. Zero long audio fade-ins or dead silence.

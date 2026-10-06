@@ -48,14 +48,17 @@ YouTube's Partner Program enforces strict penalties against duplicate and reused
   "theme": "Attachment Psychology & Intermittent Reinforcement",
   "target_audience": "Thinkers, college students, young adults seeking psychological clarity",
   "title_ideas": [
-    "Why People Obsess Over Those Who Ignore Them (The Casino Effect)",
-    "The Dark Psychology of Intermittent Attention"
+    "Why You Obsess Over People Who Ignore You",
+    "What Happens When You Stop Chasing Them"
   ],
   "language": "English",
   "originality_audit": {
     "is_duplicate_or_paraphrased": false,
     "unique_intellectual_angle": "Exposes how emotional neglect triggers the exact same variable-ratio dopaminergic spike as high-stakes slot machines, reframing unrequited love not as romance, but as a neurological gambling addiction.",
     "banned_cliches_purged": [
+      "Alpha vs Sigma",
+      "Dark psychology",
+      "High value male",
       "Just play hard to get",
       "Confidence is key",
       "They just want what they can't have",

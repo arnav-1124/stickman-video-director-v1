@@ -1,22 +1,30 @@
 # YouTube Metadata: Episode 05
 ## How To Handle Disrespect Without Getting Angry
 
-### 📌 Title Options:
-1. **Recommended (High CTR — Matches Thumbnail):** `How To React When Someone Insults You In Front Of Friends`
-2. **Action-Oriented:** `How To Handle Disrespect Without Getting Angry`
-3. **Curiosity Gap:** `The "Explain The Joke" Rule (Social Frame Control)`
-4. **Relatable Social Dilemma:** `Never Laugh At A Disrespectful Joke. Do This Instead.`
-5. **Conversational Hook:** `What To Say When Someone Makes A Slick Joke About You`
+### 📌 High-CTR Title Options (Strictly ≤ 42 Characters, Mobile-Safe):
+1. **Recommended (Top CTR):** `When Someone Insults You In Public #shorts` (42 chars)
+2. **Alternative A (Action/Calm):** `How To Handle Disrespect Calmly #shorts` (39 chars)
+3. **Alternative B (Conversational):** `What To Say When Someone Mocks You #shorts` (42 chars)
+4. **Alternative C (Curiosity):** `How To Disarm A Disrespectful Joke #shorts` (42 chars)
 
 ---
 
-### 📝 Video Description:
+### 📝 Video Description (With Compounding Funnel):
 ```text
-Have you ever been hanging out with friends when someone drops a cheap joke at your expense? Most people either laugh along nervously to keep the peace, or explode in anger. But both reactions give all your power away.
+When someone drops a slick joke at your expense in front of everyone, most people freeze or explode. 
 
-In this video, an experienced senior breaks down the "Explain The Joke" rule: how to stay completely calm, ask one curious question, and let the insulter dismantle their own disrespect.
+Here is what an experienced senior will tell you: how to stay completely calm, ask one quiet question, and let them dismantle their own disrespect.
 
-#psychology #socialskills #confidence #mindset #selfimprovement #framecontrol #stoicism #shorts
+Follow for daily campus psychology & social frame control animations.
+#psychology #shorts #socialskills
+```
+
+---
+
+### 💬 Mandatory Author-Pinned Comment (Audience Compounding):
+```text
+Has someone ever tried to pull this on you in front of a group? What did you do? 
+Episode 6 drops tomorrow at 5 PM — subscribe so you don't miss the next rule.
 ```
 
 ---

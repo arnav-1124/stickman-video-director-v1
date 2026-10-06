@@ -1,0 +1,108 @@
+[Script Info]
+Title: Sticky in Dark 16:9 Kinetic Subtitles (0.38s Sync)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ExplainerWordSub,Arial Black,54,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.2,0,1,5.5,2.0,2,80,80,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.25,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PERSON WHO
+Dialogue: 0,0:00:00.25,0:00:00.50,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PERSON{\c&H00FFFFFF&\3c&H000A0D14&} WHO
+Dialogue: 0,0:00:00.50,0:00:00.76,ExplainerWordSub,,0,0,0,,THE PERSON {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WHO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:00.76,0:00:01.01,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TEXTS{\c&H00FFFFFF&\3c&H000A0D14&} YOU BACK
+Dialogue: 0,0:00:01.01,0:00:01.26,ExplainerWordSub,,0,0,0,,TEXTS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} BACK
+Dialogue: 0,0:00:01.26,0:00:01.51,ExplainerWordSub,,0,0,0,,TEXTS YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}BACK{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:01.51,0:00:01.76,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} THREE SECONDS
+Dialogue: 0,0:00:01.76,0:00:02.02,ExplainerWordSub,,0,0,0,,IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THREE{\c&H00FFFFFF&\3c&H000A0D14&} SECONDS
+Dialogue: 0,0:00:02.02,0:00:02.27,ExplainerWordSub,,0,0,0,,IN THREE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SECONDS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:02.27,0:00:02.52,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FLAT.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:02.90,0:00:03.14,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PERSON WHO
+Dialogue: 0,0:00:03.14,0:00:03.38,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PERSON{\c&H00FFFFFF&\3c&H000A0D14&} WHO
+Dialogue: 0,0:00:03.38,0:00:03.61,ExplainerWordSub,,0,0,0,,THE PERSON {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WHO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:03.61,0:00:03.85,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AGREES{\c&H00FFFFFF&\3c&H000A0D14&} WITH EVERYTHING
+Dialogue: 0,0:00:03.85,0:00:04.09,ExplainerWordSub,,0,0,0,,AGREES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WITH{\c&H00FFFFFF&\3c&H000A0D14&} EVERYTHING
+Dialogue: 0,0:00:04.09,0:00:04.32,ExplainerWordSub,,0,0,0,,AGREES WITH {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EVERYTHING{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:04.32,0:00:04.56,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} SAY.
+Dialogue: 0,0:00:04.56,0:00:04.80,ExplainerWordSub,,0,0,0,,YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SAY.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:05.18,0:00:05.46,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PERSON WHO
+Dialogue: 0,0:00:05.46,0:00:05.74,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PERSON{\c&H00FFFFFF&\3c&H000A0D14&} WHO
+Dialogue: 0,0:00:05.74,0:00:06.01,ExplainerWordSub,,0,0,0,,THE PERSON {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WHO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:06.01,0:00:06.29,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}REARRANGES{\c&H00FFFFFF&\3c&H000A0D14&} THEIR ENTIRE
+Dialogue: 0,0:00:06.29,0:00:06.57,ExplainerWordSub,,0,0,0,,REARRANGES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEIR{\c&H00FFFFFF&\3c&H000A0D14&} ENTIRE
+Dialogue: 0,0:00:06.57,0:00:06.85,ExplainerWordSub,,0,0,0,,REARRANGES THEIR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ENTIRE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:06.85,0:00:07.12,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SCHEDULE{\c&H00FFFFFF&\3c&H000A0D14&} JUST TO
+Dialogue: 0,0:00:07.12,0:00:07.40,ExplainerWordSub,,0,0,0,,SCHEDULE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}JUST{\c&H00FFFFFF&\3c&H000A0D14&} TO
+Dialogue: 0,0:00:07.40,0:00:07.68,ExplainerWordSub,,0,0,0,,SCHEDULE JUST {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:07.68,0:00:07.96,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SEE{\c&H00FFFFFF&\3c&H000A0D14&} YOU FOR
+Dialogue: 0,0:00:07.96,0:00:08.24,ExplainerWordSub,,0,0,0,,SEE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} FOR
+Dialogue: 0,0:00:08.24,0:00:08.51,ExplainerWordSub,,0,0,0,,SEE YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FOR{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:08.51,0:00:08.79,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TWENTY{\c&H00FFFFFF&\3c&H000A0D14&} MINUTES.
+Dialogue: 0,0:00:08.79,0:00:09.07,ExplainerWordSub,,0,0,0,,TWENTY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}MINUTES.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:09.45,0:00:09.75,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ON{\c&H00FFFFFF&\3c&H000A0D14&} PAPER, THEY
+Dialogue: 0,0:00:09.75,0:00:10.05,ExplainerWordSub,,0,0,0,,ON {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PAPER,{\c&H00FFFFFF&\3c&H000A0D14&} THEY
+Dialogue: 0,0:00:10.05,0:00:10.35,ExplainerWordSub,,0,0,0,,ON PAPER, {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEY{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:10.35,0:00:10.64,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ARE{\c&H00FFFFFF&\3c&H000A0D14&} DOING EVERYTHING
+Dialogue: 0,0:00:10.64,0:00:10.94,ExplainerWordSub,,0,0,0,,ARE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}DOING{\c&H00FFFFFF&\3c&H000A0D14&} EVERYTHING
+Dialogue: 0,0:00:10.94,0:00:11.24,ExplainerWordSub,,0,0,0,,ARE DOING {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EVERYTHING{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:11.24,0:00:11.54,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}RIGHT.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:11.92,0:00:12.35,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEY{\c&H00FFFFFF&\3c&H000A0D14&} ARE KIND,
+Dialogue: 0,0:00:12.35,0:00:12.77,ExplainerWordSub,,0,0,0,,THEY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ARE{\c&H00FFFFFF&\3c&H000A0D14&} KIND,
+Dialogue: 0,0:00:12.77,0:00:13.20,ExplainerWordSub,,0,0,0,,THEY ARE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}KIND,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:13.20,0:00:13.62,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ATTENTIVE,{\c&H00FFFFFF&\3c&H000A0D14&} AND CONSISTENTLY
+Dialogue: 0,0:00:13.62,0:00:14.05,ExplainerWordSub,,0,0,0,,ATTENTIVE, {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} CONSISTENTLY
+Dialogue: 0,0:00:14.05,0:00:14.47,ExplainerWordSub,,0,0,0,,ATTENTIVE, AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CONSISTENTLY{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:14.47,0:00:14.90,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PRESENT.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:15.28,0:00:15.62,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YET,{\c&H00FFFFFF&\3c&H000A0D14&} ALMOST INSTINCTIVELY,
+Dialogue: 0,0:00:15.62,0:00:15.97,ExplainerWordSub,,0,0,0,,YET, {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ALMOST{\c&H00FFFFFF&\3c&H000A0D14&} INSTINCTIVELY,
+Dialogue: 0,0:00:15.97,0:00:16.31,ExplainerWordSub,,0,0,0,,YET, ALMOST {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}INSTINCTIVELY,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:16.31,0:00:16.65,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} FEEL YOURSELF
+Dialogue: 0,0:00:16.65,0:00:16.99,ExplainerWordSub,,0,0,0,,YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&} YOURSELF
+Dialogue: 0,0:00:16.99,0:00:17.34,ExplainerWordSub,,0,0,0,,YOU FEEL {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOURSELF{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:17.34,0:00:17.68,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PULLING{\c&H00FFFFFF&\3c&H000A0D14&} AWAY.
+Dialogue: 0,0:00:17.68,0:00:18.02,ExplainerWordSub,,0,0,0,,PULLING {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AWAY.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:18.40,0:00:18.64,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEIR{\c&H00FFFFFF&\3c&H000A0D14&} MESSAGES START
+Dialogue: 0,0:00:18.64,0:00:18.89,ExplainerWordSub,,0,0,0,,THEIR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}MESSAGES{\c&H00FFFFFF&\3c&H000A0D14&} START
+Dialogue: 0,0:00:18.89,0:00:19.13,ExplainerWordSub,,0,0,0,,THEIR MESSAGES {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}START{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:19.13,0:00:19.37,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&} FEEL HEAVY.
+Dialogue: 0,0:00:19.37,0:00:19.62,ExplainerWordSub,,0,0,0,,TO {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&} HEAVY.
+Dialogue: 0,0:00:19.62,0:00:19.86,ExplainerWordSub,,0,0,0,,TO FEEL {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}HEAVY.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:20.24,0:00:20.67,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEIR{\c&H00FFFFFF&\3c&H000A0D14&} ENTHUSIASM FEELS
+Dialogue: 0,0:00:20.67,0:00:21.10,ExplainerWordSub,,0,0,0,,THEIR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ENTHUSIASM{\c&H00FFFFFF&\3c&H000A0D14&} FEELS
+Dialogue: 0,0:00:21.10,0:00:21.54,ExplainerWordSub,,0,0,0,,THEIR ENTHUSIASM {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FEELS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:21.54,0:00:21.97,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EXHAUSTING.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:22.35,0:00:22.59,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} WITHOUT EVEN
+Dialogue: 0,0:00:22.59,0:00:22.83,ExplainerWordSub,,0,0,0,,AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WITHOUT{\c&H00FFFFFF&\3c&H000A0D14&} EVEN
+Dialogue: 0,0:00:22.83,0:00:23.07,ExplainerWordSub,,0,0,0,,AND WITHOUT {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}EVEN{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:23.07,0:00:23.31,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}WANTING{\c&H00FFFFFF&\3c&H000A0D14&} TO, YOU
+Dialogue: 0,0:00:23.31,0:00:23.55,ExplainerWordSub,,0,0,0,,WANTING {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO,{\c&H00FFFFFF&\3c&H000A0D14&} YOU
+Dialogue: 0,0:00:23.55,0:00:23.78,ExplainerWordSub,,0,0,0,,WANTING TO, {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:23.78,0:00:24.02,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}BEGIN{\c&H00FFFFFF&\3c&H000A0D14&} TO TAKE
+Dialogue: 0,0:00:24.02,0:00:24.26,ExplainerWordSub,,0,0,0,,BEGIN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&} TAKE
+Dialogue: 0,0:00:24.26,0:00:24.50,ExplainerWordSub,,0,0,0,,BEGIN TO {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}TAKE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:24.50,0:00:24.74,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEM{\c&H00FFFFFF&\3c&H000A0D14&} FOR GRANTED.
+Dialogue: 0,0:00:24.74,0:00:24.98,ExplainerWordSub,,0,0,0,,THEM {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}FOR{\c&H00FFFFFF&\3c&H000A0D14&} GRANTED.
+Dialogue: 0,0:00:24.98,0:00:25.22,ExplainerWordSub,,0,0,0,,THEM FOR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}GRANTED.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:25.60,0:00:25.92,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}NOW,{\c&H00FFFFFF&\3c&H000A0D14&} CONSIDER THE
+Dialogue: 0,0:00:25.92,0:00:26.25,ExplainerWordSub,,0,0,0,,NOW, {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CONSIDER{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:26.25,0:00:26.57,ExplainerWordSub,,0,0,0,,NOW, CONSIDER {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:26.57,0:00:26.90,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}OPPOSITE{\c&H00FFFFFF&\3c&H000A0D14&} SCENARIO.
+Dialogue: 0,0:00:26.90,0:00:27.22,ExplainerWordSub,,0,0,0,,OPPOSITE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}SCENARIO.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:27.60,0:00:27.81,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THERE{\c&H00FFFFFF&\3c&H000A0D14&} IS ANOTHER
+Dialogue: 0,0:00:27.81,0:00:28.03,ExplainerWordSub,,0,0,0,,THERE {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&} ANOTHER
+Dialogue: 0,0:00:28.03,0:00:28.24,ExplainerWordSub,,0,0,0,,THERE IS {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ANOTHER{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:28.24,0:00:28.45,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PERSON{\c&H00FFFFFF&\3c&H000A0D14&} IN YOUR
+Dialogue: 0,0:00:28.45,0:00:28.66,ExplainerWordSub,,0,0,0,,PERSON {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} YOUR
+Dialogue: 0,0:00:28.66,0:00:28.88,ExplainerWordSub,,0,0,0,,PERSON IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}YOUR{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:28.88,0:00:29.09,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}LIFE.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:29.47,0:00:29.70,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEY{\c&H00FFFFFF&\3c&H000A0D14&} RARELY CHECK
+Dialogue: 0,0:00:29.70,0:00:29.93,ExplainerWordSub,,0,0,0,,THEY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}RARELY{\c&H00FFFFFF&\3c&H000A0D14&} CHECK
+Dialogue: 0,0:00:29.93,0:00:30.17,ExplainerWordSub,,0,0,0,,THEY RARELY {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}CHECK{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:30.17,0:00:30.40,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}THEIR{\c&H00FFFFFF&\3c&H000A0D14&} PHONE.
+Dialogue: 0,0:00:30.40,0:00:30.63,ExplainerWordSub,,0,0,0,,THEIR {\c&H0000D7FF&\3c&H000A0D14&\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}PHONE.{\c&H00FFFFFF&\3c&H000A0D14&}

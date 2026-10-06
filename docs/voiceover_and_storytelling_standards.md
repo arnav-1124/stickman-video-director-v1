@@ -54,29 +54,73 @@ With the Gemini TTS engine, each line can be shaped with targeted vocal directio
 
 ## 4. Acoustic Calibration & Subtitle Synchronization
 
-### 4.1 Acoustic Syllable Calibration
-Because Gemini TTS breathes, pauses, and inflects like a real human, mechanical word-spacing algorithms will fail if uncalibrated.
-- Audio energy profiles (RMS energy across 20ms–50ms sliding windows) must be evaluated to detect true vocal onsets.
-- Never rely on static sentence-duration averaging.
+### 4.1 The 0.380-Second Inter-Sentence Pause Law (User-Locked Standard)
+Natural storytelling pacing requires measured, intentional breathing space without dead silence:
+- **Locked Inter-Sentence Pause:** **0.380 seconds** (`PAUSE_DURATION = 0.380s`).
+- **Acoustic Pause-Center Visual Cut Law:**
+  - Visual transitions NEVER happen at the beginning or end of speech.
+  - Slide cuts switch at the exact acoustic midpoint of the 0.380s breath:
+    - `cut_start = speech_start - 0.190s`
+    - `cut_end = speech_end + 0.190s`
+  - **Effect:** The incoming visual frame is already established on screen 190ms before the narrator begins speaking, eliminating the perception of visual lag and creating instantaneous cognitive anticipation.
 
-### 4.2 The +70ms Perceptual Audio Sync Delay
-Human vision detects animated motion faster than the auditory cortex processes phonemes.
-- **Rule:** A `SYNC_DELAY = +0.07s` (70ms) offset is applied to all `.ass` subtitle highlight events.
-- **Effect:** The gold pop animation hits *precisely* on the spoken vowel peak, completely eliminating the distracting sensation of captions appearing "a few milliseconds faster" than the speaker's voice.
+### 4.2 Syllable Energy & Onset Profiling
+- Speech boundaries are extracted based on true RMS vocal energy profiles.
+- Never use simple word-count division over raw unsegmented audio.
 
-### 4.3 Linguistic Semantic Chunking (No Stranded Phrases)
-Subtitles must group words into complete semantic and grammatical units:
-- **Prohibited:** Splitting idiomatic phrases (e.g., `["slick", "joke", "at"]` followed by `["your", "expense"]`).
-- **Enforced:** Complete semantic phrases on screen together:
-  - `[A, SLICK, JOKE]` (Noun phrase)
-  - `[AT, YOUR, EXPENSE]` (Prepositional phrase)
-  - `[SOMETHING, LIKE,]` (Conversational bridge)
-  - `["WHAT'S, THE, JOKE?"]` (Dialogue punchline)
-- Each chunk remains on screen for **at least 550ms–700ms**, allowing effortless reading comprehension.
+### 4.3 Kinetic Subtitle Specifications (16:9 Landscape & 9:16 Portrait)
+Subtitles are formatted as SubStation Alpha (`.ass`) karaoke events:
+- **Font & Typography:** `Arial Black`, Size: `54pt` (for 1080p landscape).
+- **Colors:**
+  - Base Inactive Text: Pure White (`&H00FFFFFF&`)
+  - Active Word Highlight: Radiant Gold / Amber (`&H0000D7FF&`) with subtle pop bounce `\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)`.
+  - Outline: 5.5px deep ink black (`&H000A0D14&`).
+  - Shadow: 2.0px semi-transparent black (`&HA0000000&`).
+- **Positioning:**
+  - 16:9 Landscape: `Alignment: 2` (Bottom Center), `MarginV: 110` (lower third, above UI progress bars).
+  - 9:16 Vertical: `Alignment: 2` (Bottom Center), `MarginV: 400` (safe zone above Shorts interaction rail).
+- **Chunking:** 2 to 3 words per burst for rapid scanning and zero screen crowding.
+- **CRITICAL FFmpeg Pipeline Law (The Constant Frame Rate Rule):**
+  - When rendering subtitles over image sequences via FFmpeg concat demuxer, the video stream MUST pass through `fps=25` (or `fps=30`) BEFORE the `subtitles=` filter.
+  - *Example:* `[0:v]fps=25,scale=1920:1080,...[v_fps];[v_fps][logo]overlay=...[v_masked];[v_masked]subtitles=sub.ass[v_out]`
+  - Without `fps=25`, FFmpeg defaults to Variable Frame Rate (0.39 fps), causing `libass` to drop or fail to render subtitle animations.
 
 ---
 
-## 5. Audio Mastering & Loudness Standards
-- **Voiceover Track:** Normalized to **-14 LUFS** integrated loudness (compliant with YouTube mobile standards) with a true peak ceiling of `-1.0 dBFS`.
-- **BGM Bed:** Continuous lo-fi / dark ambient synth bed at `-22dB` to `-24dB`.
-- **Dynamic Sidechain Ducking:** BGM ducks automatically when speech is present (`attack=50ms`, `release=400ms`, `ratio=4:1`).
+## 5. Audio Mastering & Deep Masculine EQ Chain
+To achieve maximum masculine resonance, vocal presence, and broadcast polish, every voiceover track passes through the calibrated DSP chain:
+1. **Chest Resonance Boost:** `equalizer=f=115:width_type=o:w=1.2:g=4.2` (+4.2dB at 115Hz for authoritative vocal weight).
+2. **Body Warmth:** `equalizer=f=250:width_type=o:w=1.0:g=2.0` (+2.0dB at 250Hz for rich harmonic foundation).
+3. **Articulation & Presence:** `equalizer=f=3500:width_type=o:w=1.2:g=2.5` (+2.5dB at 3.5kHz for crisp vocal clarity).
+4. **Vocal Pressure Compand:** `compand=attacks=0.01:decays=0.08:points=-80/-80|-30/-14|-10/-5|0/-1:soft-knee=6` (tames peaks, thickens subtle whispers).
+5. **Broadcast Loudness:** `loudnorm=I=-11.9:TP=-1.0:LRA=6.0` (punchy, broadcast-standard loudness).
+6. **BGM Bed:** Continuous lo-fi / dark ambient synth bed at `volume=0.08` with ducking during speech.
+
+---
+
+## 6. Channel Branding & Watermark Replacement Standard
+- **Official Channel Name:** **Sticky in Dark**
+- **Channel Identity:** Dark psychological explainer cartoons exploring human nature, relationship dynamics, and cognitive traps.
+- **Watermark Masking:**
+  - 16:9 Landscape: Channel logo badge (`assets/branding/channel_logo.png`) scaled to `110x110` overlaid at `(1800, 960)` covering Google Imagen bottom-right watermark.
+  - 9:16 Vertical: Channel logo badge scaled to `150x150` overlaid at `(1348, 2560)`.
+
+---
+
+## 7. Long-Form Packaging & Publishing Standards (Day One Films Architecture)
+For all 16:9 long-form episodic animated short films, packaging strictly follows the minimalist, high-CTR template inspired by **Day One Films**:
+- **Title Signature Formula:** `[VISCERAL PAIN POINT / PROVOCATION] | An Animated Short Film (Chapter X)`
+  - Primary example: `YOU REPLIED INSTANTLY - Problem? | An Animated Short Film (Chapter 1)`
+  - Ultra-clean alternate: `YOU REPLIED INSTANTLY | An Animated Short Film (Chapter 1)`
+  - Emotional pain: `LEFT ON READ | An Animated Short Film (Chapter 1)`
+  - Behavioral core: `CHASING | An Animated Short Film (Chapter 1)`
+- **Thumbnail Layout:** 1920×1080 canvas, single atmospheric emotional scene (e.g. 2:00 AM dark room with phone screen glow). Centered hand-drawn bold typography with generous negative space (>80px margin) matching the title dilemma.
+- **Outro Hook & Teaser Structure:** Every film concludes with an Open Loop slide teasing the next chapter (e.g., Slide 37 teasing *Chapter 02: The Casino Effect*), with elevated subtitles (`OutroWordSub`, `MarginV=240`) avoiding CTA button collision and a 1.5s–2.0s silent visual hold with smooth BGM fadeout.
+
+---
+
+## 8. Standing Pacing & Version Preservation Policy
+1. **Natural Pacing Baseline:** Default to 100% natural, unhurried conversational cadence from the initial generation for all future chapters.
+2. **Strict Version Preservation:** Never overwrite or delete prior master renders; all versions (`V1_MASTER.mp4`, `V2_CALIBRATED.mp4`, `V3_WITH_OUTRO.mp4`) must be preserved in dedicated deliverable files.
+
+

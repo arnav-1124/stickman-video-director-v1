@@ -1,0 +1,3 @@
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_02_the_casino_effect/audio/google_tts/act1_ludo.wav'
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_02_the_casino_effect/audio/google_tts/act2_ludo.wav'
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_02_the_casino_effect/audio/google_tts/act3_ludo.wav'

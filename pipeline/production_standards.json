@@ -1,0 +1,79 @@
+{
+  "channel": {
+    "name": "Sticky in Dark",
+    "branding": {
+      "logo_path": "assets/branding/channel_logo.png",
+      "watermark_overlay_16_9": {
+        "width": 110,
+        "height": 110,
+        "x": 1800,
+        "y": 960
+      },
+      "watermark_overlay_9_16": {
+        "width": 150,
+        "height": 150,
+        "x": 1348,
+        "y": 2560
+      }
+    }
+  },
+  "audio_standards": {
+    "tts_engine": "google-gemini-tts",
+    "voice_name": "Ludo",
+    "inter_sentence_pause_seconds": 0.380,
+    "cut_transition_timing": "pause_center",
+    "cut_start_offset_seconds": -0.190,
+    "cut_end_offset_seconds": 0.190,
+    "eq_chain": [
+      { "frequency_hz": 115, "gain_db": 4.2, "q": 1.2, "desc": "Chest resonance / masculine vocal weight" },
+      { "frequency_hz": 250, "gain_db": 2.0, "q": 1.0, "desc": "Warmth and body foundation" },
+      { "frequency_hz": 3500, "gain_db": 2.5, "q": 1.2, "desc": "Crisp vocal articulation and clarity" }
+    ],
+    "compand_settings": "attacks=0.01:decays=0.08:points=-80/-80|-30/-14|-10/-5|0/-1:soft-knee=6",
+    "loudnorm_target": {
+      "integrated_lufs": -11.9,
+      "true_peak_dbfs": -1.0,
+      "lra": 6.0
+    },
+    "bgm_ducking": {
+      "volume": 0.08,
+      "fade_in_s": 1.5,
+      "fade_out_s": 2.5
+    }
+  },
+  "subtitle_standards": {
+    "format": "ass",
+    "font_name": "Arial Black",
+    "font_size_1080p": 54,
+    "primary_color_ass": "&H00FFFFFF&",
+    "highlight_color_ass": "&H0000D7FF&",
+    "outline_color_ass": "&H000A0D14&",
+    "shadow_color_ass": "&HA0000000&",
+    "outline_width": 5.5,
+    "shadow_distance": 2.0,
+    "alignment": 2,
+    "margin_v_16_9": 110,
+    "margin_v_9_16": 400,
+    "words_per_burst": 3,
+    "ffmpeg_render_law": "Input video stream MUST pass through fps=25 filter before subtitles filter to guarantee constant frame rate animation rendering"
+  },
+  "longform_standards": {
+    "title_template": "[PUNCHY STATEMENT / CORE PAIN POINT] | An Animated Short Film (Chapter X)",
+    "thumbnail_specs": {
+      "aspect_ratio": "16:9",
+      "resolution": "1920x1080",
+      "typography": "hand-drawn bold lettering, centered in negative space",
+      "margin_padding_px": 80,
+      "max_words": 4
+    },
+    "pacing_policy": "default to 100% natural, unhurried conversational cadence",
+    "outro_standards": {
+      "subtitle_style": "OutroWordSub",
+      "margin_v": 240,
+      "font_size": 46,
+      "visual_hold_seconds": 1.5,
+      "bgm_fade_out_seconds": 3.0
+    }
+  }
+}
+

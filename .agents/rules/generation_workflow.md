@@ -29,6 +29,8 @@ graph TD
    - The director/agent performs a rigorous audit checking narrative metaphor, mobile contrast, and style consistency.
    - **Zero Compromise Rule:** Never settle for a mediocre or slightly flawed visual. If none of the candidates achieve 100% narrative alignment and visual punch, discard and generate fresh variants until a truly perfect visual is found.
    - Once a candidate is approved, promote it to `slides/slide_XXX.jpg`, purge non-selected temp files, and advance.
-8. **Narrative Persona & Setting Standard:**
-   - Every script strictly enforces the *Elder Brother / Senior Classmate* relatable human voice, mandatory *Intro Question Hook* (4–7s for Shorts, 10–15s for Long-Form), and strictly bans the word `hallway` in favor of concrete world anchors (*college hall, classroom, library, friend's home, neighborhood*). See [.agents/rules/narrative_persona_and_hook_rule.md](file:///f:/Arnav%20-%20YT/stickman-video-director/.agents/rules/narrative_persona_and_hook_rule.md).
+8. **Narrative Persona, Hook & Mobile Packaging Standard:**
+   - Every script strictly enforces the *Elder Brother / Senior Classmate* relatable human voice, mandatory *1.5-Second Title Congruence & 0–3s Swipe Defense* (Frame 1 must visibly and audibly match the title premise; zero textbook openers), strictly bans cringe labels (`Alpha`, `Sigma`, `Dark Psychology`, `High Value`), and bans the word `hallway` in favor of concrete world anchors (*college hall, classroom, library, friend's home, neighborhood*). See [.agents/rules/narrative_persona_and_hook_rule.md](file:///f:/Arnav%20-%20YT/stickman-video-director/.agents/rules/narrative_persona_and_hook_rule.md) and [.agents/rules/60s_retention_script_rule.md](file:///f:/Arnav%20-%20YT/stickman-video-director/.agents/rules/60s_retention_script_rule.md).
+9. **Mobile-Safe Metadata Rule:**
+   - Titles strictly ≤ 42 characters total, exactly one `#shorts` hashtag, zero label stuffing, and mandatory author-pinned comment with related video link. See [.agents/skills/youtube-publisher/SKILL.md](file:///f:/Arnav%20-%20YT/stickman-video-director/.agents/skills/youtube-publisher/SKILL.md).
 

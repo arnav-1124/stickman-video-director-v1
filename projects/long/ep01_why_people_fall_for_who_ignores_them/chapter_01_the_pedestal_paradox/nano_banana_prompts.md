@@ -475,3 +475,16 @@ A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in t
 
 ---
 
+### Slide 037 (`slide_037.png`)
+- **Title / Action:** Chapter 02 Teaser & Subscribe Call-to-Action
+- **Duration:** `7.20s`
+- **Voiceover Phrase:** *"In Part 2, we uncover The Casino Effect — and how to protect your own value without becoming cold or toxic. Subscribe, and stay tuned for the next chapter."*
+- **Scene Type:** `teaser_card`
+- **Bound References:** `@char_01_sovereign.jpg`
+- **Flow AI Prompt (16:9 Widescreen):**
+```text
+A single edge-to-edge 16:9 widescreen hand-drawn 2D vector ink illustration in the minimalist Ink Explainer style, drawn on an off-white textured paper canvas (#FAF9F6). Bold wobbly organic black ink pen outlines (6px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism, zero CAD perspective. Widescreen 16:9 landscape aspect ratio (1920x1080). Using references @char_01_sovereign.jpg: Wide shot of an elegant minimalist concept card and chapter teaser. On the left side of the frame, CHAR_01_SOVEREIGN stands calm, grounded, and self-contained in his clean black sweater/hoodie, with hands casually tucked in pockets, posture relaxed and upright, gazing thoughtfully toward the center. In the center, a clean hand-drawn slate-blue rectangular banner (#2563EB) reading: 'CHAPTER 02: THE CASINO EFFECT'. Directly below it in neat handwritten black ink: 'Protecting Your Value Without Becoming Toxic'. At the bottom center, a subtle hand-drawn crimson red outline button (#FF3B30) reading: '[ SUBSCRIBE FOR PART 2 ]' with a tiny doodle bell icon. Generous quiet negative space on textured cream paper canvas.. Color Accent: Slate blue banner (#2563EB) and crimson red subscribe badge (#FF3B30).. Clean minimalist line art with generous negative space. STRICT NEGATIVE: Single full-frame 16:9 landscape image only. NO multiple panels, NO comic book strips, NO cards, NO split screens, NO black borders, NO frames, NO grid layouts, NO speech bubbles, NO elongated necks, NO stretched necks, NO giraffe necks, NO floating heads, NO floating bodies, NO solid black silhouettes, NO faceless shadow figures, NO realistic human skin, NO flesh tones, NO colored skin, NO anime faces, NO realistic faces, NO noses, NO lips, NO 3D rendering.
+```
+
+---
+

@@ -42,14 +42,38 @@ Never split shots purely at periods or commas. Spoken sentences often serve as r
    - **Maximum Duration Ceiling:** Informative and narrative shots should naturally sit in the 2.0s–5.5s window. Any shot approaching or exceeding 6.0s that contains multiple sentences/clauses is an immediate red flag for an unrepresented visual gap and MUST be decomposed so each beat gets its own frame.
    - **1:1 Idea-to-Visual Parity:** Every meaningful sentence in `script.txt` must map 1:1 to a distinct, dedicated visual beat in `storyboard.json`.
 
-## 3. Audio Mastering & Sound Bed
-* **Integrated Loudness:** Strictly normalized to **-11.9 LUFS** with compressed dynamic range (**LRA: 2.0 LU**).
-* **Continuous BGM Bed:** Lo-fi / dark ambient synth bed at `-22dB` to `-24dB` running non-stop.
-* **Diegetic Foley:** Real-world sound effects anchored to visual actions (footsteps, keys, locker slams, phone chimes, whispering).
+## 3. The 0.380s Inter-Sentence Pause Law & Pause-Center Cut Alignment
+* **Locked Inter-Sentence Pause:** Strictly **0.380 seconds** (`PAUSE = 0.380s`).
+* **Pause-Center Visual Cut Law:**
+  - Visual transitions NEVER happen abruptly on the first syllable or trailing breath of speech.
+  - Slide cuts switch at the exact acoustic center of the 0.380s breath:
+    - `cut_start = speech_start - 0.190s`
+    - `cut_end = speech_end + 0.190s`
+  - **Effect:** The slide is established 190ms before narration begins, giving zero visual lag and 100% viewer anticipation.
 
-## 4. Kinetic Subtitles (.ass)
-* SubStation Alpha karaoke subtitles generated from word timestamps.
-* Safe zone: `MarginV: 400` (Lower-third, clear of Shorts UI).
-* Active word: Gold highlight pop (`&H0000D7FF`) at 108% scale.
-* Inactive words: Crisp solid white (`&H00FFFFFF`) with 4.5px black outline.
+## 4. Audio Mastering & Deep Masculine EQ Chain
+* **Master Voice Profile:** Google Gemini TTS (`Ludo` voice, en-US).
+* **Deep Masculine EQ Chain:**
+  - 115Hz: `+4.2dB` (chest resonance / authoritative vocal weight, Q=1.2).
+  - 250Hz: `+2.0dB` (warmth & body, Q=1.0).
+  - 3.5kHz: `+2.5dB` (crisp articulation & presence, Q=1.2).
+* **Vocal Compand:** `attacks=0.01:decays=0.08:points=-80/-80|-30/-14|-10/-5|0/-1:soft-knee=6`
+* **Integrated Loudness:** Strictly normalized to **-11.9 LUFS** (`loudnorm=I=-11.9:TP=-1.0:LRA=6.0`).
+* **Continuous BGM Bed:** Lo-fi / dark ambient synth bed at `volume=0.08` ducked under speech.
+
+## 5. Kinetic Subtitles (.ass) Standard
+* **Typography:** `Arial Black`, Size: `54pt` (for 1080p landscape).
+* **Colors & Styling:**
+  - Active word: Radiant Gold highlight pop (`&H0000D7FF&`) with scale bounce `\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)`.
+  - Inactive words: Solid pure white (`&H00FFFFFF&`).
+  - Outline: 5.5px deep ink black (`&H000A0D14&`).
+  - Shadow: 2.0px semi-transparent black (`&HA0000000&`).
+* **Positioning:**
+  - 16:9 Landscape: `MarginV: 110` to `120` (lower third, clear of player seekbar).
+  - 9:16 Vertical: `MarginV: 400` (safe zone above Shorts UI).
+* **Burst Size:** 2–3 words per burst.
+* **CRITICAL FFmpeg Pipeline Law (The Constant Frame Rate Rule):**
+  - When rendering subtitles over concatenated still images in FFmpeg, the video stream MUST pass through `fps=25` (or `fps=30`) BEFORE the `subtitles=` filter.
+  - Variable frame rate (VFR) streams cause libass to drop frames or fail to render subtitle animations.
+
 

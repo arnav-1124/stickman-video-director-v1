@@ -80,10 +80,10 @@ def ingest_master_assets(project_dir, source_dir=None):
 
     print(f"\n[INGESTION_COMPLETE] Master assets ingested into: {target_dir}")
 
-def ingest_slides(project_dir, source_dir=None):
+def ingest_slides(project_dir, source_dir=None, dry_run=False, ext=None, delete_source=False, count=None):
     """
-    Ingests downloaded scene slides from Downloads folder, sorts them by creation time,
-    and cleanly places them into slides/slide_01.png, slide_02.png, etc.
+    Ingests downloaded scene slides from Downloads folder, sorts them cleanly,
+    and places them into slides/slide_01.jpg, slide_02.jpg, etc.
     """
     project_dir = Path(project_dir).resolve()
     if not source_dir:
@@ -92,38 +92,72 @@ def ingest_slides(project_dir, source_dir=None):
         source_dir = Path(source_dir).resolve()
 
     if not source_dir.exists():
-        print(f"Error: Source directory {source_dir} not found.")
+        print(f"[Error] Source directory {source_dir} not found.")
         return
 
-    exts = ['.png', '.jpg', '.jpeg', '.webp']
+    supported_exts = ['.png', '.jpg', '.jpeg', '.webp']
     target_dir = project_dir / "slides"
-    target_dir.mkdir(parents=True, exist_ok=True)
+    if not dry_run:
+        target_dir.mkdir(parents=True, exist_ok=True)
 
-    files = [f for f in source_dir.iterdir() if f.is_file() and f.suffix.lower() in exts]
-    files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+    # Detect existing slide extension in project if not specified
+    if not ext:
+        existing_slides = list(target_dir.glob("slide_01.*")) if target_dir.exists() else []
+        if existing_slides:
+            ext = existing_slides[0].suffix.lower()
+        else:
+            ext = ".jpg"  # Default project standard for long-form
+    if not ext.startswith('.'):
+        ext = '.' + ext
+
+    # Find matching files in source
+    files = [f for f in source_dir.iterdir() if f.is_file() and f.suffix.lower() in supported_exts]
+    
+    # Sort by creation time on Windows, fallback to mtime
+    def file_sort_key(p):
+        stat = p.stat()
+        return getattr(stat, 'st_ctime', stat.st_mtime)
+
+    files.sort(key=file_sort_key, reverse=True)
 
     storyboard_file = project_dir / "storyboard.json"
     num_cuts = 0
     if storyboard_file.exists():
-        with open(storyboard_file, 'r', encoding='utf-8') as f:
-            sb = json.load(f)
-        num_cuts = len(sb.get("cuts", []))
+        try:
+            with open(storyboard_file, 'r', encoding='utf-8') as f:
+                sb = json.load(f)
+            num_cuts = len(sb.get("cuts", []))
+        except Exception:
+            pass
 
-    if num_cuts > 0 and len(files) < num_cuts:
-        print(f"Warning: Found {len(files)} image files in {source_dir}, but episode expects {num_cuts} slide images.")
-    
-    count_to_take = num_cuts if (num_cuts > 0 and len(files) >= num_cuts) else len(files)
+    if count is not None:
+        count_to_take = count
+    elif num_cuts > 0 and len(files) >= num_cuts:
+        count_to_take = num_cuts
+    else:
+        count_to_take = len(files)
+
     selected = files[:count_to_take]
-    selected.reverse()  # Chronological order
+    selected.reverse()  # Chronological order: oldest downloaded first -> slide_01
 
-    print(f"\nIngesting {len(selected)} comic slide images into {target_dir}:")
+    prefix = "[DRY-RUN] " if dry_run else ""
+    print(f"\n{prefix}Ingesting {len(selected)} slide images into {target_dir} (target extension: {ext}):")
+    print(f"{'#':<4} {'Source File':<40} -> {'Target File':<20}")
+    print("-" * 68)
+
     for idx, src_file in enumerate(selected, start=1):
-        target_name = f"slide_{idx:02d}.png"
+        target_name = f"slide_{idx:02d}{ext}"
         target_path = target_dir / target_name
-        shutil.copy2(src_file, target_path)
-        print(f"  [{idx}/{len(selected)}] {src_file.name} -> {target_name}")
+        print(f"{idx:<4} {src_file.name[:38]:<40} -> {target_name:<20}")
+        if not dry_run:
+            shutil.copy2(src_file, target_path)
+            if delete_source:
+                src_file.unlink()
 
-    print(f"\n[INGESTION_COMPLETE] Ingested {len(selected)} slides into: {target_dir}")
+    if dry_run:
+        print(f"\n[DRY-RUN COMPLETE] Plan verified for {len(selected)} slides. Run without --dry-run to execute.")
+    else:
+        print(f"\n[INGESTION_COMPLETE] Ingested {len(selected)} slides into: {target_dir}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AI Comic Studio Pipeline Automator")
@@ -132,6 +166,10 @@ if __name__ == "__main__":
     parser.add_argument("--ingest-master-assets", action="store_true", help="Auto-ingest downloaded master references into master_assets/")
     parser.add_argument("--ingest-slides", action="store_true", help="Auto-ingest downloaded scene slides into slides/")
     parser.add_argument("--source-dir", default=None, help="Custom folder for ingestion (defaults to Downloads)")
+    parser.add_argument("--dry-run", action="store_true", help="Preview renaming without copying files")
+    parser.add_argument("--ext", default=None, help="Force target extension (.jpg, .png, .webp)")
+    parser.add_argument("--count", type=int, default=None, help="Number of newest images to ingest")
+    parser.add_argument("--delete-source", action="store_true", help="Delete source files after successful copy")
     args = parser.parse_args()
 
     if args.init_status or not (Path(args.project_dir) / "status.json").exists():
@@ -141,4 +179,11 @@ if __name__ == "__main__":
         ingest_master_assets(args.project_dir, args.source_dir)
 
     if args.ingest_slides:
-        ingest_slides(args.project_dir, args.source_dir)
+        ingest_slides(
+            args.project_dir,
+            source_dir=args.source_dir,
+            dry_run=args.dry_run,
+            ext=args.ext,
+            delete_source=args.delete_source,
+            count=args.count
+        )

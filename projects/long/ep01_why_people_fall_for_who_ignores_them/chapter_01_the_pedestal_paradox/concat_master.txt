@@ -1,0 +1,73 @@
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_03.jpg'
+duration 2.580
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_04.jpg'
+duration 2.217
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_05.jpg'
+duration 4.207
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_06.jpg'
+duration 2.382
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_07.jpg'
+duration 3.178
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_08.jpg'
+duration 3.049
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_09.jpg'
+duration 1.767
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_10.jpg'
+duration 1.764
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_11.jpg'
+duration 3.033
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_12.jpg'
+duration 1.616
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_13.jpg'
+duration 1.601
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_14.jpg'
+duration 1.436
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_15.jpg'
+duration 2.937
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_16.jpg'
+duration 1.653
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_17.jpg'
+duration 1.526
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_18.jpg'
+duration 5.507
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_19.jpg'
+duration 2.396
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_20.jpg'
+duration 1.106
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_21.jpg'
+duration 5.606
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_22.jpg'
+duration 7.850
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_02.jpg'
+duration 2.118
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_01.jpg'
+duration 8.351
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_23.jpg'
+duration 1.145
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_24.jpg'
+duration 4.971
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_25.jpg'
+duration 8.413
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_26.jpg'
+duration 3.901
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_27.jpg'
+duration 3.624
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_28.jpg'
+duration 2.772
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_29.jpg'
+duration 3.857
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_30.jpg'
+duration 6.804
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_31.jpg'
+duration 6.425
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_32.jpg'
+duration 4.009
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_33.jpg'
+duration 3.904
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_34.jpg'
+duration 5.868
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_35.jpg'
+duration 3.450
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_36.jpg'
+duration 3.792
+file 'F:/Arnav - YT/stickman-video-director/projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_01_the_pedestal_paradox/slides/slide_36.jpg'
