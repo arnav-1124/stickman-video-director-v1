@@ -61,7 +61,11 @@ def generate_tts(text: str, output_file: str, voice_name: str = "Ludo"):
         raise ValueError("GEMINI_API_KEY not found in environment or .env!")
 
     client = genai.Client(api_key=api_key)
-    model = "gemini-3.8-flash-tts"
+    candidate_models = [
+        "gemini-3.8-flash-tts",
+        "gemini-3.8-flash-lite-tts",
+        "gemini-3.1-flash-tts-preview"
+    ]
 
     contents = [
         types.Content(
@@ -82,22 +86,34 @@ def generate_tts(text: str, output_file: str, voice_name: str = "Ludo"):
         ),
     )
 
-    print(f"[Gemini TTS] Requesting voice '{voice_name}' from {model}...")
     audio_data = bytearray()
     mime_type = ""
-    for chunk in client.models.generate_content_stream(
-        model=model,
-        contents=contents,
-        config=config,
-    ):
-        if chunk.parts and chunk.parts[0].inline_data and chunk.parts[0].inline_data.data:
-            audio_data.extend(chunk.parts[0].inline_data.data)
-            mime_type = chunk.parts[0].inline_data.mime_type
-        elif chunk.text:
-            print(f"[Gemini TTS Text]: {chunk.text}")
+    last_err = None
+
+    for model in candidate_models:
+        print(f"[Gemini TTS] Attempting voice '{voice_name}' from {model}...")
+        audio_data = bytearray()
+        mime_type = ""
+        try:
+            for chunk in client.models.generate_content_stream(
+                model=model,
+                contents=contents,
+                config=config,
+            ):
+                if chunk.parts and chunk.parts[0].inline_data and chunk.parts[0].inline_data.data:
+                    audio_data.extend(chunk.parts[0].inline_data.data)
+                    mime_type = chunk.parts[0].inline_data.mime_type
+                elif chunk.text:
+                    print(f"[Gemini TTS Text]: {chunk.text}")
+            if audio_data:
+                print(f"[Gemini TTS] Successfully generated audio using {model}!")
+                break
+        except Exception as e:
+            print(f"[Gemini TTS] Model {model} failed: {e}. Trying fallback...")
+            last_err = e
 
     if not audio_data:
-        raise RuntimeError("No audio data received from Gemini TTS!")
+        raise RuntimeError(f"No audio data received from any Gemini TTS models! Last error: {last_err}")
 
     data_bytes = bytes(audio_data)
     if "wav" not in mime_type.lower():
