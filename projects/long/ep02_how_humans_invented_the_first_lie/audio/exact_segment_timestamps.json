@@ -1,0 +1,2738 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 4.84,
+    "text": "Right now, you probably tell between two to five lies every single day.",
+    "words": [
+      {
+        "word": "Right",
+        "start": 0.0,
+        "end": 0.24,
+        "probability": 0.795
+      },
+      {
+        "word": "now,",
+        "start": 0.24,
+        "end": 0.5,
+        "probability": 0.995
+      },
+      {
+        "word": "you",
+        "start": 0.74,
+        "end": 0.9,
+        "probability": 0.996
+      },
+      {
+        "word": "probably",
+        "start": 0.9,
+        "end": 1.16,
+        "probability": 0.95
+      },
+      {
+        "word": "tell",
+        "start": 1.16,
+        "end": 1.6,
+        "probability": 0.995
+      },
+      {
+        "word": "between",
+        "start": 1.6,
+        "end": 1.88,
+        "probability": 0.988
+      },
+      {
+        "word": "two",
+        "start": 1.88,
+        "end": 2.58,
+        "probability": 0.741
+      },
+      {
+        "word": "to",
+        "start": 2.58,
+        "end": 2.92,
+        "probability": 0.972
+      },
+      {
+        "word": "five",
+        "start": 2.92,
+        "end": 3.4,
+        "probability": 0.995
+      },
+      {
+        "word": "lies",
+        "start": 3.4,
+        "end": 3.82,
+        "probability": 0.826
+      },
+      {
+        "word": "every",
+        "start": 3.82,
+        "end": 4.26,
+        "probability": 0.966
+      },
+      {
+        "word": "single",
+        "start": 4.26,
+        "end": 4.58,
+        "probability": 0.96
+      },
+      {
+        "word": "day.",
+        "start": 4.58,
+        "end": 4.84,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 5.3,
+    "end": 8.54,
+    "text": "I'm five minutes away. Sorry, my phone died. No, you look great.",
+    "words": [
+      {
+        "word": "I'm",
+        "start": 5.3,
+        "end": 5.32,
+        "probability": 0.95
+      },
+      {
+        "word": "five",
+        "start": 5.32,
+        "end": 5.5,
+        "probability": 0.953
+      },
+      {
+        "word": "minutes",
+        "start": 5.5,
+        "end": 5.7,
+        "probability": 0.998
+      },
+      {
+        "word": "away.",
+        "start": 5.7,
+        "end": 5.96,
+        "probability": 0.998
+      },
+      {
+        "word": "Sorry,",
+        "start": 6.42,
+        "end": 6.72,
+        "probability": 0.95
+      },
+      {
+        "word": "my",
+        "start": 6.78,
+        "end": 6.94,
+        "probability": 0.994
+      },
+      {
+        "word": "phone",
+        "start": 6.94,
+        "end": 7.16,
+        "probability": 0.999
+      },
+      {
+        "word": "died.",
+        "start": 7.16,
+        "end": 7.34,
+        "probability": 0.999
+      },
+      {
+        "word": "No,",
+        "start": 7.82,
+        "end": 7.94,
+        "probability": 0.984
+      },
+      {
+        "word": "you",
+        "start": 8.12,
+        "end": 8.2,
+        "probability": 0.999
+      },
+      {
+        "word": "look",
+        "start": 8.2,
+        "end": 8.32,
+        "probability": 0.994
+      },
+      {
+        "word": "great.",
+        "start": 8.32,
+        "end": 8.54,
+        "probability": 0.998
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 8.96,
+    "end": 13.42,
+    "text": "It's so effortless, you don't even think about it. In fact, you might even be lying to yourself",
+    "words": [
+      {
+        "word": "It's",
+        "start": 8.96,
+        "end": 9.12,
+        "probability": 0.993
+      },
+      {
+        "word": "so",
+        "start": 9.12,
+        "end": 9.28,
+        "probability": 0.996
+      },
+      {
+        "word": "effortless,",
+        "start": 9.28,
+        "end": 9.86,
+        "probability": 0.995
+      },
+      {
+        "word": "you",
+        "start": 9.86,
+        "end": 10.06,
+        "probability": 0.99
+      },
+      {
+        "word": "don't",
+        "start": 10.06,
+        "end": 10.16,
+        "probability": 0.999
+      },
+      {
+        "word": "even",
+        "start": 10.16,
+        "end": 10.26,
+        "probability": 0.996
+      },
+      {
+        "word": "think",
+        "start": 10.26,
+        "end": 10.58,
+        "probability": 0.998
+      },
+      {
+        "word": "about",
+        "start": 10.58,
+        "end": 10.84,
+        "probability": 0.999
+      },
+      {
+        "word": "it.",
+        "start": 10.84,
+        "end": 11.02,
+        "probability": 0.996
+      },
+      {
+        "word": "In",
+        "start": 11.3,
+        "end": 11.44,
+        "probability": 0.994
+      },
+      {
+        "word": "fact,",
+        "start": 11.44,
+        "end": 11.58,
+        "probability": 1.0
+      },
+      {
+        "word": "you",
+        "start": 11.62,
+        "end": 11.92,
+        "probability": 0.999
+      },
+      {
+        "word": "might",
+        "start": 11.92,
+        "end": 12.12,
+        "probability": 0.998
+      },
+      {
+        "word": "even",
+        "start": 12.12,
+        "end": 12.46,
+        "probability": 0.988
+      },
+      {
+        "word": "be",
+        "start": 12.46,
+        "end": 12.62,
+        "probability": 0.998
+      },
+      {
+        "word": "lying",
+        "start": 12.62,
+        "end": 12.88,
+        "probability": 0.999
+      },
+      {
+        "word": "to",
+        "start": 12.88,
+        "end": 13.08,
+        "probability": 0.998
+      },
+      {
+        "word": "yourself",
+        "start": 13.08,
+        "end": 13.42,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 13.42,
+    "end": 19.96,
+    "text": "right now about why you opened YouTube. Now, imagine a world where lying is physically impossible,",
+    "words": [
+      {
+        "word": "right",
+        "start": 13.42,
+        "end": 13.82,
+        "probability": 0.994
+      },
+      {
+        "word": "now",
+        "start": 13.82,
+        "end": 14.2,
+        "probability": 0.999
+      },
+      {
+        "word": "about",
+        "start": 14.2,
+        "end": 14.56,
+        "probability": 0.985
+      },
+      {
+        "word": "why",
+        "start": 14.56,
+        "end": 14.96,
+        "probability": 0.997
+      },
+      {
+        "word": "you",
+        "start": 14.96,
+        "end": 15.14,
+        "probability": 0.999
+      },
+      {
+        "word": "opened",
+        "start": 15.14,
+        "end": 15.3,
+        "probability": 0.738
+      },
+      {
+        "word": "YouTube.",
+        "start": 15.3,
+        "end": 15.6,
+        "probability": 0.939
+      },
+      {
+        "word": "Now,",
+        "start": 16.3,
+        "end": 16.44,
+        "probability": 0.993
+      },
+      {
+        "word": "imagine",
+        "start": 16.72,
+        "end": 17.14,
+        "probability": 0.995
+      },
+      {
+        "word": "a",
+        "start": 17.14,
+        "end": 17.26,
+        "probability": 0.999
+      },
+      {
+        "word": "world",
+        "start": 17.26,
+        "end": 17.52,
+        "probability": 0.999
+      },
+      {
+        "word": "where",
+        "start": 17.52,
+        "end": 17.8,
+        "probability": 0.988
+      },
+      {
+        "word": "lying",
+        "start": 17.8,
+        "end": 18.12,
+        "probability": 0.994
+      },
+      {
+        "word": "is",
+        "start": 18.12,
+        "end": 18.64,
+        "probability": 0.998
+      },
+      {
+        "word": "physically",
+        "start": 18.64,
+        "end": 19.1,
+        "probability": 0.999
+      },
+      {
+        "word": "impossible,",
+        "start": 19.1,
+        "end": 19.96,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 20.5,
+    "end": 24.66,
+    "text": "where every sound that comes out of your mouth is an unedited broadcast of reality,",
+    "words": [
+      {
+        "word": "where",
+        "start": 20.5,
+        "end": 20.72,
+        "probability": 0.998
+      },
+      {
+        "word": "every",
+        "start": 20.72,
+        "end": 20.96,
+        "probability": 0.997
+      },
+      {
+        "word": "sound",
+        "start": 20.96,
+        "end": 21.4,
+        "probability": 0.999
+      },
+      {
+        "word": "that",
+        "start": 21.4,
+        "end": 21.56,
+        "probability": 0.998
+      },
+      {
+        "word": "comes",
+        "start": 21.56,
+        "end": 21.76,
+        "probability": 0.999
+      },
+      {
+        "word": "out",
+        "start": 21.76,
+        "end": 21.92,
+        "probability": 1.0
+      },
+      {
+        "word": "of",
+        "start": 21.92,
+        "end": 22.0,
+        "probability": 0.99
+      },
+      {
+        "word": "your",
+        "start": 22.0,
+        "end": 22.1,
+        "probability": 0.998
+      },
+      {
+        "word": "mouth",
+        "start": 22.1,
+        "end": 22.3,
+        "probability": 0.997
+      },
+      {
+        "word": "is",
+        "start": 22.3,
+        "end": 22.84,
+        "probability": 0.988
+      },
+      {
+        "word": "an",
+        "start": 22.84,
+        "end": 22.98,
+        "probability": 0.995
+      },
+      {
+        "word": "unedited",
+        "start": 22.98,
+        "end": 23.62,
+        "probability": 0.985
+      },
+      {
+        "word": "broadcast",
+        "start": 23.62,
+        "end": 23.98,
+        "probability": 0.997
+      },
+      {
+        "word": "of",
+        "start": 23.98,
+        "end": 24.48,
+        "probability": 0.999
+      },
+      {
+        "word": "reality,",
+        "start": 24.48,
+        "end": 24.66,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 24.66,
+    "end": 29.52,
+    "text": "because for 99% of evolution, that was the only world that existed.",
+    "words": [
+      {
+        "word": "because",
+        "start": 24.66,
+        "end": 25.5,
+        "probability": 0.132
+      },
+      {
+        "word": "for",
+        "start": 25.5,
+        "end": 25.8,
+        "probability": 0.791
+      },
+      {
+        "word": "99",
+        "start": 25.8,
+        "end": 26.16,
+        "probability": 0.979
+      },
+      {
+        "word": "%",
+        "start": 26.16,
+        "end": 26.78,
+        "probability": 0.93
+      },
+      {
+        "word": "of",
+        "start": 26.78,
+        "end": 26.96,
+        "probability": 0.985
+      },
+      {
+        "word": "evolution,",
+        "start": 26.96,
+        "end": 27.32,
+        "probability": 0.934
+      },
+      {
+        "word": "that",
+        "start": 27.86,
+        "end": 28.0,
+        "probability": 0.992
+      },
+      {
+        "word": "was",
+        "start": 28.0,
+        "end": 28.12,
+        "probability": 0.994
+      },
+      {
+        "word": "the",
+        "start": 28.12,
+        "end": 28.26,
+        "probability": 0.993
+      },
+      {
+        "word": "only",
+        "start": 28.26,
+        "end": 28.6,
+        "probability": 0.993
+      },
+      {
+        "word": "world",
+        "start": 28.6,
+        "end": 29.08,
+        "probability": 0.984
+      },
+      {
+        "word": "that",
+        "start": 29.08,
+        "end": 29.26,
+        "probability": 0.995
+      },
+      {
+        "word": "existed.",
+        "start": 29.26,
+        "end": 29.52,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 30.16,
+    "end": 34.04,
+    "text": "If a monkey shrieked, there was a leopard. If a bird called, there was a hawk.",
+    "words": [
+      {
+        "word": "If",
+        "start": 30.16,
+        "end": 30.2,
+        "probability": 0.993
+      },
+      {
+        "word": "a",
+        "start": 30.2,
+        "end": 30.3,
+        "probability": 0.997
+      },
+      {
+        "word": "monkey",
+        "start": 30.3,
+        "end": 30.52,
+        "probability": 0.997
+      },
+      {
+        "word": "shrieked,",
+        "start": 30.52,
+        "end": 31.08,
+        "probability": 0.989
+      },
+      {
+        "word": "there",
+        "start": 31.3,
+        "end": 31.5,
+        "probability": 0.989
+      },
+      {
+        "word": "was",
+        "start": 31.5,
+        "end": 31.6,
+        "probability": 0.996
+      },
+      {
+        "word": "a",
+        "start": 31.6,
+        "end": 31.7,
+        "probability": 0.995
+      },
+      {
+        "word": "leopard.",
+        "start": 31.7,
+        "end": 31.92,
+        "probability": 0.969
+      },
+      {
+        "word": "If",
+        "start": 32.38,
+        "end": 32.46,
+        "probability": 0.995
+      },
+      {
+        "word": "a",
+        "start": 32.46,
+        "end": 32.54,
+        "probability": 0.995
+      },
+      {
+        "word": "bird",
+        "start": 32.54,
+        "end": 32.7,
+        "probability": 0.999
+      },
+      {
+        "word": "called,",
+        "start": 32.7,
+        "end": 32.98,
+        "probability": 0.991
+      },
+      {
+        "word": "there",
+        "start": 33.48,
+        "end": 33.7,
+        "probability": 0.997
+      },
+      {
+        "word": "was",
+        "start": 33.7,
+        "end": 33.78,
+        "probability": 0.997
+      },
+      {
+        "word": "a",
+        "start": 33.78,
+        "end": 33.9,
+        "probability": 0.999
+      },
+      {
+        "word": "hawk.",
+        "start": 33.9,
+        "end": 34.04,
+        "probability": 0.984
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 34.56,
+    "end": 38.22,
+    "text": "Honesty wasn't a moral virtue. It was hardwired survival.",
+    "words": [
+      {
+        "word": "Honesty",
+        "start": 34.56,
+        "end": 34.9,
+        "probability": 0.938
+      },
+      {
+        "word": "wasn't",
+        "start": 34.9,
+        "end": 35.38,
+        "probability": 0.995
+      },
+      {
+        "word": "a",
+        "start": 35.38,
+        "end": 35.5,
+        "probability": 0.995
+      },
+      {
+        "word": "moral",
+        "start": 35.5,
+        "end": 35.82,
+        "probability": 0.998
+      },
+      {
+        "word": "virtue.",
+        "start": 35.82,
+        "end": 36.24,
+        "probability": 0.999
+      },
+      {
+        "word": "It",
+        "start": 36.74,
+        "end": 36.82,
+        "probability": 0.996
+      },
+      {
+        "word": "was",
+        "start": 36.82,
+        "end": 36.94,
+        "probability": 0.999
+      },
+      {
+        "word": "hardwired",
+        "start": 36.94,
+        "end": 37.6,
+        "probability": 0.66
+      },
+      {
+        "word": "survival.",
+        "start": 37.6,
+        "end": 38.22,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 38.88,
+    "end": 43.24,
+    "text": "Until about 200,000 years ago, somewhere on the East African Savannah,",
+    "words": [
+      {
+        "word": "Until",
+        "start": 38.88,
+        "end": 39.1,
+        "probability": 0.995
+      },
+      {
+        "word": "about",
+        "start": 39.1,
+        "end": 39.48,
+        "probability": 0.957
+      },
+      {
+        "word": "200",
+        "start": 39.48,
+        "end": 39.94,
+        "probability": 0.982
+      },
+      {
+        "word": ",000",
+        "start": 39.94,
+        "end": 40.66,
+        "probability": 0.984
+      },
+      {
+        "word": "years",
+        "start": 40.66,
+        "end": 40.78,
+        "probability": 0.998
+      },
+      {
+        "word": "ago,",
+        "start": 40.78,
+        "end": 41.12,
+        "probability": 0.996
+      },
+      {
+        "word": "somewhere",
+        "start": 41.42,
+        "end": 41.64,
+        "probability": 0.994
+      },
+      {
+        "word": "on",
+        "start": 41.64,
+        "end": 41.92,
+        "probability": 0.956
+      },
+      {
+        "word": "the",
+        "start": 41.92,
+        "end": 42.06,
+        "probability": 0.995
+      },
+      {
+        "word": "East",
+        "start": 42.06,
+        "end": 42.46,
+        "probability": 0.898
+      },
+      {
+        "word": "African",
+        "start": 42.46,
+        "end": 42.76,
+        "probability": 0.99
+      },
+      {
+        "word": "Savannah,",
+        "start": 42.76,
+        "end": 43.24,
+        "probability": 0.493
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 43.84,
+    "end": 47.82,
+    "text": "an ancient human named Grog did something that permanently broke reality.",
+    "words": [
+      {
+        "word": "an",
+        "start": 43.84,
+        "end": 43.9,
+        "probability": 0.993
+      },
+      {
+        "word": "ancient",
+        "start": 43.9,
+        "end": 44.26,
+        "probability": 0.999
+      },
+      {
+        "word": "human",
+        "start": 44.26,
+        "end": 44.6,
+        "probability": 0.996
+      },
+      {
+        "word": "named",
+        "start": 44.6,
+        "end": 45.1,
+        "probability": 0.99
+      },
+      {
+        "word": "Grog",
+        "start": 45.1,
+        "end": 45.56,
+        "probability": 0.79
+      },
+      {
+        "word": "did",
+        "start": 45.56,
+        "end": 46.04,
+        "probability": 0.926
+      },
+      {
+        "word": "something",
+        "start": 46.04,
+        "end": 46.28,
+        "probability": 0.999
+      },
+      {
+        "word": "that",
+        "start": 46.28,
+        "end": 46.56,
+        "probability": 0.995
+      },
+      {
+        "word": "permanently",
+        "start": 46.56,
+        "end": 47.0,
+        "probability": 0.996
+      },
+      {
+        "word": "broke",
+        "start": 47.0,
+        "end": 47.52,
+        "probability": 0.999
+      },
+      {
+        "word": "reality.",
+        "start": 47.52,
+        "end": 47.82,
+        "probability": 0.998
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 48.46,
+    "end": 52.52,
+    "text": "While foraging alone behind a rocky ridge, Grog found a wild beehive,",
+    "words": [
+      {
+        "word": "While",
+        "start": 48.46,
+        "end": 48.56,
+        "probability": 0.999
+      },
+      {
+        "word": "foraging",
+        "start": 48.56,
+        "end": 48.98,
+        "probability": 0.732
+      },
+      {
+        "word": "alone",
+        "start": 48.98,
+        "end": 49.24,
+        "probability": 0.944
+      },
+      {
+        "word": "behind",
+        "start": 49.24,
+        "end": 49.58,
+        "probability": 0.994
+      },
+      {
+        "word": "a",
+        "start": 49.58,
+        "end": 49.7,
+        "probability": 0.995
+      },
+      {
+        "word": "rocky",
+        "start": 49.7,
+        "end": 49.86,
+        "probability": 0.992
+      },
+      {
+        "word": "ridge,",
+        "start": 49.86,
+        "end": 50.28,
+        "probability": 0.99
+      },
+      {
+        "word": "Grog",
+        "start": 50.64,
+        "end": 50.9,
+        "probability": 0.998
+      },
+      {
+        "word": "found",
+        "start": 50.9,
+        "end": 51.2,
+        "probability": 0.998
+      },
+      {
+        "word": "a",
+        "start": 51.2,
+        "end": 51.48,
+        "probability": 0.995
+      },
+      {
+        "word": "wild",
+        "start": 51.48,
+        "end": 51.9,
+        "probability": 0.99
+      },
+      {
+        "word": "beehive,",
+        "start": 51.9,
+        "end": 52.52,
+        "probability": 0.975
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 52.52,
+    "end": 57.36,
+    "text": "overflowing with golden honey. Now, in a prehistoric tribe, the rule was unbreakable.",
+    "words": [
+      {
+        "word": "overflowing",
+        "start": 52.52,
+        "end": 53.44,
+        "probability": 0.004
+      },
+      {
+        "word": "with",
+        "start": 53.44,
+        "end": 53.88,
+        "probability": 0.994
+      },
+      {
+        "word": "golden",
+        "start": 53.88,
+        "end": 54.06,
+        "probability": 0.796
+      },
+      {
+        "word": "honey.",
+        "start": 54.06,
+        "end": 54.38,
+        "probability": 0.968
+      },
+      {
+        "word": "Now,",
+        "start": 54.8,
+        "end": 54.98,
+        "probability": 0.928
+      },
+      {
+        "word": "in",
+        "start": 55.0,
+        "end": 55.14,
+        "probability": 0.992
+      },
+      {
+        "word": "a",
+        "start": 55.14,
+        "end": 55.18,
+        "probability": 0.993
+      },
+      {
+        "word": "prehistoric",
+        "start": 55.18,
+        "end": 55.46,
+        "probability": 0.987
+      },
+      {
+        "word": "tribe,",
+        "start": 55.46,
+        "end": 55.86,
+        "probability": 0.996
+      },
+      {
+        "word": "the",
+        "start": 56.42,
+        "end": 56.48,
+        "probability": 0.995
+      },
+      {
+        "word": "rule",
+        "start": 56.48,
+        "end": 56.66,
+        "probability": 0.996
+      },
+      {
+        "word": "was",
+        "start": 56.66,
+        "end": 56.88,
+        "probability": 0.999
+      },
+      {
+        "word": "unbreakable.",
+        "start": 56.88,
+        "end": 57.36,
+        "probability": 0.99
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 57.76,
+    "end": 61.72,
+    "text": "Whatever you find, you bring back and share equally. Grog looked at the honey.",
+    "words": [
+      {
+        "word": "Whatever",
+        "start": 57.76,
+        "end": 57.92,
+        "probability": 0.972
+      },
+      {
+        "word": "you",
+        "start": 57.92,
+        "end": 58.28,
+        "probability": 0.999
+      },
+      {
+        "word": "find,",
+        "start": 58.28,
+        "end": 58.6,
+        "probability": 0.997
+      },
+      {
+        "word": "you",
+        "start": 58.84,
+        "end": 59.0,
+        "probability": 0.997
+      },
+      {
+        "word": "bring",
+        "start": 59.0,
+        "end": 59.18,
+        "probability": 0.996
+      },
+      {
+        "word": "back",
+        "start": 59.18,
+        "end": 59.54,
+        "probability": 0.998
+      },
+      {
+        "word": "and",
+        "start": 59.54,
+        "end": 59.8,
+        "probability": 0.989
+      },
+      {
+        "word": "share",
+        "start": 59.8,
+        "end": 60.06,
+        "probability": 0.998
+      },
+      {
+        "word": "equally.",
+        "start": 60.06,
+        "end": 60.34,
+        "probability": 0.191
+      },
+      {
+        "word": "Grog",
+        "start": 60.86,
+        "end": 61.12,
+        "probability": 0.499
+      },
+      {
+        "word": "looked",
+        "start": 61.12,
+        "end": 61.32,
+        "probability": 0.997
+      },
+      {
+        "word": "at",
+        "start": 61.32,
+        "end": 61.48,
+        "probability": 0.995
+      },
+      {
+        "word": "the",
+        "start": 61.48,
+        "end": 61.58,
+        "probability": 0.995
+      },
+      {
+        "word": "honey.",
+        "start": 61.58,
+        "end": 61.72,
+        "probability": 0.987
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 62.18,
+    "end": 66.7,
+    "text": "Then he looked back toward the cave, and his brain did something no living animal had ever done.",
+    "words": [
+      {
+        "word": "Then",
+        "start": 62.18,
+        "end": 62.32,
+        "probability": 0.991
+      },
+      {
+        "word": "he",
+        "start": 62.32,
+        "end": 62.46,
+        "probability": 0.73
+      },
+      {
+        "word": "looked",
+        "start": 62.46,
+        "end": 62.6,
+        "probability": 0.992
+      },
+      {
+        "word": "back",
+        "start": 62.6,
+        "end": 62.84,
+        "probability": 0.997
+      },
+      {
+        "word": "toward",
+        "start": 62.84,
+        "end": 63.08,
+        "probability": 0.92
+      },
+      {
+        "word": "the",
+        "start": 63.08,
+        "end": 63.22,
+        "probability": 0.997
+      },
+      {
+        "word": "cave,",
+        "start": 63.22,
+        "end": 63.38,
+        "probability": 0.998
+      },
+      {
+        "word": "and",
+        "start": 63.78,
+        "end": 63.88,
+        "probability": 0.995
+      },
+      {
+        "word": "his",
+        "start": 63.88,
+        "end": 63.98,
+        "probability": 0.986
+      },
+      {
+        "word": "brain",
+        "start": 63.98,
+        "end": 64.22,
+        "probability": 0.995
+      },
+      {
+        "word": "did",
+        "start": 64.22,
+        "end": 64.44,
+        "probability": 0.997
+      },
+      {
+        "word": "something",
+        "start": 64.44,
+        "end": 64.66,
+        "probability": 0.999
+      },
+      {
+        "word": "no",
+        "start": 64.66,
+        "end": 65.12,
+        "probability": 0.989
+      },
+      {
+        "word": "living",
+        "start": 65.12,
+        "end": 65.38,
+        "probability": 0.948
+      },
+      {
+        "word": "animal",
+        "start": 65.38,
+        "end": 65.76,
+        "probability": 0.999
+      },
+      {
+        "word": "had",
+        "start": 65.76,
+        "end": 66.12,
+        "probability": 0.983
+      },
+      {
+        "word": "ever",
+        "start": 66.12,
+        "end": 66.48,
+        "probability": 0.993
+      },
+      {
+        "word": "done.",
+        "start": 66.48,
+        "end": 66.7,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 67.1,
+    "end": 72.64,
+    "text": "It calculated the future. If he shared it with 30 hungry tribe members, he got one sticky mouthful.",
+    "words": [
+      {
+        "word": "It",
+        "start": 67.1,
+        "end": 67.2,
+        "probability": 0.968
+      },
+      {
+        "word": "calculated",
+        "start": 67.2,
+        "end": 67.64,
+        "probability": 0.989
+      },
+      {
+        "word": "the",
+        "start": 67.64,
+        "end": 68.26,
+        "probability": 0.995
+      },
+      {
+        "word": "future.",
+        "start": 68.26,
+        "end": 68.6,
+        "probability": 1.0
+      },
+      {
+        "word": "If",
+        "start": 69.04,
+        "end": 69.14,
+        "probability": 0.995
+      },
+      {
+        "word": "he",
+        "start": 69.14,
+        "end": 69.22,
+        "probability": 0.997
+      },
+      {
+        "word": "shared",
+        "start": 69.22,
+        "end": 69.44,
+        "probability": 0.988
+      },
+      {
+        "word": "it",
+        "start": 69.44,
+        "end": 69.6,
+        "probability": 0.993
+      },
+      {
+        "word": "with",
+        "start": 69.6,
+        "end": 69.7,
+        "probability": 0.999
+      },
+      {
+        "word": "30",
+        "start": 69.7,
+        "end": 70.06,
+        "probability": 0.93
+      },
+      {
+        "word": "hungry",
+        "start": 70.06,
+        "end": 70.36,
+        "probability": 0.972
+      },
+      {
+        "word": "tribe",
+        "start": 70.36,
+        "end": 70.62,
+        "probability": 0.997
+      },
+      {
+        "word": "members,",
+        "start": 70.62,
+        "end": 70.98,
+        "probability": 0.998
+      },
+      {
+        "word": "he",
+        "start": 71.34,
+        "end": 71.52,
+        "probability": 0.997
+      },
+      {
+        "word": "got",
+        "start": 71.52,
+        "end": 71.64,
+        "probability": 0.997
+      },
+      {
+        "word": "one",
+        "start": 71.64,
+        "end": 71.86,
+        "probability": 0.991
+      },
+      {
+        "word": "sticky",
+        "start": 71.86,
+        "end": 72.16,
+        "probability": 0.985
+      },
+      {
+        "word": "mouthful.",
+        "start": 72.16,
+        "end": 72.64,
+        "probability": 0.957
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 72.98,
+    "end": 77.32,
+    "text": "If he kept it secret, he feasted like a king for weeks. There was only one problem.",
+    "words": [
+      {
+        "word": "If",
+        "start": 72.98,
+        "end": 73.1,
+        "probability": 0.992
+      },
+      {
+        "word": "he",
+        "start": 73.1,
+        "end": 73.18,
+        "probability": 0.998
+      },
+      {
+        "word": "kept",
+        "start": 73.18,
+        "end": 73.28,
+        "probability": 0.998
+      },
+      {
+        "word": "it",
+        "start": 73.28,
+        "end": 73.42,
+        "probability": 0.658
+      },
+      {
+        "word": "secret,",
+        "start": 73.42,
+        "end": 73.7,
+        "probability": 0.894
+      },
+      {
+        "word": "he",
+        "start": 74.22,
+        "end": 74.32,
+        "probability": 0.982
+      },
+      {
+        "word": "feasted",
+        "start": 74.32,
+        "end": 74.6,
+        "probability": 0.983
+      },
+      {
+        "word": "like",
+        "start": 74.6,
+        "end": 74.78,
+        "probability": 0.976
+      },
+      {
+        "word": "a",
+        "start": 74.78,
+        "end": 74.88,
+        "probability": 0.995
+      },
+      {
+        "word": "king",
+        "start": 74.88,
+        "end": 75.12,
+        "probability": 0.915
+      },
+      {
+        "word": "for",
+        "start": 75.12,
+        "end": 75.44,
+        "probability": 0.998
+      },
+      {
+        "word": "weeks.",
+        "start": 75.44,
+        "end": 75.68,
+        "probability": 0.999
+      },
+      {
+        "word": "There",
+        "start": 76.16,
+        "end": 76.34,
+        "probability": 0.864
+      },
+      {
+        "word": "was",
+        "start": 76.34,
+        "end": 76.42,
+        "probability": 0.999
+      },
+      {
+        "word": "only",
+        "start": 76.42,
+        "end": 76.68,
+        "probability": 0.998
+      },
+      {
+        "word": "one",
+        "start": 76.68,
+        "end": 76.92,
+        "probability": 0.998
+      },
+      {
+        "word": "problem.",
+        "start": 76.92,
+        "end": 77.32,
+        "probability": 1.0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 77.78,
+    "end": 80.48,
+    "text": "How could he return to the cave with completely empty hands?",
+    "words": [
+      {
+        "word": "How",
+        "start": 77.78,
+        "end": 78.04,
+        "probability": 0.987
+      },
+      {
+        "word": "could",
+        "start": 78.04,
+        "end": 78.18,
+        "probability": 0.987
+      },
+      {
+        "word": "he",
+        "start": 78.18,
+        "end": 78.24,
+        "probability": 0.997
+      },
+      {
+        "word": "return",
+        "start": 78.24,
+        "end": 78.5,
+        "probability": 0.991
+      },
+      {
+        "word": "to",
+        "start": 78.5,
+        "end": 78.68,
+        "probability": 0.97
+      },
+      {
+        "word": "the",
+        "start": 78.68,
+        "end": 78.78,
+        "probability": 0.999
+      },
+      {
+        "word": "cave",
+        "start": 78.78,
+        "end": 79.0,
+        "probability": 0.996
+      },
+      {
+        "word": "with",
+        "start": 79.0,
+        "end": 79.32,
+        "probability": 0.98
+      },
+      {
+        "word": "completely",
+        "start": 79.32,
+        "end": 79.68,
+        "probability": 0.981
+      },
+      {
+        "word": "empty",
+        "start": 79.68,
+        "end": 80.1,
+        "probability": 0.999
+      },
+      {
+        "word": "hands?",
+        "start": 80.1,
+        "end": 80.48,
+        "probability": 1.0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 80.48,
+    "end": 84.96,
+    "text": "Until that second, words were only used to describe what was actually real.",
+    "words": [
+      {
+        "word": "Until",
+        "start": 80.48,
+        "end": 81.06,
+        "probability": 0.454
+      },
+      {
+        "word": "that",
+        "start": 81.06,
+        "end": 81.36,
+        "probability": 0.984
+      },
+      {
+        "word": "second,",
+        "start": 81.36,
+        "end": 81.68,
+        "probability": 0.983
+      },
+      {
+        "word": "words",
+        "start": 82.04,
+        "end": 82.26,
+        "probability": 0.864
+      },
+      {
+        "word": "were",
+        "start": 82.26,
+        "end": 82.52,
+        "probability": 0.993
+      },
+      {
+        "word": "only",
+        "start": 82.52,
+        "end": 82.8,
+        "probability": 0.878
+      },
+      {
+        "word": "used",
+        "start": 82.8,
+        "end": 83.06,
+        "probability": 0.993
+      },
+      {
+        "word": "to",
+        "start": 83.06,
+        "end": 83.22,
+        "probability": 0.998
+      },
+      {
+        "word": "describe",
+        "start": 83.22,
+        "end": 83.5,
+        "probability": 0.999
+      },
+      {
+        "word": "what",
+        "start": 83.5,
+        "end": 83.88,
+        "probability": 0.996
+      },
+      {
+        "word": "was",
+        "start": 83.88,
+        "end": 84.06,
+        "probability": 0.99
+      },
+      {
+        "word": "actually",
+        "start": 84.06,
+        "end": 84.56,
+        "probability": 0.976
+      },
+      {
+        "word": "real.",
+        "start": 84.56,
+        "end": 84.96,
+        "probability": 0.988
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 85.48,
+    "end": 88.18,
+    "text": "Grog decided to describe something that didn't exist.",
+    "words": [
+      {
+        "word": "Grog",
+        "start": 85.48,
+        "end": 85.72,
+        "probability": 0.781
+      },
+      {
+        "word": "decided",
+        "start": 85.72,
+        "end": 86.1,
+        "probability": 0.987
+      },
+      {
+        "word": "to",
+        "start": 86.1,
+        "end": 86.34,
+        "probability": 0.998
+      },
+      {
+        "word": "describe",
+        "start": 86.34,
+        "end": 86.6,
+        "probability": 0.997
+      },
+      {
+        "word": "something",
+        "start": 86.6,
+        "end": 87.08,
+        "probability": 0.997
+      },
+      {
+        "word": "that",
+        "start": 87.08,
+        "end": 87.44,
+        "probability": 0.993
+      },
+      {
+        "word": "didn't",
+        "start": 87.44,
+        "end": 87.88,
+        "probability": 0.995
+      },
+      {
+        "word": "exist.",
+        "start": 87.88,
+        "end": 88.18,
+        "probability": 0.998
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 88.7,
+    "end": 93.08,
+    "text": "When he walked into the firelit cave at sunset, the tribe leader demanded to know where he had been.",
+    "words": [
+      {
+        "word": "When",
+        "start": 88.7,
+        "end": 88.86,
+        "probability": 0.996
+      },
+      {
+        "word": "he",
+        "start": 88.86,
+        "end": 88.94,
+        "probability": 0.997
+      },
+      {
+        "word": "walked",
+        "start": 88.94,
+        "end": 89.14,
+        "probability": 0.999
+      },
+      {
+        "word": "into",
+        "start": 89.14,
+        "end": 89.32,
+        "probability": 0.971
+      },
+      {
+        "word": "the",
+        "start": 89.32,
+        "end": 89.46,
+        "probability": 0.993
+      },
+      {
+        "word": "firelit",
+        "start": 89.46,
+        "end": 89.84,
+        "probability": 0.544
+      },
+      {
+        "word": "cave",
+        "start": 89.84,
+        "end": 90.06,
+        "probability": 0.999
+      },
+      {
+        "word": "at",
+        "start": 90.06,
+        "end": 90.24,
+        "probability": 0.996
+      },
+      {
+        "word": "sunset,",
+        "start": 90.24,
+        "end": 90.4,
+        "probability": 0.502
+      },
+      {
+        "word": "the",
+        "start": 91.02,
+        "end": 91.08,
+        "probability": 0.975
+      },
+      {
+        "word": "tribe",
+        "start": 91.08,
+        "end": 91.26,
+        "probability": 0.932
+      },
+      {
+        "word": "leader",
+        "start": 91.26,
+        "end": 91.54,
+        "probability": 0.981
+      },
+      {
+        "word": "demanded",
+        "start": 91.54,
+        "end": 92.06,
+        "probability": 0.998
+      },
+      {
+        "word": "to",
+        "start": 92.06,
+        "end": 92.44,
+        "probability": 0.997
+      },
+      {
+        "word": "know",
+        "start": 92.44,
+        "end": 92.62,
+        "probability": 0.999
+      },
+      {
+        "word": "where",
+        "start": 92.62,
+        "end": 92.72,
+        "probability": 0.996
+      },
+      {
+        "word": "he",
+        "start": 92.72,
+        "end": 92.86,
+        "probability": 0.999
+      },
+      {
+        "word": "had",
+        "start": 92.86,
+        "end": 92.96,
+        "probability": 0.981
+      },
+      {
+        "word": "been.",
+        "start": 92.96,
+        "end": 93.08,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 93.52,
+    "end": 96.26,
+    "text": "Grog didn't panic. He looked the leader dead in the eye,",
+    "words": [
+      {
+        "word": "Grog",
+        "start": 93.52,
+        "end": 93.62,
+        "probability": 0.995
+      },
+      {
+        "word": "didn't",
+        "start": 93.62,
+        "end": 93.88,
+        "probability": 0.994
+      },
+      {
+        "word": "panic.",
+        "start": 93.88,
+        "end": 94.04,
+        "probability": 0.994
+      },
+      {
+        "word": "He",
+        "start": 94.6,
+        "end": 94.7,
+        "probability": 0.99
+      },
+      {
+        "word": "looked",
+        "start": 94.7,
+        "end": 94.9,
+        "probability": 0.992
+      },
+      {
+        "word": "the",
+        "start": 94.9,
+        "end": 95.1,
+        "probability": 0.991
+      },
+      {
+        "word": "leader",
+        "start": 95.1,
+        "end": 95.3,
+        "probability": 0.996
+      },
+      {
+        "word": "dead",
+        "start": 95.3,
+        "end": 95.7,
+        "probability": 0.953
+      },
+      {
+        "word": "in",
+        "start": 95.7,
+        "end": 95.88,
+        "probability": 0.994
+      },
+      {
+        "word": "the",
+        "start": 95.88,
+        "end": 95.98,
+        "probability": 0.994
+      },
+      {
+        "word": "eye,",
+        "start": 95.98,
+        "end": 96.26,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 96.64,
+    "end": 100.76,
+    "text": "clutched his chest in fake terror, and invented the very first lie.",
+    "words": [
+      {
+        "word": "clutched",
+        "start": 96.64,
+        "end": 97.02,
+        "probability": 0.99
+      },
+      {
+        "word": "his",
+        "start": 97.02,
+        "end": 97.2,
+        "probability": 0.996
+      },
+      {
+        "word": "chest",
+        "start": 97.2,
+        "end": 97.48,
+        "probability": 0.999
+      },
+      {
+        "word": "in",
+        "start": 97.48,
+        "end": 97.76,
+        "probability": 0.992
+      },
+      {
+        "word": "fake",
+        "start": 97.76,
+        "end": 98.02,
+        "probability": 0.992
+      },
+      {
+        "word": "terror,",
+        "start": 98.02,
+        "end": 98.4,
+        "probability": 1.0
+      },
+      {
+        "word": "and",
+        "start": 98.94,
+        "end": 99.04,
+        "probability": 0.999
+      },
+      {
+        "word": "invented",
+        "start": 99.04,
+        "end": 99.3,
+        "probability": 0.979
+      },
+      {
+        "word": "the",
+        "start": 99.3,
+        "end": 99.6,
+        "probability": 0.992
+      },
+      {
+        "word": "very",
+        "start": 99.6,
+        "end": 99.92,
+        "probability": 0.965
+      },
+      {
+        "word": "first",
+        "start": 99.92,
+        "end": 100.48,
+        "probability": 0.994
+      },
+      {
+        "word": "lie.",
+        "start": 100.48,
+        "end": 100.76,
+        "probability": 0.997
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 101.28,
+    "end": 105.58,
+    "text": "A pack of ferocious hyenas chased me off the ridge. The tribe gasked in horror.",
+    "words": [
+      {
+        "word": "A",
+        "start": 101.28,
+        "end": 101.38,
+        "probability": 0.931
+      },
+      {
+        "word": "pack",
+        "start": 101.38,
+        "end": 101.54,
+        "probability": 0.996
+      },
+      {
+        "word": "of",
+        "start": 101.54,
+        "end": 101.72,
+        "probability": 0.996
+      },
+      {
+        "word": "ferocious",
+        "start": 101.72,
+        "end": 102.0,
+        "probability": 0.99
+      },
+      {
+        "word": "hyenas",
+        "start": 102.0,
+        "end": 102.7,
+        "probability": 0.978
+      },
+      {
+        "word": "chased",
+        "start": 102.7,
+        "end": 102.96,
+        "probability": 0.904
+      },
+      {
+        "word": "me",
+        "start": 102.96,
+        "end": 103.24,
+        "probability": 0.996
+      },
+      {
+        "word": "off",
+        "start": 103.24,
+        "end": 103.38,
+        "probability": 0.995
+      },
+      {
+        "word": "the",
+        "start": 103.38,
+        "end": 103.52,
+        "probability": 0.993
+      },
+      {
+        "word": "ridge.",
+        "start": 103.52,
+        "end": 103.78,
+        "probability": 0.996
+      },
+      {
+        "word": "The",
+        "start": 104.34,
+        "end": 104.38,
+        "probability": 0.99
+      },
+      {
+        "word": "tribe",
+        "start": 104.38,
+        "end": 104.54,
+        "probability": 0.999
+      },
+      {
+        "word": "gasked",
+        "start": 104.54,
+        "end": 105.32,
+        "probability": 0.733
+      },
+      {
+        "word": "in",
+        "start": 105.32,
+        "end": 105.4,
+        "probability": 0.71
+      },
+      {
+        "word": "horror.",
+        "start": 105.4,
+        "end": 105.58,
+        "probability": 0.902
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 106.14,
+    "end": 108.46,
+    "text": "The leader padded Grog's shoulder, relieved he survived.",
+    "words": [
+      {
+        "word": "The",
+        "start": 106.14,
+        "end": 106.2,
+        "probability": 0.993
+      },
+      {
+        "word": "leader",
+        "start": 106.2,
+        "end": 106.42,
+        "probability": 0.999
+      },
+      {
+        "word": "padded",
+        "start": 106.42,
+        "end": 106.7,
+        "probability": 0.463
+      },
+      {
+        "word": "Grog's",
+        "start": 106.7,
+        "end": 107.14,
+        "probability": 0.983
+      },
+      {
+        "word": "shoulder,",
+        "start": 107.14,
+        "end": 107.4,
+        "probability": 0.994
+      },
+      {
+        "word": "relieved",
+        "start": 107.68,
+        "end": 107.84,
+        "probability": 0.998
+      },
+      {
+        "word": "he",
+        "start": 107.84,
+        "end": 108.2,
+        "probability": 0.971
+      },
+      {
+        "word": "survived.",
+        "start": 108.2,
+        "end": 108.46,
+        "probability": 0.968
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 108.46,
+    "end": 111.84,
+    "text": "Nobody questioned it, because nobody even knew what alive was.",
+    "words": [
+      {
+        "word": "Nobody",
+        "start": 108.46,
+        "end": 109.26,
+        "probability": 0.133
+      },
+      {
+        "word": "questioned",
+        "start": 109.26,
+        "end": 109.66,
+        "probability": 0.996
+      },
+      {
+        "word": "it,",
+        "start": 109.66,
+        "end": 109.86,
+        "probability": 0.974
+      },
+      {
+        "word": "because",
+        "start": 110.16,
+        "end": 110.36,
+        "probability": 0.982
+      },
+      {
+        "word": "nobody",
+        "start": 110.36,
+        "end": 110.54,
+        "probability": 0.992
+      },
+      {
+        "word": "even",
+        "start": 110.54,
+        "end": 110.78,
+        "probability": 0.971
+      },
+      {
+        "word": "knew",
+        "start": 110.78,
+        "end": 111.02,
+        "probability": 0.996
+      },
+      {
+        "word": "what",
+        "start": 111.02,
+        "end": 111.18,
+        "probability": 0.995
+      },
+      {
+        "word": "alive",
+        "start": 111.18,
+        "end": 111.42,
+        "probability": 0.823
+      },
+      {
+        "word": "was.",
+        "start": 111.42,
+        "end": 111.84,
+        "probability": 0.977
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 112.44,
+    "end": 115.3,
+    "text": "And in that single second, human history shifted forever.",
+    "words": [
+      {
+        "word": "And",
+        "start": 112.44,
+        "end": 112.56,
+        "probability": 0.953
+      },
+      {
+        "word": "in",
+        "start": 112.56,
+        "end": 112.62,
+        "probability": 0.966
+      },
+      {
+        "word": "that",
+        "start": 112.62,
+        "end": 112.74,
+        "probability": 0.987
+      },
+      {
+        "word": "single",
+        "start": 112.74,
+        "end": 112.94,
+        "probability": 0.962
+      },
+      {
+        "word": "second,",
+        "start": 112.94,
+        "end": 113.46,
+        "probability": 0.978
+      },
+      {
+        "word": "human",
+        "start": 113.86,
+        "end": 114.06,
+        "probability": 0.995
+      },
+      {
+        "word": "history",
+        "start": 114.06,
+        "end": 114.42,
+        "probability": 0.999
+      },
+      {
+        "word": "shifted",
+        "start": 114.42,
+        "end": 114.88,
+        "probability": 0.997
+      },
+      {
+        "word": "forever.",
+        "start": 114.88,
+        "end": 115.3,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 115.82,
+    "end": 119.46,
+    "text": "Without throwing a single punch, Grog controlled the entire tribe.",
+    "words": [
+      {
+        "word": "Without",
+        "start": 115.82,
+        "end": 115.98,
+        "probability": 0.98
+      },
+      {
+        "word": "throwing",
+        "start": 115.98,
+        "end": 116.28,
+        "probability": 0.998
+      },
+      {
+        "word": "a",
+        "start": 116.28,
+        "end": 116.46,
+        "probability": 0.998
+      },
+      {
+        "word": "single",
+        "start": 116.46,
+        "end": 116.7,
+        "probability": 0.997
+      },
+      {
+        "word": "punch,",
+        "start": 116.7,
+        "end": 117.02,
+        "probability": 0.998
+      },
+      {
+        "word": "Grog",
+        "start": 117.54,
+        "end": 117.82,
+        "probability": 0.841
+      },
+      {
+        "word": "controlled",
+        "start": 117.82,
+        "end": 118.28,
+        "probability": 0.986
+      },
+      {
+        "word": "the",
+        "start": 118.28,
+        "end": 118.72,
+        "probability": 0.996
+      },
+      {
+        "word": "entire",
+        "start": 118.72,
+        "end": 119.0,
+        "probability": 0.988
+      },
+      {
+        "word": "tribe.",
+        "start": 119.0,
+        "end": 119.46,
+        "probability": 0.982
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 119.98,
+    "end": 123.42,
+    "text": "Soon, deception started an unstoppable biological arms race.",
+    "words": [
+      {
+        "word": "Soon,",
+        "start": 119.98,
+        "end": 120.16,
+        "probability": 0.993
+      },
+      {
+        "word": "deception",
+        "start": 120.32,
+        "end": 120.62,
+        "probability": 0.829
+      },
+      {
+        "word": "started",
+        "start": 120.62,
+        "end": 121.08,
+        "probability": 0.999
+      },
+      {
+        "word": "an",
+        "start": 121.08,
+        "end": 121.36,
+        "probability": 0.975
+      },
+      {
+        "word": "unstoppable",
+        "start": 121.36,
+        "end": 121.98,
+        "probability": 0.989
+      },
+      {
+        "word": "biological",
+        "start": 121.98,
+        "end": 122.42,
+        "probability": 0.987
+      },
+      {
+        "word": "arms",
+        "start": 122.42,
+        "end": 123.14,
+        "probability": 0.984
+      },
+      {
+        "word": "race.",
+        "start": 123.14,
+        "end": 123.42,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 123.94,
+    "end": 126.26,
+    "text": "To survive, human brains had to evolve rapidly.",
+    "words": [
+      {
+        "word": "To",
+        "start": 123.94,
+        "end": 124.04,
+        "probability": 0.996
+      },
+      {
+        "word": "survive,",
+        "start": 124.04,
+        "end": 124.28,
+        "probability": 0.998
+      },
+      {
+        "word": "human",
+        "start": 124.64,
+        "end": 124.82,
+        "probability": 0.998
+      },
+      {
+        "word": "brains",
+        "start": 124.82,
+        "end": 125.22,
+        "probability": 0.998
+      },
+      {
+        "word": "had",
+        "start": 125.22,
+        "end": 125.44,
+        "probability": 0.995
+      },
+      {
+        "word": "to",
+        "start": 125.44,
+        "end": 125.62,
+        "probability": 0.999
+      },
+      {
+        "word": "evolve",
+        "start": 125.62,
+        "end": 125.86,
+        "probability": 0.999
+      },
+      {
+        "word": "rapidly.",
+        "start": 125.86,
+        "end": 126.26,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 126.92,
+    "end": 129.42,
+    "text": "Not to outsmart lions, but to outsmart each other.",
+    "words": [
+      {
+        "word": "Not",
+        "start": 126.92,
+        "end": 127.06,
+        "probability": 0.991
+      },
+      {
+        "word": "to",
+        "start": 127.06,
+        "end": 127.18,
+        "probability": 0.995
+      },
+      {
+        "word": "outsmart",
+        "start": 127.18,
+        "end": 127.48,
+        "probability": 0.995
+      },
+      {
+        "word": "lions,",
+        "start": 127.48,
+        "end": 127.78,
+        "probability": 0.962
+      },
+      {
+        "word": "but",
+        "start": 127.88,
+        "end": 128.48,
+        "probability": 0.999
+      },
+      {
+        "word": "to",
+        "start": 128.48,
+        "end": 128.66,
+        "probability": 0.997
+      },
+      {
+        "word": "outsmart",
+        "start": 128.66,
+        "end": 128.96,
+        "probability": 0.998
+      },
+      {
+        "word": "each",
+        "start": 128.96,
+        "end": 129.12,
+        "probability": 0.998
+      },
+      {
+        "word": "other.",
+        "start": 129.12,
+        "end": 129.42,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 129.84,
+    "end": 133.36,
+    "text": "Our frontal lobes ballooned in size just to detect who was making things up.",
+    "words": [
+      {
+        "word": "Our",
+        "start": 129.84,
+        "end": 129.92,
+        "probability": 0.785
+      },
+      {
+        "word": "frontal",
+        "start": 129.92,
+        "end": 130.1,
+        "probability": 0.986
+      },
+      {
+        "word": "lobes",
+        "start": 130.1,
+        "end": 130.48,
+        "probability": 0.98
+      },
+      {
+        "word": "ballooned",
+        "start": 130.48,
+        "end": 130.98,
+        "probability": 0.627
+      },
+      {
+        "word": "in",
+        "start": 130.98,
+        "end": 131.06,
+        "probability": 0.996
+      },
+      {
+        "word": "size",
+        "start": 131.06,
+        "end": 131.28,
+        "probability": 0.992
+      },
+      {
+        "word": "just",
+        "start": 131.28,
+        "end": 131.68,
+        "probability": 0.893
+      },
+      {
+        "word": "to",
+        "start": 131.68,
+        "end": 131.86,
+        "probability": 0.999
+      },
+      {
+        "word": "detect",
+        "start": 131.86,
+        "end": 132.2,
+        "probability": 0.999
+      },
+      {
+        "word": "who",
+        "start": 132.2,
+        "end": 132.44,
+        "probability": 0.997
+      },
+      {
+        "word": "was",
+        "start": 132.44,
+        "end": 132.6,
+        "probability": 0.981
+      },
+      {
+        "word": "making",
+        "start": 132.6,
+        "end": 132.82,
+        "probability": 0.999
+      },
+      {
+        "word": "things",
+        "start": 132.82,
+        "end": 133.12,
+        "probability": 0.998
+      },
+      {
+        "word": "up.",
+        "start": 133.12,
+        "end": 133.36,
+        "probability": 0.999
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 133.74,
+    "end": 136.84,
+    "text": "Which means the very reason you are smart enough to understand this video",
+    "words": [
+      {
+        "word": "Which",
+        "start": 133.74,
+        "end": 133.9,
+        "probability": 0.992
+      },
+      {
+        "word": "means",
+        "start": 133.9,
+        "end": 134.06,
+        "probability": 0.997
+      },
+      {
+        "word": "the",
+        "start": 134.06,
+        "end": 134.36,
+        "probability": 0.907
+      },
+      {
+        "word": "very",
+        "start": 134.36,
+        "end": 134.58,
+        "probability": 0.985
+      },
+      {
+        "word": "reason",
+        "start": 134.58,
+        "end": 134.92,
+        "probability": 0.996
+      },
+      {
+        "word": "you",
+        "start": 134.92,
+        "end": 135.18,
+        "probability": 0.986
+      },
+      {
+        "word": "are",
+        "start": 135.18,
+        "end": 135.32,
+        "probability": 0.952
+      },
+      {
+        "word": "smart",
+        "start": 135.32,
+        "end": 135.56,
+        "probability": 0.998
+      },
+      {
+        "word": "enough",
+        "start": 135.56,
+        "end": 135.78,
+        "probability": 0.999
+      },
+      {
+        "word": "to",
+        "start": 135.78,
+        "end": 136.02,
+        "probability": 0.998
+      },
+      {
+        "word": "understand",
+        "start": 136.02,
+        "end": 136.16,
+        "probability": 0.997
+      },
+      {
+        "word": "this",
+        "start": 136.16,
+        "end": 136.52,
+        "probability": 0.997
+      },
+      {
+        "word": "video",
+        "start": 136.52,
+        "end": 136.84,
+        "probability": 0.998
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 136.84,
+    "end": 139.48,
+    "text": "is because your ancestors were professional liars.",
+    "words": [
+      {
+        "word": "is",
+        "start": 136.84,
+        "end": 137.42,
+        "probability": 0.577
+      },
+      {
+        "word": "because",
+        "start": 137.42,
+        "end": 137.58,
+        "probability": 0.994
+      },
+      {
+        "word": "your",
+        "start": 137.58,
+        "end": 137.84,
+        "probability": 0.985
+      },
+      {
+        "word": "ancestors",
+        "start": 137.84,
+        "end": 138.22,
+        "probability": 0.989
+      },
+      {
+        "word": "were",
+        "start": 138.22,
+        "end": 138.64,
+        "probability": 0.996
+      },
+      {
+        "word": "professional",
+        "start": 138.64,
+        "end": 139.04,
+        "probability": 0.992
+      },
+      {
+        "word": "liars.",
+        "start": 139.04,
+        "end": 139.48,
+        "probability": 0.994
+      }
+    ]
+  }
+]
