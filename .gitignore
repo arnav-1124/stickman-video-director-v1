@@ -14,6 +14,9 @@ venv/
 temp/
 scratch/
 *.tmp
+remotion/node_modules/
+remotion/.remotion/
+remotion/out/
 
 # OS files
 Thumbs.db
@@ -43,3 +46,7 @@ productions/**/temp/
 # Junction aliases
 /productions/stickman
 /productions/whiteboard
+
+
+# Remotion
+node_modules/

@@ -18,7 +18,7 @@ def find_flow_tab():
             return t
     return None
 
-async def download_variants_for_slide(slide_num):
+async def download_variants_for_slide(slide_num, output_dir=None):
     tab = find_flow_tab()
     if not tab:
         print("ERROR: Flow project tab not found in Brave!")
@@ -27,7 +27,8 @@ async def download_variants_for_slide(slide_num):
     ws_url = tab.get("webSocketDebuggerUrl")
     print(f"Connecting to Flow tab: {ws_url}")
     
-    output_dir = "projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_04_the_magnetism_of_the_unoccupied_mind/slide_temp"
+    if output_dir is None:
+        output_dir = "projects/long/ep02_how_humans_invented_the_first_lie/slides/slide_temp"
     os.makedirs(output_dir, exist_ok=True)
     
     async with websockets.connect(ws_url, max_size=50_000_000) as ws:
@@ -36,7 +37,7 @@ async def download_variants_for_slide(slide_num):
         (async () => {
             // Find all tiles or images on the canvas
             // In Google Flow, generated tiles have img elements
-            const allImgs = Array.from(document.querySelectorAll('img[src*="flow.google.com/asb/"]'));
+            const allImgs = Array.from(document.querySelectorAll('img[src*="flow.google.com/asb/"], img[src*="flow-content.google"]'));
             
             // We want the most recent batch of 4 images
             // In Flow, the latest generation appears either at the top-left or top

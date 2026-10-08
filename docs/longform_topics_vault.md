@@ -105,7 +105,100 @@ A curated catalog of 20 high-retention, psychology-grounded topics designed spec
 * **Stickman Metaphor:** Female stickman paralyzed before a 10,000-option vending machine; average male shouting into an empty desert canyon; top 10% male juggling 20 glowing balls until they shatter.
 * **Key Beats:** Dating app algorithmic mechanics ➔ The illusion of the next best option ➔ Male loneliness vs. female exhaustion ➔ Moving offline.
 
-### 20. The 4 Horsemen: The Science of Why Couples Break Up
-* **Mechanism:** Dr. John Gottman’s 40-Year Research (93% predictive accuracy for divorce). The four communication toxins: Criticism, Defensiveness, Contempt, and Stonewalling.
-* **Stickman Metaphor:** Four shadow stickman monsters with capes invading a home, turning a minor sink dispute into a full emotional breakdown.
-* **Key Beats:** The Gottman Love Lab data ➔ Breaking down the 4 Horsemen ➔ Contempt as the #1 relationship killer ➔ The science-backed antidotes.
+108: ### 20. The 4 Horsemen: The Science of Why Couples Break Up
+109: * **Mechanism:** Dr. John Gottman’s 40-Year Research (93% predictive accuracy for divorce). The four communication toxins: Criticism, Defensiveness, Contempt, and Stonewalling.
+110: * **Stickman Metaphor:** Four shadow stickman monsters with capes invading a home, turning a minor sink dispute into a full emotional breakdown.
+111: * **Key Beats:** The Gottman Love Lab data ➔ Breaking down the 4 Horsemen ➔ Contempt as the #1 relationship killer ➔ The science-backed antidotes.
+112: 
+113: ---
+114: 
+115: ## Part 3: Ink Explainer Edition — Evolutionary Psychology & Mind Mysteries (Topics 21–32)
+116: 
+117: > **STYLE SPECIFICATION:** Replicating the authentic `@InkExplainer96` formula:
+118: > - **Thumbnail:** 16:9 widescreen, bold yellow 3D bulging comic font with blue/cyan shadow (`?`), expressive doodle stickman in animal skins/prehistoric/historical clothes in foreground, colorful cartoon background.
+119: > - **Pacing & Tone:** Lighthearted, witty, mind-expanding, humorous, highly educational. 2D doodle animations changing every 2.5s–4.0s.
+120: 
+121: ### 21. Why Ancient Humans Almost Never Suffered From Anxiety
+122: * **Thumbnail Text:** `ZERO ANXIETY?` (Bulging yellow 3D font)
+123: * **Thumbnail Visual:** Relaxed caveman stickman with messy hair lying lazily on a warm savanna rock with a blissful smirk and half-closed eyes, chewing grass under bright sun. Next to him, a modern stickman in a tie sits curled into a stressed ball with 15 red alarm clocks buzzing.
+124: * **Mechanism:** Immediate-Return vs. Delayed-Return Environments (James Woodburn / Stanford). Primal immediate survival actions vs. modern chronic delayed-return panic.
+125: * **Stickman Metaphor:** Caveman solves leopard threat in 30 seconds by climbing tree; modern stickman receives "Can we chat tomorrow?" email and stares at the ceiling all night.
+126: * **Key Beats:** Immediate vs delayed return environments ➔ The amygdala survival circuit ➔ Why stillness triggers guilt in modern brains ➔ The evolutionary reset.
+127: 
+128: ### 22. Why Getting Rejected Feels Like Being Physically Hurt
+129: * **Thumbnail Text:** `ACTUAL PAIN?`
+130: * **Thumbnail Visual:** Expressive stickman clutching chest with cartoon tears streaming from wide eyes looking at stone tablet/phone with cold "seen" tick. Medical X-ray shows his brain flashing the exact same red alert as a stickman with a broken bone.
+131: * **Mechanism:** Dorsal Anterior Cingulate Cortex (dACC) Activation (Dr. Naomi Eisenberger, UCLA). To ancestors, social exile meant predator death within 48 hours; nature repurposed physical pain receptors for social exclusion.
+132: * **Stickman Metaphor:** Doctor handing pills for a broken leg while another stickman asks for painkillers because his crush left him on read (and science proving Tylenol blunts social heartbreak).
+133: * **Key Beats:** The evolutionary survival penalty of exile ➔ fMRI brain scans of social rejection ➔ Why heartbreak feels visceral in the chest ➔ Overcoming the tribal fear.
+134: 
+135: ### 23. What Did Ancient Humans Actually Do When They Got Bored?
+136: * **Thumbnail Text:** `NEVER BORED?`
+137: * **Thumbnail Visual:** Caveman sitting peacefully by a campfire tossing tiny pebbles into a puddle for 4 hours with pure serene joy. Modern stickman's head smoking with rage because WiFi went down for 90 seconds.
+138: * **Mechanism:** Default Mode Network (DMN) & Dopamine Receptor Homeostasis (Dr. Anna Lembke). Constant hyper-stimulation degrades dopamine sensitivity; ancient low-stimulus life sparked storytelling, art, and invention.
+139: * **Stickman Metaphor:** Watching a beetle cross a stick like an IMAX movie vs modern stickman needing a podcast, iPad game, and YouTube simultaneously just to eat lunch.
+140: * **Key Beats:** The neurobiology of boredom ➔ Why stillness drove cave paintings and tools ➔ The modern sensory flooding crisis ➔ Reclaiming daydreaming.
+141: 
+142: ### 24. What Did Humans Actually Think About Before Words Existed?
+143: * **Thumbnail Text:** `NO WORDS?`
+144: * **Thumbnail Visual:** Caveman staring at a woolly mammoth with thought bubbles containing pure vivid doodles of mammoth burgers and flying spears (zero letters). Modern stickman has a giant tangled knot of shouting text in his skull.
+145: * **Mechanism:** Non-Symbolic Cognition & Linguistic Relativity (Sapir-Whorf). For 250,000 years, thought was pure motor simulation, visual spatial mapping, and emotional intuition.
+146: * **Stickman Metaphor:** Caveman planning complex hunt with two eyebrow raises and a grunt vs modern humans sending 40 text paragraphs and still miscommunicating.
+147: * **Key Beats:** The invention of the inner voice ➔ Thinking in images and physical sensations ➔ The neurological burden of grammar ➔ Quieting the verbal loop.
+148: 
+149: ### 25. Why Are Humans The Only Animal That Weeps From Emotion?
+150: * **Thumbnail Text:** `WHY CRY?`
+151: * **Thumbnail Visual:** Dramatic caveman stickman crying rivers of cartoon tears from giant comical eyes over a burnt fish. Lion, monkey, and owl surrounding him stare with deadpan, bewildered faces.
+152: * **Mechanism:** Vroman & Rottenberg Social Signaling Theory & Biochemical Excretion. Emotional tears contain 24% more protein and stress hormones (ACTH, leucine-enkephalin); acts as an un-fakeable tribal truce flag that triggers oxytocin.
+153: * **Stickman Metaphor:** Predator flexing claws to intimidate vs human stickman weaponizing tears to make the entire tribe comfort him and share extra food.
+154: * **Key Beats:** Reflex tears vs emotional tears ➔ The chemistry of relief ➔ The social truce flag ➔ Why bottling up tears is biologically harmful.
+155: 
+156: ### 26. Why Ancient Humans Slept Twice Every Night (The Biphasic Sleep Mystery)
+157: * **Thumbnail Text:** `TWO SLEEPS?`
+158: * **Thumbnail Visual:** Stickman waking up cheerfully at 1:30 AM in torch-lit hut, stretching with a big smile, chatting with a friend. Modern stickman staring in horror at alarm clock reading 2:00 AM screaming "I HAVE INSOMNIA!"
+159: * **Mechanism:** Biphasic Sleep Mechanics (Dr. A. Roger Ekirch). For millennia, humans had First Sleep (4h), woke for 1-2 hours of relaxed conversation, intimacy, or contemplation, then Second Sleep. Gas lighting and industrial factories forced artificial consolidated sleep.
+160: * **Stickman Metaphor:** Medieval cozy midnight break vs modern sleep anxiety panic loops.
+161: * **Key Beats:** Historical records of "First Sleep" ➔ Circadian biology ➔ How factories invented insomnia ➔ Practical lessons for modern sleep guilt.
+162: 
+163: ### 27. How Humans Accidentally Invented The First Lie ⭐ (ACTIVE: EPISODE 02)
+164: * **Thumbnail Text:** `FIRST LIE?` (Giant yellow 3D bulging font with red outline)
+165: * **Thumbnail Visual:** Sweating, comically guilty caveman holding half-eaten mammoth leg behind his back, casually whistling and pointing at an innocent cartoon wolf, while angry tribe chief glares at him.
+166: * **Mechanism:** The Machiavellian Intelligence Hypothesis (Byrne & Whiten) & Theory of Mind. The massive cognitive leap of realizing other people have separate minds with beliefs that can be manipulated.
+167: * **Stickman Metaphor:** Caveman screaming "BEAR!" so everyone flees and he eats all wild honey; evolutionary arms race of lie-detecting micro-expressions and poker faces.
+168: * **Key Beats:** Animal deception vs human intentional lying ➔ The birth of Theory of Mind ➔ The first primitive lie ➔ The brain expansion arms race ➔ Micro-expressions & modern psychology.
+169: 
+170: ### 28. What Did Ancient Humans Do For Pleasure?
+171: * **Thumbnail Text:** `STONE AGE JOY?`
+172: * **Thumbnail Visual:** Prehistoric party: cavemen drumming on hollow logs, stickman dancing with noodle limbs, another laughing wildly by the fire while fed wild berries.
+173: * **Mechanism:** Endorphin Synchrony & Dunbar's Social Bonding. Synchronized rhythm, firelight storytelling, mock wrestling, and primal tribal humor releasing natural opiates.
+174: * **Stickman Metaphor:** First stand-up comedian reenacting getting chased up a tree by a boar, tribe rolling on the ground laughing.
+175: * **Key Beats:** The primal brain's reward centers ➔ Synchronized group movement ➔ The birth of music and comedy ➔ Rediscovering tribal joy.
+176: 
+177: ### 29. Why Does Your Brain Go Blank During An Argument?
+178: * **Thumbnail Text:** `BRAIN FREEZE?`
+179: * **Thumbnail Visual:** Stickman frozen in solid block of blue cartoon ice with spinning spiral eyes. X-ray inside his head shows tiny brain worker frantically waving error sheet: "404: WITTY COMEBACK NOT FOUND".
+180: * **Mechanism:** The Amygdala Hijack & Prefrontal Cortex Blood Flow Divergence (Daniel Goleman). Social threat redirects oxygen/glucose to limbs, freezing verbal memory until 2 AM in the shower.
+181: * **Stickman Metaphor:** Stickman delivering devastating comeback to an empty shampoo bottle 8 hours too late.
+182: * **Key Beats:** Threat detection in arguments ➔ Vasoconstriction of verbal centers ➔ The 3:00 AM shower comeback phenomenon ➔ Tactical frame control.
+183: 
+184: ### 30. Why Does The Human Brain Crave What It Can't Have?
+185: * **Thumbnail Text:** `WANT IT MORE?`
+186: * **Thumbnail Visual:** Caveman ignoring mountain of free ripe bananas at his feet, risking life climbing 100-foot jagged cliff to reach one tiny shiny fruit.
+187: * **Mechanism:** Anticipatory Dopamine Kinetics (Robert Sapolsky) & Psychological Reactance. Dopamine spikes on anticipation and obstacles, not the final reward.
+188: * **Stickman Metaphor:** Free kitchen tap water taken for granted vs bottled water locked behind velvet ropes treated like liquid gold.
+189: * **Key Beats:** Skinner's variable rewards ➔ Why availability kills attraction ➔ The obstacle effect ➔ Overcoming artificial desire.
+190: 
+191: ### 31. Why Does Your Brain Think Everyone Is Staring At You?
+192: * **Thumbnail Text:** `BEING WATCHED?`
+193: * **Thumbnail Visual:** Paranoid stickman tiptoeing across clearing sweating with huge cartoon eyes darting around. Zoom out reveals bushes just contain two cute rabbits eating carrots.
+194: * **Mechanism:** Hyperactive Agency Detection Device (HADD - Justin Barrett) & Spotlight Bias. Evolutionary cost asymmetry: false alarms cost nothing, but missed predators meant death.
+195: * **Stickman Metaphor:** Caveman mistaking weird tree branch for snake vs modern person thinking the entire coffee shop noticed their spilled drop.
+196: * **Key Beats:** Evolutionary paranoia as survival insurance ➔ The cost of false negatives ➔ The Spotlight Effect data ➔ Deactivating the alarm.
+197: 
+198: ### 32. Why Did Evolution Make Falling In Love Feel Like Madness?
+199: * **Thumbnail Text:** `BRAIN SICK?`
+200: * **Thumbnail Visual:** Goofy stickman floating mid-air with pink spiral eyes, hugging a cactus with little angel wings. Rational friend facepalms in second-hand embarrassment.
+201: * **Mechanism:** Serotonin Depletion & Amygdala Deactivation (Dr. Helen Fisher). Brain scans of new lovers mirror severe OCD and suppress critical judgment circuits to enforce pair-bonding.
+202: * **Stickman Metaphor:** Dopamine and oxytocin tying up the logical prefrontal cortex and locking it in a storage closet.
+203: * **Key Beats:** The 3 chemical stages of attraction ➔ Serotonin drop and obsessive loop ➔ Temporary blindness to red flags ➔ Evolution's greatest trick.
+

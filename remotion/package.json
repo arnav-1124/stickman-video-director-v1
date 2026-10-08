@@ -1,0 +1,24 @@
+{
+  "name": "remotion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "dev": "remotion studio src/index.ts",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Chapter02 ../renders/long/ep01_why_people_fall_for_who_ignores_them/WHY_UNPREDICTABLE_PEOPLE_ARE_ADDICTIVE_Chapter_02_V4_REMOTION.mp4"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "^4.0.533",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.533",
+    "typescript": "^7.0.2",
+    "zod": "^4.6.5"
+  }
+}

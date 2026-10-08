@@ -5,8 +5,9 @@ import urllib.request
 import asyncio
 import websockets
 
-def get_prompt_for_slide(slide_num):
-    file_path = "projects/long/ep01_why_people_fall_for_who_ignores_them/chapter_04_the_magnetism_of_the_unoccupied_mind/quick_batch_copypaste.txt"
+def get_prompt_for_slide(slide_num, file_path=None):
+    if file_path is None:
+        file_path = "projects/long/ep02_how_humans_invented_the_first_lie/quick_batch_copypaste.txt"
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
     
