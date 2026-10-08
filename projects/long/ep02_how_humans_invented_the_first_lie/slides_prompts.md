@@ -13,12 +13,12 @@
 ## 🎬 Act 1: The Modern Hook
 
 ### Slide 01 | Duration: `2.44s` | 🎥 NARRATIVE SHOT
-- **Attachment:** `@env_04_modern_room_empty.jpg`, `@char_03_tribe_hunter_master.jpg` (as modern stickman template)
+- **Attachment:** `@env_05_modern_room_empty.jpg`, `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Opening hook establishing the modern world. Depicts the modern stickman casually lounging on a sofa scrolling his smartphone, grounding the relatable premise of daily white lies before contrasting with prehistoric evolution.
 - **Audio Cue:** *"Right now, you probably tell between two to five lies every single day."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: A clean modern living room (@env_04_modern_room_empty) with plain off-white walls, simple grey cartoon sofa, and small potted succulent on a wooden side table. Subject: A modern stickman with smooth circular white head, simple dark dot eyes, wearing a simple solid navy-blue t-shirt and black stick limbs, lounging comfortably on the sofa while tapping a sleek smartphone with a soft blue screen glow. Medium shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: A clean modern living room (@env_05_modern_room_empty.jpg) with plain off-white walls, simple grey cartoon sofa, and small potted succulent on a wooden side table. Subject: Modern stickman (@char_04_modern_stickman_master.jpg) with smooth circular white head, simple dark dot eyes, wearing a simple solid navy-blue t-shirt and black stick limbs, lounging comfortably on the sofa while tapping a sleek smartphone with a soft blue screen glow. Medium shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
@@ -35,34 +35,34 @@ Minimalist 2D hand-drawn graphic marker card on a solid plain off-white parchmen
 ---
 
 ### Slide 03 | Duration: `2.34s` | 🎥 NARRATIVE SHOT
-- **Attachment:** None (Bedroom Canvas)
+- **Attachment:** `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Humorous narrative visualization of the common white lie 'I'm five minutes away' — stickman sweating in panic while still tangled flat in bed under blankets typing frantically.
 - **Audio Cue:** *""I'm five minutes away.""*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Scene: A messy bedroom bed with tangled warm yellow blankets and a fluffy white pillow. Subject: The modern stickman is still lying flat in bed with messy bedhead hair, clutching a smartphone with both hands, sweating nervously with a giant cartoon sweat drop on his temple, typing an apology text. A small comic text bubble floats above: '5 MINS AWAY!'. Medium humorous shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Scene: A messy bedroom bed with tangled warm yellow blankets and a fluffy white pillow. Subject: The modern stickman (@char_04_modern_stickman_master.jpg) is still lying flat in bed with messy bedhead hair, clutching a smartphone with both hands, sweating nervously with a giant cartoon sweat drop on his temple, typing an apology text. A small comic text bubble floats above: '5 MINS AWAY!'. Medium humorous shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 ```
 
 ---
 
 ### Slide 04 | Duration: `2.44s` | 🎥 NARRATIVE SHOT
-- **Attachment:** None (Clean Off-White Canvas)
+- **Attachment:** `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Visual comedic punchline for 'Sorry, my phone died' — tight close-up of stickman's guilty smirk holding up a phone glowing with a 99% full battery.
 - **Audio Cue:** *""Sorry, my phone died.""*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Clean plain off-white background. Subject: Close-up on the modern stickman's white round head, flashing a guilty sideways grin with one arched eyebrow. In foreground, he holds up a smartphone turned towards the viewer, showing a bright green battery gauge clearly filled to 99%. Crisp humorous visual punchline, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Clean plain off-white background. Subject: Close-up on the modern stickman's white round head (@char_04_modern_stickman_master.jpg), flashing a guilty sideways grin with one arched eyebrow. In foreground, he holds up a smartphone turned towards the viewer, showing a bright green battery gauge clearly filled to 99%. Crisp humorous visual punchline, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 ```
 
 ---
 
 ### Slide 05 | Duration: `2.54s` | 🎥 NARRATIVE SHOT
-- **Attachment:** None (Modern Hallway Canvas)
+- **Attachment:** `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Social white lie contrast for 'No, you look great' — stickman flashing a frozen, strained thumbs-up to a friend proudly sporting an absurdly oversized neon puffy coat.
 - **Audio Cue:** *""No, you look great.""*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Simple modern interior hallway with light cream walls. Subject: On the left, a friend stickman wearing a ridiculously oversized neon pink and lime-green puffy puffer jacket with a proud confident smile. On the right, our protagonist stickman gives an awkward, frozen double thumbs-up with wide forced-smile eyes and tiny nervous sweat drops. Medium comedy 2-shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Simple modern interior hallway with light cream walls. Subject: On the left, a friend stickman wearing a ridiculously oversized neon pink and lime-green puffy puffer jacket with a proud confident smile. On the right, our protagonist modern stickman (@char_04_modern_stickman_master.jpg) gives an awkward, frozen double thumbs-up with wide forced-smile eyes and tiny nervous sweat drops. Medium comedy 2-shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
@@ -79,23 +79,23 @@ Minimalist 2D hand-drawn graphic marker card on a plain solid off-white backgrou
 ---
 
 ### Slide 07 | Duration: `2.44s` | 🎥 NARRATIVE SHOT
-- **Attachment:** None (Minimalist Sidewalk Canvas)
+- **Attachment:** `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Full-body kinetic stroll shot showing how subconscious lying has become — stickman walking down the sidewalk whistling casually with miniature cartoon angel and devil figures on his shoulders.
 - **Audio Cue:** *"It’s so effortless you don't even think about it."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Minimalist city sidewalk with simple line-art lamp post and light grey ground. Subject: Modern stickman walking smoothly to the right, hands tucked in jeans pockets, whistling with floating musical notes. Hovering over his left shoulder is a tiny white stickman angel with a halo; hovering over his right shoulder is a tiny red stickman devil with a pitchfork. Playful, brisk full-body stroll shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Minimalist city sidewalk with simple line-art lamp post and light grey ground. Subject: Modern stickman (@char_04_modern_stickman_master.jpg) walking smoothly to the right, hands tucked in jeans pockets, whistling with floating musical notes. Hovering over his left shoulder is a tiny white stickman angel with a halo; hovering over his right shoulder is a tiny red stickman devil with a pitchfork. Playful, brisk full-body stroll shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
 
 ### Slide 08 | Duration: `2.64s` | 🎥 NARRATIVE SHOT
-- **Attachment:** None (Cozy Dim Room Canvas)
+- **Attachment:** `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Breaking the fourth wall — close-up of protagonist leaning forward into the camera pointing a finger at the viewer with an amused, knowing smirk, questioning why they clicked YouTube.
 - **Audio Cue:** *"In fact, you might even be lying to yourself right now about why you opened YouTube."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Dim cozy room with subtle warm lamp glow in the background. Subject: Close-up front view of the modern stickman leaning forward toward the camera, staring directly into the viewer's eyes with a knowing, teasing smirk and one raised eyebrow, pointing his black stick finger straight at the camera screen. Breaking the fourth wall, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Dim cozy room with subtle warm lamp glow in the background. Subject: Close-up front view of the modern stickman (@char_04_modern_stickman_master.jpg) leaning forward toward the camera, staring directly into the viewer's eyes with a knowing, teasing smirk and one raised eyebrow, pointing his black stick finger straight at the camera screen. Breaking the fourth wall, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
@@ -628,34 +628,34 @@ Minimalist 2D hand-drawn graphic marker card on a plain solid off-white backgrou
 ---
 
 ### Slide 56 | Duration: `2.54s` | 🎥 NARRATIVE SHOT
-- **Attachment:** `@char_03_tribe_hunter_master.jpg`, `@env_04_modern_room_empty.jpg`
+- **Attachment:** `@env_05_modern_room_empty.jpg`, `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Full circle modern epiphany — modern stickman sitting on sofa with laptop, eyes wide with a giant cartoon lightbulb igniting over his head as he connects the dots.
 - **Audio Cue:** *"Which means the very reason you are smart enough to understand this video..."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The modern living room (@env_04_modern_room_empty). Subject: The modern stickman in navy-blue shirt sitting on the sofa with his laptop on his knees, his jaw dropping open in sudden hilarious enlightenment, a huge vibrant yellow lightbulb flashing on over his head with radiating comic rays. Full-circle epiphany, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The modern living room (@env_05_modern_room_empty.jpg). Subject: Modern stickman in navy-blue shirt (@char_04_modern_stickman_master.jpg) sitting on the sofa with his laptop on his knees, his jaw dropping open in sudden hilarious enlightenment, a huge vibrant yellow lightbulb flashing on over his head with radiating comic rays. Full-circle epiphany, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
 
 ### Slide 57 | Duration: `2.34s` | 🎥 NARRATIVE SHOT
-- **Attachment:** `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+- **Attachment:** `@char_01_grog_master.jpg`, `@char_04_modern_stickman_master.jpg`, `@env_03_cave_fire_empty.jpg`
 - **What is it for:** Ancestral genetic connection — split screen of caveman Grog and modern stickman connected across time by a glowing golden cartoon DNA helix.
 - **Audio Cue:** *"Which means the very reason you are smart enough to understand this video..."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Dynamic split screen divided by a vertical black ink line: Left side shows prehistoric Grog (@char_01_grog) by the amber campfire; right side shows modern stickman in his room. Connecting their heads across the center line is a glowing golden cartoon DNA helix thread. Evolutionary connection revealed, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Dynamic split screen divided by a vertical black ink line: Left side shows prehistoric Grog (@char_01_grog_master.jpg) by the amber campfire (@env_03_cave_fire_empty.jpg); right side shows modern stickman (@char_04_modern_stickman_master.jpg) in his room. Connecting their heads across the center line is a glowing golden cartoon DNA helix thread. Evolutionary connection revealed, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
 
 ### Slide 58 | Duration: `2.71s` | 🎥 NARRATIVE SHOT
-- **Attachment:** `@char_01_grog_master.jpg`, `@char_03_tribe_hunter_master.jpg`
+- **Attachment:** `@char_01_grog_master.jpg`, `@char_04_modern_stickman_master.jpg`
 - **What is it for:** Grand finale hero punchline card — Grog in caveman fur and modern stickman in blue t-shirt standing back-to-back, flashing identical cheeky winks and finger guns at the camera.
 - **Audio Cue:** *"Is because your ancestors were professional liars."*
 - **Prompt text for Flow AI:**
 ```text
-Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Solid warm cream background (#F4EEDD). Grand finale hero shot: Prehistoric Grog (@char_01_grog_master) in his wild fur tunic and the modern stickman in his blue t-shirt standing proudly back-to-back in the center. Both flash identical cheeky winks at the viewer with confident crooked smirks and simultaneous double finger-guns pointed at the camera. High-energy ultimate punchline card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
+Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Solid warm cream background (#F4EEDD). Grand finale hero shot: Prehistoric Grog (@char_01_grog_master.jpg) in his wild fur tunic and the modern stickman (@char_04_modern_stickman_master.jpg) in his blue t-shirt standing proudly back-to-back in the center. Both flash identical cheeky winks at the viewer with confident crooked smirks and simultaneous double finger-guns pointed at the camera. High-energy ultimate punchline card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 ```
 
 ---
