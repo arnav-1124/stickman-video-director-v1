@@ -6,348 +6,464 @@ Aesthetic: 2D Minimalist Hand-Drawn Comic Art (Clean Digital Ink & Cel-Shaded)
 
 --------------------------------------------------------------------------------
 SLIDE 01 (2.44s) | MEDIUM SHOT - MODERN INTERIOR
-AUDIO: Right now, you probably tell between two to five lies every single day.
+ATTACHMENT: `@env_04_modern_room_empty.jpg`, `@char_03_tribe_hunter_master.jpg` (as modern stickman template)
+WHAT IS IT FOR: Opening hook establishing the modern world. Depicts the modern stickman casually lounging on a sofa scrolling his smartphone, grounding the relatable premise of daily white lies before contrasting with prehistoric evolution.
+AUDIO CUE: "Right now, you probably tell between two to five lies every single day."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: A clean modern living room (@env_04_modern_room_empty) with plain off-white walls, simple grey cartoon sofa, and small potted succulent on a wooden side table. Subject: A modern stickman with smooth circular white head, simple dark dot eyes, wearing a simple solid navy-blue t-shirt and black stick limbs, lounging comfortably on the sofa while tapping a sleek smartphone with a soft blue screen glow. Medium shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 02 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Right now, you probably tell between two to five lies every single day.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Diverting typographic filler card ('2 TO 5 LIES A DAY') in Ink Explainer's signature hand-drawn marker style. Breaks up the living room shot so the sofa slide doesn't linger statically on screen.
+AUDIO CUE: "Right now, you probably tell between two to five lies every single day."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a solid plain off-white parchment background (#FAF9F6). Centered in bold, thick hand-drawn vector comic marker lettering in dark espresso brown (#2B1E16) with subtle red outline accents: '2 TO 5 LIES A DAY'. Clean graphic novel title card, crisp vector outlines, zero scene clutter, centered composition, 16:9 widescreen. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, illegible text, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 03 (2.34s) | HUMOROUS NARRATIVE SHOT
-AUDIO: "I'm five minutes away."
+ATTACHMENT: None (Bedroom Canvas)
+WHAT IS IT FOR: Humorous narrative visualization of the common white lie 'I'm five minutes away' — stickman sweating in panic while still tangled flat in bed under blankets typing frantically.
+AUDIO CUE: ""I'm five minutes away.""
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Scene: A messy bedroom bed with tangled warm yellow blankets and a fluffy white pillow. Subject: The modern stickman is still lying flat in bed with messy bedhead hair, clutching a smartphone with both hands, sweating nervously with a giant cartoon sweat drop on his temple, typing an apology text. A small comic text bubble floats above: '5 MINS AWAY!'. Medium humorous shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 04 (2.44s) | CLOSE-UP PHONE & SMIRK
-AUDIO: "Sorry, my phone died."
+ATTACHMENT: None (Clean Off-White Canvas)
+WHAT IS IT FOR: Visual comedic punchline for 'Sorry, my phone died' — tight close-up of stickman's guilty smirk holding up a phone glowing with a 99% full battery.
+AUDIO CUE: ""Sorry, my phone died.""
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Clean plain off-white background. Subject: Close-up on the modern stickman's white round head, flashing a guilty sideways grin with one arched eyebrow. In foreground, he holds up a smartphone turned towards the viewer, showing a bright green battery gauge clearly filled to 99%. Crisp humorous visual punchline, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 05 (2.54s) | MEDIUM 2-CHARACTER COMEDY SHOT
-AUDIO: "No, you look great."
+ATTACHMENT: None (Modern Hallway Canvas)
+WHAT IS IT FOR: Social white lie contrast for 'No, you look great' — stickman flashing a frozen, strained thumbs-up to a friend proudly sporting an absurdly oversized neon puffy coat.
+AUDIO CUE: ""No, you look great.""
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Simple modern interior hallway with light cream walls. Subject: On the left, a friend stickman wearing a ridiculously oversized neon pink and lime-green puffy puffer jacket with a proud confident smile. On the right, our protagonist stickman gives an awkward, frozen double thumbs-up with wide forced-smile eyes and tiny nervous sweat drops. Medium comedy 2-shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 06 (2.14s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: It’s so effortless you don't even think about it.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Diverting marker title card ('EFFORTLESS DECEPTION') to reset viewer visual attention between the conversational examples and the full-body stroll.
+AUDIO CUE: "It’s so effortless you don't even think about it."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown and black hand-drawn vector comic font with confident ink strokes: 'EFFORTLESS DECEPTION'. Subtle hand-drawn speed lines and tiny doodle stars around the lettering. Clean, high-impact interstitial title card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 07 (2.44s) | FULL BODY STROLL ACTION
-AUDIO: It’s so effortless you don't even think about it.
+ATTACHMENT: None (Minimalist Sidewalk Canvas)
+WHAT IS IT FOR: Full-body kinetic stroll shot showing how subconscious lying has become — stickman walking down the sidewalk whistling casually with miniature cartoon angel and devil figures on his shoulders.
+AUDIO CUE: "It’s so effortless you don't even think about it."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Minimalist city sidewalk with simple line-art lamp post and light grey ground. Subject: Modern stickman walking smoothly to the right, hands tucked in jeans pockets, whistling with floating musical notes. Hovering over his left shoulder is a tiny white stickman angel with a halo; hovering over his right shoulder is a tiny red stickman devil with a pitchfork. Playful, brisk full-body stroll shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 08 (2.64s) | BREAKING FOURTH WALL - DIRECT CAMERA LOOK
-AUDIO: In fact, you might even be lying to yourself right now about why you opened YouTube.
+ATTACHMENT: None (Cozy Dim Room Canvas)
+WHAT IS IT FOR: Breaking the fourth wall — close-up of protagonist leaning forward into the camera pointing a finger at the viewer with an amused, knowing smirk, questioning why they clicked YouTube.
+AUDIO CUE: "In fact, you might even be lying to yourself right now about why you opened YouTube."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Dim cozy room with subtle warm lamp glow in the background. Subject: Close-up front view of the modern stickman leaning forward toward the camera, staring directly into the viewer's eyes with a knowing, teasing smirk and one raised eyebrow, pointing his black stick finger straight at the camera screen. Breaking the fourth wall, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 09 (2.24s) | ISOLATED PROP DOODLE CARD (FILLER)
-AUDIO: In fact, you might even be lying to yourself right now about why you opened YouTube.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Isolated prop doodle card — hand-drawn red YouTube play button surrounded by cobwebbed textbooks and a 2:00 AM clock, driving home the relatable YouTube procrastination joke.
+AUDIO CUE: "In fact, you might even be lying to yourself right now about why you opened YouTube."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon doodle illustration centered on a solid plain off-white background (#FAF9F6). In the center, a bold red hand-drawn rectangular YouTube play button icon with clean black ink borders. Surrounding it are funny cartoon doodles: an open textbook labeled 'STUDY' covered in cobwebs, and a melting wall clock showing 2:00 AM. Clean high-contrast visual joke card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 10 (2.34s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Now imagine a world where lying is physically impossible.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Pivotal conceptual marker card ('IMAGINE: ZERO LIES') serving as the dramatic bridge from modern life into prehistoric evolution.
+AUDIO CUE: "Now imagine a world where lying is physically impossible."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, thick hand-drawn black ink block letters with deep red accent under-shading: 'IMAGINE: ZERO LIES'. Clean, bold, punchy graphic interstitial card, high contrast, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 11 (2.54s) | CINEMATIC TRANSITION WIDE SHOT
-AUDIO: Now imagine a world where lying is physically impossible.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Cinematic panoramic establishing shot of the vast East African golden savanna under clear cyan skies, introducing the untouched ancient world where deception was physically impossible.
+AUDIO CUE: "Now imagine a world where lying is physically impossible."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The breathtaking East African golden savanna (@env_01_savanna_day_empty). Wide open golden-tan dry grass plains, iconic green acacia tree silhouetted on the left, distant purple-brown mountain ridge under a clear cyan sky with soft white doodle clouds. Pure pristine nature, cinematic wide establishing landscape, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 12 (2.44s) | MEDIUM SAVANNA ACTION SHOT
-AUDIO: Where every sound that comes out of your mouth is an unedited broadcast of reality.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Action shot visualizing an 'unedited broadcast of reality' — prehistoric hunter shouting a warning call with visible acoustic rings directly matching the wild animals behind him.
+AUDIO CUE: "Where every sound that comes out of your mouth is an unedited broadcast of reality."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Golden savanna daylight (@env_01_savanna_day_empty). Subject: A prehistoric stickman hunter wearing an animal skin tunic, cupping his hands around his mouth and shouting a call, with clean black concentric sound wave rings radiating outward into the savanna air. Honest, grounded tribal survival atmosphere, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 13 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Where every sound that comes out of your mouth is an unedited broadcast of reality.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Diverting marker card ('UNEDITED REALITY') with hand-drawn audio waveforms, preventing the hunter scene from lingering statically.
+AUDIO CUE: "Where every sound that comes out of your mouth is an unedited broadcast of reality."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown and crimson hand-drawn brush lettering: 'UNEDITED REALITY'. Below the text is a simple clean hand-drawn audio waveform graphic drawn with solid black vector lines. Clean high-contrast title card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 14 (2.34s) | HAND-DRAWN STONE WALL / TALLY CARD (FILLER)
-AUDIO: Because for ninety-nine percent of evolution... that was the only world that existed.
+ATTACHMENT: None (Limestone Texture Canvas)
+WHAT IS IT FOR: Tactile historic filler card inspired by Roman and prehistoric graffiti — carved stone wall with primitive tally marks ('99% OF EVOLUTION'), illustrating the immense timescale before lies existed.
+AUDIO CUE: "Because for ninety-nine percent of evolution... that was the only world that existed."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon style, textured pale limestone block wall with crisp black ink outlines. Carved into the stone bricks are dozens of primitive hand-drawn tally marks (groups of four vertical slashes with a diagonal strike through them). In the center brick, bold hand-carved Roman/prehistoric style lettering reads: '99% OF EVOLUTION'. Ancient, tactile historic feel, inspired by Roman graffiti walls, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 15 (2.54s) | WIDE TRIBE STROLL SHOT
-AUDIO: Because for ninety-nine percent of evolution... that was the only world that existed.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`, `@char_03_tribe_hunter_master.jpg`
+WHAT IS IT FOR: Tribal group stroll shot showing five ancient stickmen walking in peaceful single-file harmony across the savanna, demonstrating unconditional primitive trust.
+AUDIO CUE: "Because for ninety-nine percent of evolution... that was the only world that existed."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The golden East African savanna (@env_01_savanna_day_empty). Subject: A small tribe of five prehistoric stickman figures in earth-brown fur tunics carrying wooden foraging baskets and flint spears, walking in a relaxed single file line across the yellow grass plain, completely synchronized and peaceful. Wide panorama, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 16 (2.44s) | MEDIUM ACTION ANIMAL SHOT
-AUDIO: If a monkey shrieked, there was a leopard.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Dynamic animal action beat — cartoon monkey in an acacia tree shrieking in panic, pointing down at a spotted leopard creeping through the dry grass.
+AUDIO CUE: "If a monkey shrieked, there was a leopard."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Savanna day (@env_01_savanna_day_empty) with cartoon acacia branches. Subject: A stylized 2D brown doodle monkey on a branch screaming with wide open mouth and vibrating sound lines, pointing frantically down; below in the golden grass, a sleek yellow cartoon leopard with black rosettes creeps forward with glowing predatory eyes. Dynamic action beat, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 17 (2.34s) | LOW ANGLE SKY PREDATOR SHOT
-AUDIO: If a bird called, there was a hawk.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Low-angle aerial predator shot — tiny bird chirping urgently on a branch as a sharp cartoon hawk silhouette swoops menacingly across the cyan sky.
+AUDIO CUE: "If a bird called, there was a hawk."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Bright cyan daytime sky with soft white doodle clouds. Subject: In foreground corner, a tiny 2D songbird chirps urgently with exclamation marks from a thorny branch. Sweeping across the open sky above is the sharp black-and-brown silhouette of a cartoon hawk swooping with dramatic motion lines. Low-angle dynamic cut, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 18 (2.14s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Honesty wasn't a moral virtue. It was hardwired survival.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Diverting philosophical marker card ('HARDWIRED SURVIVAL') cutting away from animal scenes to emphasize that honesty was biological wiring, not morals.
+AUDIO CUE: "Honesty wasn't a moral virtue. It was hardwired survival."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, heavy hand-drawn black ink lettering highlighted with warm burnt-orange accents: 'HARDWIRED SURVIVAL'. Clean, assertive graphic title card, high visual contrast, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 19 (2.44s) | GRAPHIC BIOLOGY SCHEMATIC
-AUDIO: Honesty wasn't a moral virtue. It was hardwired survival.
+ATTACHMENT: None (Clean Off-White Canvas)
+WHAT IS IT FOR: Graphic biological diagram showing an eye wired directly to an open mouth via a thick unbroken black cable stamped 'INPUT = OUTPUT' with a green checkmark.
+AUDIO CUE: "Honesty wasn't a moral virtue. It was hardwired survival."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Solid off-white background. Visual diagram: On the left, a large cartoon open eye looking at reality; on the right, an open stickman mouth; connected between them is a thick, solid black direct electrical cable with zero switches. Stamped across the center is a bright green checkmark badge with bold comic text: 'INPUT = OUTPUT'. Clean educational diagram, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 20 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Until about two hundred thousand years ago, somewhere on the East African savanna.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Historic chapter marker card ('200,000 YEARS AGO') featuring a minimalist hand-drawn East Africa map doodle, initiating the historical narrative of Grog.
+AUDIO CUE: "Until about two hundred thousand years ago, somewhere on the East African savanna."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown rustic marker lettering: '200,000 YEARS AGO'. Below the text is a simple minimalist hand-drawn black ink contour map doodle of the African continent with a bright orange star pin in East Africa. Clean historical marker slide, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 21 (2.54s) | WIDE ESTABLISHING LANDSCAPE
-AUDIO: Until about two hundred thousand years ago, somewhere on the East African savanna.
+ATTACHMENT: `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Wide establishing shot of the rugged limestone ridge and ancient baobab tree where Grog's fateful foraging journey takes place.
+AUDIO CUE: "Until about two hundred thousand years ago, somewhere on the East African savanna."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The rugged rocky savanna ridge (@env_02_savanna_ridge_empty). Massive baobab tree in the midground with thick textured trunk, limestone boulder outcrop on the right, golden dry grass, bright clear cyan sky with subtle doodle clouds. Wide establishing shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 22 (2.44s) | CHARACTER INTRO MEDIUM SHOT
-AUDIO: An ancient human named Grog did something that permanently broke reality.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Protagonist hero introduction — medium shot of Grog climbing over limestone boulders carrying his flint spear, looking curious and alert.
+AUDIO CUE: "An ancient human named Grog did something that permanently broke reality."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The rocky savanna ridge (@env_02_savanna_ridge_empty). Subject: Grog (@char_01_grog_master), a prehistoric stickman with circular white head, spiky messy brown hair, wearing a brown animal fur tunic with bone toggle and belt. He holds a wooden spear in one hand while stepping onto a smooth boulder, looking ahead with curious, intelligent black dot eyes. Medium character hero shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 23 (2.34s) | EXTREME CLOSE-UP REACTION
-AUDIO: An ancient human named Grog did something that permanently broke reality.
+ATTACHMENT: `@char_01_grog_master.jpg`
+WHAT IS IT FOR: High-impact comic reaction cut — extreme close-up of Grog's eyes widening in shock and pupils shrinking as he spots the beehive.
+AUDIO CUE: "An ancient human named Grog did something that permanently broke reality."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Warm golden-tan background. Subject: Extreme close-up on Grog's circular white stickman head. His black dot eyes suddenly expand wide with shock, tiny exclamation rays burst around his head, and his mouth drops open in sheer stunned disbelief. High-impact reaction beat, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 24 (2.54s) | OVER-THE-SHOULDER DISCOVERY SHOT
-AUDIO: While foraging alone behind a rocky ridge, Grog found a wild beehive overflowing with golden honey.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_02_savanna_ridge_empty.jpg`, `@prop_01_wild_honeycomb.jpg`
+WHAT IS IT FOR: Over-the-shoulder discovery shot looking past Grog's fur shoulder into the baobab tree hollow at the massive dripping wild honeycomb.
+AUDIO CUE: "While foraging alone behind a rocky ridge, Grog found a wild beehive overflowing with golden honey."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Rocky savanna ridge (@env_02_savanna_ridge_empty). Composition: Over-the-shoulder shot from behind Grog's spiky brown hair and fur shoulder. In front of him, nestled in the sheltered hollow of the ancient baobab tree trunk, is a huge wild beehive dripping with glistening golden-amber honey (@prop_01_wild_honeycomb). A couple of tiny cute cartoon bees buzz peacefully around it. Atmospheric discovery shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 25 (2.34s) | ISOLATED PROP CARD (FILLER)
-AUDIO: While foraging alone behind a rocky ridge, Grog found a wild beehive overflowing with golden honey.
+ATTACHMENT: `@prop_01_wild_honeycomb.jpg`
+WHAT IS IT FOR: Isolated prop beauty card — pristine dripping wild honeycomb on clean off-white parchment, cutting away from the ridge to highlight the irresistible treasure.
+AUDIO CUE: "While foraging alone behind a rocky ridge, Grog found a wild beehive overflowing with golden honey."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon doodle illustration centered on a plain solid off-white background (#FAF9F6). A large organic wild honeycomb (@prop_01_wild_honeycomb) with bold black ink outlines (6px stroke weight), filled with glowing amber-gold honey (#FFB703), with thick rich honey droplets slowly oozing from the bottom. Pure isolated prop card, zero clutter, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 26 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Now, in a prehistoric tribe, the rule was unbreakable:
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Dramatic tribal law title card ('RULE #1: UNBREAKABLE') with red underline, establishing the ancient imperative of universal sharing.
+AUDIO CUE: "Now, in a prehistoric tribe, the rule was unbreakable:"
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, authoritative hand-drawn black ink lettering: 'RULE #1: UNBREAKABLE' with a thick crimson brush stroke underneath. High-contrast dramatic rule card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 27 (2.54s) | FLASHBACK COUNCIL SCENE
-AUDIO: Whatever you find, you bring back and share equally.
+ATTACHMENT: `@char_02_tribe_elder_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Flashback council scene inside the hearth cave — Tribe Elder meticulously dividing gathered berries and meat evenly into clay bowls by the fire.
+AUDIO CUE: "Whatever you find, you bring back and share equally."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Cozy prehistoric cave interior with central campfire (@env_03_cave_fire_empty). Subject: The wise Tribe Elder (@char_02_tribe_elder_master) with grey beard sitting cross-legged by the hearth fire, carefully dividing gathered fruits and meat into perfectly equal small wooden bowls for his tribe. Clean egalitarian sharing ritual, medium shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 28 (2.44s) | WARM TRIBE SHARING VIGNETTE
-AUDIO: Whatever you find, you bring back and share equally.
+ATTACHMENT: `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Warm community trust vignette — prehistoric hunter gently handing a ripe berry to a smiling stickman toddler by the campfire.
+AUDIO CUE: "Whatever you find, you bring back and share equally."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Warm amber cave shadows (@env_03_cave_fire_empty). Subject: A prehistoric stickman hunter smiling warmly, gently kneeling down to place a bright red wild berry into the tiny hands of a smiling prehistoric stickman child. Wholesome community trust, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 29 (2.44s) | TEMPTATION CLOSE-UP
-AUDIO: Grog looked at the honey.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Temptation close-up — Grog licking his lips with a greedy comic twinkle in his eye, staring hungrily at the dripping honey.
+AUDIO CUE: "Grog looked at the honey."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Savanna ridge sunlight (@env_02_savanna_ridge_empty). Subject: Close-up of Grog (@char_01_grog) leaning forward toward the wild honeycomb, his pink tongue poking out eagerly licking his upper lip, a bright cartoon twinkle star flashing in his pupil. Temptation in his eyes, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 30 (2.34s) | REVERSE ANGLE GLANCE
-AUDIO: Then he looked back toward the cave.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Reverse angle moral dilemma shot — Grog turns his head completely around over his shoulder looking across the savanna toward the distant dark cave silhouette.
+AUDIO CUE: "Then he looked back toward the cave."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Looking from the ridge back across the wide golden savanna (@env_01_savanna_day_empty). Subject: Grog standing in foreground, his head turned completely around over his shoulder, staring intently into the distance where a dark rocky hill with the cave entrance is visible on the far horizon. Dramatic dilemma pause, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 31 (2.34s) | ISOLATED PROP CARD (FILLER)
-AUDIO: And his brain did something no living animal had ever done:
+ATTACHMENT: `@prop_03_brain_gears.jpg`
+WHAT IS IT FOR: Isolated conceptual prop card — cutaway of stickman skull with interlocking glowing orange spinning gears, symbolizing the birth of strategic foresight.
+AUDIO CUE: "And his brain did something no living animal had ever done:"
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon doodle illustration centered on a solid plain off-white background (#FAF9F6). Visual: A simplified 2D profile silhouette of a stickman head with a transparent cutaway showing two bright glowing orange and yellow mechanical gear cogs turning smoothly inside (@prop_03_brain_gears). Small comic lightning sparks and yellow calculation rays bursting out. Pure isolated conceptual icon, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 32 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: It calculated the future.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Hand-drawn marker title card ('CALCULATING THE FUTURE') with an energetic yellow lightbulb doodle, capturing the cognitive breakthrough.
+AUDIO CUE: "It calculated the future."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown hand-drawn block lettering: 'CALCULATING THE FUTURE'. Above the text is a vibrant hand-drawn yellow cartoon lightbulb with black ink filament glowing with radiating energy lines. Dynamic intellectual awakening card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 33 (2.64s) | SPLIT IMAGINATION SHOT A (SHARING)
-AUDIO: If he shared it with thirty hungry tribe members, he got one sticky mouthful.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Comic mental projection A (Sharing) — Grog surrounded by thirty greedy hands grabbing at the honey, leaving him with only one microscopic drop on his finger.
+AUDIO CUE: "If he shared it with thirty hungry tribe members, he got one sticky mouthful."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Scalloped fluffy white comic thought bubble against a light-grey backdrop. Inside: Grog looking disappointed and deflated in the center, as dozens of hungry black stickman hands reach in from all sides grabbing every scrap of honeycomb, leaving Grog looking sadly at one microscopic drop of honey on his fingertip. Humorous tragic vision, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 34 (2.54s) | SPLIT IMAGINATION SHOT B (HOARDING)
-AUDIO: If he kept it secret, he feasted like a king for weeks.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Comic mental projection B (Hoarding) — Grog lounging like royalty on a stone throne, shoving giant chunks of honeycomb into his mouth with pure bliss.
+AUDIO CUE: "If he kept it secret, he feasted like a king for weeks."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Scalloped fluffy white comic thought bubble with a bright yellow inner glow. Inside: Grog reclining like a king on a smooth boulder throne, wearing a funny makeshift flower crown, stuffing a huge golden chunk of dripping honeycomb into his smiling mouth with pure ecstasy. Hilarious contrast vision, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 35 (2.44s) | THE PROBLEM DILEMMA SHOT
-AUDIO: There was only one problem: how could he return to the cave with completely empty hands?
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Tactical dilemma shot — Grog staring down at his empty open palms with a giant red question mark overhead: how to return empty-handed?
+AUDIO CUE: "There was only one problem: how could he return to the cave with completely empty hands?"
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Savanna ridge limestone boulders (@env_02_savanna_ridge_empty). Subject: Grog standing center, looking down with furrowed brow at his two empty open palms. A large bold red hand-drawn question mark ('?') hovers above his head with tiny nervous sweat droplets. The tactical problem revealed, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 36 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Until that second, words were only used to describe what was actually real.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Philosophical marker card ('WORDS = REALITY') crossed out by a bold red strike, marking the exact historical moment language parted from physical truth.
+AUDIO CUE: "Until that second, words were only used to describe what was actually real."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown hand-drawn block lettering: 'WORDS = REALITY'. Slashing diagonally across the text is a bold, energetic red brush strike. High-impact conceptual transition card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 37 (2.54s) | BIRTH OF THE SCHEME - PROFILE SILHOUETTE
-AUDIO: Grog decided to describe something that didn't exist.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_04_cave_entrance_twilight.jpg`
+WHAT IS IT FOR: Dramatic sunset profile — Grog standing at twilight with a cunning half-smile, tapping his chin as the very first lie is conceived.
+AUDIO CUE: "Grog decided to describe something that didn't exist."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Twilight sunset savanna (@env_04_cave_entrance_twilight) with rich amber and violet sky. Subject: Dramatic side profile of Grog (@char_01_grog). A subtle, cunning half-smile spreads across his white face, one finger tapped against his chin in deep calculation. The dawn of human deception, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 38 (2.54s) | WIDE CAVE INTERIOR ESTABLISHING
-AUDIO: When he walked into the firelit cave at sunset, the tribe leader demanded to know where he had been.
+ATTACHMENT: `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Wide cave interior establishing shot — firelit cave at night with flickering orange flames and deep indigo shadows as Grog steps inside empty-handed.
+AUDIO CUE: "When he walked into the firelit cave at sunset, the tribe leader demanded to know where he had been."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The prehistoric hearth cave at night (@env_03_cave_fire_empty). Glowing central campfire casting pools of warm orange light on the stone floor, dark charcoal-indigo cave walls arching overhead. Grog enters from the shadowed cave mouth on the left, empty-handed. Atmospheric establishing shot, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 39 (2.44s) | IMPOSING AUTHORITY MEDIUM SHOT
-AUDIO: When he walked into the firelit cave at sunset, the tribe leader demanded to know where he had been.
+ATTACHMENT: `@char_02_tribe_elder_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Imposing authority medium shot — Tribe Elder leaning on his gnarled wooden staff, glaring sternly with heavy furrowed eyebrows demanding an explanation.
+AUDIO CUE: "When he walked into the firelit cave at sunset, the tribe leader demanded to know where he had been."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Firelit cave interior (@env_03_cave_fire_empty). Subject: The Tribe Elder (@char_02_tribe_elder_master), with bushy dark-grey beard, animal teeth necklace, and heavy mammoth fur mantle, standing tall leaning on his gnarled walking staff. His piercing black dot eyes glare sternly with heavy furrowed eyebrows, demanding answers. Imposing tribal authority, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 40 (2.24s) | COMPOSED CLOSE-UP
-AUDIO: Grog didn't panic.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Tension close-up — Grog's eyes remain totally calm, focused, and steady, taking a quiet measured breath instead of panicking.
+AUDIO CUE: "Grog didn't panic."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Warm firelight glow on dark cave stone (@env_03_cave_fire_empty). Subject: Close-up on Grog's circular white face. Perfectly calm black dot eyes, relaxed eyebrows, smooth controlled expression. Zero sweat, total mental composure before the jump. High-tension beat, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 41 (2.54s) | THEATRICAL MELODRAMA POSE
-AUDIO: He looked the leader dead in the eye, clutched his chest in fake terror, and invented the very first lie:
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Theatrical melodrama shot — Grog theatrically clutching both hands to his chest in fake trembling terror, playing the victim with Oscar-worthy performance.
+AUDIO CUE: "He looked the leader dead in the eye, clutched his chest in fake terror, and invented the very first lie:"
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Cave firelight (@env_03_cave_fire_empty). Subject: Grog (@char_01_grog) putting on an exaggerated theatrical performance of sheer terror. Both stick arms clutched tightly over his heart, knees shaking slightly with comic vibration lines, mouth wide open in fake gasped horror, pretending he barely escaped death. The world's first actor, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 42 (2.44s) | IMAGINATION ATTACK BUBBLE
-AUDIO: "A pack of ferocious hyenas chased me off the ridge."
+ATTACHMENT: `@env_02_savanna_ridge_empty.jpg`
+WHAT IS IT FOR: Comic imagination thought bubble — three ferocious cartoon hyenas with glowing red eyes and dripping fangs snarling on the rocky ridge, visualizing the fabricated lie.
+AUDIO CUE: ""A pack of ferocious hyenas chased me off the ridge.""
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Inside a jagged dark comic thought cloud: On the rocky ridge (@env_02_savanna_ridge_empty), three ferocious cartoon spotted hyenas snarl with sharp white fangs, glowing yellow eyes, and spiky fur, snapping at the air menacingly. The fabricated monster myth, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 43 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: "A pack of ferocious hyenas chased me off the ridge."
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Diverting horror speech marker card ('FEROCIOUS HYENAS!') in jagged trembling red-and-black lettering, delivering maximum punch to Grog's excuse.
+AUDIO CUE: ""A pack of ferocious hyenas chased me off the ridge.""
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in large, jagged, trembling hand-drawn red and black horror-comic lettering: 'FEROCIOUS HYENAS!'. Small hand-drawn claw scratch marks accenting the edges. Bold graphic speech interstitial, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 44 (2.44s) | TRIBE REACTION HORROR SHOT
-AUDIO: The tribe gasped in horror. The leader patted Grog's shoulder, relieved he survived.
+ATTACHMENT: `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Group reaction shot — tribe members around the campfire gasping in horror with hands over their mouths, completely falling for the deception.
+AUDIO CUE: "The tribe gasped in horror. The leader patted Grog's shoulder, relieved he survived."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Firelit cave (@env_03_cave_fire_empty). Subject: A group of prehistoric stickman tribe members sitting around the fire, all reacting with genuine collective panic: one hunter clutching his cheeks like 'The Scream', a woman hugging her knees in shock, all with huge sympathetic eyes. Total audience buy-in, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 45 (2.34s) | PATERNAL RELIEF COMFORT SHOT
-AUDIO: The tribe gasped in horror. The leader patted Grog's shoulder, relieved he survived.
+ATTACHMENT: `@char_02_tribe_elder_master.jpg`, `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Paternal relief comfort shot — the stern elder placing a reassuring hand on Grog's fur shoulder, completely fooled and relieved Grog survived.
+AUDIO CUE: "The tribe gasped in horror. The leader patted Grog's shoulder, relieved he survived."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Warm firelight cave (@env_03_cave_fire_empty). Subject: The Tribe Elder (@char_02_tribe_elder_master), his stern frown replaced by a gentle relieved smile, placing a heavy reassuring hand on Grog's fur shoulder. Grog feigns a tired, grateful nod. Total deception success, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 46 (2.54s) | SUBTLE SMIRK TO CAMERA
-AUDIO: Nobody questioned him. Because nobody even knew what a lie was.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@char_02_tribe_elder_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Over-the-shoulder mastermind reveal — looking past the elder, Grog looks straight into the camera lens with a concealed victorious smirk while being comforted.
+AUDIO CUE: "Nobody questioned him. Because nobody even knew what a lie was."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Prehistoric cave darkness with orange firelight rim (@env_03_cave_fire_empty). Subject: Over-the-shoulder shot past the elder's hairy mammoth mantle. Grog looks directly into the camera lens, one eye winking playfully with a tiny victorious smirk curling his lips, while the elder pats his back. Mastermind reveal, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 47 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Nobody questioned him. Because nobody even knew what a lie was.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Philosophical marker card ('NOBODY KNEW WHAT A LIE WAS') resetting viewer focus for the evolutionary climax.
+AUDIO CUE: "Nobody questioned him. Because nobody even knew what a lie was."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark brown rustic marker lettering: 'NOBODY KNEW WHAT A LIE WAS'. A subtle hand-drawn question mark doodle faintly watermarked behind the text. Crisp philosophical title card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 48 (2.54s) | EPIC PIVOT WIDE SHOT
-AUDIO: And in that single second, human history shifted forever.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_04_cave_entrance_twilight.jpg`
+WHAT IS IT FOR: Epic pivot wide shot — Grog silhouetted in the cave entrance under starry skies with a glowing timeline split down the frame, marking human history permanently changed.
+AUDIO CUE: "And in that single second, human history shifted forever."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The mouth of the prehistoric cave at night (@env_04_cave_entrance_twilight) looking out at a deep indigo sky filled with brilliant white doodle stars. In silhouette, Grog stands in the doorway. A subtle glowing golden vector crack runs down the center of the frame, symbolizing history splitting. Epic turning point, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 49 (2.44s) | STONE CHESSBOARD METAPHOR
-AUDIO: Without throwing a single punch, Grog controlled the entire tribe.
+ATTACHMENT: None (Conceptual Dark Grid Canvas)
+WHAT IS IT FOR: Stone chessboard visual metaphor — giant Grog gently moving primitive stickmen across a stone grid like chess pawns, illustrating psychological control without violence.
+AUDIO CUE: "Without throwing a single punch, Grog controlled the entire tribe."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Conceptual dark grey background. In foreground, Grog's giant stickman hands gently move miniature primitive stickmen figures across a rustic stone-tile grid like pawns on a chessboard. Pure psychological dominance without violence, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 50 (2.24s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Soon, deception started an unstoppable biological arms race.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Dynamic conflict title card ('THE BIOLOGICAL ARMS RACE') in bold red and black marker with lightning bolts, initiating the scientific explanation.
+AUDIO CUE: "Soon, deception started an unstoppable biological arms race."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, sharp hand-drawn black and bright crimson marker lettering: 'THE BIOLOGICAL ARMS RACE'. Two stylized cartoon lightning bolts flank the text. High-energy conflict card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 51 (2.54s) | MUTUAL SUSPICION DUEL SHOT
-AUDIO: Soon, deception started an unstoppable biological arms race.
+ATTACHMENT: `@char_03_tribe_hunter_master.jpg`
+WHAT IS IT FOR: Mutual suspicion duel — two ancient humans standing nose-to-nose with squinted eyes, calculating lie probabilities and floating scales above their heads.
+AUDIO CUE: "Soon, deception started an unstoppable biological arms race."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Warm tan backdrop. Two prehistoric stickmen stand nose-to-nose in profile, both with intensely squinted suspicious black dot eyes, calculating each other. Above their heads are floating comic doodle diagrams: tiny scales of truth, percentages, and tangled webs. Mutual paranoia, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 52 (2.44s) | COMEDY LION VS HUMANS SHOT
-AUDIO: To survive, human brains had to evolve rapidly—not to outsmart lions, but to outsmart each other.
+ATTACHMENT: `@env_01_savanna_day_empty.jpg`
+WHAT IS IT FOR: Comedic Darwinian contrast — confused golden lion sitting scratching its head while two humans in the background whisper conspiratorially, outsmarting each other rather than predators.
+AUDIO CUE: "To survive, human brains had to evolve rapidly—not to outsmart lions, but to outsmart each other."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: Savanna grass (@env_01_savanna_day_empty). In foreground, a big fluffy yellow cartoon lion sits like a confused puppy scratching behind its ear with a hind paw, huge question marks around its head. In the background, two prehistoric stickmen ignore the lion entirely, whispering secrets behind cupped hands to each other. Comedic Darwinian twist, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 53 (2.44s) | EVOLUTIONARY SKULL GROWTH DIAGRAM
-AUDIO: To survive, human brains had to evolve rapidly—not to outsmart lions, but to outsmart each other.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Scientific comic infographic card — sequence of three stickman skulls showing progressive cranial capacity growth to detect lies.
+AUDIO CUE: "To survive, human brains had to evolve rapidly—not to outsmart lions, but to outsmart each other."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon infographic on a clean solid off-white background (#FAF9F6). Showing a sequence of three minimalist stickman skulls in a row from left to right, with bold black outlines: the first skull is small with tiny brain cavity; the second is medium; the third has a huge, ballooning rounded forehead outlined in vibrant cyan ink with an arrow pointing up. Clean scientific cartoon diagram, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 54 (2.54s) | FRONTAL LOBE RADAR GLOW
-AUDIO: Our frontal lobes ballooned in size just to detect who was making things up.
+ATTACHMENT: None (Dark Navy Canvas)
+WHAT IS IT FOR: Visual science metaphor — profile of stickman head with frontal lobe glowing in vivid neon cyan and amber, pulsing outward with radar waves labeled 'LIE DETECTOR'.
+AUDIO CUE: "Our frontal lobes ballooned in size just to detect who was making things up."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Dark navy-blue background. Profile of a stickman head where the front forehead / frontal lobe is glowing brightly in vivid neon cyan and amber, pulsing outward with clean concentric radar sonar rings. Small comic label above reads: 'LIE DETECTOR'. High-impact visual science metaphor, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 55 (2.14s) | HAND-DRAWN MARKER CARD (FILLER)
-AUDIO: Our frontal lobes ballooned in size just to detect who was making things up.
+ATTACHMENT: None (Clean Off-White Parchment Canvas #FAF9F6)
+WHAT IS IT FOR: Punchy thesis marker card ('WHY WE GOT SMART!') in dark espresso and yellow marker lettering.
+AUDIO CUE: "Our frontal lobes ballooned in size just to detect who was making things up."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn graphic marker card on a plain solid off-white background (#FAF9F6). Centered in bold, dark espresso brown and golden-yellow hand-drawn marker lettering: 'WHY WE GOT SMART!'. Clean, punchy thesis card, crisp vector outlines, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 56 (2.54s) | FULL CIRCLE MODERN REALIZATION
-AUDIO: Which means the very reason you are smart enough to understand this video...
+ATTACHMENT: `@char_03_tribe_hunter_master.jpg`, `@env_04_modern_room_empty.jpg`
+WHAT IS IT FOR: Full circle modern epiphany — modern stickman sitting on sofa with laptop, eyes wide with a giant cartoon lightbulb igniting over his head as he connects the dots.
+AUDIO CUE: "Which means the very reason you are smart enough to understand this video..."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Environment: The modern living room (@env_04_modern_room_empty). Subject: The modern stickman in navy-blue shirt sitting on the sofa with his laptop on his knees, his jaw dropping open in sudden hilarious enlightenment, a huge vibrant yellow lightbulb flashing on over his head with radiating comic rays. Full-circle epiphany, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 57 (2.34s) | ANCESTRAL DNA TETHER SHOT
-AUDIO: Which means the very reason you are smart enough to understand this video...
+ATTACHMENT: `@char_01_grog_master.jpg`, `@env_03_cave_fire_empty.jpg`
+WHAT IS IT FOR: Ancestral genetic connection — split screen of caveman Grog and modern stickman connected across time by a glowing golden cartoon DNA helix.
+AUDIO CUE: "Which means the very reason you are smart enough to understand this video..."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Dynamic split screen divided by a vertical black ink line: Left side shows prehistoric Grog (@char_01_grog) by the amber campfire; right side shows modern stickman in his room. Connecting their heads across the center line is a glowing golden cartoon DNA helix thread. Evolutionary connection revealed, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
 
 --------------------------------------------------------------------------------
 SLIDE 58 (2.71s) | GRAND CLIMAX - DUAL WINK HERO CARD
-AUDIO: Is because your ancestors were professional liars.
+ATTACHMENT: `@char_01_grog_master.jpg`, `@char_03_tribe_hunter_master.jpg`
+WHAT IS IT FOR: Grand finale hero punchline card — Grog in caveman fur and modern stickman in blue t-shirt standing back-to-back, flashing identical cheeky winks and finger guns at the camera.
+AUDIO CUE: "Is because your ancestors were professional liars."
 --------------------------------------------------------------------------------
 Minimalist 2D hand-drawn cartoon comic style in the signature Ink Explainer aesthetic, crisp uniform black ink line art (6px stroke weight), flat vibrant cel-shaded color fills. Solid warm cream background (#F4EEDD). Grand finale hero shot: Prehistoric Grog (@char_01_grog_master) in his wild fur tunic and the modern stickman in his blue t-shirt standing proudly back-to-back in the center. Both flash identical cheeky winks at the viewer with confident crooked smirks and simultaneous double finger-guns pointed at the camera. High-energy ultimate punchline card, 16:9 widescreen composition. Avoid: photorealism, 3d render, cgi, gradients, bevels, drop shadows, grainy paper texture, watercolor wash, sketches, messy lines, realistic human face, realistic human skin, realistic anatomy, text, watermark, logos, blurry details, distortion.
