@@ -40,12 +40,8 @@ assets/references/*.mp4
 !projects/**/slides/*.png
 !projects/**/slides/*.webp
 !projects/**/master_assets/*
+!projects/**/branding/*
 productions/**/temp/
-
-
-# Junction aliases
-/productions/stickman
-/productions/whiteboard
 
 
 # Remotion

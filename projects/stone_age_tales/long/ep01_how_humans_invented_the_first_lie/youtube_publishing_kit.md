@@ -1,6 +1,7 @@
 # YouTube Studio Publishing Kit
-## Episode 02: "How Humans Invented the First Lie"
-### Optimized High-Retention Packaging & Sourcing Strategy
+## Stone Age Tales — Video #1 (Flagship Launch)
+### "When Did Ancient Humans Invent The First Lie?"
+### Channel: Stone Age Tales (`@StoneAgeTales112`)
 
 ---
 
@@ -11,23 +12,23 @@
 > - 7 to 9 words, clean sentence casing.
 > - Zero spam hashtags (#shorts, #psychology), zero clickbait tropes.
 
-### 🌟 Option 1 (Recommended — Highest CTR & Match to 11M Hit):
+### 🌟 Option 1 (Recommended — Highest CTR & Category Match):
 ```text
 When Did Ancient Humans Invent The First Lie?
 ```
 *(45 characters | Matches the #1 viral syntax: "When Did Ancient Humans Start Drinking Alcohol?")*
 
-### Option 2 (The Evolutionary Threat / Intelligence Hook):
+### Option 2 (Narrative & Discovery Hook):
+```text
+The Day Ancient Humans Invented The First Lie
+```
+*(45 characters | Direct, story-driven, matches documentary formats)*
+
+### Option 3 (The Evolutionary Intelligence Hook):
 ```text
 How Lying Made Ancient Humans So Terrifyingly Smart
 ```
 *(51 characters | Matches "Why Ancient Humans Were The Most TERRIFYING Animal Alive")*
-
-### Option 3 (Curiosity-Gap Narrative):
-```text
-The Prehistoric Day Humans Invented The Very First Lie
-```
-*(54 characters | High narrative intrigue)*
 
 ---
 
@@ -36,13 +37,16 @@ The Prehistoric Day Humans Invented The Very First Lie
 ```text
 When Did Ancient Humans Invent The First Lie?
 
-All research and sources are linked below.
+All scientific research and academic sources are linked below.
 
 For 99% of human evolution, lying was physically impossible. If an early primate shrieked, a predator was there. Language was an unedited broadcast of physical reality. 
 
 Then, roughly 200,000 years ago on the East African savanna, a prehistoric human realized something that broke nature forever: words don't have to describe what is real. They can describe what isn't.
 
 Here is the untold evolutionary history of how the first lie was born—and why deception sparked the biological arms race that ballooned the human brain.
+
+🔔 Subscribe to Stone Age Tales for weekly animated deep-dives into human evolution and ancient survival:
+https://www.youtube.com/@StoneAgeTales112?sub_confirmation=1
 
 ━━━━━━━━━━━━━━━━━━━━
 ⏱️ CHAPTER TIMESTAMPS:
@@ -59,7 +63,7 @@ Here is the untold evolutionary history of how the first lie was born—and why 
 ━━━━━━━━━━━━━━━━━━━━
 📚 RESEARCH & ACADEMIC SOURCES:
 ━━━━━━━━━━━━━━━━━━━━
-▸ The Social Brain Hypothesis & Neocortex Size — Dunbar, R. I. (1992). "Neocortex size as a constraint on group size in primates." Journal of Human Evolution, 22(6), 469-493. Dunbar's foundational research linking the growth of primate frontal lobes directly to tracking complex social relationships and deception.
+▸ The Social Brain Hypothesis & Neocortex Size — Dunbar, R. I. (1992). "Neocortex size as a constraint on group size in primates." Journal of Human Evolution, 22(6), 469-493. Foundational research linking the expansion of primate frontal lobes directly to tracking complex social relationships and deception.
 
 ▸ Machiavellian Intelligence: Social Expertise and the Evolution of Intellect — Byrne, R. W., & Whiten, A. (1988). Oxford University Press. Fieldwork documenting tactical deception across higher primates and early hominids.
 
@@ -72,10 +76,10 @@ Here is the untold evolutionary history of how the first lie was born—and why 
 ▸ Prehistoric Egalitarianism and Food Sharing — Boehm, C. (1999). "Hierarchy in the Forest: The Evolution of Egalitarian Behavior." Harvard University Press. Detailing the strict unwritten tribal rule of mandatory food distribution upon returning to camp.
 
 ————————————————————
-🎨 Animation by Sticky in Dark
+🎨 Animation & Story by Stone Age Tales
 ————————————————————
 
-#ancienthumans #prehistory #humanhistory #anthropology #archaeology #stoneage #humanevolution #evolution #firstlie #psychology #brain #science #history #explainer #animation #education #paleolithic #survival
+#AncientHumans #HumanEvolution #StoneAgeTales #Anthropology #Archaeology #Prehistory #Paleolithic #EvolutionaryPsychology #HistoryAnimation #Documentary
 ```
 
 ---
@@ -85,22 +89,22 @@ Here is the untold evolutionary history of how the first lie was born—and why 
 > **Copy & Paste into Video Details → Show More → Tags:**
 
 ```text
-ancient humans, when did ancient humans invent the first lie, ancient history, prehistoric humans, human evolution, history of humans, the first lie, human psychology, stone age, archaeology, why humans lie, anthropology, origin of language, robin dunbar social brain, stickman animation, history documentary, ancient survival
+stone age tales, when did ancient humans invent the first lie, ancient humans, human evolution, prehistoric humans, the first lie, anthropology, archaeology, evolutionary psychology, stone age documentary, homo sapiens, origin of language, early humans, robin dunbar social brain, stickman animation, animated documentary, ancient survival, prehistory
 ```
 
 ---
 
 ## 4. Video Upload Defaults & Technical Checklist
 
-- **Category:** `Education` (Matches @Inkexplainer96 and Kurzgesagt)
+- **Category:** `Education` (or `Film & Animation`)
 - **Video Language:** `English`
 - **Title & Description Language:** `English`
-- **Caption Certification:** `None` (Subtitles burned kinetically into master)
+- **Caption Certification:** `None` (Subtitles burned kinetically into master video)
 - **Recording Date & Location:** None
 - **License:** `Standard YouTube License`
 - **Shorts Remixing:** `Allow video and audio remixing` (Drives organic discovery)
 - **Comments:** `Hold potentially inappropriate comments for review`
-- **Pinned Comment (Copy-Paste):**
+- **Pinned Comment (Copy & Paste upon publishing):**
   ```text
   If lying never evolved, do you think humanity would have survived the Ice Age? What would a 100% honest world look like today? Let me know your thoughts below 👇
   ```
@@ -109,10 +113,12 @@ ancient humans, when did ancient humans invent the first lie, ancient history, p
 
 ## 5. Thumbnail Pairing
 
-- **Master Thumbnail File:** [`HOW_HUMANS_INVENTED_THE_FIRST_LIE_THUMBNAIL.jpg`](file:///f:/Arnav%20-%20YT/stickman-video-director/renders/long/ep02_how_humans_invented_the_first_lie/HOW_HUMANS_INVENTED_THE_FIRST_LIE_THUMBNAIL.jpg)
-- **Local Project File:** [`thumbnail_master.jpg`](file:///f:/Arnav%20-%20YT/stickman-video-director/projects/long/ep02_how_humans_invented_the_first_lie/thumbnails/thumbnail_master.jpg)
-- **Visual:** Prehistoric stickman Grog plotting on the rock, with the thought bubble showing Grog crowned in flowers lounging like a king eating honeycomb.
-- **Text on Thumbnail (Canary Yellow + Heavy Black Contour):**
+- **Master High-Resolution Thumbnail:**  
+  👉 [`renders/long/ep02_how_humans_invented_the_first_lie/HOW_HUMANS_INVENTED_THE_FIRST_LIE_THUMBNAIL.jpg`](file:///f:/Arnav%20-%20YT/stickman-video-director/renders/long/ep02_how_humans_invented_the_first_lie/HOW_HUMANS_INVENTED_THE_FIRST_LIE_THUMBNAIL.jpg)
+- **Local Source Project File:**  
+  👉 [`projects/long/ep02_how_humans_invented_the_first_lie/thumbnails/thumbnail_master.jpg`](file:///f:/Arnav%20-%20YT/stickman-video-director/projects/long/ep02_how_humans_invented_the_first_lie/thumbnails/thumbnail_master.jpg)
+- **Visual Composition:** Prehistoric stickman Grog scheming on the rocky ridge, with the thought bubble showing Grog crowned in flowers lounging like a king eating honeycomb.
+- **Thumbnail Text:**
   ```text
   VERY FIRST
   LIE ?
