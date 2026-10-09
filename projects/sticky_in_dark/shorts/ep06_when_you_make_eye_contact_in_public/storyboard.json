@@ -1,0 +1,283 @@
+{
+  "project_id": "ep06_when_you_make_eye_contact_in_public",
+  "channel": "Sticky in Dark",
+  "handle": "@stickyindark",
+  "format": "YouTube Shorts (9:16 vertical, 1080x1920)",
+  "language": "English",
+  "total_shots": 21,
+  "duration_sec": 49.54,
+  "audio_file": "audio/master_voiceover.wav",
+  "beats": [
+    {
+      "slide_id": 1,
+      "time_window": "0.00s - 2.40s",
+      "duration": 2.40,
+      "spoken_words": "The second eye contact gets awkward with someone walking toward you,",
+      "scene_type": "comic_panel",
+      "visual_description": "Wide shot in an open campus quad. Two minimalist black ink stickmen walking in opposite directions directly toward each other. A red dashed laser line connects their eyes across the open distance.",
+      "layers": {
+        "background": "bg_campus_open_quad",
+        "character": "approaching_stickmen_pair",
+        "graphic": "dashed_eye_contact_laser_line"
+      }
+    },
+    {
+      "slide_id": 2,
+      "time_window": "2.40s - 4.82s",
+      "duration": 2.42,
+      "spoken_words": "what’s the first thing you do?",
+      "scene_type": "comic_panel",
+      "visual_description": "Dramatic close-up on the main stickman's face. Eyes wide with cartoon spiral panic lines, giant yellow question mark above head, sweat beads flying off face.",
+      "layers": {
+        "background": "bg_speedlines_panic",
+        "character": "stickman_face_spiral_eyes",
+        "graphic": "huge_yellow_question_mark"
+      }
+    },
+    {
+      "slide_id": 3,
+      "time_window": "4.82s - 7.40s",
+      "duration": 2.58,
+      "spoken_words": "You whip out your phone,",
+      "scene_type": "action_beat",
+      "visual_description": "Fast kinetic action shot: Stickman's arm whipping a sleek black smartphone out of his dark hoodie pocket. Dynamic curved speed arcs with bold hand-drawn text '*WHIP!*'.",
+      "layers": {
+        "background": "bg_speedlines_action",
+        "character": "stickman_whips_phone_out",
+        "prop": "black_smartphone_drawn"
+      }
+    },
+    {
+      "slide_id": 4,
+      "time_window": "7.40s - 10.02s",
+      "duration": 2.62,
+      "spoken_words": "staring intensely at a blank screen like you got an urgent text.",
+      "scene_type": "comic_panel",
+      "visual_description": "Side angle shot: Stickman hunched forward, nose glued to his smartphone screen. The phone screen is completely black with glowing white digital text reading '00:00 - NO NOTIFICATIONS'.",
+      "layers": {
+        "background": "bg_subtle_grey_grid",
+        "character": "stickman_hunched_staring_phone",
+        "prop": "blank_screen_zero_notifications"
+      }
+    },
+    {
+      "slide_id": 5,
+      "time_window": "10.02s - 11.66s",
+      "duration": 1.64,
+      "spoken_words": "Be honest, we’ve all done it.",
+      "scene_type": "text_card",
+      "visual_description": "High-impact typographic punch card on textured paper. Bold black marker text reading 'BE HONEST.' and below in red ink 'WE\\'VE ALL DONE IT.' with a small stickman covering his face in embarrassment.",
+      "layers": {
+        "background": "bg_textured_parchment",
+        "graphic": "bold_punch_text_be_honest",
+        "character": "stickman_facepalm_small"
+      }
+    },
+    {
+      "slide_id": 6,
+      "time_window": "11.66s - 14.40s",
+      "duration": 2.74,
+      "spoken_words": "You spot someone twenty meters away, and your brain panics.",
+      "scene_type": "comic_panel",
+      "visual_description": "First-person perspective (POV) looking straight ahead. Another stickman figure approaching in the distance. A bright yellow measurement bracket spans the gap: '[ 20 METERS ]' with a pulsing hazard triangle.",
+      "layers": {
+        "background": "bg_open_concrete_path_pov",
+        "character": "approaching_stickman_distance",
+        "graphic": "yellow_measurement_bracket_20m"
+      }
+    },
+    {
+      "slide_id": 7,
+      "time_window": "14.40s - 16.50s",
+      "duration": 2.10,
+      "spoken_words": "It’s too far to say hello,",
+      "scene_type": "comic_panel",
+      "visual_description": "Awkward demonstration: Stickman waving his hand stiffly from 20 meters away, with a tiny, ridiculous speech bubble '...hey?'. Red label at top: '[ TOO FAR TO WAVE ]'.",
+      "layers": {
+        "background": "bg_neutral_parchment",
+        "character": "stickman_awkward_distant_wave",
+        "graphic": "label_too_far_to_wave"
+      }
+    },
+    {
+      "slide_id": 8,
+      "time_window": "16.50s - 18.79s",
+      "duration": 2.29,
+      "spoken_words": "but too close to pretend they don't exist.",
+      "scene_type": "comic_panel",
+      "visual_description": "Opposite awkward extreme: Stickman whistling with eyes tightly shut, head turned 90 degrees away, pretending the other person isn't 15 feet in front of him. Red label: '[ TOO CLOSE TO IGNORE ]'.",
+      "layers": {
+        "background": "bg_neutral_parchment",
+        "character": "stickman_pretending_blind",
+        "graphic": "label_too_close_to_ignore"
+      }
+    },
+    {
+      "slide_id": 9,
+      "time_window": "18.79s - 21.09s",
+      "duration": 2.30,
+      "spoken_words": "If you stare at them the entire way, you look unhinged.",
+      "scene_type": "comic_panel",
+      "visual_description": "Creepy stickman face filling the frame with giant unblinking bloodshot eyes, terrifying wide frozen grin, and jagged black aura lines. Bold crimson stamp: 'UNHINGED'.",
+      "layers": {
+        "background": "bg_jagged_shadow_aura",
+        "character": "stickman_unhinged_stare",
+        "graphic": "crimson_stamp_unhinged"
+      }
+    },
+    {
+      "slide_id": 10,
+      "time_window": "21.09s - 23.82s",
+      "duration": 2.73,
+      "spoken_words": "If you stare down at your shoes, you look terrified.",
+      "scene_type": "comic_panel",
+      "visual_description": "Side profile of a crumpled stickman with head bent straight down at a 90-degree angle, eyes locked onto his cartoon sneakers, trembling posture. Bold blue stamp: 'TERRIFIED'.",
+      "layers": {
+        "background": "bg_neutral_parchment",
+        "character": "stickman_staring_at_shoes",
+        "graphic": "blue_stamp_terrified"
+      }
+    },
+    {
+      "slide_id": 11,
+      "time_window": "23.82s - 26.95s",
+      "duration": 3.13,
+      "spoken_words": "So you unlock your phone, pretending to check notifications that don't exist.",
+      "scene_type": "comic_panel",
+      "visual_description": "Close-up on cartoon hand rapidly swiping a cartoon thumb across a bare glass screen. Ghost notifications with zero badges floating in thin air. Comic sound effect: '*SWIPE SWIPE*'.",
+      "layers": {
+        "background": "bg_phone_glow",
+        "character": "hand_swiping_empty_phone",
+        "graphic": "ghost_empty_notification_bubbles"
+      }
+    },
+    {
+      "slide_id": 12,
+      "time_window": "26.95s - 29.80s",
+      "duration": 2.85,
+      "spoken_words": "Look, the other person watches you do it. They know you're faking—",
+      "scene_type": "comic_panel",
+      "visual_description": "Over-the-shoulder POV of the approaching stranger watching the main stickman furiously tap a blank phone. The stranger has a deadpan, unimpressed side-eye expression.",
+      "layers": {
+        "background": "bg_approaching_perspective",
+        "character": "stranger_side_eye_unimpressed",
+        "foreground": "stickman_faking_on_phone"
+      }
+    },
+    {
+      "slide_id": 13,
+      "time_window": "29.80s - 33.01s",
+      "duration": 3.21,
+      "spoken_words": "because they were tempted to do the exact same thing.",
+      "scene_type": "comic_panel",
+      "visual_description": "Two stickmen approaching each other, both with identical thought bubbles above their heads showing a smartphone. Lightbulb ding effect above both heads: shared internal awkwardness.",
+      "layers": {
+        "background": "bg_open_concrete_path",
+        "character": "both_stickmen_approaching",
+        "graphic": "dual_matching_phone_thought_bubbles"
+      }
+    },
+    {
+      "slide_id": 14,
+      "time_window": "33.01s - 34.37s",
+      "duration": 1.36,
+      "spoken_words": "Here’s what to do instead.",
+      "scene_type": "text_card",
+      "visual_description": "Crisp high-contrast typographic card. Off-white textured paper with bold canary yellow highlighter bar behind black hand-drawn lettering: 'WHAT TO DO INSTEAD:'.",
+      "layers": {
+        "background": "bg_textured_parchment",
+        "graphic": "yellow_highlighter_headline"
+      }
+    },
+    {
+      "slide_id": 15,
+      "time_window": "34.37s - 36.06s",
+      "duration": 1.69,
+      "spoken_words": "Leave the phone in your pocket.",
+      "scene_type": "comic_panel",
+      "visual_description": "Stickman stands upright with hands resting casually in his dark hoodie pockets. The smartphone is shown inside the pocket with a green lock badge: '[ POCKET LOCKED ]'.",
+      "layers": {
+        "background": "bg_clean_parchment",
+        "character": "stickman_hands_in_pockets",
+        "graphic": "phone_in_pocket_cutaway"
+      }
+    },
+    {
+      "slide_id": 16,
+      "time_window": "36.06s - 38.70s",
+      "duration": 2.64,
+      "spoken_words": "Keep your shoulders relaxed, eyes focused on where you’re walking.",
+      "scene_type": "comic_panel",
+      "visual_description": "Full-body tracking profile: Confident stickman walking with smooth posture, shoulders dropped and relaxed, chin level, looking straight ahead into the distance with quiet calm.",
+      "layers": {
+        "background": "bg_motion_lines_calm",
+        "character": "stickman_walking_smoothly",
+        "graphic": "posture_alignment_gold_line"
+      }
+    },
+    {
+      "slide_id": 17,
+      "time_window": "38.70s - 40.40s",
+      "duration": 1.70,
+      "spoken_words": "At three steps away,",
+      "scene_type": "comic_panel",
+      "visual_description": "Ground perspective shot: The approaching person is now close. Three clean footprint marks on the ground labeled '3... 2... 1...' with a golden zone marker: '[ THE 3-STEP ZONE ]'.",
+      "layers": {
+        "background": "bg_ground_level_perspective",
+        "graphic": "footprints_3_steps_countdown",
+        "character": "two_stickmen_closing_gap"
+      }
+    },
+    {
+      "slide_id": 18,
+      "time_window": "40.40s - 42.17s",
+      "duration": 1.77,
+      "spoken_words": "look up, give an easy nod, and keep moving.",
+      "scene_type": "action_beat",
+      "visual_description": "Dynamic medium close-up: Main stickman looks up smoothly, giving a calm upward chin nod with a golden curved action line. Calm relaxed half-smile, zero tension.",
+      "layers": {
+        "background": "bg_subtle_warm_glow",
+        "character": "stickman_confident_chin_nod",
+        "graphic": "motion_arc_nod"
+      }
+    },
+    {
+      "slide_id": 19,
+      "time_window": "42.17s - 44.36s",
+      "duration": 2.19,
+      "spoken_words": "It acknowledges them without forcing awkward small talk.",
+      "scene_type": "comic_panel",
+      "visual_description": "The two stickmen pass each other smoothly without stopping. Between them is a crossed-out red speech bubble filled with awkward words ('weather', 'hey man', 'plans?'). Zero disruption.",
+      "layers": {
+        "background": "bg_smooth_passing_motion",
+        "character": "stickmen_passing_each_other",
+        "graphic": "crossed_out_small_talk_bubble"
+      }
+    },
+    {
+      "slide_id": 20,
+      "time_window": "44.36s - 47.43s",
+      "duration": 3.07,
+      "spoken_words": "No awkward staring, no fake texting, and no panic.",
+      "scene_type": "comic_panel",
+      "visual_description": "Triptych summary panel: 3 icons side by side. 1: Crossed out crazy eyes. 2: Crossed out glowing phone. 3: Green checkmark over a calm, relaxed stickman standing tall with hands down.",
+      "layers": {
+        "background": "bg_textured_parchment",
+        "graphic": "triptych_three_rules_icons"
+      }
+    },
+    {
+      "slide_id": 21,
+      "time_window": "47.43s - 49.54s",
+      "duration": 2.11,
+      "spoken_words": "Real confidence isn't hiding behind a screen—it's staying completely unbothered the second...",
+      "scene_type": "comic_panel",
+      "visual_description": "Cinematic final looping frame: Main stickman walking smoothly into the foreground with effortless composure, while far in the background another person approaches. Perfect seamless loop point straight back to Beat 1.",
+      "layers": {
+        "background": "bg_infinite_loop_campus",
+        "character": "main_stickman_foreground_loop",
+        "character_distant": "new_approaching_stickman"
+      }
+    }
+  ]
+}

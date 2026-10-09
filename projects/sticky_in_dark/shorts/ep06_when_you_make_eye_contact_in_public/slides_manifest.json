@@ -1,0 +1,155 @@
+{
+  "project_id": "ep06_when_you_make_eye_contact_in_public",
+  "resolution": "1080x1920",
+  "aspect_ratio": "9:16",
+  "style_definition": "Minimalist 2D hand-drawn comic style, bold clean black contour ink line art, off-white textured cream paper background (#F8F7F2), selective Canary Yellow (#FFD700) and Crimson Red (#E63946) color accents, expressive stickman figures with circular white heads and cartoon mitten hands, no shading or complex gradients, ultra-clean webcomic aesthetic, 1080x1920 vertical format",
+  "slides": [
+    {
+      "slide_id": 1,
+      "filename": "slide_01.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Wide shot of an open university courtyard on off-white textured paper. Two simple black ink stickmen walking in opposite directions, about to cross paths. A bright red dashed laser line connects their eyes across the open distance with small tension sparks in the center. Bold hand-drawn ink outlines, clean cel aesthetic, no complex backgrounds, ample negative space.",
+      "text_overlay": null
+    },
+    {
+      "slide_id": 2,
+      "filename": "slide_02.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Dramatic extreme close-up on a stickman's white circular face. The stickman has oversized cartoon eyes with chaotic spiral panic pupils and blue sweat beads flying off his forehead. Above his head is a giant hand-drawn Canary Yellow question mark. Dynamic black comic speed lines radiating outward from the face on cream paper.",
+      "text_overlay": "WHAT DO YOU DO?"
+    },
+    {
+      "slide_id": 3,
+      "filename": "slide_03.png",
+      "scene_type": "action_beat",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Kinetic action shot: A stickman with a black hoodie rapidly whipping a sleek black smartphone out of his pocket. Curved white and yellow speed trails arc across the frame. Bold hand-lettered comic action sound text '*WHIP!*' in dark ink. Bold clean outlines, dynamic diagonal composition, cream textured background.",
+      "text_overlay": "*WHIP!*"
+    },
+    {
+      "slide_id": 4,
+      "filename": "slide_04.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Medium side shot of a stickman hunched forward with intense exaggerated focus, staring inches away from his black smartphone screen. The phone screen is completely pitch black with stark white digital text reading '00:00 - NO NOTIFICATIONS'. Intense laser-like focus lines connecting his eyes to the dead screen. Cream paper background.",
+      "text_overlay": "00:00 - NO NOTIFICATIONS"
+    },
+    {
+      "slide_id": 5,
+      "filename": "slide_05.png",
+      "scene_type": "text_card",
+      "prompt": "Minimalist 2D graphic text card, 9:16 vertical 1080x1920. Off-white textured cream paper. In the center, giant bold hand-drawn marker lettering: top line 'BE HONEST.' in heavy black ink, second line 'WE'VE ALL DONE IT.' highlighted with a Canary Yellow marker stroke. At the bottom, a tiny stickman humorously covering his face with both hands in embarrassment.",
+      "text_overlay": "BE HONEST.\nWE'VE ALL DONE IT."
+    },
+    {
+      "slide_id": 6,
+      "filename": "slide_06.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. First-person POV looking down an open campus walkway. In the distance, another stickman figure is walking toward the viewer. A huge vibrant Canary Yellow measurement bracket spans the empty space reading '[ 20 METERS ]' with a red flashing caution hazard symbol. Clean black ink linework, off-white background.",
+      "text_overlay": "[ 20 METERS ]\nPANIC ZONE"
+    },
+    {
+      "slide_id": 7,
+      "filename": "slide_07.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Humorously awkward comic panel. A stickman standing 20 meters away, raising one stiff arm with an awkward half-hearted wave. A tiny pathetic speech bubble reads '...hey?'. At the top, a bold red stamp box: '[ TOO FAR TO WAVE ]'. Clean black outlines, cream paper texture, ample white space.",
+      "text_overlay": "TOO FAR TO WAVE"
+    },
+    {
+      "slide_id": 8,
+      "filename": "slide_08.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Humorous comic panel showing the other awkward extreme. A stickman walking with eyes squeezed shut tightly, head turned comically 90 degrees in the air, pretending to whistle while someone walks right past him. At the top, a bold red stamp box: '[ TOO CLOSE TO IGNORE ]'. Clean black ink outlines on cream paper.",
+      "text_overlay": "TOO CLOSE TO IGNORE"
+    },
+    {
+      "slide_id": 9,
+      "filename": "slide_09.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Close-up of a stickman with a creepy unhinged psycho expression: huge wide unblinking eyes with tiny black dot pupils, an eerie frozen wide grin, and vibrating black aura lines around his head. A heavy Crimson Red ink stamp across the top reading 'UNHINGED'. Minimalist black ink on textured paper.",
+      "text_overlay": "[ UNHINGED ]"
+    },
+    {
+      "slide_id": 10,
+      "filename": "slide_10.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Full-body side profile of a pathetic crumpled stickman. His neck is bent at an extreme 90-degree angle, eyes glued to his own cartoon shoes in sheer social terror, cartoon sweat droplets dripping from his chin. A bold dark blue ink stamp across the top reading 'TERRIFIED'. Clean minimalist comic aesthetic.",
+      "text_overlay": "[ TERRIFIED ]"
+    },
+    {
+      "slide_id": 11,
+      "filename": "slide_11.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Macro close-up on a cartoon mitten hand holding a black smartphone. A cartoon thumb frantically swiping up and down on the glass screen with comic motion blur. Faint dotted ghost notification bubbles float around the phone with '0 UNREAD'. Hand-drawn sound effect text '*SWIPE SWIPE*' in dark ink. Cream paper background.",
+      "text_overlay": "*SWIPE SWIPE*\n[ 0 NOTIFICATIONS ]"
+    },
+    {
+      "slide_id": 12,
+      "filename": "slide_12.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Over-the-shoulder POV from the approaching person. They are looking directly at the main stickman who is awkwardly tapping his empty phone. The approaching person has a completely deadpan, unimpressed side-eye expression with a flat straight-line mouth. Clean black ink lines on textured cream paper.",
+      "text_overlay": "THEY SEE YOU FAKING"
+    },
+    {
+      "slide_id": 13,
+      "filename": "slide_13.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Symmetrical comic panel showing both stickmen approaching each other. Above both of their heads are identical thought bubbles containing a smartphone icon with an awkward sweat drop. Above both figures is a glowing yellow lightbulb with a 'DING!' sound effect, revealing they are both secretly in the same panic. Off-white background.",
+      "text_overlay": "THEY WANTED TO DO IT TOO"
+    },
+    {
+      "slide_id": 14,
+      "filename": "slide_14.png",
+      "scene_type": "text_card",
+      "prompt": "Minimalist 2D graphic card, 9:16 vertical 1080x1920. Clean textured off-white paper. Across the center is a thick vibrant Canary Yellow highlighter brush stroke. On top of the yellow stroke is bold, punchy black ink typography: 'WHAT TO DO INSTEAD'. Below is a clean hand-drawn downward arrow pointing to the next action.",
+      "text_overlay": "WHAT TO DO INSTEAD"
+    },
+    {
+      "slide_id": 15,
+      "filename": "slide_15.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Upright stickman in a dark hoodie standing with calm, confident posture. Both hands are casually resting inside his hoodie pockets. A cutaway circle on his pocket shows his black phone resting safely untouched inside, with a small green padlock icon next to it. Clean bold black ink lines, calm aesthetic, textured paper.",
+      "text_overlay": "PHONE STAYS IN POCKET"
+    },
+    {
+      "slide_id": 16,
+      "filename": "slide_16.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Side tracking profile of the stickman walking forward with effortless swagger: shoulders dropped and relaxed, back straight, chin level, eyes looking calmly ahead into the distance. A subtle Canary Yellow posture alignment line runs vertically along his spine demonstrating quiet confidence. Clean minimalist comic style.",
+      "text_overlay": "SHOULDERS RELAXED • EYES FORWARD"
+    },
+    {
+      "slide_id": 17,
+      "filename": "slide_17.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Ground-level perspective showing the two stickmen now just three paces apart. On the ground between them are three clean cartoon footprints labeled '3... 2... 1...' leading to a golden boundary line labeled '[ 3-STEP ZONE ]'. Tension is replaced by calm focus. Clean black lines on cream paper.",
+      "text_overlay": "[ 3 STEPS AWAY ]"
+    },
+    {
+      "slide_id": 18,
+      "filename": "slide_18.png",
+      "scene_type": "action_beat",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Medium close-up of the main stickman looking up calmly. He gives an effortless, subtle upward chin nod. A golden curved motion arc illustrates the crisp head tilt. His mouth has a relaxed neutral half-smile, radiating quiet self-assurance and unbothered frame. Warm subtle glow, clean ink lines.",
+      "text_overlay": "THE UPWARD NOD"
+    },
+    {
+      "slide_id": 19,
+      "filename": "slide_19.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Dynamic passing shot: The two stickmen walk past each other smoothly with zero friction, moving in opposite directions without stopping. In the air between them is a crossed-out red speech bubble filled with scribbled awkward words ('weather...', 'hey bro...'). A bold green checkmark badge: 'ZERO AWKWARD TALK'. Clean comic lines.",
+      "text_overlay": "NO AWKWARD SMALL TALK"
+    },
+    {
+      "slide_id": 20,
+      "filename": "slide_20.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D graphic summary card, 9:16 vertical 1080x1920. Clean cream paper divided into three horizontal rule badges. 1: Red crossed-out crazy staring eyes [ NO AWKWARD STARING ]. 2: Red crossed-out glowing phone [ NO FAKE TEXTING ]. 3: Bright green checkmark badge over a calm upright stickman [ ZERO PANIC ]. High contrast, clean vector comic style.",
+      "text_overlay": "NO STARING • NO FAKE TEXTING • NO PANIC"
+    },
+    {
+      "slide_id": 21,
+      "filename": "slide_21.png",
+      "scene_type": "comic_panel",
+      "prompt": "Minimalist 2D comic art, 9:16 vertical 1080x1920. Cinematic loop finale: The main stickman walking away confidently in the foreground, back turned with relaxed posture. In the far background on the horizon, another stickman is beginning to walk toward the screen, creating an infinite visual loop right back to Slide 1. Golden warm halo on the foreground figure. Textured cream paper.",
+      "text_overlay": "STAY COMPLETELY UNBOTHERED..."
+    }
+  ]
+}

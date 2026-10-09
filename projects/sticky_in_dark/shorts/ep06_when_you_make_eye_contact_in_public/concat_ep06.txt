@@ -1,0 +1,43 @@
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_01.jpg'
+duration 3.533
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_02.jpg'
+duration 1.293
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_03.jpg'
+duration 0.844
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_04.jpg'
+duration 3.286
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_05.jpg'
+duration 1.066
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_06.jpg'
+duration 2.941
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_07.jpg'
+duration 1.391
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_08.jpg'
+duration 1.830
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_09.jpg'
+duration 2.606
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_10.jpg'
+duration 2.296
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_11.jpg'
+duration 3.968
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_12.jpg'
+duration 2.973
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_13.jpg'
+duration 2.613
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_14.jpg'
+duration 0.829
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_15.jpg'
+duration 1.543
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_16.jpg'
+duration 3.047
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_17.jpg'
+duration 1.402
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_18.jpg'
+duration 1.918
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_19.jpg'
+duration 2.789
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_20.jpg'
+duration 2.999
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_21.jpg'
+duration 4.373
+file 'F:/Arnav - YT/stickman-video-director/projects/sticky_in_dark/shorts/ep06_when_you_make_eye_contact_in_public/slides/slide_21.jpg'

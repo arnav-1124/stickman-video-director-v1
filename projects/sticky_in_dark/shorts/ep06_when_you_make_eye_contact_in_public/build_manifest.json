@@ -1,0 +1,140 @@
+{
+  "project_id": "ep06_when_you_make_eye_contact_in_public",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "pipeline_type": "static_comic_sync",
+  "voiceover_track": "audio/master_voiceover.wav",
+  "subtitles_file": "subtitles.ass",
+  "bgm_track": "../../../assets/bgm/dark_contemplation.mp3",
+  "bgm_volume_db": -22.0,
+  "total_cuts": 21,
+  "total_duration": 49.54,
+  "clips": [
+    {
+      "cut_id": 1,
+      "file_path": "slides/slide_01.jpg",
+      "duration": 3.533,
+      "text": "The second eye contact gets awkward with someone walking toward you,"
+    },
+    {
+      "cut_id": 2,
+      "file_path": "slides/slide_02.jpg",
+      "duration": 1.293,
+      "text": "what’s the first thing you do?"
+    },
+    {
+      "cut_id": 3,
+      "file_path": "slides/slide_03.jpg",
+      "duration": 0.844,
+      "text": "You whip out your phone,"
+    },
+    {
+      "cut_id": 4,
+      "file_path": "slides/slide_04.jpg",
+      "duration": 3.286,
+      "text": "staring intensely at a blank screen like you got an urgent text."
+    },
+    {
+      "cut_id": 5,
+      "file_path": "slides/slide_05.jpg",
+      "duration": 1.066,
+      "text": "Be honest, we’ve all done it."
+    },
+    {
+      "cut_id": 6,
+      "file_path": "slides/slide_06.jpg",
+      "duration": 2.941,
+      "text": "You spot someone twenty meters away, and your brain panics."
+    },
+    {
+      "cut_id": 7,
+      "file_path": "slides/slide_07.jpg",
+      "duration": 1.391,
+      "text": "It’s too far to say hello,"
+    },
+    {
+      "cut_id": 8,
+      "file_path": "slides/slide_08.jpg",
+      "duration": 1.830,
+      "text": "but too close to pretend they don't exist."
+    },
+    {
+      "cut_id": 9,
+      "file_path": "slides/slide_09.jpg",
+      "duration": 2.606,
+      "text": "If you stare at them the entire way, you look unhinged."
+    },
+    {
+      "cut_id": 10,
+      "file_path": "slides/slide_10.jpg",
+      "duration": 2.296,
+      "text": "If you stare down at your shoes, you look terrified."
+    },
+    {
+      "cut_id": 11,
+      "file_path": "slides/slide_11.jpg",
+      "duration": 3.968,
+      "text": "So you unlock your phone, pretending to check notifications that don't exist."
+    },
+    {
+      "cut_id": 12,
+      "file_path": "slides/slide_12.jpg",
+      "duration": 2.973,
+      "text": "Look, the other person watches you do it. They know you're faking—"
+    },
+    {
+      "cut_id": 13,
+      "file_path": "slides/slide_13.jpg",
+      "duration": 2.613,
+      "text": "because they were tempted to do the exact same thing."
+    },
+    {
+      "cut_id": 14,
+      "file_path": "slides/slide_14.jpg",
+      "duration": 0.829,
+      "text": "Here’s what to do instead."
+    },
+    {
+      "cut_id": 15,
+      "file_path": "slides/slide_15.jpg",
+      "duration": 1.543,
+      "text": "Leave the phone in your pocket."
+    },
+    {
+      "cut_id": 16,
+      "file_path": "slides/slide_16.jpg",
+      "duration": 3.047,
+      "text": "Keep your shoulders relaxed, eyes focused on where you’re walking."
+    },
+    {
+      "cut_id": 17,
+      "file_path": "slides/slide_17.jpg",
+      "duration": 1.402,
+      "text": "At three steps away,"
+    },
+    {
+      "cut_id": 18,
+      "file_path": "slides/slide_18.jpg",
+      "duration": 1.918,
+      "text": "look up, give an easy nod, and keep moving."
+    },
+    {
+      "cut_id": 19,
+      "file_path": "slides/slide_19.jpg",
+      "duration": 2.789,
+      "text": "It acknowledges them without forcing awkward small talk."
+    },
+    {
+      "cut_id": 20,
+      "file_path": "slides/slide_20.jpg",
+      "duration": 2.999,
+      "text": "No awkward staring, no fake texting, and no panic."
+    },
+    {
+      "cut_id": 21,
+      "file_path": "slides/slide_21.jpg",
+      "duration": 4.373,
+      "text": "Real confidence isn't hiding behind a screen—it's staying completely unbothered the second..."
+    }
+  ]
+}

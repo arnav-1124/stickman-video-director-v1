@@ -1,0 +1,35 @@
+{
+  "project_id": "ep06_when_you_make_eye_contact_in_public",
+  "theme": "Everyday Body Language & Social Micro-Anxiety",
+  "target_audience": "Students, young adults, everyday pedestrians",
+  "title_candidates": [
+    "When You Make Eye Contact In Public #shorts",
+    "Where To Look When Someone Walks Past #shorts",
+    "That Awkward Walk Toward Someone #shorts"
+  ],
+  "language": "English",
+  "word_count": 172,
+  "runtime_est": "49.54s",
+  "originality_audit": {
+    "is_duplicate_or_paraphrased": false,
+    "unique_intellectual_angle": "Deconstructs the universal 20-meter approaching corridor anxiety into an evolutionary gaze problem. Replaces fake-texting coping mechanisms with the 3-step boundary nod, disarming the social tension effortlessly.",
+    "banned_cliches_purged": [
+      "The 3-Second Rule",
+      "Alpha eye contact",
+      "Sigma gaze",
+      "Hallway"
+    ],
+    "original_metaphors_introduced": [
+      "The 20-Meter Panic Spiral",
+      "The Empty Screen Fake-Out",
+      "The 3-Step Horizon Nod"
+    ]
+  },
+  "narrative_arc": {
+    "hook": "You’re walking down a walkway, and see someone heading straight toward you from twenty meters away. Instantly, your brain panics: where do you actually look?",
+    "social_trap": "Staring makes you look crazy; looking at the ground makes you look terrified. Most people fake-text on an empty home screen.",
+    "mechanism": "Pretending not to see someone signals obvious insecurity that everyone can detect.",
+    "solution": "Eyes relaxed on the horizon. At 3 steps away: calm eye contact, subtle upward nod, keep moving.",
+    "loop": "Real confidence isn't ignoring people—it's being unbothered when..."
+  }
+}
