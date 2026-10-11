@@ -1,0 +1,272 @@
+{
+  "project_id": "ep07_dopamine_is_not_what_you_think",
+  "channel": "Sticky in Dark",
+  "handle": "@stickyindark",
+  "format": "YouTube Shorts (9:16 vertical, 1080x1920)",
+  "language": "English",
+  "total_shots": 20,
+  "duration_sec": 52.5,
+  "audio_file": "audio/master_voiceover.wav",
+  "beats": [
+    {
+      "slide_id": 1,
+      "time_window": "0.00s - 1.15s",
+      "duration": 1.15,
+      "spoken_words": "Before you scroll,",
+      "scene_type": "comic_panel",
+      "visual_description": "Protagonist in dark green hoodie lies propped up on bed in evening. Smartphone beams sharp cool electric-blue glow onto his face. A hand-drawn hand reaches up with a stop gesture in foreground.",
+      "layers": {
+        "background": "bg_cozy_bedroom",
+        "character": "stickman_scrolling_phone",
+        "graphic": "blue_screen_glow"
+      }
+    },
+    {
+      "slide_id": 2,
+      "time_window": "1.15s - 4.15s",
+      "duration": 3.0,
+      "spoken_words": "dopamine is not the pleasure chemical you think it is.",
+      "scene_type": "diagram_card",
+      "visual_description": "Clean educational blackboard graphic on warm cream paper. Crisp vector brain cutaway on left. On right, chemical flask filled with bubbling gold liquid labeled [ PLEASURE? ], violently slashed with Crimson Red NO.",
+      "layers": {
+        "background": "bg_cream_grid",
+        "character": "brain_diagram_cutaway",
+        "graphic": "flask_pleasure_slashed"
+      }
+    },
+    {
+      "slide_id": 3,
+      "time_window": "4.15s - 6.31s",
+      "duration": 2.16,
+      "spoken_words": "You think it makes you feel happy, but it doesn't.",
+      "scene_type": "reaction_closeup",
+      "visual_description": "Extreme close-up on protagonist face. Eyes wide and tired, mouth completely flat and unsmiling. Floating beside his cheek is a yellow smiley bubble struck out with a thick Crimson Red X.",
+      "layers": {
+        "background": "bg_subtle_screentone",
+        "character": "protagonist_deadpan_face",
+        "graphic": "smiley_bubble_struck_out"
+      }
+    },
+    {
+      "slide_id": 4,
+      "time_window": "6.31s - 10.10s",
+      "duration": 3.79,
+      "spoken_words": "If dopamine was pleasure, you would feel satisfied after scrolling for two hours.",
+      "scene_type": "comic_panel",
+      "visual_description": "Side view of protagonist slumped on couch. Fast-forward motion arcs: on wall behind him, round wall clock spins wildly from 11:00 PM to 1:00 AM. Ghosted phone video cards float around him.",
+      "layers": {
+        "background": "bg_living_room_couch",
+        "character": "stickman_slumped_scrolling",
+        "graphic": "spinning_wall_clock"
+      }
+    },
+    {
+      "slide_id": 5,
+      "time_window": "10.10s - 13.91s",
+      "duration": 3.81,
+      "spoken_words": "Instead, you feel completely empty, foggy, and exhausted.",
+      "scene_type": "emotional_punch",
+      "visual_description": "Protagonist hunched over edge of mattress, shoulders collapsed, eyes half-lidded with dark exhaustion circles. Above head floats a battery icon with blinking red rim reading [ 1% ].",
+      "layers": {
+        "background": "bg_bedroom_night",
+        "character": "protagonist_slumped_deflated",
+        "graphic": "empty_battery_indicator"
+      }
+    },
+    {
+      "slide_id": 6,
+      "time_window": "13.91s - 16.20s",
+      "duration": 2.29,
+      "spoken_words": "Neuroscientists proved this decades ago:",
+      "scene_type": "comic_panel",
+      "visual_description": "Vintage green chalkboard on cream paper. Cartoon stickman scientist wearing round glasses and lab coat stands beside retro anatomical brain diagram, pointing with wooden stick.",
+      "layers": {
+        "background": "bg_vintage_chalkboard",
+        "character": "stickman_scientist_pointer",
+        "graphic": "retro_brain_diagram"
+      }
+    },
+    {
+      "slide_id": 7,
+      "time_window": "16.20s - 18.50s",
+      "duration": 2.3,
+      "spoken_words": "dopamine doesn't spike when you get a reward.",
+      "scene_type": "diagram_card",
+      "visual_description": "Wrapped cardboard gift box with yellow ribbon labeled [ REWARD ] sits open on table. Below it on timeline axis, dopamine line is completely flat and lifeless: FLATLINE.",
+      "layers": {
+        "background": "bg_minimal_lab_table",
+        "character": "open_reward_box",
+        "graphic": "flatline_graph_axis"
+      }
+    },
+    {
+      "slide_id": 8,
+      "time_window": "18.50s - 21.06s",
+      "duration": 2.56,
+      "spoken_words": "It spikes right before—during the anticipation.",
+      "scene_type": "kinetic_graph",
+      "visual_description": "Stickman mitten hand hovers 2 inches above closed box, trembling. At this exact millimeter before touching box, violent Crimson Red graph spike surges up labeled [ ANTICIPATION! ] with sparks.",
+      "layers": {
+        "background": "bg_cream_paper",
+        "character": "hovering_hand_over_box",
+        "graphic": "surging_red_graph_spike"
+      }
+    },
+    {
+      "slide_id": 9,
+      "time_window": "21.06s - 23.40s",
+      "duration": 2.34,
+      "spoken_words": "It is not satisfaction. It is an itch.",
+      "scene_type": "concept_punch",
+      "visual_description": "Cutaway of protagonist head. Inside brain, dozens of red comic prickle lines and exclamation points vibrate like an unbearable rash. Large bold text: THE ITCH.",
+      "layers": {
+        "background": "bg_cream_canvas",
+        "character": "protagonist_head_cutaway",
+        "graphic": "red_prickle_rash_lines"
+      }
+    },
+    {
+      "slide_id": 10,
+      "time_window": "23.40s - 25.10s",
+      "duration": 1.7,
+      "spoken_words": "A biological itch that whispers:",
+      "scene_type": "character_contrast",
+      "visual_description": "Close side-profile of protagonist. Looming behind his shoulder in dark is a shadowy stick figure with mischievous grin and red outlined eyes whispering into his ear: *pssst...*.",
+      "layers": {
+        "background": "bg_dark_shadow_gradient",
+        "character": "protagonist_hesitant_profile",
+        "graphic": "whispering_shadow_demon"
+      }
+    },
+    {
+      "slide_id": 11,
+      "time_window": "25.10s - 28.21s",
+      "duration": 3.11,
+      "spoken_words": "just one more video, just one more click, maybe the next one is better.",
+      "scene_type": "action_metaphor",
+      "visual_description": "Protagonist running frantically on revolving circular treadmill. Dangling from fishing rod strapped to his back is a glowing golden YouTube Short play button hovering inches from fingers.",
+      "layers": {
+        "background": "bg_minimalist_floor",
+        "character": "stickman_running_treadmill",
+        "graphic": "dangling_golden_play_button"
+      }
+    },
+    {
+      "slide_id": 12,
+      "time_window": "28.21s - 32.10s",
+      "duration": 3.89,
+      "spoken_words": "Every time you refresh, your brain floods with craving, not fulfillment.",
+      "scene_type": "micro_action",
+      "visual_description": "Tight close-up of cartoon thumb pulling down on phone screen. Loading spinner turns. Sharp crimson arrows flood into cartoon brain labeled [ CRAVING ], while satisfaction gauge reads zero.",
+      "layers": {
+        "background": "bg_hand_holding_phone",
+        "character": "pull_to_refresh_spinner",
+        "graphic": "craving_vs_satisfaction"
+      }
+    },
+    {
+      "slide_id": 13,
+      "time_window": "32.10s - 34.40s",
+      "duration": 2.3,
+      "spoken_words": "Cheap apps hijacked this ancient hunting reflex,",
+      "scene_type": "split_screen",
+      "visual_description": "Vertical split panel: Left: Ancient caveman in animal pelt tracking mammoth prints with spear. Right: Modern stickman in green hoodie hunched over glowing smartphone tracking red notification badges.",
+      "layers": {
+        "background": "split_ancient_vs_modern",
+        "character": "caveman_hunter",
+        "graphic": "modern_scroller"
+      }
+    },
+    {
+      "slide_id": 14,
+      "time_window": "34.40s - 37.00s",
+      "duration": 2.6,
+      "spoken_words": "turning your focus into a slot machine in your pocket.",
+      "scene_type": "slot_machine",
+      "visual_description": "Giant smartphone standing upright like Vegas slot machine. Mechanical red lever snaps down. Screen reels spin with blur, settling on [ 🔔 ] [ ❤️ ] [ 💬 ]. Protagonist stands hypnotized by lights.",
+      "layers": {
+        "background": "bg_casino_neon_glow",
+        "character": "giant_phone_slot_machine",
+        "graphic": "protagonist_hypnotized"
+      }
+    },
+    {
+      "slide_id": 15,
+      "time_window": "37.00s - 38.60s",
+      "duration": 1.6,
+      "spoken_words": "Here’s how you take control.",
+      "scene_type": "sovereign_shift",
+      "visual_description": "Medium shot protagonist turning away from phone, standing upright, arms crossed calmly, eyes focused and determined. Morning sunlight begins to cut through minimalist room.",
+      "layers": {
+        "background": "bg_morning_room",
+        "character": "protagonist_grounded_stance",
+        "graphic": "sunlight_beam_diagonal"
+      }
+    },
+    {
+      "slide_id": 16,
+      "time_window": "38.60s - 41.50s",
+      "duration": 2.9,
+      "spoken_words": "Put twenty seconds of friction between you and cheap dopamine.",
+      "scene_type": "rule_card",
+      "visual_description": "High-impact card on cream paper: Bold Emerald Green stopwatch shield labeled [ 20 SECONDS ] stands like physical barrier between stickman and phone. Text: THE FRICTION PROTOCOL.",
+      "layers": {
+        "background": "bg_cream_grid",
+        "character": "green_stopwatch_shield",
+        "graphic": "phone_locked_behind_barrier"
+      }
+    },
+    {
+      "slide_id": 17,
+      "time_window": "41.50s - 43.10s",
+      "duration": 1.6,
+      "spoken_words": "Put the phone in another room,",
+      "scene_type": "action_beat",
+      "visual_description": "Protagonist places black phone face-down on wooden desk in empty bedroom, then walks through doorway into hallway, leaving device behind.",
+      "layers": {
+        "background": "bg_bedroom_doorway",
+        "character": "phone_face_down_on_desk",
+        "graphic": "stickman_walking_away"
+      }
+    },
+    {
+      "slide_id": 18,
+      "time_window": "43.10s - 46.56s",
+      "duration": 3.46,
+      "spoken_words": "take ten deep breaths, and let the craving burn out.",
+      "scene_type": "breath_reset",
+      "visual_description": "Tranquil shot: Protagonist stands by open window with soft morning sunlight pouring over him. Chest expanded in deep inhale. Above head, tiny red cartoon flame gently fizzles out into white smoke.",
+      "layers": {
+        "background": "bg_open_window_sunlight",
+        "character": "protagonist_deep_breath",
+        "graphic": "fizzling_craving_flame"
+      }
+    },
+    {
+      "slide_id": 19,
+      "time_window": "46.56s - 49.30s",
+      "duration": 2.74,
+      "spoken_words": "Real power isn't feeding the itch every five seconds—",
+      "scene_type": "crowd_contrast",
+      "visual_description": "Wide street scene: Crowd of pale stickmen walking like zombies, heads tilted down at glowing blue screens. In center, protagonist stands still, looking up with clarity and peace.",
+      "layers": {
+        "background": "bg_grey_city_street",
+        "character": "zombie_scrollers_crowd",
+        "graphic": "protagonist_standing_clear"
+      }
+    },
+    {
+      "slide_id": 20,
+      "time_window": "49.30s - 52.50s",
+      "duration": 3.2,
+      "spoken_words": "it's having the strength to sit in stillness the second...",
+      "scene_type": "infinite_loop",
+      "visual_description": "Centered tranquil shot on cream paper. Protagonist sits serenely on wooden bench, hands folded in lap, eyes closed in stillness. Subtle golden halo behind head. Holds quietly into loop point.",
+      "layers": {
+        "background": "bg_tranquil_cream_void",
+        "character": "protagonist_meditating_bench",
+        "graphic": "golden_sovereignty_halo"
+      }
+    }
+  ]
+}

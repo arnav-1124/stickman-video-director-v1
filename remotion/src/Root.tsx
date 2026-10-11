@@ -2,6 +2,7 @@ import React from "react";
 import { Composition } from "remotion";
 import { z } from "zod";
 import { Chapter02Composition } from "./compositions/long/ep01/chapter_02";
+import { Ep07FullComposition } from "./compositions/shorts/ep07";
 
 export const chapter02Schema = z.object({
   zoomStart: z.number().min(1.0).max(1.8).step(0.01),
@@ -16,6 +17,16 @@ export type Chapter02Props = z.infer<typeof chapter02Schema>;
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      {/* 9:16 Shorts Episode 07 - Full 20-Slide Production Master (52.50s) */}
+      <Composition
+        id="ShortsEp07"
+        component={Ep07FullComposition}
+        durationInFrames={1575} // 52.50s @ 30fps
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+
       {/* Long-Form Episode 01: Chapter 02 (The Casino Effect) */}
       <Composition
         id="Chapter02"

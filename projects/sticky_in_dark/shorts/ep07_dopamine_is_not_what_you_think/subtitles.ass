@@ -1,0 +1,184 @@
+[Script Info]
+Title: Stickman Ink Explainer Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ExplainerWordSub,Arial Black,58,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.2,0,1,5.5,2.0,2,60,60,400,1
+Style: Default,Arial Black,58,&H00FFFFFF&,&H0000D7FF&,&H000A0D14&,&HA0000000&,-1,0,0,0,100,100,1.0,0,1,5.0,2.0,2,60,60,400,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.18,0:00:00.44,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BEFORE{\c&H00FFFFFF&\3c&H000A0D14&} YOU SCROLL,
+Dialogue: 0,0:00:00.44,0:00:00.69,ExplainerWordSub,,0,0,0,,BEFORE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} SCROLL,
+Dialogue: 0,0:00:00.69,0:00:00.95,ExplainerWordSub,,0,0,0,,BEFORE YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SCROLL,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:01.04,0:00:01.32,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOPAMINE{\c&H00FFFFFF&\3c&H000A0D14&} IS NOT
+Dialogue: 0,0:00:01.32,0:00:01.59,ExplainerWordSub,,0,0,0,,DOPAMINE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&} NOT
+Dialogue: 0,0:00:01.59,0:00:01.87,ExplainerWordSub,,0,0,0,,DOPAMINE IS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}NOT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:01.87,0:00:02.14,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PLEASURE CHEMICAL
+Dialogue: 0,0:00:02.14,0:00:02.42,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PLEASURE{\c&H00FFFFFF&\3c&H000A0D14&} CHEMICAL
+Dialogue: 0,0:00:02.42,0:00:02.70,ExplainerWordSub,,0,0,0,,THE PLEASURE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CHEMICAL{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:02.70,0:00:02.97,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} THINK IT
+Dialogue: 0,0:00:02.97,0:00:03.25,ExplainerWordSub,,0,0,0,,YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THINK{\c&H00FFFFFF&\3c&H000A0D14&} IT
+Dialogue: 0,0:00:03.25,0:00:03.52,ExplainerWordSub,,0,0,0,,YOU THINK {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:03.52,0:00:03.80,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IS.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:04.10,0:00:04.25,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} THINK IT
+Dialogue: 0,0:00:04.25,0:00:04.40,ExplainerWordSub,,0,0,0,,YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THINK{\c&H00FFFFFF&\3c&H000A0D14&} IT
+Dialogue: 0,0:00:04.40,0:00:04.54,ExplainerWordSub,,0,0,0,,YOU THINK {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:04.54,0:00:04.69,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}MAKES{\c&H00FFFFFF&\3c&H000A0D14&} YOU FEEL
+Dialogue: 0,0:00:04.69,0:00:04.84,ExplainerWordSub,,0,0,0,,MAKES {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} FEEL
+Dialogue: 0,0:00:04.84,0:00:04.99,ExplainerWordSub,,0,0,0,,MAKES YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:04.99,0:00:05.14,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HAPPY,{\c&H00FFFFFF&\3c&H000A0D14&} BUT IT
+Dialogue: 0,0:00:05.14,0:00:05.28,ExplainerWordSub,,0,0,0,,HAPPY, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BUT{\c&H00FFFFFF&\3c&H000A0D14&} IT
+Dialogue: 0,0:00:05.28,0:00:05.43,ExplainerWordSub,,0,0,0,,HAPPY, BUT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:05.43,0:00:05.58,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOESN'T.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:05.65,0:00:06.02,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IF{\c&H00FFFFFF&\3c&H000A0D14&} DOPAMINE WAS
+Dialogue: 0,0:00:06.02,0:00:06.39,ExplainerWordSub,,0,0,0,,IF {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOPAMINE{\c&H00FFFFFF&\3c&H000A0D14&} WAS
+Dialogue: 0,0:00:06.39,0:00:06.76,ExplainerWordSub,,0,0,0,,IF DOPAMINE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}WAS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:06.76,0:00:07.13,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PLEASURE,{\c&H00FFFFFF&\3c&H000A0D14&} YOU WOULD
+Dialogue: 0,0:00:07.13,0:00:07.50,ExplainerWordSub,,0,0,0,,PLEASURE, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} WOULD
+Dialogue: 0,0:00:07.50,0:00:07.87,ExplainerWordSub,,0,0,0,,PLEASURE, YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}WOULD{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:07.87,0:00:08.24,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&} SATISFIED AFTER
+Dialogue: 0,0:00:08.24,0:00:08.61,ExplainerWordSub,,0,0,0,,FEEL {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SATISFIED{\c&H00FFFFFF&\3c&H000A0D14&} AFTER
+Dialogue: 0,0:00:08.61,0:00:08.98,ExplainerWordSub,,0,0,0,,FEEL SATISFIED {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AFTER{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:08.98,0:00:09.35,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SCROLLING{\c&H00FFFFFF&\3c&H000A0D14&} FOR TWO
+Dialogue: 0,0:00:09.35,0:00:09.72,ExplainerWordSub,,0,0,0,,SCROLLING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FOR{\c&H00FFFFFF&\3c&H000A0D14&} TWO
+Dialogue: 0,0:00:09.72,0:00:10.09,ExplainerWordSub,,0,0,0,,SCROLLING FOR {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TWO{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:10.09,0:00:10.46,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HOURS.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:10.59,0:00:10.98,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}INSTEAD,{\c&H00FFFFFF&\3c&H000A0D14&} YOU FEEL
+Dialogue: 0,0:00:10.98,0:00:11.36,ExplainerWordSub,,0,0,0,,INSTEAD, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} FEEL
+Dialogue: 0,0:00:11.36,0:00:11.75,ExplainerWordSub,,0,0,0,,INSTEAD, YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FEEL{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:11.75,0:00:12.13,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}COMPLETELY{\c&H00FFFFFF&\3c&H000A0D14&} EMPTY, FOGGY,
+Dialogue: 0,0:00:12.13,0:00:12.52,ExplainerWordSub,,0,0,0,,COMPLETELY {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}EMPTY,{\c&H00FFFFFF&\3c&H000A0D14&} FOGGY,
+Dialogue: 0,0:00:12.52,0:00:12.91,ExplainerWordSub,,0,0,0,,COMPLETELY EMPTY, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FOGGY,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:12.91,0:00:13.29,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} EXHAUSTED.
+Dialogue: 0,0:00:13.29,0:00:13.68,ExplainerWordSub,,0,0,0,,AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}EXHAUSTED.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:13.83,0:00:14.21,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}NEUROSCIENTISTS{\c&H00FFFFFF&\3c&H000A0D14&} PROVED THIS
+Dialogue: 0,0:00:14.21,0:00:14.58,ExplainerWordSub,,0,0,0,,NEUROSCIENTISTS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PROVED{\c&H00FFFFFF&\3c&H000A0D14&} THIS
+Dialogue: 0,0:00:14.58,0:00:14.96,ExplainerWordSub,,0,0,0,,NEUROSCIENTISTS PROVED {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THIS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:14.96,0:00:15.33,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DECADES{\c&H00FFFFFF&\3c&H000A0D14&} AGO:
+Dialogue: 0,0:00:15.33,0:00:15.71,ExplainerWordSub,,0,0,0,,DECADES {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AGO:{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:15.88,0:00:16.14,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOPAMINE{\c&H00FFFFFF&\3c&H000A0D14&} DOESN'T SPIKE
+Dialogue: 0,0:00:16.14,0:00:16.40,ExplainerWordSub,,0,0,0,,DOPAMINE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOESN'T{\c&H00FFFFFF&\3c&H000A0D14&} SPIKE
+Dialogue: 0,0:00:16.40,0:00:16.66,ExplainerWordSub,,0,0,0,,DOPAMINE DOESN'T {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SPIKE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:16.66,0:00:16.91,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}WHEN{\c&H00FFFFFF&\3c&H000A0D14&} YOU GET
+Dialogue: 0,0:00:16.91,0:00:17.17,ExplainerWordSub,,0,0,0,,WHEN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} GET
+Dialogue: 0,0:00:17.17,0:00:17.43,ExplainerWordSub,,0,0,0,,WHEN YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}GET{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:17.43,0:00:17.69,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}A{\c&H00FFFFFF&\3c&H000A0D14&} REWARD.
+Dialogue: 0,0:00:17.69,0:00:17.95,ExplainerWordSub,,0,0,0,,A {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}REWARD.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:18.13,0:00:18.58,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&} SPIKES RIGHT
+Dialogue: 0,0:00:18.58,0:00:19.04,ExplainerWordSub,,0,0,0,,IT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SPIKES{\c&H00FFFFFF&\3c&H000A0D14&} RIGHT
+Dialogue: 0,0:00:19.04,0:00:19.49,ExplainerWordSub,,0,0,0,,IT SPIKES {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}RIGHT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:19.49,0:00:19.94,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BEFORE—DURING{\c&H00FFFFFF&\3c&H000A0D14&} THE ANTICIPATION.
+Dialogue: 0,0:00:19.94,0:00:20.40,ExplainerWordSub,,0,0,0,,BEFORE—DURING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ANTICIPATION.
+Dialogue: 0,0:00:20.40,0:00:20.85,ExplainerWordSub,,0,0,0,,BEFORE—DURING THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ANTICIPATION.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:20.99,0:00:21.23,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&} IS NOT
+Dialogue: 0,0:00:21.23,0:00:21.46,ExplainerWordSub,,0,0,0,,IT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&} NOT
+Dialogue: 0,0:00:21.46,0:00:21.70,ExplainerWordSub,,0,0,0,,IT IS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}NOT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:21.70,0:00:21.93,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SATISFACTION.{\c&H00FFFFFF&\3c&H000A0D14&} IT IS
+Dialogue: 0,0:00:21.93,0:00:22.17,ExplainerWordSub,,0,0,0,,SATISFACTION. {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT{\c&H00FFFFFF&\3c&H000A0D14&} IS
+Dialogue: 0,0:00:22.17,0:00:22.41,ExplainerWordSub,,0,0,0,,SATISFACTION. IT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:22.41,0:00:22.64,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AN{\c&H00FFFFFF&\3c&H000A0D14&} ITCH.
+Dialogue: 0,0:00:22.64,0:00:22.88,ExplainerWordSub,,0,0,0,,AN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ITCH.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:23.26,0:00:23.58,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}A{\c&H00FFFFFF&\3c&H000A0D14&} BIOLOGICAL ITCH
+Dialogue: 0,0:00:23.58,0:00:23.91,ExplainerWordSub,,0,0,0,,A {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BIOLOGICAL{\c&H00FFFFFF&\3c&H000A0D14&} ITCH
+Dialogue: 0,0:00:23.91,0:00:24.23,ExplainerWordSub,,0,0,0,,A BIOLOGICAL {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ITCH{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:24.23,0:00:24.56,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THAT{\c&H00FFFFFF&\3c&H000A0D14&} WHISPERS:
+Dialogue: 0,0:00:24.56,0:00:24.88,ExplainerWordSub,,0,0,0,,THAT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}WHISPERS:{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:25.04,0:00:25.29,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}JUST{\c&H00FFFFFF&\3c&H000A0D14&} ONE MORE
+Dialogue: 0,0:00:25.29,0:00:25.55,ExplainerWordSub,,0,0,0,,JUST {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ONE{\c&H00FFFFFF&\3c&H000A0D14&} MORE
+Dialogue: 0,0:00:25.55,0:00:25.80,ExplainerWordSub,,0,0,0,,JUST ONE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}MORE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:25.80,0:00:26.05,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}VIDEO,{\c&H00FFFFFF&\3c&H000A0D14&} JUST ONE
+Dialogue: 0,0:00:26.05,0:00:26.30,ExplainerWordSub,,0,0,0,,VIDEO, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}JUST{\c&H00FFFFFF&\3c&H000A0D14&} ONE
+Dialogue: 0,0:00:26.30,0:00:26.56,ExplainerWordSub,,0,0,0,,VIDEO, JUST {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ONE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:26.56,0:00:26.81,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}MORE{\c&H00FFFFFF&\3c&H000A0D14&} CLICK, MAYBE
+Dialogue: 0,0:00:26.81,0:00:27.06,ExplainerWordSub,,0,0,0,,MORE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CLICK,{\c&H00FFFFFF&\3c&H000A0D14&} MAYBE
+Dialogue: 0,0:00:27.06,0:00:27.32,ExplainerWordSub,,0,0,0,,MORE CLICK, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}MAYBE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:27.32,0:00:27.57,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} NEXT ONE
+Dialogue: 0,0:00:27.57,0:00:27.82,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}NEXT{\c&H00FFFFFF&\3c&H000A0D14&} ONE
+Dialogue: 0,0:00:27.82,0:00:28.07,ExplainerWordSub,,0,0,0,,THE NEXT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ONE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:28.07,0:00:28.33,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IS{\c&H00FFFFFF&\3c&H000A0D14&} BETTER.
+Dialogue: 0,0:00:28.33,0:00:28.58,ExplainerWordSub,,0,0,0,,IS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BETTER.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:28.73,0:00:28.99,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}EVERY{\c&H00FFFFFF&\3c&H000A0D14&} TIME YOU
+Dialogue: 0,0:00:28.99,0:00:29.24,ExplainerWordSub,,0,0,0,,EVERY {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TIME{\c&H00FFFFFF&\3c&H000A0D14&} YOU
+Dialogue: 0,0:00:29.24,0:00:29.50,ExplainerWordSub,,0,0,0,,EVERY TIME {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:29.50,0:00:29.76,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}REFRESH,{\c&H00FFFFFF&\3c&H000A0D14&} YOUR BRAIN
+Dialogue: 0,0:00:29.76,0:00:30.01,ExplainerWordSub,,0,0,0,,REFRESH, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOUR{\c&H00FFFFFF&\3c&H000A0D14&} BRAIN
+Dialogue: 0,0:00:30.01,0:00:30.27,ExplainerWordSub,,0,0,0,,REFRESH, YOUR {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BRAIN{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:30.27,0:00:30.52,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FLOODS{\c&H00FFFFFF&\3c&H000A0D14&} WITH CRAVING,
+Dialogue: 0,0:00:30.52,0:00:30.78,ExplainerWordSub,,0,0,0,,FLOODS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}WITH{\c&H00FFFFFF&\3c&H000A0D14&} CRAVING,
+Dialogue: 0,0:00:30.78,0:00:31.04,ExplainerWordSub,,0,0,0,,FLOODS WITH {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CRAVING,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:31.04,0:00:31.29,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}NOT{\c&H00FFFFFF&\3c&H000A0D14&} FULFILLMENT.
+Dialogue: 0,0:00:31.29,0:00:31.55,ExplainerWordSub,,0,0,0,,NOT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FULFILLMENT.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:31.65,0:00:32.04,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CHEAP{\c&H00FFFFFF&\3c&H000A0D14&} APPS HIJACKED
+Dialogue: 0,0:00:32.04,0:00:32.44,ExplainerWordSub,,0,0,0,,CHEAP {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}APPS{\c&H00FFFFFF&\3c&H000A0D14&} HIJACKED
+Dialogue: 0,0:00:32.44,0:00:32.83,ExplainerWordSub,,0,0,0,,CHEAP APPS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HIJACKED{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:32.83,0:00:33.22,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THIS{\c&H00FFFFFF&\3c&H000A0D14&} ANCIENT HUNTING
+Dialogue: 0,0:00:33.22,0:00:33.61,ExplainerWordSub,,0,0,0,,THIS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ANCIENT{\c&H00FFFFFF&\3c&H000A0D14&} HUNTING
+Dialogue: 0,0:00:33.61,0:00:34.01,ExplainerWordSub,,0,0,0,,THIS ANCIENT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HUNTING{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:34.01,0:00:34.40,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}REFLEX,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:34.40,0:00:34.64,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TURNING{\c&H00FFFFFF&\3c&H000A0D14&} YOUR FOCUS
+Dialogue: 0,0:00:34.64,0:00:34.89,ExplainerWordSub,,0,0,0,,TURNING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOUR{\c&H00FFFFFF&\3c&H000A0D14&} FOCUS
+Dialogue: 0,0:00:34.89,0:00:35.13,ExplainerWordSub,,0,0,0,,TURNING YOUR {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FOCUS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:35.13,0:00:35.38,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}INTO{\c&H00FFFFFF&\3c&H000A0D14&} A SLOT
+Dialogue: 0,0:00:35.38,0:00:35.62,ExplainerWordSub,,0,0,0,,INTO {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}A{\c&H00FFFFFF&\3c&H000A0D14&} SLOT
+Dialogue: 0,0:00:35.62,0:00:35.87,ExplainerWordSub,,0,0,0,,INTO A {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SLOT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:35.87,0:00:36.12,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}MACHINE{\c&H00FFFFFF&\3c&H000A0D14&} IN YOUR
+Dialogue: 0,0:00:36.12,0:00:36.36,ExplainerWordSub,,0,0,0,,MACHINE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} YOUR
+Dialogue: 0,0:00:36.36,0:00:36.61,ExplainerWordSub,,0,0,0,,MACHINE IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOUR{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:36.61,0:00:36.85,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}POCKET.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:36.85,0:00:37.23,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HERE’S{\c&H00FFFFFF&\3c&H000A0D14&} HOW YOU
+Dialogue: 0,0:00:37.23,0:00:37.62,ExplainerWordSub,,0,0,0,,HERE’S {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HOW{\c&H00FFFFFF&\3c&H000A0D14&} YOU
+Dialogue: 0,0:00:37.62,0:00:38.00,ExplainerWordSub,,0,0,0,,HERE’S HOW {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:38.00,0:00:38.39,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TAKE{\c&H00FFFFFF&\3c&H000A0D14&} CONTROL.
+Dialogue: 0,0:00:38.39,0:00:38.77,ExplainerWordSub,,0,0,0,,TAKE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CONTROL.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:38.92,0:00:39.21,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PUT{\c&H00FFFFFF&\3c&H000A0D14&} TWENTY SECONDS
+Dialogue: 0,0:00:39.21,0:00:39.51,ExplainerWordSub,,0,0,0,,PUT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TWENTY{\c&H00FFFFFF&\3c&H000A0D14&} SECONDS
+Dialogue: 0,0:00:39.51,0:00:39.80,ExplainerWordSub,,0,0,0,,PUT TWENTY {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SECONDS{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:39.80,0:00:40.10,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}OF{\c&H00FFFFFF&\3c&H000A0D14&} FRICTION BETWEEN
+Dialogue: 0,0:00:40.10,0:00:40.39,ExplainerWordSub,,0,0,0,,OF {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FRICTION{\c&H00FFFFFF&\3c&H000A0D14&} BETWEEN
+Dialogue: 0,0:00:40.39,0:00:40.68,ExplainerWordSub,,0,0,0,,OF FRICTION {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BETWEEN{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:40.68,0:00:40.98,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}YOU{\c&H00FFFFFF&\3c&H000A0D14&} AND CHEAP
+Dialogue: 0,0:00:40.98,0:00:41.27,ExplainerWordSub,,0,0,0,,YOU {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} CHEAP
+Dialogue: 0,0:00:41.27,0:00:41.57,ExplainerWordSub,,0,0,0,,YOU AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CHEAP{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:41.57,0:00:41.86,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DOPAMINE.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:42.02,0:00:42.27,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PUT{\c&H00FFFFFF&\3c&H000A0D14&} THE PHONE
+Dialogue: 0,0:00:42.27,0:00:42.53,ExplainerWordSub,,0,0,0,,PUT {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} PHONE
+Dialogue: 0,0:00:42.53,0:00:42.78,ExplainerWordSub,,0,0,0,,PUT THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}PHONE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:42.78,0:00:43.04,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} ANOTHER ROOM,
+Dialogue: 0,0:00:43.04,0:00:43.29,ExplainerWordSub,,0,0,0,,IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ANOTHER{\c&H00FFFFFF&\3c&H000A0D14&} ROOM,
+Dialogue: 0,0:00:43.29,0:00:43.55,ExplainerWordSub,,0,0,0,,IN ANOTHER {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ROOM,{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:43.65,0:00:43.92,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TAKE{\c&H00FFFFFF&\3c&H000A0D14&} TEN DEEP
+Dialogue: 0,0:00:43.92,0:00:44.19,ExplainerWordSub,,0,0,0,,TAKE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TEN{\c&H00FFFFFF&\3c&H000A0D14&} DEEP
+Dialogue: 0,0:00:44.19,0:00:44.47,ExplainerWordSub,,0,0,0,,TAKE TEN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}DEEP{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:44.47,0:00:44.74,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BREATHS,{\c&H00FFFFFF&\3c&H000A0D14&} AND LET
+Dialogue: 0,0:00:44.74,0:00:45.01,ExplainerWordSub,,0,0,0,,BREATHS, {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}AND{\c&H00FFFFFF&\3c&H000A0D14&} LET
+Dialogue: 0,0:00:45.01,0:00:45.28,ExplainerWordSub,,0,0,0,,BREATHS, AND {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}LET{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:45.28,0:00:45.55,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} CRAVING BURN
+Dialogue: 0,0:00:45.55,0:00:45.83,ExplainerWordSub,,0,0,0,,THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}CRAVING{\c&H00FFFFFF&\3c&H000A0D14&} BURN
+Dialogue: 0,0:00:45.83,0:00:46.10,ExplainerWordSub,,0,0,0,,THE CRAVING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}BURN{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:46.10,0:00:46.37,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}OUT.{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:46.56,0:00:46.86,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}REAL{\c&H00FFFFFF&\3c&H000A0D14&} POWER ISN'T
+Dialogue: 0,0:00:46.86,0:00:47.17,ExplainerWordSub,,0,0,0,,REAL {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}POWER{\c&H00FFFFFF&\3c&H000A0D14&} ISN'T
+Dialogue: 0,0:00:47.17,0:00:47.47,ExplainerWordSub,,0,0,0,,REAL POWER {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ISN'T{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:47.47,0:00:47.77,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FEEDING{\c&H00FFFFFF&\3c&H000A0D14&} THE ITCH
+Dialogue: 0,0:00:47.77,0:00:48.08,ExplainerWordSub,,0,0,0,,FEEDING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&} ITCH
+Dialogue: 0,0:00:48.08,0:00:48.38,ExplainerWordSub,,0,0,0,,FEEDING THE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}ITCH{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:48.38,0:00:48.68,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}EVERY{\c&H00FFFFFF&\3c&H000A0D14&} FIVE SECONDS—
+Dialogue: 0,0:00:48.68,0:00:48.99,ExplainerWordSub,,0,0,0,,EVERY {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}FIVE{\c&H00FFFFFF&\3c&H000A0D14&} SECONDS—
+Dialogue: 0,0:00:48.99,0:00:49.29,ExplainerWordSub,,0,0,0,,EVERY FIVE {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SECONDS—{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:49.38,0:00:49.65,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IT'S{\c&H00FFFFFF&\3c&H000A0D14&} HAVING THE
+Dialogue: 0,0:00:49.65,0:00:49.91,ExplainerWordSub,,0,0,0,,IT'S {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}HAVING{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:49.91,0:00:50.18,ExplainerWordSub,,0,0,0,,IT'S HAVING {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:50.18,0:00:50.45,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}STRENGTH{\c&H00FFFFFF&\3c&H000A0D14&} TO SIT
+Dialogue: 0,0:00:50.45,0:00:50.71,ExplainerWordSub,,0,0,0,,STRENGTH {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}TO{\c&H00FFFFFF&\3c&H000A0D14&} SIT
+Dialogue: 0,0:00:50.71,0:00:50.98,ExplainerWordSub,,0,0,0,,STRENGTH TO {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SIT{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:50.98,0:00:51.25,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}IN{\c&H00FFFFFF&\3c&H000A0D14&} STILLNESS THE
+Dialogue: 0,0:00:51.25,0:00:51.52,ExplainerWordSub,,0,0,0,,IN {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}STILLNESS{\c&H00FFFFFF&\3c&H000A0D14&} THE
+Dialogue: 0,0:00:51.52,0:00:51.78,ExplainerWordSub,,0,0,0,,IN STILLNESS {\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}THE{\c&H00FFFFFF&\3c&H000A0D14&}
+Dialogue: 0,0:00:51.78,0:00:52.05,ExplainerWordSub,,0,0,0,,{\c&H0000D7FF&\3c&H000A0D14&\t(0,60,\fscx112\fscy112)\t(60,120,\fscx100\fscy100)}SECOND...{\c&H00FFFFFF&\3c&H000A0D14&}

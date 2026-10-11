@@ -1,0 +1,328 @@
+==================================================================
+  EPISODE 07: NANO BANANA PRO BATCH PROMPTS (SLIDES 01 – 20)
+  Title: Dopamine Is Not What You Think
+  Aesthetic: Sticky in Dark 2D Comic Noir (#FAF9F6 Cream Paper)
+  Aspect Ratio: 9:16 Vertical (1080x1920)
+  Total Slides: 20 Scene Slides (Locked to 52.50s Voiceover)
+==================================================================
+
+------------------------------------------------------------------
+MASTER ANCHOR:
+Attach @Image1: master_assets/Character_Protagonist.jpg
+------------------------------------------------------------------
+
+
+==================================================================
+SLIDE 01 (0.00s – 1.15s | Duration: 1.15s)
+Voiceover: "Before you scroll,"
+Save as: slides/slide_01.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero gradients, zero 3D rendering, zero photorealism. Clean graphic novel doodle illustration. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular solid white head (#FFFFFF), identical messy textured dark-brown fringe hair, simple black vector dot eyes, dark forest-green cotton hoodie (#1B4332).
+
+Scene: In a simple, clean minimalist bedroom in the evening. The protagonist lies propped up on a clean grey pillow on his bed, holding a sleek black smartphone. A sharp, vibrant cool Electric-Blue screen glow (#00D4FF) illuminates his face in the soft room light. In the immediate foreground, a giant cartoon mitten hand reaches up toward the camera with a bold open 'STOP' palm gesture. Hand-drawn text above: 'STOP!'. Clean black linework, high contrast against the cream paper background.
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background, no gradient shading, no comic panel frames. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 02 (1.15s – 4.15s | Duration: 3.00s)
+Voiceover: "dopamine is not the pleasure chemical you think it is."
+Save as: slides/slide_02.jpg
+Attach: None (Infographic Blueprint)
+==================================================================
+A minimal 2D educational graphic card in the signature ink doodle style of Sticky in Dark, drawn on a solid warm cream paper canvas (#FAF9F6) with subtle light-grey engineering grid lines. Bold black ink outlines (5px-8px stroke weight), high contrast, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+On the left side of the frame:
+A clean 2D cutaway diagram of a cartoon brain drawn in crisp black ink vector lines with subtle grey shading. 
+
+On the right side of the frame:
+A cartoon chemistry glass flask bubbling with golden liquid (#FFD700), labeled in clean uppercase hand-drawn text: '[ PLEASURE CHEMICAL ]'. 
+A massive, violent Crimson Red ink slash (#FF2A4D) stamps diagonally across the entire flask, with bold hand-drawn red graffiti text underneath reading: 'FALSE!'. Ample clean cream negative space.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no complex chemical formulas, no black background. Pure 2D flat educational doodle, 9:16 vertical.
+
+
+==================================================================
+SLIDE 03 (4.15s – 6.31s | Duration: 2.16s)
+Voiceover: "You think it makes you feel happy, but it doesn't."
+Save as: slides/slide_03.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular solid white head (#FFFFFF), identical messy textured dark-brown fringe hair, dark forest-green cotton hoodie (#1B4332).
+
+Dramatic close-up: The protagonist looks dead-ahead directly at the camera with a completely unamused, deadpan straight horizontal flat-line mouth and tired, heavy black dot eyes. Floating beside his cheek is a small bright yellow circular smiley face bubble (#FFD700), which is violently struck through with a thick Crimson Red hand-drawn ink '✕' (#FF2A4D). Hand-drawn comic sweat bead dripping down his temple. High contrast against the textured cream canvas.
+
+STRICT NEGATIVE: No smiling, no photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 04 (6.31s – 10.10s | Duration: 3.79s)
+Voiceover: "If dopamine was pleasure, you would feel satisfied after scrolling for two hours."
+Save as: slides/slide_04.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular solid white head, messy dark-brown fringe hair, dark forest-green hoodie (#1B4332).
+
+Scene: Side angle of the protagonist slumped deep into a simple charcoal-grey living room couch, completely absorbed in his black smartphone. On the wall above the couch, a minimalist round wall clock has blurred spinning hand-arcs indicating fast-forward time from 11:00 PM to 1:00 AM. In the air in front of him, a cascade of ghosted semi-transparent rectangular phone video cards with colorful doodle video thumbnails float in an endless spiraling loop. Clean horizontal floor line, ample cream negative space.
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 05 (10.10s – 13.91s | Duration: 3.81s)
+Voiceover: "Instead, you feel completely empty, foggy, and exhausted."
+Save as: slides/slide_05.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular solid white head, messy dark-brown fringe hair, dark forest-green hoodie (#1B4332).
+
+Scene: The protagonist sits heavily slumped on the edge of a simple wooden bed, shoulders visibly collapsed forward in total physical and mental exhaustion. Heavy dark grey circles under his blank dot eyes, mouth a tired wavy line. Floating cleanly directly above his head on the cream canvas is a minimalist horizontal battery icon with a bold flashing Crimson Red outline (#FF2A4D) showing a tiny sliver of red labeled: '[ 1% ]'. A small white cartoon sigh puff drifts from his mouth. 
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 06 (13.91s – 16.20s | Duration: 2.29s)
+Voiceover: "Neuroscientists proved this decades ago:"
+Save as: slides/slide_06.jpg
+Attach: None (Vintage Lecture Classroom)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+In the center: A classic vintage chalkboard with a dark olive-green frame (#2D4A3E). Standing beside it on the left is a cute, quirky stickman scientist with a white circular head, wild Einstein-style white hair tufts, small round black spectacles, and a white lab coat. He holds a long wooden pointer stick firmly pointing at a clean hand-drawn diagram of human brain anatomy on the chalkboard. Hand-drawn text at top of chalkboard: 'NEUROSCIENCE LAB'. High contrast, clean educational doodle.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 07 (16.20s – 18.50s | Duration: 2.30s)
+Voiceover: "dopamine doesn't spike when you get a reward."
+Save as: slides/slide_07.jpg
+Attach: None (Concept Infographic)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+On a clean minimalist wooden table in the center:
+A neatly wrapped gift box with golden wrapping paper (#FFD700) and a red ribbon has already been opened, lid resting on the table, revealing shiny cartoon golden coins inside. 
+Directly beneath the table running horizontally is a straight black timeline axis labeled 'DOPAMINE LEVEL'. The graph line across the table is completely dead and flat: a straight horizontal dotted line labeled in clean red text: '--- ZERO SPIKE (FLATLINE) ---'. High contrast, clear visual metaphor.
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 08 (18.50s – 21.06s | Duration: 2.56s)
+Voiceover: "It spikes right before—during the anticipation."
+Save as: slides/slide_08.jpg
+Attach: None (Kinetic Climax Graph)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+In the center: A closed mysterious cardboard box with a glowing lock. A white cartoon mitten hand hovers just 2 inches above the box, fingers trembling in eager anticipation.
+At that exact split-second before opening, a massive, jagged Crimson Red graph line (#FF2A4D) surges straight up off the timeline toward the top of the frame with electric spark bursts! Huge bold hand-drawn text beside the towering spike: '[ ANTICIPATION SPIKE! ]'. High-energy, crisp comic vector aesthetic.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 09 (21.06s – 23.40s | Duration: 2.34s)
+Voiceover: "It is not satisfaction. It is an itch."
+Save as: slides/slide_09.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy dark brown hair, dark green hoodie.
+
+Graphic anatomical close-up: The protagonist holds both hands to the sides of his head in mild distress. A clean comic cutaway of his brain reveals it covered in dense clusters of buzzing red prickle marks, tiny lightning bolts, and cartoon itch exclamation points (#FF2A4D). Huge distressed bold red hand-drawn text floating above: 'THE ITCH'. High contrast against the textured cream paper background.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 10 (23.40s – 25.10s | Duration: 1.70s)
+Voiceover: "A biological itch that whispers:"
+Save as: slides/slide_10.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy dark brown hair, dark green hoodie.
+
+Dramatic side view: The protagonist stands in profile facing right, holding his phone hesitantly with wide, conflicted dot eyes. Looming directly behind his shoulder is a shadowy, mischievous pitch-black stickman figure with a sharp grinning white mouth and glowing red dot eyes, leaning close and whispering directly into his ear. A curly comic speech balloon coils from the shadow: '*pssst...*'. High contrast, moody comic storytelling on cream paper.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 11 (25.10s – 28.21s | Duration: 3.11s)
+Voiceover: "just one more video, just one more click, maybe the next one is better."
+Save as: slides/slide_11.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy brown fringe hair, dark green hoodie (#1B4332), black stick legs, white sneakers.
+
+The Hamster Wheel Trap: The protagonist is running frantically in pure side profile inside a giant minimalist revolving circular treadmill belt. Strapped to his back is a curved fishing rod that dangles a glowing golden YouTube Shorts play button icon (#FFD700) just 4 inches ahead of his grasping fingertips. Cartoon sweat flying, running motion arcs beneath his feet. Clean horizontal floor baseline on cream canvas.
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 12 (28.21s – 32.10s | Duration: 3.89s)
+Voiceover: "Every time you refresh, your brain floods with craving, not fulfillment."
+Save as: slides/slide_12.jpg
+Attach: None (Macro Phone Interaction)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Macro view: A cartoon white mitten hand holds a sleek black smartphone. The thumb pulls forcefully downward on the screen, creating a dynamic circular refresh loading spinner with curved motion lines. 
+Above the phone on the cream paper, two gauges are compared:
+1. Top Gauge: Crimson Red meter (#FF2A4D) surging to 100% labeled '[ CRAVING ]'.
+2. Bottom Gauge: Dull grey meter at 0% labeled '[ FULFILLMENT: 0% ]'. 
+High contrast, punchy visual psychology on cream paper.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 13 (32.10s – 34.40s | Duration: 2.30s)
+Voiceover: "Cheap apps hijacked this ancient hunting reflex,"
+Save as: slides/slide_13.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Vertical split-screen divided by a clean black ink center line:
+Left Half: An ancient stickman hunter wearing a brown fur pelt, crouching in the wild savannah, tracking fresh mammoth footprints in the dirt with a wooden spear in hand.
+Right Half: Modern protagonist in his dark green hoodie (#1B4332), crouching on the floor hunched over his smartphone, tracking glowing red notification badges on his screen.
+Hand-drawn text above: 'THE SAME BRAIN'. High contrast, brilliant storytelling.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 14 (34.40s – 37.00s | Duration: 2.60s)
+Voiceover: "turning your focus into a slot machine in your pocket."
+Save as: slides/slide_14.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy dark brown hair, dark green hoodie.
+
+In the center: A giant upright black smartphone transformed into a retro mechanical Vegas slot machine. On its side, a bright red mechanical lever arm snaps down with a recoil spring. On the phone screen, three mechanical reels spin with vertical motion blur, displaying: '[ 🔔 ] [ ❤️ ] [ 💬 ]'. The protagonist stands beside it on the left, eyes glowing with neon reflection, holding his hands out in trance-like anticipation. High contrast on cream paper.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 15 (37.00s – 38.60s | Duration: 1.60s)
+Voiceover: "Here’s how you take control."
+Save as: slides/slide_15.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy textured dark-brown fringe hair, dark forest-green hoodie (#1B4332), black stick legs.
+
+Shift in posture: The protagonist turns his back firmly on the glowing smartphone, which lies small and unpowered on a desk behind him. He stands tall and upright, arms crossed calmly over his chest, chin lifted, sharp focused determined black dot eyes. Soft morning sunlight rays stream diagonally into the room from a tall window on the left. High contrast, grounded sovereign presence.
+
+STRICT NEGATIVE: No slouching, no photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 16 (38.60s – 41.50s | Duration: 2.90s)
+Voiceover: "Put twenty seconds of friction between you and cheap dopamine."
+Save as: slides/slide_16.jpg
+Attach: None (Tactical Rule Card)
+==================================================================
+A minimal 2D tactical rule card in the signature ink doodle style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6) with subtle light-grey graph grid. Bold black ink outlines (5px-8px stroke weight), zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+In the center: A massive, bold Emerald Green stopwatch shield (#2A9D8F) standing as an impenetrable physical barrier between a stickman on the left and a smartphone on the right. 
+Inside the stopwatch shield, bold black digital numbers read: '[ :20 SECONDS ]'. 
+Hand-drawn banner at top: 'THE FRICTION PROTOCOL'. Clear, punchy actionable visual rule on clean cream canvas.
+
+STRICT NEGATIVE: No 3D rendering, no photorealism, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 17 (41.50s – 43.10s | Duration: 1.60s)
+Voiceover: "Put the phone in another room,"
+Save as: slides/slide_17.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, dark green hoodie (#1B4332).
+
+Scene: On a clean wooden desk in the foreground of an empty room, the black smartphone lies completely flat and face-down. In the background doorway, the protagonist walks calmly away into the brightly lit hallway, hands in his hoodie pockets, unbothered. The physical distance between the man and the phone is clear and peaceful. Clean floor baseline on warm cream paper.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 18 (43.10s – 46.56s | Duration: 3.46s)
+Voiceover: "take ten deep breaths, and let the craving burn out."
+Save as: slides/slide_18.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, messy brown fringe hair, dark green hoodie (#1B4332).
+
+Scene: The protagonist stands in profile beside a tall open window. Soft golden morning light beams pour into the room. His chest is expanded in a deep, conscious inhale, eyes peacefully closed. Above his head in the air, a tiny red cartoon flame (#FF2A4D) labeled 'CRAVING' is gently dissolving into a delicate wisp of white smoke, fading to nothing. Peaceful, grounding somatic reset on cream paper.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 19 (46.56s – 49.30s | Duration: 2.74s)
+Voiceover: "Real power isn't feeding the itch every five seconds—"
+Save as: slides/slide_19.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular white head, dark green hoodie (#1B4332).
+
+Scene: On a stylized city sidewalk, a crowd of grey-hooded stickmen walk like zombies, heads hunched down, blue screens illuminating their blank faces. In the center of the sidewalk, our protagonist in his green hoodie stands upright, perfectly still, looking up at the sky with open awareness and total clarity. High contrast, powerful social commentary doodle.
+
+STRICT NEGATIVE: No photorealism, no 3D rendering, no black background. Pure 2D flat minimalist illustration, 9:16 vertical.
+
+
+==================================================================
+SLIDE 20 (49.30s – 52.50s | Duration: 3.20s)
+Voiceover: "it's having the strength to sit in stillness the second..."
+Save as: slides/slide_20.jpg
+Attach: @Image1 (Character_Protagonist.jpg)
+==================================================================
+A minimal 2D hand-drawn comic animation still in the signature pen-and-ink cartoon style of Sticky in Dark, drawn on an off-white warm cream paper canvas (#FAF9F6). Bold black ink pen outlines (5px-8px stroke weight), flat solid color blocking, zero 3D rendering. Vertical 9:16 aspect ratio (1080x1920).
+
+Using reference @Image1:
+Maintain 100% identical character DNA from @Image1: Smooth circular solid white head, messy textured dark-brown fringe hair, dark forest-green cotton hoodie (#1B4332), black stick legs with white sneakers.
+
+The Infinite Loop Finale: In the center of the warm cream paper canvas, the protagonist sits in serene stillness on a simple dark-wood park bench, hands folded calmly in his lap, eyes gently closed in deep peaceful meditation. Radiating softly behind his head is a warm circular golden halo (#FFD700). A single clean horizontal floor line runs across the bottom. Ample clean, peaceful cream negative space. Seamless loop ending that cuts straight back into the hook!
+
+STRICT NEGATIVE: No clutter, no phones, no photorealism, no 3D rendering, no black canvas. Pure 2D flat minimalist illustration, 9:16 vertical.

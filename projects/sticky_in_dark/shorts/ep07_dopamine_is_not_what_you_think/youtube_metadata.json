@@ -1,0 +1,76 @@
+{
+  "project_id": "ep07_dopamine_is_not_what_you_think",
+  "channel": "Sticky in Dark",
+  "handle": "@stickyindark",
+  "format": "YouTube Shorts (9:16)",
+  "language": "English",
+  "recommended_title": "Dopamine Is Not What You Think #shorts",
+  "title_candidates": [
+    {
+      "archetype": "Primary Curiosity Gap",
+      "title": "Dopamine Is Not What You Think #shorts",
+      "char_count": 41,
+      "mobile_safe": true
+    },
+    {
+      "archetype": "Visceral Pain Hook",
+      "title": "Why Scrolling Leaves You Empty #shorts",
+      "char_count": 38,
+      "mobile_safe": true
+    },
+    {
+      "archetype": "Contradiction Punch",
+      "title": "Dopamine Is Not Pleasure #shorts",
+      "char_count": 32,
+      "mobile_safe": true
+    },
+    {
+      "archetype": "Midnight Dilemma",
+      "title": "Why Your Brain Can't Stop #shorts",
+      "char_count": 34,
+      "mobile_safe": true
+    },
+    {
+      "archetype": "The Addiction Question",
+      "title": "Is It Dopamine Or Addiction? #shorts",
+      "char_count": 37,
+      "mobile_safe": true
+    }
+  ],
+  "thumbnails": {
+    "option_dopamine_9x16": {
+      "path": "thumbnails/thumbnail_9x16_dopamine.jpg",
+      "aspect_ratio": "9:16",
+      "text": "DOPAMINE.",
+      "score": 97,
+      "style": "Day One Films 9:16 Vertical Signature"
+    },
+    "option_addiction_9x16": {
+      "path": "thumbnails/thumbnail_9x16_addiction.jpg",
+      "aspect_ratio": "9:16",
+      "text": "ADDICTION.",
+      "score": 96,
+      "style": "Day One Films 9:16 Vertical Signature"
+    }
+  },
+  "description_first_3_lines": "Before you scroll again, dopamine is not what you think.\nIf dopamine was actually pleasure, scrolling for two hours would leave you satisfied.\nInstead, you feel completely drained, foggy, and hollow.",
+  "pinned_comment": "Be honest: What’s the longest you’ve scrolled at night while feeling completely exhausted, but unable to stop? Put your time below—let's see who holds the record.",
+  "tags": [
+    "dopamine",
+    "dopamine detox",
+    "why do i scroll",
+    "how to stop scrolling",
+    "cheap dopamine",
+    "brain hack",
+    "animated short film",
+    "sticky in dark",
+    "day one films",
+    "stickman animation",
+    "dopamine is not pleasure",
+    "psychology animation",
+    "focus habits",
+    "shorts"
+  ],
+  "category_id": 24,
+  "made_for_kids": false
+}

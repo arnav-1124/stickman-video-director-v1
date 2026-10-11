@@ -11,7 +11,7 @@
 2. **Motion Through Cutting:** The video is built from illustrated frames, but it must **never feel like a static PowerPoint presentation**. 
    - Rapid sequential framing: Wide establishing shot (2.0s) -> Medium action shot (2.0s) -> Tight reaction shot (1.8s) -> Macro prop shot (2.2s).
    - Sequential poses: Break character actions into 2–3 progressive frames (e.g., raising arm -> holding spear aloft -> pointing forward).
-   - Micro camera dynamics: Snappy 1.05x–1.12x punch-ins, Ken Burns subtle drifts, or horizontal pan shifts between cuts.
+   - Micro camera dynamics: Snappy 1.02x–1.08x punch-ins, Ken Burns subtle drifts, or horizontal pan shifts between cuts. All camera motion must strictly adhere to [.agents/rules/camera_and_motion_graphics_rule.md](file:///f:/Arnav%20-%20YT/stickman-video-director/.agents/rules/camera_and_motion_graphics_rule.md) (anti-cropping law, affine camera matrix rig, zero jitter).
 3. **2-Minute Target Benchmark:** A 120-second (2-minute) episode must feature between **45 and 55 unique visual beats/slides**.
 
 ---

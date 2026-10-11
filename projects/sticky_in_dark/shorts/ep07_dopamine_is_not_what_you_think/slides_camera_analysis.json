@@ -1,0 +1,162 @@
+[
+  {
+    "slide_id": 1,
+    "time_window": "0.00s - 1.15s",
+    "frames": "0 - 35",
+    "zoom_range": [1.00, 1.06],
+    "pan_range_xy": [[540, 960], [560, 920]],
+    "framing_goal": "Full bedroom and stop hand fully visible without edge crop."
+  },
+  {
+    "slide_id": 2,
+    "time_window": "1.15s - 4.15s",
+    "frames": "35 - 125",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[520, 960], [565, 975]],
+    "framing_goal": "Both brain diagram on left AND flask with FALSE! on right stay 100% visible."
+  },
+  {
+    "slide_id": 3,
+    "time_window": "4.15s - 6.31s",
+    "frames": "125 - 189",
+    "zoom_range": [1.02, 1.08],
+    "pan_range_xy": [[550, 960], [520, 920]],
+    "framing_goal": "Both Sticky's face and crossed-out smiley bubble stay in frame."
+  },
+  {
+    "slide_id": 4,
+    "time_window": "6.31s - 10.10s",
+    "frames": "189 - 303",
+    "zoom_range": [1.02, 1.06],
+    "pan_range_xy": [[530, 900], [550, 980]],
+    "framing_goal": "Spinning wall clock, swirling video cards, and couch stickman all visible."
+  },
+  {
+    "slide_id": 5,
+    "time_window": "10.10s - 13.91s",
+    "frames": "303 - 417",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 910], [540, 960]],
+    "framing_goal": "1% battery overhead and exhausted face on mattress remain fully framed."
+  },
+  {
+    "slide_id": 6,
+    "time_window": "13.91s - 16.20s",
+    "frames": "417 - 486",
+    "zoom_range": [1.02, 1.06],
+    "pan_range_xy": [[510, 960], [555, 935]],
+    "framing_goal": "Einstein stickman with pointer and chalkboard brain diagram both in view."
+  },
+  {
+    "slide_id": 7,
+    "time_window": "16.20s - 18.50s",
+    "frames": "486 - 555",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 920], [540, 975]],
+    "framing_goal": "Open reward box and flatline graph below both clearly visible."
+  },
+  {
+    "slide_id": 8,
+    "time_window": "18.50s - 21.06s",
+    "frames": "555 - 632",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[520, 990], [555, 920]],
+    "framing_goal": "Hand over box at bottom and soaring red spike at top both remain in frame."
+  },
+  {
+    "slide_id": 9,
+    "time_window": "21.06s - 23.40s",
+    "frames": "632 - 702",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 910], [540, 955]],
+    "framing_goal": "THE ITCH title, rash bubble, and Sticky clutching temples all framed."
+  },
+  {
+    "slide_id": 10,
+    "time_window": "23.40s - 25.10s",
+    "frames": "702 - 753",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[560, 960], [520, 940]],
+    "framing_goal": "Both Sticky looking at phone and shadow demon whispering stay in view."
+  },
+  {
+    "slide_id": 11,
+    "time_window": "25.10s - 28.21s",
+    "frames": "753 - 846",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[520, 960], [560, 960]],
+    "framing_goal": "Running Sticky, treadmill wheel, and dangling golden button all visible."
+  },
+  {
+    "slide_id": 12,
+    "time_window": "28.21s - 32.10s",
+    "frames": "846 - 963",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 910], [540, 970]],
+    "framing_goal": "Craving 100% dial, fulfillment 0% bar, and pull-refresh hand all in frame."
+  },
+  {
+    "slide_id": 13,
+    "time_window": "32.10s - 34.40s",
+    "frames": "963 - 1032",
+    "zoom_range": [1.02, 1.03],
+    "pan_range_xy": [[510, 960], [570, 960]],
+    "framing_goal": "Split screen maintained: Caveman on left and Modern scroller on right."
+  },
+  {
+    "slide_id": 14,
+    "time_window": "34.40s - 37.00s",
+    "frames": "1032 - 1110",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[510, 960], [560, 940]],
+    "framing_goal": "Hypnotized Sticky on left and smartphone slot machine on right both in view."
+  },
+  {
+    "slide_id": 15,
+    "time_window": "37.00s - 38.60s",
+    "frames": "1110 - 1158",
+    "zoom_range": [1.02, 1.06],
+    "pan_range_xy": [[560, 980], [530, 930]],
+    "framing_goal": "Phone on desk, sunlight beam, and crossed-arms Sticky all visible."
+  },
+  {
+    "slide_id": 16,
+    "time_window": "38.60s - 41.50s",
+    "frames": "1158 - 1245",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 910], [540, 955]],
+    "framing_goal": "THE FRICTION PROTOCOL banner, green stopwatch shield, and phone all in frame."
+  },
+  {
+    "slide_id": 17,
+    "time_window": "41.50s - 43.10s",
+    "frames": "1245 - 1293",
+    "zoom_range": [1.02, 1.06],
+    "pan_range_xy": [[510, 980], [560, 930]],
+    "framing_goal": "Phone abandoned on desk and Sticky walking through doorway both in view."
+  },
+  {
+    "slide_id": 18,
+    "time_window": "43.10s - 46.56s",
+    "frames": "1293 - 1397",
+    "zoom_range": [1.02, 1.07],
+    "pan_range_xy": [[540, 980], [540, 920]],
+    "framing_goal": "Sticky breathing at window and rising smoke puff both completely visible."
+  },
+  {
+    "slide_id": 19,
+    "time_window": "46.56s - 49.30s",
+    "frames": "1397 - 1479",
+    "zoom_range": [1.00, 1.06],
+    "pan_range_xy": [[540, 960], [540, 930]],
+    "framing_goal": "Entire crowd of phone zombies walking past Sticky in center remains in view."
+  },
+  {
+    "slide_id": 20,
+    "time_window": "49.30s - 52.50s",
+    "frames": "1479 - 1575",
+    "zoom_range": [1.00, 1.05],
+    "pan_range_xy": [[540, 960], [540, 930]],
+    "framing_goal": "Park bench, seated Sticky, folded hands, and golden halo all in view."
+  }
+]
