@@ -131,9 +131,9 @@ export const SHOT_CAMERA_PATHS: ShotCameraConfig[] = [
     shotId: 13,
     startFrame: 2143,
     endFrame: 2379,
-    startPos: [-2.60, 1.85, 4.20],
-    endPos: [-2.20, 1.70, 3.80],
-    target: [0.35, 1.30, 0.10],
+    startPos: [-2.80, 2.00, 4.80],
+    endPos: [-2.40, 1.80, 4.20],
+    target: [0.15, 1.20, 0.0],
     fov: 42,
   },
   // Shot 14: Biology Sounds the Alarm

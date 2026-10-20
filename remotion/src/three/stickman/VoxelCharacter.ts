@@ -761,9 +761,9 @@ export class VoxelCharacter {
     // Left arm (facing Alex) actively gestures forward in smooth explanatory arc toward him
     const gesture = Math.sin(cycle);
     this.armLeft.rotation.set(
-      0.72 + gesture * 0.22,
-      0.35 + Math.cos(cycle) * 0.12,
-      -0.22
+      1.10 + gesture * 0.35,
+      0.45 + Math.cos(cycle) * 0.20,
+      -0.20
     );
 
     // Right arm in relaxed conversational cadence
@@ -799,32 +799,34 @@ export class VoxelCharacter {
 
   public setDumbbellCurls(time: number): void {
     this.resetJoints();
-    const cycle = time * 3.5;
+    const cycle = time * 3.2;
 
-    // Athletic posture: chest high, slight athletic knee flexion
-    this.torsoGroup.rotation.set(0.06, 0, 0);
-    this.headGroup.rotation.set(-0.04, 0, 0);
+    // Smooth continuous alternating bicep curls (0.0 to 1.0)
+    const curlR = (Math.sin(cycle) + 1) * 0.5;
+    const curlL = (Math.sin(cycle + Math.PI) + 1) * 0.5;
 
-    // Alternating smooth bicep curls with dumbbells
-    // Right arm curling up to chest then lowering
-    const curlR = Math.max(0, Math.sin(cycle));
+    // Athletic posture with slight dynamic power sway
+    const powerSway = Math.sin(cycle) * 0.03;
+    this.torsoGroup.rotation.set(0.08, powerSway, 0);
+    this.headGroup.rotation.set(-0.02, powerSway * 0.5, 0);
+
+    // Right arm curls smoothly from side up to chest
     this.armRight.rotation.set(
-      0.15 + curlR * 1.35, // Curls from side up to shoulder
-      -0.10,
-      0.12
+      0.18 + curlR * 1.35,
+      -0.12,
+      0.12 + curlR * 0.10
     );
 
-    // Left arm curling on opposite half-cycle
-    const curlL = Math.max(0, Math.sin(cycle + Math.PI));
+    // Left arm curls on opposite cadence
     this.armLeft.rotation.set(
-      0.15 + curlL * 1.35,
-      0.10,
-      -0.12
+      0.18 + curlL * 1.35,
+      0.12,
+      -0.12 - curlL * 0.10
     );
 
-    // Strong athletic stance
-    this.legLeft.rotation.set(0.08, 0, -0.08);
-    this.legRight.rotation.set(0.08, 0, 0.08);
+    // Strong grounded athletic stance
+    this.legLeft.rotation.set(0.06, 0, -0.06);
+    this.legRight.rotation.set(0.06, 0, 0.06);
   }
 
   public setSittingReadingBook(time: number): void {
@@ -832,13 +834,13 @@ export class VoxelCharacter {
     const breath = Math.sin(time * 1.4) * 0.012;
 
     // Relaxed, dignified sitting posture
-    this.torsoGroup.rotation.set(0.08 + breath, 0, 0);
+    this.torsoGroup.rotation.set(0.06 + breath, 0, 0);
     // Head angled down looking directly at the book in hands
-    this.headGroup.rotation.set(0.38, 0, 0);
+    this.headGroup.rotation.set(0.36, 0, 0);
 
-    // Both arms raised forward holding book open at chest level
-    this.armLeft.rotation.set(0.72, 0.35, -0.22);
-    this.armRight.rotation.set(0.72, -0.35, 0.22);
+    // Both arms raised forward holding book open at chest level above desk
+    this.armLeft.rotation.set(1.05, 0.32, -0.16);
+    this.armRight.rotation.set(1.05, -0.32, 0.16);
 
     // Legs seated forward under desk
     this.legLeft.rotation.set(-Math.PI / 2 + 0.12, 0, 0);

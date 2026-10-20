@@ -2566,13 +2566,13 @@ export function buildSceneByShotId(shotId: number): SceneBundle {
     // 4. Characters: Senior Mentor (Marcus) & Hero (Alex)
     // Marcus on the right standing in front of Alex, turned toward him
     const mentor = new VoxelCharacter("Marcus");
-    mentor.root.position.set(0.55, 0.34, 0.25);
-    mentor.root.rotation.set(0, -Math.PI / 2 - 0.45, 0);
+    mentor.root.position.set(0.40, 0.34, 0.30);
+    mentor.root.rotation.set(0, -Math.PI / 2 + 0.45, 0);
     scene.add(mentor.root);
 
     // Alex on the left, standing facing Marcus attentively
-    character.root.position.set(-0.55, 0.34, -0.05);
-    character.root.rotation.set(0, Math.PI / 2 - 0.35, 0);
+    character.root.position.set(-0.50, 0.34, -0.10);
+    character.root.rotation.set(0, Math.PI / 2 - 0.40, 0);
     character.root.visible = true;
 
     customUpdate = (t) => {
@@ -2627,213 +2627,194 @@ export function buildSceneByShotId(shotId: number): SceneBundle {
       scene.add(slat);
     }
 
-    // 2. Central Demonstration Table
-    const tableGroup = new THREE.Group();
-    tableGroup.position.set(0, 0, -0.2);
+    // Warm Amber LED Uplight grazing the rear timber slats (MasterClass studio ambiance)
+    const slatUplight = new THREE.PointLight(0xf59e0b, 2.2, 5.0);
+    slatUplight.position.set(0, 0.4, -1.8);
+    scene.add(slatUplight);
 
-    const tableTop = new THREE.Mesh(new THREE.BoxGeometry(3.6, 0.10, 1.4), darkOakTrimMat);
-    tableTop.position.set(0, 0.85, 0);
-    tableGroup.add(tableTop);
-
-    for (const [tx, tz] of [[-1.65, -0.55], [1.65, -0.55], [-1.65, 0.55], [1.65, 0.55]]) {
-      const leg = new THREE.Mesh(new THREE.BoxGeometry(0.10, 0.85, 0.10), darkOakTrimMat);
-      leg.position.set(tx, 0.425, tz);
-      tableGroup.add(leg);
-    }
+    // 2. Dual Sleek Museum Exhibition Pedestals
+    const plinthMat = new THREE.MeshToonMaterial({ color: 0x222736 });
+    const brassMat = new THREE.MeshToonMaterial({ color: 0xd4af37 });
+    const ironMat = new THREE.MeshToonMaterial({ color: 0x3f3f46 });
 
     // -----------------------------------------------------------------------
-    // LEFT SIDE: TINY CRUSHED WILLPOWER CELL (SPARK PLUG)
+    // LEFT PEDESTAL: CRUSHED 0% WILLPOWER BATTERY UNDER 500KG ANVIL
     // -----------------------------------------------------------------------
-    const cellGroup = new THREE.Group();
-    cellGroup.position.set(-1.0, 0.90, 0);
+    const leftPedestal = new THREE.Group();
+    leftPedestal.position.set(-1.30, 0, 0);
 
-    // Pedestal base with label plaque
-    const cellBase = new THREE.Mesh(
-      new THREE.BoxGeometry(0.90, 0.08, 0.90),
-      new THREE.MeshToonMaterial({ color: 0x1c1917 })
-    );
-    cellBase.position.y = 0.04;
-    cellGroup.add(cellBase);
+    // Pedestal Column
+    const leftCol = new THREE.Mesh(new THREE.BoxGeometry(0.85, 0.80, 0.85), plinthMat);
+    leftCol.position.y = 0.40;
+    leftPedestal.add(leftCol);
 
-    // Red warning accent rim
-    const cellRim = new THREE.Mesh(
-      new THREE.BoxGeometry(0.86, 0.02, 0.86),
+    // Red illuminated warning ring
+    const leftRim = new THREE.Mesh(
+      new THREE.BoxGeometry(0.89, 0.04, 0.89),
       new THREE.MeshBasicMaterial({ color: 0xef4444 })
     );
-    cellRim.position.y = 0.09;
-    cellGroup.add(cellRim);
+    leftRim.position.y = 0.81;
+    leftPedestal.add(leftRim);
 
-    // Fragile cylindrical glass battery chamber (crushed/shattered)
-    const glassTube = new THREE.Mesh(
-      new THREE.CylinderGeometry(0.20, 0.20, 0.35, 16),
-      new THREE.MeshToonMaterial({ color: 0xfee2e2, transparent: true, opacity: 0.55 })
+    // 3D Battery: Red cylinder with silver terminal cap
+    const batteryBody = new THREE.Mesh(
+      new THREE.CylinderGeometry(0.16, 0.16, 0.36, 20),
+      new THREE.MeshToonMaterial({ color: 0xdc2626 })
     );
-    glassTube.position.y = 0.26;
-    cellGroup.add(glassTube);
+    batteryBody.position.y = 1.00;
+    leftPedestal.add(batteryBody);
 
-    // Dead 0% red depleted battery filament inside
-    const deadCore = new THREE.Mesh(
-      new THREE.CylinderGeometry(0.08, 0.08, 0.22, 12),
-      new THREE.MeshBasicMaterial({ color: 0xdc2626 })
+    // Battery silver positive (+) terminal
+    const batteryTerminal = new THREE.Mesh(
+      new THREE.CylinderGeometry(0.06, 0.06, 0.08, 16),
+      new THREE.MeshToonMaterial({ color: 0xd1d5db })
     );
-    deadCore.position.y = 0.26;
-    cellGroup.add(deadCore);
+    batteryTerminal.position.y = 1.20;
+    leftPedestal.add(batteryTerminal);
 
-    // Colossal 500kg dark iron crushing block resting right on top of the tiny battery
-    const crushingBlock = new THREE.Mesh(
-      new THREE.BoxGeometry(0.80, 0.65, 0.70),
-      new THREE.MeshToonMaterial({ color: 0x27272a })
+    // Empty battery level indicator (dark hollow band on battery)
+    const emptyMeter = new THREE.Mesh(
+      new THREE.BoxGeometry(0.22, 0.10, 0.06),
+      new THREE.MeshBasicMaterial({ color: 0x000000 })
     );
-    crushingBlock.position.set(0, 0.76, 0);
-    cellGroup.add(crushingBlock);
+    emptyMeter.position.set(0, 1.00, 0.14);
+    leftPedestal.add(emptyMeter);
 
-    // Stress cracks on crushing block
-    const crackMat = new THREE.MeshBasicMaterial({ color: 0xef4444 });
-    const crackA = new THREE.Mesh(new THREE.BoxGeometry(0.03, 0.45, 0.03), crackMat);
-    crackA.rotation.z = 0.35;
-    crackA.position.set(0.05, 0.76, 0.36);
-    cellGroup.add(crackA);
+    // Colossal 500KG Iron Anvil / Crushing Weight on top of battery
+    const anvilBody = new THREE.Mesh(new THREE.BoxGeometry(0.65, 0.32, 0.50), ironMat);
+    anvilBody.position.set(0, 1.40, 0);
+    leftPedestal.add(anvilBody);
 
-    // Feeble warning sparks flickering at base of crushed battery
-    const sparkLight = new THREE.PointLight(0xff3300, 2.2, 2.5);
-    sparkLight.position.set(0, 0.35, 0.25);
-    cellGroup.add(sparkLight);
+    const anvilTop = new THREE.Mesh(new THREE.BoxGeometry(0.80, 0.10, 0.52), ironMat);
+    anvilTop.position.set(0, 1.60, 0);
+    leftPedestal.add(anvilTop);
 
-    tableGroup.add(cellGroup);
+    // Yellow stress sparks on crushed battery
+    const sparkLight = new THREE.PointLight(0xff3300, 2.4, 2.5);
+    sparkLight.position.set(0, 1.15, 0.20);
+    leftPedestal.add(sparkLight);
+
+    scene.add(leftPedestal);
 
     // -----------------------------------------------------------------------
-    // RIGHT SIDE: EFFORTLESS ROTATING GEAR SYSTEM & PULLEY
+    // RIGHT PEDESTAL: GOLDEN CLOCKWORK HABIT SYSTEM (EFFORTLESS LEVERAGE)
     // -----------------------------------------------------------------------
-    const gearGroup = new THREE.Group();
-    gearGroup.position.set(1.0, 0.90, 0);
+    const rightPedestal = new THREE.Group();
+    rightPedestal.position.set(1.30, 0, 0);
 
-    // Sturdy brass machinery mounting frame
-    const brassMat = new THREE.MeshToonMaterial({ color: 0xd4af37 });
-    const steelMat = new THREE.MeshToonMaterial({ color: 0x71717a });
+    // Pedestal Column
+    const rightCol = new THREE.Mesh(new THREE.BoxGeometry(0.85, 0.80, 0.85), plinthMat);
+    rightCol.position.y = 0.40;
+    rightPedestal.add(rightCol);
 
-    const gearBase = new THREE.Mesh(
-      new THREE.BoxGeometry(1.10, 0.08, 0.90),
-      new THREE.MeshToonMaterial({ color: 0x1e293b })
-    );
-    gearBase.position.y = 0.04;
-    gearGroup.add(gearBase);
-
-    // Glowing cyan accent line on habit system
-    const sysRim = new THREE.Mesh(
-      new THREE.BoxGeometry(1.06, 0.02, 0.86),
+    // Cyan illuminated accent ring
+    const rightRim = new THREE.Mesh(
+      new THREE.BoxGeometry(0.89, 0.04, 0.89),
       new THREE.MeshBasicMaterial({ color: 0x00f0ff })
     );
-    sysRim.position.y = 0.09;
-    gearGroup.add(sysRim);
+    rightRim.position.y = 0.81;
+    rightPedestal.add(rightRim);
 
-    // Frame uprights
-    const postA = new THREE.Mesh(new THREE.BoxGeometry(0.06, 0.85, 0.06), steelMat);
-    postA.position.set(-0.35, 0.50, -0.20);
-    gearGroup.add(postA);
+    // Brass machinery upright posts
+    const postMat = new THREE.MeshToonMaterial({ color: 0x71717a });
+    const postL = new THREE.Mesh(new THREE.BoxGeometry(0.04, 0.70, 0.04), postMat);
+    postL.position.set(-0.24, 1.18, 0);
+    rightPedestal.add(postL);
 
-    const postB = new THREE.Mesh(new THREE.BoxGeometry(0.06, 0.85, 0.06), steelMat);
-    postB.position.set(0.35, 0.50, -0.20);
-    gearGroup.add(postB);
+    const postR = new THREE.Mesh(new THREE.BoxGeometry(0.04, 0.70, 0.04), postMat);
+    postR.position.set(0.24, 1.18, 0);
+    rightPedestal.add(postR);
 
-    const crossArm = new THREE.Mesh(new THREE.BoxGeometry(0.80, 0.06, 0.06), steelMat);
-    crossArm.position.set(0, 0.90, -0.20);
-    gearGroup.add(crossArm);
-
-    // 3 Intermeshed Rotating Clockwork Cogwheels
-    // Gear 1: Large drive gear (brass)
+    // Interlocking Golden Gears
+    // Main Brass Cog
     const gear1 = new THREE.Group();
-    gear1.position.set(-0.15, 0.52, -0.12);
-    const g1Center = new THREE.Mesh(new THREE.CylinderGeometry(0.26, 0.26, 0.04, 16), brassMat);
-    g1Center.rotation.x = Math.PI / 2;
-    gear1.add(g1Center);
-    for (let c = 0; c < 8; c++) {
-      const tooth = new THREE.Mesh(new THREE.BoxGeometry(0.08, 0.06, 0.04), brassMat);
-      const angle = (c / 8) * Math.PI * 2;
-      tooth.position.set(Math.cos(angle) * 0.28, Math.sin(angle) * 0.28, 0);
+    gear1.position.set(-0.08, 1.25, 0.04);
+    const g1Core = new THREE.Mesh(new THREE.CylinderGeometry(0.20, 0.20, 0.04, 16), brassMat);
+    g1Core.rotation.x = Math.PI / 2;
+    gear1.add(g1Core);
+    for (let i = 0; i < 8; i++) {
+      const tooth = new THREE.Mesh(new THREE.BoxGeometry(0.06, 0.06, 0.04), brassMat);
+      const angle = (i / 8) * Math.PI * 2;
+      tooth.position.set(Math.cos(angle) * 0.22, Math.sin(angle) * 0.22, 0);
       tooth.rotation.z = angle;
       gear1.add(tooth);
     }
-    gearGroup.add(gear1);
+    rightPedestal.add(gear1);
 
-    // Gear 2: Intermediate gear (cyan steel)
+    // Secondary Cyan/Gold Cog
     const gear2 = new THREE.Group();
-    gear2.position.set(0.22, 0.65, -0.12);
-    const g2Mat = new THREE.MeshToonMaterial({ color: 0x0284c7 });
-    const g2Center = new THREE.Mesh(new THREE.CylinderGeometry(0.16, 0.16, 0.04, 14), g2Mat);
-    g2Center.rotation.x = Math.PI / 2;
-    gear2.add(g2Center);
-    for (let c = 0; c < 6; c++) {
-      const tooth = new THREE.Mesh(new THREE.BoxGeometry(0.06, 0.05, 0.04), g2Mat);
-      const angle = (c / 6) * Math.PI * 2;
-      tooth.position.set(Math.cos(angle) * 0.18, Math.sin(angle) * 0.18, 0);
+    gear2.position.set(0.18, 1.38, 0.04);
+    const g2Mat = new THREE.MeshToonMaterial({ color: 0x00f0ff });
+    const g2Core = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.12, 0.04, 14), g2Mat);
+    g2Core.rotation.x = Math.PI / 2;
+    gear2.add(g2Core);
+    for (let i = 0; i < 6; i++) {
+      const tooth = new THREE.Mesh(new THREE.BoxGeometry(0.05, 0.05, 0.04), g2Mat);
+      const angle = (i / 6) * Math.PI * 2;
+      tooth.position.set(Math.cos(angle) * 0.14, Math.sin(angle) * 0.14, 0);
       tooth.rotation.z = angle;
       gear2.add(tooth);
     }
-    gearGroup.add(gear2);
+    rightPedestal.add(gear2);
 
-    // Overhead Pulley Drum & Cable effortlessly holding counterweight
-    const pulley = new THREE.Mesh(new THREE.CylinderGeometry(0.09, 0.09, 0.14, 14), steelMat);
-    pulley.rotation.z = Math.PI / 2;
-    pulley.position.set(0.35, 0.88, 0.05);
-    gearGroup.add(pulley);
+    // Pulley with suspended weight smoothly floating
+    const pulleyDrum = new THREE.Mesh(new THREE.CylinderGeometry(0.06, 0.06, 0.12, 12), brassMat);
+    pulleyDrum.rotation.z = Math.PI / 2;
+    pulleyDrum.position.set(0.24, 1.50, 0);
+    rightPedestal.add(pulleyDrum);
 
-    // Cable extending down
-    const cable = new THREE.Mesh(
-      new THREE.CylinderGeometry(0.012, 0.012, 0.45),
-      new THREE.MeshBasicMaterial({ color: 0xe2e8f0 })
+    const suspendedWeight = new THREE.Mesh(new THREE.BoxGeometry(0.20, 0.20, 0.20), brassMat);
+    suspendedWeight.position.set(0.24, 1.05, 0);
+    rightPedestal.add(suspendedWeight);
+
+    const pulleyCable = new THREE.Mesh(
+      new THREE.CylinderGeometry(0.008, 0.008, 0.45),
+      new THREE.MeshBasicMaterial({ color: 0xffffff })
     );
-    cable.position.set(0.35, 0.65, 0.05);
-    gearGroup.add(cable);
+    pulleyCable.position.set(0.24, 1.28, 0);
+    rightPedestal.add(pulleyCable);
 
-    // Smoothly suspended weight block lifted with mechanical advantage
-    const liftedWeight = new THREE.Mesh(new THREE.BoxGeometry(0.28, 0.28, 0.28), steelMat);
-    liftedWeight.position.set(0.35, 0.40, 0.05);
-    gearGroup.add(liftedWeight);
+    scene.add(rightPedestal);
 
-    tableGroup.add(gearGroup);
-    scene.add(tableGroup);
-
-    // 3. Characters: Marcus (Senior Mentor) & Alex (Hero)
-    // Marcus stands on the right beside the gear system, gesturing smoothly
+    // 3. Characters: Marcus & Alex Standing Between the Pedestals
+    // Marcus on center-right, gesturing toward both displays explaining wisdom
     const mentor = new VoxelCharacter("Marcus");
-    mentor.root.position.set(1.45, 0, 0.15);
-    mentor.root.rotation.set(0, -Math.PI / 4, 0);
+    mentor.root.position.set(0.40, 0, 0.25);
+    mentor.root.rotation.set(0, -Math.PI / 2 + 0.50, 0);
     scene.add(mentor.root);
 
-    // Alex stands on the left beside the crushed willpower cell, looking in revelation
-    character.root.position.set(-1.45, 0, 0.25);
-    character.root.rotation.set(0, Math.PI / 4, 0);
+    // Alex on center-left, observing in realization
+    character.root.position.set(-0.40, 0, 0.15);
+    character.root.rotation.set(0, Math.PI / 2 - 0.40, 0);
     character.root.visible = true;
 
     // Theatrical Studio Lighting
-    const keySpot = new THREE.SpotLight(0xfff5ea, 3.4, 12, Math.PI / 4, 0.35);
-    keySpot.position.set(0, 4.2, 3.2);
+    const keySpot = new THREE.SpotLight(0xfff5ea, 3.8, 12, Math.PI / 4, 0.35);
+    keySpot.position.set(0, 4.2, 3.5);
     keySpot.target.position.set(0, 1.2, 0);
     scene.add(keySpot);
     scene.add(keySpot.target);
 
-    const cyanAccent = new THREE.DirectionalLight(0x00f0ff, 1.4);
-    cyanAccent.position.set(3.0, 2.5, 2.0);
-    scene.add(cyanAccent);
+    const frontFill = new THREE.DirectionalLight(0xfffaed, 1.4);
+    frontFill.position.set(0, 2.0, 3.2);
+    scene.add(frontFill);
 
-    scene.add(new THREE.AmbientLight(0x182030, 0.95));
+    scene.add(new THREE.AmbientLight(0x1e2738, 1.0));
 
     customUpdate = (t) => {
-      // Intermeshed gears rotate continuously in opposite directions
-      gear1.rotation.z = t * 1.8;
-      gear2.rotation.z = -t * 2.7;
+      // Golden gears rotate smoothly
+      gear1.rotation.z = t * 2.0;
+      gear2.rotation.z = -t * 3.0;
 
-      // Gentle floating lift on the suspended weight
-      liftedWeight.position.y = 0.40 + Math.sin(t * 1.8) * 0.04;
-      cable.scale.y = 1.0 - Math.sin(t * 1.8) * 0.08;
+      // Weight bobs smoothly with mechanical advantage
+      suspendedWeight.position.y = 1.05 + Math.sin(t * 2.0) * 0.05;
+      pulleyCable.scale.y = 1.0 - Math.sin(t * 2.0) * 0.10;
 
-      // Feeble spark flicker on the dead willpower battery
-      sparkLight.intensity = 1.8 + Math.sin(t * 16.0) * 0.6;
+      // Spark light flickers on dead battery
+      sparkLight.intensity = 2.0 + Math.sin(t * 18.0) * 0.8;
 
-      // Marcus gestures explaining the difference
+      // Marcus gestures explaining
       mentor.setExplainingToHero(t);
-
-      // Alex listens attentively, looking at the demonstration
       character.setListeningHero(t);
     };
   }
@@ -3205,10 +3186,10 @@ export function buildSceneByShotId(shotId: number): SceneBundle {
       new THREE.MeshToonMaterial({ color: 0xd8d8d8 })
     );
     dbRight.add(handleR);
-    const weightR1 = new THREE.Mesh(new THREE.BoxGeometry(0.13, 0.13, 0.07), plateMat);
+    const weightR1 = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.12, 0.08, 6), plateMat);
     weightR1.position.y = -0.12;
     dbRight.add(weightR1);
-    const weightR2 = new THREE.Mesh(new THREE.BoxGeometry(0.13, 0.13, 0.07), plateMat);
+    const weightR2 = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.12, 0.08, 6), plateMat);
     weightR2.position.y = 0.12;
     dbRight.add(weightR2);
     dbRight.rotation.x = Math.PI / 2;
@@ -3222,10 +3203,10 @@ export function buildSceneByShotId(shotId: number): SceneBundle {
       new THREE.MeshToonMaterial({ color: 0xd8d8d8 })
     );
     dbLeft.add(handleL);
-    const weightL1 = new THREE.Mesh(new THREE.BoxGeometry(0.13, 0.13, 0.07), plateMat);
+    const weightL1 = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.12, 0.08, 6), plateMat);
     weightL1.position.y = -0.12;
     dbLeft.add(weightL1);
-    const weightL2 = new THREE.Mesh(new THREE.BoxGeometry(0.13, 0.13, 0.07), plateMat);
+    const weightL2 = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.12, 0.08, 6), plateMat);
     weightL2.position.y = 0.12;
     dbLeft.add(weightL2);
     dbLeft.rotation.x = Math.PI / 2;
@@ -3357,8 +3338,8 @@ export function buildSceneByShotId(shotId: number): SceneBundle {
 
     // 3D Open Hardcover Book in Marcus's Hands
     const openBookGroup = new THREE.Group();
-    openBookGroup.position.set(0, 0.26, 0.34);
-    openBookGroup.rotation.x = 0.32; // Angled facing up towards Marcus's eyes
+    openBookGroup.position.set(0, 0.68, 0.32);
+    openBookGroup.rotation.x = 0.36; // Angled facing up towards Marcus's eyes
 
     const bookCoverMat = new THREE.MeshToonMaterial({ color: 0x78350f }); // Rich amber leather cover
     const pageMat = new THREE.MeshBasicMaterial({ color: 0xfffcf0 }); // Ivory pages

@@ -8,9 +8,9 @@ export const Clip13_Survival_BrainComposition: React.FC = () => {
     shotId: 13,
     startFrame: 0,
     endFrame: 236,
-    startPos: [-2.60, 1.85, 4.20] as [number, number, number],
-    endPos: [-2.20, 1.70, 3.80] as [number, number, number],
-    target: [0.35, 1.30, 0.10] as [number, number, number],
+    startPos: [-2.80, 2.00, 4.80] as [number, number, number],
+    endPos: [-2.40, 1.80, 4.20] as [number, number, number],
+    target: [0.15, 1.20, 0.0] as [number, number, number],
     fov: 42,
   };
 
