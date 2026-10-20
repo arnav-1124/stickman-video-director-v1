@@ -1,0 +1,403 @@
+export { Clip01_2AM_PromiseComposition } from "./clip_01";
+export { Clip02_Dawn_RunComposition } from "./clip_02";
+export { Clip03_Executive_OfficeComposition } from "./clip_03";
+export { Clip04_Two_Days_VictoryComposition } from "./clip_04";
+export { Clip05_Invincible_PeakComposition } from "./clip_05";
+export { Clip06_Day_Four_ArrivalComposition } from "./clip_06";
+export { Clip07_Cold_Room_SlumpComposition } from "./clip_07";
+export { Clip08_Vanished_FireComposition } from "./clip_08";
+export { Clip09_Negotiate_AlarmComposition } from "./clip_09";
+export { Clip10_Noon_GuiltComposition } from "./clip_10";
+export { Clip11_Senior_TruthComposition } from "./clip_11";
+export { Clip12_Willpower_BrokenComposition } from "./clip_12";
+export { Clip13_Survival_BrainComposition } from "./clip_13";
+export { Clip14_Biology_AlarmComposition } from "./clip_14";
+export { Clip15_Gym_vs_StudyComposition } from "./clip_15";
+export { Clip16_Eliminate_ChoiceComposition } from "./clip_16";
+export { Clip17_No_Negotiation_7AMComposition } from "./clip_17";
+export { Clip18_No_Mood_WaitingComposition } from "./clip_18";
+export { Clip19_Engineer_EnvironmentComposition } from "./clip_19";
+export { Clip20_Friction_TrilogyComposition } from "./clip_20";
+export { Clip21_Riverbed_vs_BoulderComposition } from "./clip_21";
+export { Clip22_Stop_Legendary_DaysComposition } from "./clip_22";
+export { Clip23_Lower_The_BarrierComposition } from "./clip_23";
+export { Clip24_Two_Minute_RuleComposition } from "./clip_24";
+export { Clip25_Cast_Small_VoteComposition } from "./clip_25";
+
+export const CLIPS_METADATA = [
+  {
+    "id": 1,
+    "name": "Clip01_2AM_Promise",
+    "title": "2 AM Promise in Bedroom",
+    "sceneId": 1,
+    "day": "DAY - 1",
+    "text": "At two in the morning, you promise yourself that tomorrow everything changes.",
+    "rawDurationSec": 5.208,
+    "pauseSec": 0.25,
+    "totalDurationSec": 5.458,
+    "durationFrames": 164,
+    "startFrame": 0,
+    "endFrame": 164,
+    "audioRelPath": "audio/ep02/clips/clip_01.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Clip02_Dawn_Run",
+    "title": "Dawn 5-Mile Run",
+    "sceneId": 2,
+    "day": "DAY - 1",
+    "text": "You will wake up at dawn. You will run five miles.",
+    "rawDurationSec": 4.896,
+    "pauseSec": 0.25,
+    "totalDurationSec": 5.146,
+    "durationFrames": 154,
+    "startFrame": 164,
+    "endFrame": 318,
+    "audioRelPath": "audio/ep02/clips/clip_02.mp3"
+  },
+  {
+    "id": 3,
+    "name": "Clip03_Executive_Office",
+    "title": "8 Unbroken Hours in Office",
+    "sceneId": 3,
+    "day": "DAY - 1",
+    "text": "You will work for eight unbroken hours, eat clean, and finally master your life.",
+    "rawDurationSec": 5.832,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.082,
+    "durationFrames": 182,
+    "startFrame": 318,
+    "endFrame": 500,
+    "audioRelPath": "audio/ep02/clips/clip_03.mp3"
+  },
+  {
+    "id": 4,
+    "name": "Clip04_Two_Days_Victory",
+    "title": "Two Days of Perfect Execution",
+    "sceneId": 4,
+    "day": "DAY - 2",
+    "text": "And for two days, you actually do it.",
+    "rawDurationSec": 3.432,
+    "pauseSec": 0.25,
+    "totalDurationSec": 3.682,
+    "durationFrames": 110,
+    "startFrame": 500,
+    "endFrame": 610,
+    "audioRelPath": "audio/ep02/clips/clip_04.mp3"
+  },
+  {
+    "id": 5,
+    "name": "Clip05_Invincible_Peak",
+    "title": "Feeling Invincible on the Peak",
+    "sceneId": 5,
+    "day": "DAY - 2",
+    "text": "You feel invincible. You feel like you finally unlocked the secret everyone else is missing.",
+    "rawDurationSec": 6.696,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.946,
+    "durationFrames": 208,
+    "startFrame": 610,
+    "endFrame": 818,
+    "audioRelPath": "audio/ep02/clips/clip_05.mp3"
+  },
+  {
+    "id": 6,
+    "name": "Clip06_Day_Four_Arrival",
+    "title": "THEN DAY FOUR ARRIVES",
+    "sceneId": 6,
+    "day": "DAY - 4",
+    "text": "THEN DAY FOUR ARRIVES.",
+    "rawDurationSec": 2.616,
+    "pauseSec": 0.25,
+    "totalDurationSec": 2.866,
+    "durationFrames": 86,
+    "startFrame": 818,
+    "endFrame": 904,
+    "audioRelPath": "audio/ep02/clips/clip_06.mp3"
+  },
+  {
+    "id": 7,
+    "name": "Clip07_Cold_Room_Slump",
+    "title": "Cold Room, Warm Bed",
+    "sceneId": 7,
+    "day": "DAY - 4",
+    "text": "You wake up tired. The room is cold. Your bed is warm.",
+    "rawDurationSec": 6.384,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.634,
+    "durationFrames": 199,
+    "startFrame": 904,
+    "endFrame": 1103,
+    "audioRelPath": "audio/ep02/clips/clip_07.mp3"
+  },
+  {
+    "id": 8,
+    "name": "Clip08_Vanished_Fire",
+    "title": "Vanished Tuesday Fire",
+    "sceneId": 8,
+    "day": "DAY - 4",
+    "text": "And suddenly, that fiery motivation from Tuesday has vanished into thin air.",
+    "rawDurationSec": 5.616,
+    "pauseSec": 0.25,
+    "totalDurationSec": 5.866,
+    "durationFrames": 176,
+    "startFrame": 1103,
+    "endFrame": 1279,
+    "audioRelPath": "audio/ep02/clips/clip_08.mp3"
+  },
+  {
+    "id": 9,
+    "name": "Clip09_Negotiate_Alarm",
+    "title": "30-Second Negotiation",
+    "sceneId": 9,
+    "day": "DAY - 4",
+    "text": "You negotiate with yourself for thirty seconds, turn off the alarm, and fall back asleep.",
+    "rawDurationSec": 6.216,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.466,
+    "durationFrames": 194,
+    "startFrame": 1279,
+    "endFrame": 1473,
+    "audioRelPath": "audio/ep02/clips/clip_09.mp3"
+  },
+  {
+    "id": 10,
+    "name": "Clip10_Noon_Guilt",
+    "title": "The Weight of Guilt",
+    "sceneId": 10,
+    "day": "DAY - 4",
+    "text": "By noon, the familiar weight of guilt sets in. You tell yourself you lack discipline. You tell yourself you are just lazy.",
+    "rawDurationSec": 9.504,
+    "pauseSec": 0.25,
+    "totalDurationSec": 9.754,
+    "durationFrames": 293,
+    "startFrame": 1473,
+    "endFrame": 1766,
+    "audioRelPath": "audio/ep02/clips/clip_10.mp3"
+  },
+  {
+    "id": 11,
+    "name": "Clip11_Senior_Truth",
+    "title": "Senior Mentor Wisdom",
+    "sceneId": 11,
+    "day": "DAY - 5",
+    "text": "Here is the truth an experienced senior will tell you.",
+    "rawDurationSec": 3.744,
+    "pauseSec": 0.25,
+    "totalDurationSec": 3.994,
+    "durationFrames": 120,
+    "startFrame": 1766,
+    "endFrame": 1886,
+    "audioRelPath": "audio/ep02/clips/clip_11.mp3"
+  },
+  {
+    "id": 12,
+    "name": "Clip12_Willpower_Broken",
+    "title": "The Wrong Job for Willpower",
+    "sceneId": 12,
+    "day": "DAY - 5",
+    "text": "You did not fail because you lack willpower. You failed because you asked willpower to do a job it was never built for.",
+    "rawDurationSec": 8.304,
+    "pauseSec": 0.25,
+    "totalDurationSec": 8.554,
+    "durationFrames": 257,
+    "startFrame": 1886,
+    "endFrame": 2143,
+    "audioRelPath": "audio/ep02/clips/clip_12.mp3"
+  },
+  {
+    "id": 13,
+    "name": "Clip13_Survival_Brain",
+    "title": "Survival Organ Not Inspiration Machine",
+    "sceneId": 13,
+    "day": "DAY - 5",
+    "text": "Your brain is not an inspiration machine. Your brain is a survival organ designed to conserve energy.",
+    "rawDurationSec": 7.608,
+    "pauseSec": 0.25,
+    "totalDurationSec": 7.858,
+    "durationFrames": 236,
+    "startFrame": 2143,
+    "endFrame": 2379,
+    "audioRelPath": "audio/ep02/clips/clip_13.mp3"
+  },
+  {
+    "id": 14,
+    "name": "Clip14_Biology_Alarm",
+    "title": "Biology Sounds the Alarm",
+    "sceneId": 14,
+    "day": "DAY - 5",
+    "text": "The moment you attempt a massive, radical overhaul overnight, your biology sounds the alarm. It treats that sudden spike in effort like a threat.",
+    "rawDurationSec": 10.056,
+    "pauseSec": 0.25,
+    "totalDurationSec": 10.306,
+    "durationFrames": 309,
+    "startFrame": 2379,
+    "endFrame": 2688,
+    "audioRelPath": "audio/ep02/clips/clip_14.mp3"
+  },
+  {
+    "id": 15,
+    "name": "Clip15_Gym_vs_Study",
+    "title": "IronForge Gym vs Tea Routine",
+    "sceneId": 15,
+    "day": "DAY - 5",
+    "text": "People who stay consistent year after year are not suffering through superhuman acts of discipline every morning.",
+    "rawDurationSec": 6.792,
+    "pauseSec": 0.25,
+    "totalDurationSec": 7.042,
+    "durationFrames": 211,
+    "startFrame": 2688,
+    "endFrame": 2899,
+    "audioRelPath": "audio/ep02/clips/clip_15.mp3"
+  },
+  {
+    "id": 16,
+    "name": "Clip16_Eliminate_Choice",
+    "title": "Elimination of Choice",
+    "sceneId": 16,
+    "day": "DAY - 14",
+    "text": "Consistency is not an act of willpower, it is the elimination of choice.",
+    "rawDurationSec": 5.4,
+    "pauseSec": 0.25,
+    "totalDurationSec": 5.65,
+    "durationFrames": 170,
+    "startFrame": 2899,
+    "endFrame": 3069,
+    "audioRelPath": "audio/ep02/clips/clip_16.mp3"
+  },
+  {
+    "id": 17,
+    "name": "Clip17_No_Negotiation_7AM",
+    "title": "No Negotiation at 7 AM",
+    "sceneId": 17,
+    "day": "DAY - 14",
+    "text": "They do not negotiate with their feelings at seven in the morning.",
+    "rawDurationSec": 4.224,
+    "pauseSec": 0.25,
+    "totalDurationSec": 4.474,
+    "durationFrames": 134,
+    "startFrame": 3069,
+    "endFrame": 3203,
+    "audioRelPath": "audio/ep02/clips/clip_17.mp3"
+  },
+  {
+    "id": 18,
+    "name": "Clip18_No_Mood_Waiting",
+    "title": "Opening Laptop Without Mood",
+    "sceneId": 18,
+    "day": "DAY - 14",
+    "text": "They do not wait for the mood to strike them before opening the laptop.",
+    "rawDurationSec": 4.512,
+    "pauseSec": 0.25,
+    "totalDurationSec": 4.762,
+    "durationFrames": 143,
+    "startFrame": 3203,
+    "endFrame": 3346,
+    "audioRelPath": "audio/ep02/clips/clip_18.mp3"
+  },
+  {
+    "id": 19,
+    "name": "Clip19_Engineer_Environment",
+    "title": "Engineer the Environment",
+    "sceneId": 19,
+    "day": "DAY - 14",
+    "text": "Instead, they engineer the environment so that starting requires less effort than feeling guilty.",
+    "rawDurationSec": 6.192,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.442,
+    "durationFrames": 193,
+    "startFrame": 3346,
+    "endFrame": 3539,
+    "audioRelPath": "audio/ep02/clips/clip_19.mp3"
+  },
+  {
+    "id": 20,
+    "name": "Clip20_Friction_Trilogy",
+    "title": "Phone Away, Shoes Ready, Blank Doc",
+    "sceneId": 20,
+    "day": "DAY - 21",
+    "text": "Phone in another room. Shoes directly by doorway. Blank document open before bed.",
+    "rawDurationSec": 7.824,
+    "pauseSec": 0.25,
+    "totalDurationSec": 8.074,
+    "durationFrames": 242,
+    "startFrame": 3539,
+    "endFrame": 3781,
+    "audioRelPath": "audio/ep02/clips/clip_20.mp3"
+  },
+  {
+    "id": 21,
+    "name": "Clip21_Riverbed_vs_Boulder",
+    "title": "Carve Riverbed Not Push Boulder",
+    "sceneId": 21,
+    "day": "DAY - 21",
+    "text": "They carve a riverbed where water flows naturally, instead of pushing a giant boulder up a muddy hill every day.",
+    "rawDurationSec": 7.296,
+    "pauseSec": 0.25,
+    "totalDurationSec": 7.546,
+    "durationFrames": 226,
+    "startFrame": 3781,
+    "endFrame": 4007,
+    "audioRelPath": "audio/ep02/clips/clip_21.mp3"
+  },
+  {
+    "id": 22,
+    "name": "Clip22_Stop_Legendary_Days",
+    "title": "Stop Aiming for Exhausting Days",
+    "sceneId": 22,
+    "day": "DAY - 21",
+    "text": "Stop aiming for legendary days that leave you exhausted and broken by Friday.",
+    "rawDurationSec": 5.424,
+    "pauseSec": 0.25,
+    "totalDurationSec": 5.674,
+    "durationFrames": 170,
+    "startFrame": 4007,
+    "endFrame": 4177,
+    "audioRelPath": "audio/ep02/clips/clip_22.mp3"
+  },
+  {
+    "id": 23,
+    "name": "Clip23_Lower_The_Barrier",
+    "title": "Make Resistance Ridiculous",
+    "sceneId": 23,
+    "day": "DAY - 21",
+    "text": "Lower the barrier until resistance becomes ridiculous.",
+    "rawDurationSec": 4.176,
+    "pauseSec": 0.25,
+    "totalDurationSec": 4.426,
+    "durationFrames": 133,
+    "startFrame": 4177,
+    "endFrame": 4310,
+    "audioRelPath": "audio/ep02/clips/clip_23.mp3"
+  },
+  {
+    "id": 24,
+    "name": "Clip24_Two_Minute_Rule",
+    "title": "Two Minutes in Chair, One Paragraph",
+    "sceneId": 24,
+    "day": "DAY - 30",
+    "text": "Sit in the chair for two minutes. Write one clean paragraph. Put on the sneakers and step outside.",
+    "rawDurationSec": 8.76,
+    "pauseSec": 0.25,
+    "totalDurationSec": 9.01,
+    "durationFrames": 270,
+    "startFrame": 4310,
+    "endFrame": 4580,
+    "audioRelPath": "audio/ep02/clips/clip_24.mp3"
+  },
+  {
+    "id": 25,
+    "name": "Clip25_Cast_Small_Vote",
+    "title": "Cast Small Vote & Let Momentum Lift",
+    "sceneId": 25,
+    "day": "DAY - 30",
+    "text": "Cast one small vote for the person you want to become, and let momentum do the heavy lifting.",
+    "rawDurationSec": 5.88,
+    "pauseSec": 0.25,
+    "totalDurationSec": 6.13,
+    "durationFrames": 184,
+    "startFrame": 4580,
+    "endFrame": 4764,
+    "audioRelPath": "audio/ep02/clips/clip_25.mp3"
+  }
+];

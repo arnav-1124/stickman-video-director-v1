@@ -1,0 +1,227 @@
+{
+  "project_id": "ep08_the_toothbrush_protocol",
+  "resolution": "1080x1920",
+  "total_slides": 20,
+  "slides": [
+    {
+      "slide_id": 1,
+      "filename": "slide_01.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Minimal nighttime bathroom, rectangle mirror, warm yellow overhead light",
+        "character": "Protagonist in green hoodie holding blue toothbrush with white foam, deadpan neutral face",
+        "foreground": "Clean mirror frame"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 2,
+      "filename": "slide_02.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Dimly lit bedroom mattress, wooden floor, kicked-off white sneakers",
+        "character": "Protagonist collapsed face-down horizontally across mattress edge in deep exhaustion",
+        "foreground": "Cartoon fatigue spiral lines and dark tiredness scribbles"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 3,
+      "filename": "slide_03.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "White ceramic bathroom sink, side-profile view, running water tap",
+        "character": "Protagonist half-asleep brushing teeth automatically, white foam bubbles floating",
+        "foreground": "Autopilot dotted motion curves"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 4,
+      "filename": "slide_04.jpg",
+      "scene_type": "text_card",
+      "layout": {
+        "background": "#FAF9F6 warm cream paper with subtle engineering grid",
+        "text": "WHY? at top; [ DO I FEEL LIKE IT? ] in speech bubble",
+        "graphic": "Heavy Crimson Red X stamped over speech bubble with ink splatter"
+      },
+      "style_tags": "2D graphic blueprint card, clean black outlines, crimson red accents, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 5,
+      "filename": "slide_05.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Wooden study desk at night, open blank laptop, untouched spiral notebook",
+        "character": "Protagonist with elbows on desk, face buried in hands in deep defeat and mental friction",
+        "foreground": "Mental friction scribbles above head"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 6,
+      "filename": "slide_06.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Bedroom door and floor with white running sneakers",
+        "character": "Protagonist frozen on edge of bed looking down at sneakers in hesitation",
+        "foreground": "Doubt bubble with text: 'Do I feel like working out?'"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 7,
+      "filename": "slide_07.jpg",
+      "scene_type": "text_card",
+      "layout": {
+        "background": "#FAF9F6 textured cream paper canvas",
+        "text": "[ VOTE: NO ] inside heavy distressed rectangular rubber stamp box",
+        "graphic": "Diagonal stamp impact with Crimson Red ink splatters"
+      },
+      "style_tags": "2D graphic punch card, crimson red stamp, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 8,
+      "filename": "slide_08.jpg",
+      "scene_type": "diagram_card",
+      "layout": {
+        "background": "#FAF9F6 warm cream grid paper",
+        "graphic": "2D anatomical ink cross-section skull with red glowing reptilian brainstem core",
+        "text": "Architectural callout: [ CALORIE CONSERVATION ENGINE ]"
+      },
+      "style_tags": "2D educational blueprint card, anatomical cross-section, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 9,
+      "filename": "slide_09.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Cozy bedroom, warm soft atmosphere",
+        "character": "Protagonist wrapped like a snug burrito in duvet blanket holding glowing phone",
+        "foreground": "Warmth squiggles and small doodle hearts"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 10,
+      "filename": "slide_10.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Cream canvas split comparison",
+        "character": "Left: calm ordinary protagonist; Right: mythical superhero stickman with cape crossed out in red",
+        "foreground": "Bold black outlines and Crimson Red diagonal slash"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 11,
+      "filename": "slide_11.jpg",
+      "scene_type": "diagram_card",
+      "layout": {
+        "background": "#FAF9F6 cream grid card",
+        "graphic": "Side-by-side battery meters: Disciplined Person (85% green) vs Struggling Person (5% red)",
+        "text": "Uppercase infographic labels: [ DISCIPLINED PERSON ] vs [ STRUGGLING PERSON ]"
+      },
+      "style_tags": "2D educational infographic card, battery meters, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 12,
+      "filename": "slide_12.jpg",
+      "scene_type": "diagram_card",
+      "layout": {
+        "background": "#FAF9F6 schematic cream card",
+        "graphic": "Electrical circuit with sharp scissors snipping middle wire labeled [ EMOTIONAL PERMISSION ]",
+        "foreground": "Yellow spark doodles and severed wire gap"
+      },
+      "style_tags": "2D educational schematic card, circuit diagram, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 13,
+      "filename": "slide_13.jpg",
+      "scene_type": "text_card",
+      "layout": {
+        "background": "#FAF9F6 blueprint cream card",
+        "text": "[ THE TOOTHBRUSH PROTOCOL ] at top",
+        "graphic": "Toothbrush icon '=' Open textbook and laptop icon; Rule: 'Non-Negotiable. Automated.'"
+      },
+      "style_tags": "2D graphic manifesto card, architectural typography, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 14,
+      "filename": "slide_14.jpg",
+      "scene_type": "diagram_card",
+      "layout": {
+        "background": "#FAF9F6 schematic grid",
+        "graphic": "Minimal industrial conveyor belt gliding forward with turning interlocking gears",
+        "text": "[ ZERO PERMISSION REQUIRED ] stamp and task blocks moving smoothly"
+      },
+      "style_tags": "2D educational machine schematic, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 15,
+      "filename": "slide_15.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Wooden nightstand against cream wall",
+        "prop": "Bedside digital flip clock snapping decisively to [ 5:00 AM ]",
+        "foreground": "Sharp energetic vibration rings radiating from bells"
+      },
+      "style_tags": "2D graphic trigger panel, clean typography, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 16,
+      "filename": "slide_16.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Minimal cream room",
+        "character": "Protagonist firmly pushing away tiny suited shoulder lawyer with briefcase labeled 'EXCUSES'",
+        "foreground": "Dismissive swat gesture and kinetic action lines"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 17,
+      "filename": "slide_17.jpg",
+      "scene_type": "action_closeup",
+      "layout": {
+        "background": "Entrance doormat on wooden floor",
+        "character": "Cartoon white mitten hands pulling and tying black laces of white running sneakers",
+        "foreground": "Kinetic whoosh arcs and dark green hoodie sleeve cuffs"
+      },
+      "style_tags": "2D kinetic action close-up, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 18,
+      "filename": "slide_18.jpg",
+      "scene_type": "diagram_card",
+      "layout": {
+        "background": "#FAF9F6 flowchart cream grid",
+        "graphic": "Sequential flow: [ 1. ACTION ] -> [ 2. MOMENTUM ] -> [ 3. MOTIVATION ]",
+        "foreground": "Reversed path 'Wait for feelings' crossed out with Crimson Red slash"
+      },
+      "style_tags": "2D educational flowchart card, 1080x1920 vertical"
+    },
+    {
+      "slide_id": 19,
+      "filename": "slide_19.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Open front doorway looking out toward crisp dawn horizon",
+        "character": "Protagonist with gym duffel bag over shoulder stepping through doorway",
+        "foreground": "Cool morning dawn light entering the frame"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    },
+    {
+      "slide_id": 20,
+      "filename": "slide_20.jpg",
+      "scene_type": "comic_panel",
+      "layout": {
+        "background": "Outdoor morning horizon with warm golden sunrise glow (#FFD166)",
+        "character": "Protagonist in green hoodie standing sovereign with calm unbothered smile, giving subtle thumb-up",
+        "foreground": "Golden light rays framing the figure, seamless narrative loop to Slide 01"
+      },
+      "style_tags": "2D minimalist comic art, clean black outlines, flat color shading, 1080x1920 vertical, #FAF9F6 cream paper"
+    }
+  ]
+}

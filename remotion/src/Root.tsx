@@ -1,49 +1,39 @@
 import React from "react";
-import { Composition } from "remotion";
-import { z } from "zod";
-import { Chapter02Composition } from "./compositions/long/ep01/chapter_02";
-import { Ep07FullComposition } from "./compositions/shorts/ep07";
-
-export const chapter02Schema = z.object({
-  zoomStart: z.number().min(1.0).max(1.8).step(0.01),
-  zoomEnd: z.number().min(1.0).max(1.8).step(0.01),
-  panCenterX: z.number().min(0).max(100).step(1),
-  panCenterY: z.number().min(0).max(100).step(1),
-  showOnScreenHUD: z.boolean(),
-});
-
-export type Chapter02Props = z.infer<typeof chapter02Schema>;
+import { Composition, Folder } from "remotion";
+import { ConsistencyParadoxComposition } from "./compositions/long/ep02_the_consistency_paradox";
+import { CLIPS_METADATA } from "./compositions/long/ep02_the_consistency_paradox/clips";
+import * as Clips from "./compositions/long/ep02_the_consistency_paradox/clips";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      {/* 9:16 Shorts Episode 07 - Full 20-Slide Production Master (52.50s) */}
+      {/* 1. Full Master Video: THE CONSISTENCY PARADOX (158.84s / 4765 frames @ 30fps) */}
       <Composition
-        id="ShortsEp07"
-        component={Ep07FullComposition}
-        durationInFrames={1575} // 52.50s @ 30fps
-        fps={30}
-        width={1080}
-        height={1920}
-      />
-
-      {/* Long-Form Episode 01: Chapter 02 (The Casino Effect) */}
-      <Composition
-        id="Chapter02"
-        component={Chapter02Composition}
-        schema={chapter02Schema}
-        defaultProps={{
-          zoomStart: 1.08,
-          zoomEnd: 1.25,
-          panCenterX: 50,
-          panCenterY: 50,
-          showOnScreenHUD: true,
-        }}
-        durationInFrames={5031} // 167.70s @ 30fps
+        id="ConsistencyParadoxLong"
+        component={ConsistencyParadoxComposition}
+        durationInFrames={4765}
         fps={30}
         width={1920}
         height={1080}
       />
+
+      {/* 2. Modular Clip-Wise Compositions (5s - 10s each, strict 0.25s pause) */}
+      <Folder name="Consistency-Paradox-Clips">
+        {CLIPS_METADATA.map((clip) => {
+          const Component = (Clips as any)[`${clip.name}Composition`];
+          return (
+            <Composition
+              key={clip.name}
+              id={clip.name.replace(/_/g, "-")}
+              component={Component}
+              durationInFrames={clip.durationFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+            />
+          );
+        })}
+      </Folder>
     </>
   );
 };

@@ -1,0 +1,25 @@
+{
+  "project_id": "ep02_the_consistency_paradox",
+  "title": "THE CONSISTENCY PARADOX",
+  "aspect_ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "total_duration": 149.2,
+  "total_frames": 4476,
+  "pipeline_type": "threejs_remotion_hybrid",
+  "voiceover_track": "audio/master_voiceover.wav",
+  "bgm_track": "../../assets/bgm/dark_contemplation.mp3",
+  "bgm_volume_db": -22.0,
+  "subtitles_file": "subtitles_16x9.ass",
+  "total_shots": 25,
+  "standards": {
+    "integrated_lufs": -11.9,
+    "true_peak_dbfs": -1.0,
+    "lra": 6.0,
+    "max_pause_sec": 0.285,
+    "canvas_color": "#FAF9F6",
+    "primary_accent": "#00F0FF",
+    "danger_accent": "#FF2A4D"
+  }
+}

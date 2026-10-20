@@ -1,0 +1,274 @@
+{
+  "project_id": "ep08_the_toothbrush_protocol",
+  "channel": "Sticky in Dark",
+  "handle": "@stickyindark",
+  "format": "YouTube Shorts (9:16 vertical, 1080x1920)",
+  "language": "English",
+  "total_shots": 20,
+  "duration_sec": 49.86,
+  "voice_model": "Google Gemini 3.8 Flash TTS (Ludo Voice)",
+  "audio_file": "audio/master_voiceover.wav",
+  "pause_rule": "Strictly calibrated <= 0.18s max pause (zero dead air)",
+  "beats": [
+    {
+      "slide_id": 1,
+      "time_window": "0.00s - 3.08s",
+      "duration": 3.08,
+      "spoken_words": "Notice how you never need motivation to brush your teeth at night?",
+      "scene_type": "comic_panel",
+      "visual_description": "Medium shot in nighttime bathroom. Protagonist in dark green hoodie stands deadpan in front of mirror holding a blue toothbrush with white foam, looking straight at viewer. Clean pen-and-ink linework on warm cream paper.",
+      "layers": {
+        "background": "bg_night_bathroom_mirror",
+        "character": "stickman_holding_toothbrush",
+        "prop": "blue_toothbrush_white_foam"
+      }
+    },
+    {
+      "slide_id": 2,
+      "time_window": "3.08s - 6.41s",
+      "duration": 3.33,
+      "spoken_words": "Even when you're completely exhausted, collapsing on your bed...",
+      "scene_type": "comic_panel",
+      "visual_description": "Stickman collapsed face-down on edge of messy mattress in dimly lit bedroom. Heavy comic fatigue lines and exhaustion spirals float above his head.",
+      "layers": {
+        "background": "bg_dim_bedroom_mattress",
+        "character": "stickman_collapsed_mattress",
+        "graphic": "fatigue_spirals_drop_shadow"
+      }
+    },
+    {
+      "slide_id": 3,
+      "time_window": "6.41s - 9.00s",
+      "duration": 2.59,
+      "spoken_words": "you still drag yourself to the sink and brush.",
+      "scene_type": "comic_panel",
+      "visual_description": "Side profile of protagonist mechanically shuffling in slippers back to bathroom sink, brushing with rhythmic white toothpaste foam bubbles floating.",
+      "layers": {
+        "background": "bg_bathroom_sink_sideview",
+        "character": "stickman_brushing_mechanical",
+        "prop": "toothpaste_foam_bubbles"
+      }
+    },
+    {
+      "slide_id": 4,
+      "time_window": "9.00s - 11.73s",
+      "duration": 2.73,
+      "spoken_words": "Why? You never asked yourself if you felt like it.",
+      "scene_type": "diagram_card",
+      "visual_description": "Minimalist educational blueprint card on cream paper. Bold text 'WHY?' at top. Below, a clean thought bubble containing '[ DO I FEEL LIKE IT? ]' aggressively slashed out with a thick Crimson Red X.",
+      "layers": {
+        "background": "bg_cream_grid_card",
+        "text": "text_why_heading",
+        "graphic": "thought_bubble_red_slashed"
+      }
+    },
+    {
+      "slide_id": 5,
+      "time_window": "11.73s - 14.30s",
+      "duration": 2.57,
+      "spoken_words": "That single question is why your discipline fails.",
+      "scene_type": "comic_panel",
+      "visual_description": "Protagonist sitting at study desk with head buried in hands, open laptop glowing blank, spiral notebook untouched, visual tension scribbles overhead.",
+      "layers": {
+        "background": "bg_study_desk_night",
+        "character": "stickman_head_in_hands",
+        "prop": "blank_laptop_screen"
+      }
+    },
+    {
+      "slide_id": 6,
+      "time_window": "14.30s - 17.66s",
+      "duration": 3.36,
+      "spoken_words": "The second you ask, \"Do I feel like working out?\"",
+      "scene_type": "split_comparison",
+      "visual_description": "Split screen on desk: on left, pair of running gym sneakers sitting by the door; in center, a trembling thought bubble with text 'Do I feel like working out?'.",
+      "layers": {
+        "background": "bg_cream_split_canvas",
+        "character": "stickman_staring_at_shoes",
+        "graphic": "doubt_bubble_shoes"
+      }
+    },
+    {
+      "slide_id": 7,
+      "time_window": "17.66s - 19.73s",
+      "duration": 2.07,
+      "spoken_words": "your brain will always vote NO.",
+      "scene_type": "text_card",
+      "visual_description": "Clean off-white canvas. A giant heavy official bureaucratic rubber stamp slams down in stark Crimson Red ink: '[ VOTE: NO ]' with bold ink splatter.",
+      "layers": {
+        "background": "bg_cream_textured_paper",
+        "graphic": "crimson_stamp_vote_no",
+        "text": "text_vote_no"
+      }
+    },
+    {
+      "slide_id": 8,
+      "time_window": "19.73s - 21.28s",
+      "duration": 1.55,
+      "spoken_words": "Your primitive brain hates burning energy.",
+      "scene_type": "diagram_card",
+      "visual_description": "2D anatomical ink cross-section of a skull. Deep inside the brainstem, a glowing red primitive reptilian core icon labeled '[ CALORIE CONSERVATION ENGINE ]' radiates warning waves.",
+      "layers": {
+        "background": "bg_cream_grid_paper",
+        "graphic": "skull_cross_section_red_core",
+        "text": "label_energy_conservation"
+      }
+    },
+    {
+      "slide_id": 9,
+      "time_window": "21.28s - 22.85s",
+      "duration": 1.57,
+      "spoken_words": "It's wired to choose the warm blanket.",
+      "scene_type": "comic_panel",
+      "visual_description": "Protagonist wrapped like a warm cozy cocoon burrito in a fluffy duvet blanket on bed, face illuminated by soft phone glow, completely sheltered.",
+      "layers": {
+        "background": "bg_cozy_dark_bedroom",
+        "character": "stickman_cocoon_blanket",
+        "prop": "glowing_phone_in_bed"
+      }
+    },
+    {
+      "slide_id": 10,
+      "time_window": "22.85s - 25.23s",
+      "duration": 2.38,
+      "spoken_words": "Disciplined people don't have super-human willpower.",
+      "scene_type": "comic_panel",
+      "visual_description": "Two stickmen standing side by side: on left, an ordinary stickman imagining a mythical glowing superhero stickman with a cape crossed out with red ink.",
+      "layers": {
+        "background": "bg_cream_room",
+        "character": "two_stickmen_comparison",
+        "graphic": "superhero_willpower_slashed"
+      }
+    },
+    {
+      "slide_id": 11,
+      "time_window": "25.23s - 28.01s",
+      "duration": 2.78,
+      "spoken_words": "Studies show they actually use willpower less than you.",
+      "scene_type": "diagram_card",
+      "visual_description": "Side-by-side battery infographic: Left battery labeled 'DISCIPLINED PERSON' has 85% green power intact. Right battery labeled 'STRUGGLING PERSON' is drained to 5% blinking red.",
+      "layers": {
+        "background": "bg_cream_grid_card",
+        "graphic": "battery_comparison_infographic",
+        "text": "labels_battery_willpower"
+      }
+    },
+    {
+      "slide_id": 12,
+      "time_window": "28.01s - 30.35s",
+      "duration": 2.34,
+      "spoken_words": "They just removed the emotional consultation.",
+      "scene_type": "diagram_card",
+      "visual_description": "Diagram card showing a black wire connecting [ BRAIN ] to [ ACTION ]. A pair of crisp ink scissors cleanly snips a middle wire labeled [ EMOTIONAL PERMISSION ], severing it with spark doodle.",
+      "layers": {
+        "background": "bg_cream_paper_schematic",
+        "graphic": "scissors_cutting_permission_wire",
+        "text": "label_emotional_permission"
+      }
+    },
+    {
+      "slide_id": 13,
+      "time_window": "30.35s - 32.48s",
+      "duration": 2.13,
+      "spoken_words": "They treat hard work like brushing their teeth.",
+      "scene_type": "diagram_card",
+      "visual_description": "Clean graphic manifesto card titled '[ THE TOOTHBRUSH PROTOCOL ]' in bold architectural hand-lettering, showing an icon of a toothbrush equal to an open textbook.",
+      "layers": {
+        "background": "bg_blueprint_cream_card",
+        "graphic": "toothbrush_equals_work_icon",
+        "text": "heading_toothbrush_protocol"
+      }
+    },
+    {
+      "slide_id": 14,
+      "time_window": "32.48s - 35.59s",
+      "duration": 3.11,
+      "spoken_words": "An action so automated, it never asks for permission.",
+      "scene_type": "diagram_card",
+      "visual_description": "Industrial minimal conveyer belt moving forward smoothly with interlocking mechanical gears, representing frictionless automatic execution without pauses.",
+      "layers": {
+        "background": "bg_cream_schematic_grid",
+        "graphic": "conveyor_belt_gears_motion",
+        "text": "label_zero_friction_automation"
+      }
+    },
+    {
+      "slide_id": 15,
+      "time_window": "35.59s - 36.63s",
+      "duration": 1.04,
+      "spoken_words": "When the alarm rings, or the clock hits five...",
+      "scene_type": "comic_panel",
+      "visual_description": "Close-up of minimalist bedside digital flip clock snapping decisively to [ 5:00 AM ] or alarm bell vibrating with sharp energetic sound lines.",
+      "layers": {
+        "background": "bg_nightstand_wall",
+        "prop": "flip_clock_500am",
+        "graphic": "vibration_sound_rings"
+      }
+    },
+    {
+      "slide_id": 16,
+      "time_window": "36.63s - 39.53s",
+      "duration": 2.90,
+      "spoken_words": "you don't negotiate with your mood.",
+      "scene_type": "comic_panel",
+      "visual_description": "Protagonist firmly pushing away a tiny whiny cartoon stickman lawyer perched on his shoulder who is holding a briefcase labeled 'EXCUSES'.",
+      "layers": {
+        "background": "bg_cream_room_minimal",
+        "character": "stickman_pushing_shoulder_lawyer",
+        "graphic": "tiny_lawyer_briefcase_excuses"
+      }
+    },
+    {
+      "slide_id": 17,
+      "time_window": "39.53s - 42.14s",
+      "duration": 2.61,
+      "spoken_words": "You put your shoes on before your feelings wake up.",
+      "scene_type": "action_closeup",
+      "visual_description": "Sharp kinetic close-up of protagonist hands swiftly pulling and tying black laces of white running sneakers on floor mat, ready to move.",
+      "layers": {
+        "background": "bg_floor_doormat",
+        "character": "hands_tying_sneaker_laces",
+        "prop": "white_running_sneakers"
+      }
+    },
+    {
+      "slide_id": 18,
+      "time_window": "42.14s - 43.80s",
+      "duration": 1.66,
+      "spoken_words": "Action creates motivation, not the other way around.",
+      "scene_type": "diagram_card",
+      "visual_description": "Clean bold flow diagram in black ink and forest green accents: [ ACTION ] -> arrow -> [ MOMENTUM ] -> arrow -> [ MOTIVATION ]. A wrong reversed path is crossed out.",
+      "layers": {
+        "background": "bg_cream_grid_flowchart",
+        "graphic": "action_creates_motivation_arrows",
+        "text": "flowchart_labels"
+      }
+    },
+    {
+      "slide_id": 19,
+      "time_window": "43.80s - 47.09s",
+      "duration": 3.29,
+      "spoken_words": "Real discipline isn't fighting your feelings—",
+      "scene_type": "comic_panel",
+      "visual_description": "Protagonist with gym bag slung over shoulder opening front door and stepping outward calmly into crisp morning dawn, unbothered and resolute.",
+      "layers": {
+        "background": "bg_open_front_door_dawn",
+        "character": "stickman_stepping_out_front_door",
+        "prop": "gym_duffel_bag"
+      }
+    },
+    {
+      "slide_id": 20,
+      "time_window": "47.09s - 49.86s",
+      "duration": 2.77,
+      "spoken_words": "it's treating your future like your teeth, and that's why...",
+      "scene_type": "comic_panel",
+      "visual_description": "Medium hero shot of protagonist in green hoodie standing sovereign and calm in warm sunrise glow, looking forward with quiet confidence, looping seamlessly back to Beat 1.",
+      "layers": {
+        "background": "bg_morning_golden_hour",
+        "character": "stickman_sovereign_calm_smile",
+        "graphic": "warm_golden_horizon_glow"
+      }
+    }
+  ]
+}

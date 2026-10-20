@@ -11,6 +11,8 @@ venv/
 
 # Build cache and temporary render intermediates
 .build_cache/
+.cache/
+.remotion/
 temp/
 scratch/
 *.tmp

@@ -50,10 +50,19 @@ All prompts for Google Flow / Gemini Imagen 3 must strictly follow this exact 5-
 ---
 
 ## 4. Audio, Voiceover & Sound Design Standards
-1. **Narration Voice:** Google Gemini Flash TTS (Character voice `"Ludo"`) or matched high-energy narrator. Tone: conversational, witty, suspenseful, curious, with natural conversational breathing and rhythmic pauses.
-2. **Audio Ducking:** Background music (ambient lo-fi, curiosity acoustic) master-leveled to -18 LUFS under active speech, ducking down automatically by -4 dB when voice speaks.
-3. **Foley & Sound Effects:** Every major visual cut or dramatic action must trigger a crisp, punchy cartoon SFX (whoosh, pop, thud, wooden clack, chime, flame sizzle) mastered between -12 dB and -16 dB.
-4. **Subtitles:** SubStation Alpha (`.ass`) karaoke word-highlight subtitles (crisp white text, bold black outline, golden active word pop) placed in lower third with safe-zone clearance.
+1. **Narration Voice:** ALWAYS Google Gemini Flash TTS with character voice **`"Ludo"`** (`model="gemini-3.8-flash-tts"`). Tone: confident, calm, unhurried elder brother speaking with quiet wisdom and relaxed authority.
+2. **Strict Pause Calibration Mandate:** For YouTube Shorts, pauses between sentences must NEVER exceed **0.18s – 0.20s**. All raw TTS pauses exceeding 0.18s must be programmatically trimmed down to $\le 0.18s$, eliminating dead air and preventing viewer dropoff.
+3. **Mastering Standard:** Master through Studio DSP Broadcast Chain to **-11.9 LUFS** with masculine EQ (+3.5dB @ 115Hz, +1.8dB @ 250Hz, +2.2dB @ 3.5kHz) and broadcast compression.
+4. **Subtitles:** SubStation Alpha (`.ass`) kinetic word-highlight subtitles (crisp white text, bold black outline, canary yellow active word pop `{\c&H0000D7FF&}`, safe vertical margin `MarginV=400`).
+
+---
+
+## 5. Remotion Animation Timing Protocol (Analyze First Rule)
+> **IMMUTABLE WORKFLOW LAW:** Never author final Remotion camera motion code before the user generates the slides.  
+1. **Phase 1:** Deliver Script, Master Ludo Audio, Storyboard, and Prompt Manifest.
+2. **Phase 2:** The user generates all 20 comic slides in `slides/`.
+3. **Phase 3 (Analysis):** Run `analyze_all_20_slides.py` on the actual generated artwork to map visual element positions, bounding boxes, text titles, and subject focal points.
+4. **Phase 4 (Remotion):** ONLY THEN author the Remotion composition with custom affine camera coordinates ($camX, camY, zoom$), ensuring camera pans and zooms guide the viewer's eye to actual on-screen artwork without cropping.
 
 ---
 

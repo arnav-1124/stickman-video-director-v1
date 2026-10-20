@@ -1,0 +1,657 @@
+{
+  "project_id": "ep02_the_consistency_paradox",
+  "title": "THE CONSISTENCY PARADOX",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "total_duration_sec": 149.2,
+  "total_shots": 25,
+  "visual_engine": "threejs",
+  "canvas_background": "#FAF9F6",
+  "color_accents": {
+    "danger_ego_guilt": "#FF2A4D",
+    "clarity_momentum_truth": "#00F0FF",
+    "paper_base": "#FAF9F6",
+    "ink_black": "#0A0D14"
+  },
+  "shots": [
+    {
+      "shot_id": 1,
+      "clause": "At two in the morning, you promise yourself that tomorrow everything changes.",
+      "start_sec": 0.0,
+      "end_sec": 4.4,
+      "duration_sec": 4.4,
+      "threejs_scene": "BedroomNight",
+      "camera": {
+        "type": "slow_dolly_in",
+        "start_pos": [0, 4.5, 9.0],
+        "end_pos": [0, 2.8, 6.0],
+        "target": [0, 1.2, 0],
+        "fov": 45
+      },
+      "lighting": {
+        "ambient": "#1A1D28",
+        "key_light": "Moonlight streaming through window at 45 degrees (#4A6FA5, intensity 0.6)",
+        "screen_glow": "Soft cyan glow from bedside phone (#00F0FF, intensity 0.8)"
+      },
+      "character": {
+        "pose": "lying_in_bed_eyes_wide_staring_at_ceiling",
+        "micro_motion": "subtle_breathing_torso_rise_fall",
+        "accent_mesh": "none"
+      },
+      "sfx": ["sfx/ambient_night_crickets.mp3", "sfx/heavy_sigh.mp3"]
+    },
+    {
+      "shot_id": 2,
+      "clause": "You will wake up at dawn. You will run five miles.",
+      "start_sec": 4.4,
+      "end_sec": 7.8,
+      "duration_sec": 3.4,
+      "threejs_scene": "SunriseRunPath",
+      "camera": {
+        "type": "lateral_tracking",
+        "start_pos": [-4.0, 1.8, 5.0],
+        "end_pos": [3.0, 1.8, 5.0],
+        "target": [0, 1.5, 0],
+        "fov": 40
+      },
+      "lighting": {
+        "ambient": "#FFF8EE",
+        "key_light": "Warm orange dawn sun (#FFA726, intensity 1.4)"
+      },
+      "character": {
+        "pose": "running_forward_determined",
+        "micro_motion": "stylized_run_cycle_with_speed_dust",
+        "accent_mesh": "sneakers_cyan_highlight"
+      },
+      "sfx": ["sfx/fast_footsteps_pavement.mp3", "sfx/morning_wind_gust.mp3"]
+    },
+    {
+      "shot_id": 3,
+      "clause": "You will work for eight unbroken hours, eat clean, and finally master your life.",
+      "start_sec": 7.8,
+      "end_sec": 13.0,
+      "duration_sec": 5.2,
+      "threejs_scene": "DeskSymphony",
+      "camera": {
+        "type": "orbital_pan",
+        "start_pos": [3.5, 2.5, 4.0],
+        "end_pos": [-2.5, 2.8, 4.2],
+        "target": [0, 1.3, 0],
+        "fov": 38
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Crisp white studio directional (#FFFFFF, intensity 1.0)",
+        "accent_light": "Clean holographic checklist (#00F0FF, intensity 1.2)"
+      },
+      "character": {
+        "pose": "typing_furiously_upright_posture",
+        "micro_motion": "rapid_hands_tapping_flying_papers",
+        "accent_mesh": "holographic_calendar_grid"
+      },
+      "sfx": ["sfx/rapid_mechanical_typing.mp3", "sfx/digital_pop_checkmarks.mp3"]
+    },
+    {
+      "shot_id": 4,
+      "clause": "And for two days, you actually do it.",
+      "start_sec": 13.0,
+      "end_sec": 16.0,
+      "duration_sec": 3.0,
+      "threejs_scene": "DeskSymphony",
+      "camera": {
+        "type": "punch_in_center",
+        "start_pos": [0, 1.6, 3.8],
+        "end_pos": [0, 1.4, 2.6],
+        "target": [0, 1.3, 0],
+        "fov": 35
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Direct high-key white",
+        "accent_light": "Giant bold 'DAY 1 & DAY 2' badge floating overhead"
+      },
+      "character": {
+        "pose": "proud_folded_arms_nodding",
+        "micro_motion": "satisfaction_head_nod_blink",
+        "accent_mesh": "golden_glow_ring_around_feet"
+      },
+      "sfx": ["sfx/achievement_chime.mp3"]
+    },
+    {
+      "shot_id": 5,
+      "clause": "You feel invincible. You feel like you finally unlocked the secret that everyone else is missing.",
+      "start_sec": 16.0,
+      "end_sec": 21.8,
+      "duration_sec": 5.8,
+      "threejs_scene": "PedestalPeak",
+      "camera": {
+        "type": "low_angle_pedestal_up",
+        "start_pos": [0, -0.5, 5.5],
+        "end_pos": [0, 1.8, 4.2],
+        "target": [0, 2.0, 0],
+        "fov": 45
+      },
+      "lighting": {
+        "ambient": "#F0F4F8",
+        "key_light": "Dramatic rim backlight (#00F0FF, intensity 1.8)"
+      },
+      "character": {
+        "pose": "hands_on_hips_cape_flutter",
+        "micro_motion": "slow_breathing_hero_chest_expansion",
+        "accent_mesh": "shimmering_halo_crest"
+      },
+      "sfx": ["sfx/wind_chime_resonance.mp3", "sfx/low_bass_pulse.mp3"]
+    },
+    {
+      "shot_id": 6,
+      "clause": "Then Day Four arrives.",
+      "start_sec": 21.8,
+      "end_sec": 23.6,
+      "duration_sec": 1.8,
+      "threejs_scene": "DramaticCutCard",
+      "camera": {
+        "type": "hard_snap_orthographic",
+        "start_pos": [0, 0, 10],
+        "end_pos": [0, 0, 9.8],
+        "target": [0, 0, 0],
+        "fov": 30
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "High contrast monochrome shadow"
+      },
+      "character": {
+        "pose": "none_typography_punch",
+        "micro_motion": "bold_stamp_shake",
+        "accent_mesh": "giant_black_text_DAY_FOUR_with_red_underline (#FF2A4D)"
+      },
+      "sfx": ["sfx/heavy_gavel_thud.mp3"]
+    },
+    {
+      "shot_id": 7,
+      "clause": "You wake up tired. The room is cold. Your bed is warm.",
+      "start_sec": 23.6,
+      "end_sec": 27.6,
+      "duration_sec": 4.0,
+      "threejs_scene": "ColdBedroomSlump",
+      "camera": {
+        "type": "overhead_tilt_down",
+        "start_pos": [0, 6.0, 3.0],
+        "end_pos": [0, 3.8, 2.2],
+        "target": [0, 0.8, 0],
+        "fov": 42
+      },
+      "lighting": {
+        "ambient": "#10141E",
+        "key_light": "Cold slate-grey frosted dawn light (#8A99AD, intensity 0.4)",
+        "accent_light": "Pulsing red alarm clock light on bedside (#FF2A4D, intensity 0.7)"
+      },
+      "character": {
+        "pose": "cocooned_in_blanket_half_slumped",
+        "micro_motion": "slow_heavy_exhausted_blink",
+        "accent_mesh": "blanket_creases_ink_texture"
+      },
+      "sfx": ["sfx/ticking_alarm_clock_muffled.mp3", "sfx/cold_room_drone.mp3"]
+    },
+    {
+      "shot_id": 8,
+      "clause": "And suddenly, that fiery motivation from Tuesday has vanished into thin air.",
+      "start_sec": 27.6,
+      "end_sec": 32.0,
+      "duration_sec": 4.4,
+      "threejs_scene": "DissolvingFlame",
+      "camera": {
+        "type": "macro_push_in",
+        "start_pos": [0, 1.2, 3.0],
+        "end_pos": [0, 1.2, 1.6],
+        "target": [0, 1.2, 0],
+        "fov": 32
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Dying ember light collapsing to black"
+      },
+      "character": {
+        "pose": "looking_at_open_empty_palms",
+        "micro_motion": "small_smoke_particles_evaporating_from_hands",
+        "accent_mesh": "evaporating_cyan_sparks"
+      },
+      "sfx": ["sfx/match_fizzle_smoke.mp3", "sfx/glass_drop_resonance.mp3"]
+    },
+    {
+      "shot_id": 9,
+      "clause": "You negotiate with yourself for thirty seconds, turn off the alarm, and fall back asleep.",
+      "start_sec": 32.0,
+      "end_sec": 37.4,
+      "duration_sec": 5.4,
+      "threejs_scene": "ColdBedroomSlump",
+      "camera": {
+        "type": "side_profile_glide",
+        "start_pos": [3.5, 1.2, 1.5],
+        "end_pos": [2.2, 0.9, 1.5],
+        "target": [0, 0.8, 0],
+        "fov": 36
+      },
+      "lighting": {
+        "ambient": "#0E1118",
+        "key_light": "Alarm clock flashing 06:01 (#FF2A4D)"
+      },
+      "character": {
+        "pose": "hand_slapping_clock_then_retracting_under_covers",
+        "micro_motion": "quick_hand_jab_then_inert_slump",
+        "accent_mesh": "clock_display"
+      },
+      "sfx": ["sfx/alarm_beep_cut_short_slap.mp3", "sfx/heavy_mattress_settle.mp3"]
+    },
+    {
+      "shot_id": 10,
+      "clause": "By noon, the familiar weight of guilt sets in. You tell yourself you lack discipline. You tell yourself you are just lazy.",
+      "start_sec": 37.4,
+      "end_sec": 45.4,
+      "duration_sec": 8.0,
+      "threejs_scene": "TheGuiltPit",
+      "camera": {
+        "type": "slow_pedestal_down_with_dutch_tilt",
+        "start_pos": [-1.2, 3.5, 4.5],
+        "end_pos": [-0.6, 1.2, 3.8],
+        "target": [0, 0.7, 0],
+        "fov": 42
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Harsh overhead fluorescent office light (#E8ECF0, intensity 0.8)",
+        "accent_light": "Pooling dark crimson shadow under feet (#FF2A4D, intensity 0.6)"
+      },
+      "character": {
+        "pose": "sitting_on_edge_of_bed_head_in_hands",
+        "micro_motion": "shoulders_slumping_down_heavy_weight",
+        "accent_mesh": "crushing_dark_heavy_rock_on_shoulders"
+      },
+      "sfx": ["sfx/heavy_room_ambience.mp3", "sfx/deep_guilt_sub_bass.mp3"]
+    },
+    {
+      "shot_id": 11,
+      "clause": "Here is the truth an experienced senior will tell you.",
+      "start_sec": 45.4,
+      "end_sec": 48.8,
+      "duration_sec": 3.4,
+      "threejs_scene": "TheMirrorArena",
+      "camera": {
+        "type": "dramatic_snap_facing_camera",
+        "start_pos": [0, 1.4, 5.0],
+        "end_pos": [0, 1.4, 3.2],
+        "target": [0, 1.4, 0],
+        "fov": 34
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Warm direct spotlight illuminating calm mentor stickman (#FFF6E5, intensity 1.4)"
+      },
+      "character": {
+        "pose": "standing_calm_hands_in_pockets_direct_eye_contact",
+        "micro_motion": "composed_steady_nod_slight_head_tilt",
+        "accent_mesh": "none"
+      },
+      "sfx": ["sfx/crisp_whoosh_focus.mp3"]
+    },
+    {
+      "shot_id": 12,
+      "clause": "You did not fail because you lack willpower. You failed because you asked willpower to do a job it was never built for.",
+      "start_sec": 48.8,
+      "end_sec": 57.0,
+      "duration_sec": 8.2,
+      "threejs_scene": "TheBrokenLever",
+      "camera": {
+        "type": "orbital_glide",
+        "start_pos": [-3.0, 2.0, 4.0],
+        "end_pos": [3.0, 1.8, 3.8],
+        "target": [0, 1.2, 0],
+        "fov": 38
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Monochrome ink lines with snapping lever sparks (#FF2A4D)"
+      },
+      "character": {
+        "pose": "standing_beside_a_giant_fractured_mechanical_lever_labeled_WILLPOWER",
+        "micro_motion": "lever_snapping_with_iron_fragments",
+        "accent_mesh": "red_stress_fracture_lines"
+      },
+      "sfx": ["sfx/metal_stress_creak.mp3", "sfx/lever_snap_crack.mp3"]
+    },
+    {
+      "shot_id": 13,
+      "clause": "Your brain is not an inspiration machine. Your brain is a survival organ designed to conserve energy.",
+      "start_sec": 57.0,
+      "end_sec": 63.0,
+      "duration_sec": 6.0,
+      "threejs_scene": "TheBrainSchematic",
+      "camera": {
+        "type": "slow_dolly_into_hologram",
+        "start_pos": [0, 1.8, 4.5],
+        "end_pos": [0, 1.8, 2.2],
+        "target": [0, 1.8, 0],
+        "fov": 32
+      },
+      "lighting": {
+        "ambient": "#0A0D14",
+        "key_light": "Bioluminescent cyan wireframe brain (#00F0FF, intensity 1.6)"
+      },
+      "character": {
+        "pose": "silhouette_inspecting_floating_neural_matrix",
+        "micro_motion": "neural_pulses_traveling_along_synapses",
+        "accent_mesh": "pulsing_energy_meter_draining"
+      },
+      "sfx": ["sfx/sci_fi_hologram_hum.mp3", "sfx/neural_synapse_crackle.mp3"]
+    },
+    {
+      "shot_id": 14,
+      "clause": "The moment you attempt a massive, radical overhaul overnight, your biology sounds the alarm. It treats that sudden spike in effort like a famine or a physical threat, and it pushes back with overwhelming friction.",
+      "start_sec": 63.0,
+      "end_sec": 75.8,
+      "duration_sec": 12.8,
+      "threejs_scene": "TheHomeostaticAlarm",
+      "camera": {
+        "type": "multi_phase_camera",
+        "start_pos": [2.5, 2.0, 5.0],
+        "mid_pos": [0, 1.5, 3.5],
+        "end_pos": [-2.0, 1.0, 4.0],
+        "target": [0, 1.2, 0],
+        "fov": 40
+      },
+      "lighting": {
+        "ambient": "#1A0A0D",
+        "key_light": "Strobe warning red flashing (#FF2A4D, intensity 2.0)",
+        "accent_light": "Giant mechanical sirens blaring on wireframe walls"
+      },
+      "character": {
+        "pose": "stickman_bracing_against_massive_invisible_windstorm_friction",
+        "micro_motion": "cloth_flapping_extreme_drag_backward_step",
+        "accent_mesh": "friction_heat_shields_igniting"
+      },
+      "sfx": ["sfx/klaxon_subtle_alarm.mp3", "sfx/heavy_wind_drag_roar.mp3"]
+    },
+    {
+      "shot_id": 15,
+      "clause": "People who stay consistent year after year are not suffering through superhuman acts of discipline every morning.",
+      "start_sec": 75.8,
+      "end_sec": 82.2,
+      "duration_sec": 6.4,
+      "threejs_scene": "TheTwinComparison",
+      "camera": {
+        "type": "split_screen_pan",
+        "start_pos": [-3.5, 1.5, 4.5],
+        "end_pos": [0, 1.5, 4.5],
+        "target": [0, 1.2, 0],
+        "fov": 38
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "left_light": "Red chaotic grit on struggling grinder (#FF2A4D)",
+        "right_light": "Clean serene sunlight on calm reader (#00F0FF)"
+      },
+      "character": {
+        "left_character": "sweating_screaming_stickman_carrying_barbell",
+        "right_character": "calm_stickman_sipping_tea_turning_book_page",
+        "accent_mesh": "contrast_divider_line"
+      },
+      "sfx": ["sfx/straining_grunt.mp3", "sfx/peaceful_ceramic_cup_click.mp3"]
+    },
+    {
+      "shot_id": 16,
+      "clause": "They simply understand one brutal psychological law: Consistency is not an act of willpower, it is the elimination of choice.",
+      "start_sec": 82.2,
+      "end_sec": 89.6,
+      "duration_sec": 7.4,
+      "threejs_scene": "TheEliminationGateway",
+      "camera": {
+        "type": "slow_dramatic_push_down_infinite_hallway",
+        "start_pos": [0, 2.5, 8.0],
+        "end_pos": [0, 1.5, 3.5],
+        "target": [0, 1.5, 0],
+        "fov": 36
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Brilliant corridor lighting with floating doors snapping shut"
+      },
+      "character": {
+        "pose": "walking_confidently_forward_hands_at_side",
+        "micro_motion": "doors_on_left_and_right_slamming_shut_leaving_only_one_path",
+        "accent_mesh": "single_cyan_illuminated_track_on_floor"
+      },
+      "sfx": ["sfx/iron_door_slam_sequence.mp3", "sfx/reverberant_footsteps.mp3"]
+    },
+    {
+      "shot_id": 17,
+      "clause": "They do not negotiate with their feelings at seven in the morning.",
+      "start_sec": 89.6,
+      "end_sec": 93.8,
+      "duration_sec": 4.2,
+      "threejs_scene": "TheClockworkDawn",
+      "camera": {
+        "type": "tight_chest_level_side_glide",
+        "start_pos": [2.5, 1.4, 2.5],
+        "end_pos": [1.5, 1.4, 2.5],
+        "target": [0, 1.4, 0],
+        "fov": 30
+      },
+      "lighting": {
+        "ambient": "#F4F7FB",
+        "key_light": "Clear 7:00 AM window rays (#EAF2F8, intensity 1.2)"
+      },
+      "character": {
+        "pose": "feet_instantly_hitting_wooden_floorboards_standing_up_smoothly",
+        "micro_motion": "zero_hesitation_stand_up_motion",
+        "accent_mesh": "floorboard_creak_rings"
+      },
+      "sfx": ["sfx/feet_touching_wood_floor.mp3"]
+    },
+    {
+      "shot_id": 18,
+      "clause": "They do not wait for the mood to strike them before opening the laptop.",
+      "start_sec": 93.8,
+      "end_sec": 98.8,
+      "duration_sec": 5.0,
+      "threejs_scene": "TheWorkspaceAltar",
+      "camera": {
+        "type": "over_the_shoulder_push",
+        "start_pos": [0.8, 1.8, 2.2],
+        "end_pos": [0.4, 1.5, 1.4],
+        "target": [0, 1.3, 0],
+        "fov": 34
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Screen backlight illuminating clean desk with zero clutter"
+      },
+      "character": {
+        "pose": "hands_settling_on_keys_screen_glow_on_face",
+        "micro_motion": "screen_waking_from_sleep_with_clean_cursor_blink",
+        "accent_mesh": "blinking_cyan_cursor"
+      },
+      "sfx": ["sfx/laptop_lid_open_click.mp3", "sfx/clean_cursor_blink.mp3"]
+    },
+    {
+      "shot_id": 19,
+      "clause": "Instead, they engineer the environment so that starting requires less effort than feeling guilty.",
+      "start_sec": 98.8,
+      "end_sec": 104.2,
+      "duration_sec": 5.4,
+      "threejs_scene": "TheFrictionBlueprint",
+      "camera": {
+        "type": "top_down_architectural_wireframe",
+        "start_pos": [0, 7.0, 0],
+        "end_pos": [0, 4.5, 0],
+        "target": [0, 0, 0],
+        "fov": 45
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Cyan architectural blueprint projection (#00F0FF, intensity 1.2)"
+      },
+      "character": {
+        "pose": "architect_stickman_arranging_furniture_like_chess_pieces",
+        "micro_motion": "furniture_sliding_into_optimal_frictionless_slots",
+        "accent_mesh": "glowing_friction_flow_arrows"
+      },
+      "sfx": ["sfx/blueprint_unfurl.mp3", "sfx/mechanical_chess_slide.mp3"]
+    },
+    {
+      "shot_id": 20,
+      "clause": "They place the phone in another room the night before. They lay their shoes directly by the doorway. They open the blank document before they go to bed.",
+      "start_sec": 104.2,
+      "end_sec": 114.4,
+      "duration_sec": 10.2,
+      "threejs_scene": "TheTrioOfFriction",
+      "camera": {
+        "type": "three_stage_pan",
+        "start_pos": [-4.0, 1.5, 3.5],
+        "mid_pos": [0, 1.2, 3.0],
+        "end_pos": [4.0, 1.5, 3.5],
+        "target": [0, 1.2, 0],
+        "fov": 38
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Spotlights illuminating three distinct pedestals sequentially"
+      },
+      "character": {
+        "prop_1": "phone_locked_behind_closed_door_with_lock_icon",
+        "prop_2": "running_shoes_neatly_pointed_toward_open_hallway",
+        "prop_3": "laptop_screen_awake_with_blinking_cursor",
+        "accent_mesh": "cyan_pathway_connecting_all_three"
+      },
+      "sfx": ["sfx/lock_click.mp3", "sfx/shoe_tap.mp3", "sfx/soft_keystroke.mp3"]
+    },
+    {
+      "shot_id": 21,
+      "clause": "They carve a riverbed where the water flows naturally, instead of trying to push a giant boulder up a muddy hill every single day.",
+      "start_sec": 114.4,
+      "end_sec": 123.6,
+      "duration_sec": 9.2,
+      "threejs_scene": "TheBoulderVsRiverbed",
+      "camera": {
+        "type": "sweeping_landscape_crane",
+        "start_pos": [-5.0, 4.0, 7.0],
+        "end_pos": [4.0, 3.0, 6.0],
+        "target": [0, 1.0, 0],
+        "fov": 45
+      },
+      "lighting": {
+        "ambient": "#F8FAF8",
+        "left_light": "Harsh dark mud with struggling stickman pushing giant grey stone",
+        "right_light": "Vibrant turquoise river cutting through smooth clean rock with water flowing downhill"
+      },
+      "character": {
+        "scene_left": "stickman_exhausted_muddy_hands_slipping_under_boulder",
+        "scene_right": "crystal_clear_water_flowing_rapidly_through_carved_channel",
+        "accent_mesh": "water_splash_foam_particles"
+      },
+      "sfx": ["sfx/rock_scraping_mud.mp3", "sfx/rushing_river_water_ambient.mp3"]
+    },
+    {
+      "shot_id": 22,
+      "clause": "Stop aiming for legendary days that leave you exhausted and broken by Friday.",
+      "start_sec": 123.6,
+      "end_sec": 128.4,
+      "duration_sec": 4.8,
+      "threejs_scene": "TheBrokenTrophy",
+      "camera": {
+        "type": "slow_pull_back_from_floor",
+        "start_pos": [0, 0.4, 2.0],
+        "end_pos": [0, 1.5, 4.0],
+        "target": [0, 0.5, 0],
+        "fov": 36
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Overhead spotlight on a shattered golden trophy"
+      },
+      "character": {
+        "pose": "stickman_stepping_away_from_broken_trophy",
+        "micro_motion": "turning_back_walking_toward_clean_horizon",
+        "accent_mesh": "gold_shards_on_floor"
+      },
+      "sfx": ["sfx/glass_tinkling_shatter.mp3", "sfx/calm_cello_swell.mp3"]
+    },
+    {
+      "shot_id": 23,
+      "clause": "Lower the barrier until resistance becomes ridiculous.",
+      "start_sec": 128.4,
+      "end_sec": 131.0,
+      "duration_sec": 2.6,
+      "threejs_scene": "TheShrinkingHurdle",
+      "camera": {
+        "type": "profile_snap",
+        "start_pos": [3.0, 1.2, 3.5],
+        "end_pos": [1.5, 1.2, 3.5],
+        "target": [0, 1.0, 0],
+        "fov": 32
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Bright warm clarity"
+      },
+      "character": {
+        "pose": "stepping_effortlessly_over_a_tiny_two_inch_hurdle_with_a_smile",
+        "micro_motion": "hurdle_shrinking_from_ten_feet_down_to_two_inches",
+        "accent_mesh": "cyan_checkmark_pop"
+      },
+      "sfx": ["sfx/cartoon_shrink_whistle.mp3", "sfx/soft_step.mp3"]
+    },
+    {
+      "shot_id": 24,
+      "clause": "Sit in the chair for two minutes. Write one clean paragraph. Put on the sneakers and step outside.",
+      "start_sec": 131.0,
+      "end_sec": 137.6,
+      "duration_sec": 6.6,
+      "threejs_scene": "TheTrioOfActions",
+      "camera": {
+        "type": "rapid_three_cut_kinetic_glide",
+        "start_pos": [-2.0, 1.4, 3.0],
+        "mid_pos": [0, 1.3, 2.5],
+        "end_pos": [2.0, 1.4, 3.0],
+        "target": [0, 1.2, 0],
+        "fov": 35
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Warm morning glow transitioning to open sky"
+      },
+      "character": {
+        "beat_a": "sitting_in_chair_relaxed",
+        "beat_b": "one_clean_sentence_inked_on_paper",
+        "beat_c": "shoes_crossing_doorstep_into_fresh_breeze",
+        "accent_mesh": "expanding_golden_ripple_rings"
+      },
+      "sfx": ["sfx/chair_leather_settle.mp3", "sfx/pen_scratch_clean.mp3", "sfx/door_open_fresh_air.mp3"]
+    },
+    {
+      "shot_id": 25,
+      "clause": "You do not need to feel ready to take action. You just need to cast one small vote for the person you want to become, and let momentum do the heavy lifting.",
+      "start_sec": 137.6,
+      "end_sec": 149.2,
+      "duration_sec": 11.6,
+      "threejs_scene": "TheIdentityLedger",
+      "camera": {
+        "type": "grand_cinematic_pull_back_to_horizon",
+        "start_pos": [0, 1.4, 2.8],
+        "end_pos": [0, 3.5, 9.0],
+        "target": [0, 1.4, 0],
+        "fov": 42
+      },
+      "lighting": {
+        "ambient": "#FAF9F6",
+        "key_light": "Golden hour majestic sunrise casting long soft stickman shadows across paper terrain (#FFA726, intensity 1.6)",
+        "accent_light": "Gentle floating golden dust motes in light beam"
+      },
+      "character": {
+        "pose": "standing_at_edge_of_clean_paper_cliff_dropping_a_single_golden_coin_into_an_ancient_scale",
+        "micro_motion": "scale_tipping_gently_into_perfect_balance_wind_in_clothes",
+        "accent_mesh": "golden_coin_radiating_warm_light"
+      },
+      "sfx": ["sfx/gold_coin_drop_clink.mp3", "sfx/deep_orchestral_piano_resolution.mp3"]
+    }
+  ]
+}

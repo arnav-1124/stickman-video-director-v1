@@ -1,0 +1,54 @@
+{
+  "project_id": "ep02_the_consistency_paradox",
+  "channel": "Sticky in dark",
+  "format": "An Animated Short Film (Long-Form Chapter 2)",
+  "aspect_ratio": "16:9",
+  "runtime_estimate": "2:30",
+  "titles": {
+    "recommended_primary": "THE CONSISTENCY PARADOX | An Animated Short Film",
+    "alternative_a_curiosity_gap": "Why You Can't Stay Consistent (It's Not Discipline) | An Animated Short Film",
+    "alternative_b_action_oriented": "The 2-Minute Law: Why Willpower Always Fails | An Animated Short Film",
+    "alternative_c_provocative": "Your Brain Is Sabotaging Your Habits | An Animated Short Film",
+    "alternative_d_story_first": "Day 4 Always Fails. Here's Why | An Animated Short Film"
+  },
+  "thumbnail_design_specs": {
+    "dimensions": "1920x1080",
+    "visual_formula": "Day One Films 3-Element Formula (Expressive Face + Red Prop + 3 Huge Words)",
+    "elements": {
+      "character": "Extreme close-up stickman face sweating with wide exhausted eyes",
+      "contrast_prop": "Single vibrant Crimson Red (#FF2A4D) digital alarm clock glowing '06:01 AM'",
+      "typography": "DAY FOUR.",
+      "typography_styling": "Massive hand-inked block lettering with bold outline, legible at 168px mobile feed size",
+      "background": "Deep textured off-white paper (#FAF9F6) with soft dramatic vignette"
+    }
+  },
+  "description": {
+    "first_3_lines_above_fold": "Every time you promise to change your life at 2:00 AM, your brain is already setting a trap. Here is the neurobiology of why Day 4 always collapses, and how consistent people eliminate willpower entirely.\n\nSubscribe to uncover how your mind actually works.",
+    "chapters_timestamps": [
+      "0:00 The 2:00 AM Promise",
+      "0:21 The Day 4 Collapse",
+      "0:45 Why Willpower Is a Trap",
+      "1:03 The Homeostatic Alarm",
+      "1:22 Consistency Is Not Discipline",
+      "1:54 The 20-Second Moat",
+      "2:11 The Identity Ledger"
+    ],
+    "channel_funnel": "Watch Chapter 1: https://youtu.be/-cmdUUguiBs"
+  },
+  "tags": [
+    "consistency",
+    "psychology",
+    "habits",
+    "discipline",
+    "animation",
+    "animated short film",
+    "day one films",
+    "the paint explainer",
+    "ink explainer",
+    "procrastination",
+    "behavioral economics",
+    "dopamine",
+    "willpower"
+  ],
+  "pinned_comment": "What is the one habit you have restarted more than ten times? Be honest in the comments. Pinning the most relatable response."
+}

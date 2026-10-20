@@ -1,0 +1,49 @@
+{
+  "project_id": "ep02_the_consistency_paradox",
+  "channel": "Sticky in dark",
+  "content_format": "long_form_explainer",
+  "runtime_target_sec": 150,
+  "theme": "The Neurobiology of Consistency & Friction Engineering",
+  "target_audience": "Thinkers, self-taught creators, students, and ambitious individuals battling procrastination and burnout",
+  "title_candidates": [
+    "THE CONSISTENCY PARADOX | An Animated Short Film",
+    "Why You Can't Stay Consistent (It's Not Discipline) | An Animated Short Film",
+    "THE 2-SECOND RULE | An Animated Short Film"
+  ],
+  "language": "English",
+  "originality_audit": {
+    "is_duplicate_or_paraphrased": false,
+    "unique_intellectual_angle": "Exposes why brute willpower inevitably triggers a neurochemical immune response (homeostatic resistance), reframing consistency not as emotional motivation or military discipline, but as thermodynamic friction reduction and identity-ledger micro-momentum.",
+    "banned_cliches_purged": [
+      "Alpha grindset",
+      "Just wake up at 5 AM",
+      "Don't break the chain",
+      "Discipline equals freedom without context",
+      "You just have to want it bad enough",
+      "Atomic habits generic summary",
+      "No excuses"
+    ],
+    "original_metaphors_introduced": [
+      "The Homeostatic Alarm (Brain treating drastic change as famine/threat)",
+      "The Boulder vs The Riverbed (Brute force vs carved channel)",
+      "The Friction Tax (Every second of hesitation burns 15% prefrontal glucose)",
+      "The Identity Ledger (Voting for the person who sits down, not the end result)",
+      "The 20-Second Moat (Physical barrier separating desire from relapse)"
+    ],
+    "academic_or_empirical_sources": [
+      "Roy Baumeister - Ego Depletion and Glucose Dynamics in Volitional Control",
+      "B.J. Fogg - Behavior Model (B = MAP: Motivation, Ability, Prompt)",
+      "George Ainslie - Breakdown of Will & Hyperbolic Discounting Curves",
+      "Robert Sapolsky - Prefrontal Cortex Modulation under Homeostatic Stress"
+    ]
+  },
+  "core_psychological_thesis": "Consistency is not an act of willpower; it is the deliberate elimination of choice. The moment you require emotional motivation to sit at your desk, you have already lost.",
+  "narrative_arc": {
+    "act_1_the_setup": "The 2:00 AM declaration of intense discipline, followed by the catastrophic Day 4 collapse.",
+    "act_2_the_biological_engine": "Why the brain perceives sudden drastic life overhauls as a threat to survival and triggers the Homeostatic Alarm.",
+    "act_3_the_paradox_revealed": "The myth of the high-discipline superhuman. Why consistent people actually exert less willpower than chronic quitters.",
+    "act_4_the_friction_architecture": "The 20-Second Moat and Carving the Riverbed. How to engineer the environment so friction does the heavy lifting.",
+    "act_5_the_sovereign_resolution": "The Identity Ledger: You do not need to feel ready, you only need to show up and cast one vote."
+  },
+  "actionable_sovereignty_rule": "Never negotiate with yourself in the moment of action. Reduce the initial friction until resistance becomes ridiculous, sit in the chair, and let momentum do the rest."
+}
